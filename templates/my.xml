@@ -1,0 +1,74 @@
+<templateSet group="my">
+  <template name="hand" value="#{$END$,typeHandler=idHandler}" description="hander" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="rget" value="@RequestMapping(value = &quot;/$VAR$ &quot;,method = RequestMethod.GET)&#10;public ResponseObject&lt;$VAR2$&gt; $VAR3$(){&#10;    $END$&#10;&#10;    return new ResponseObject&lt;$VAR2$&gt;();&#10;}" description="rest get method" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="url" alwaysStopAt="true" />
+    <variable name="VAR2" expression="variableOfType(&quot;Object&quot;)" defaultValue="get" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String" description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ne" value="$VAR1$ $VAR2$=new $VAR1$();" description="new an object" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="decapitalize(VAR1)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="is" value="private $VAR1$ $VAR2$;&#10;@Autowired&#10;public void set$VAR1$($VAR1$ $VAR2$) {&#10;    this.$VAR2$ = $VAR2$;&#10;}&#10;" description="inject a service by setter" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="decapitalize(VAR1)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pa" value="@Param(&quot;$END$&quot;)" description="@param" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="get" value=" $$.get(`url`&#10;        ).done(&#10;            data=&gt;{&#10;              $END$&#10;            }&#10;        ).fail(&#10;            data=&gt;{&#10;              alert(&quot;数据获取出错!&quot;);&#10;            });&#10;" description="$.get" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rpost" value="@RequestMapping(value = &quot;/$VAR$ &quot;,method = RequestMethod.POST)&#10;public ResponseObject&lt;$VAR2$&gt; $VAR3$(){&#10;    $END$&#10;&#10;    return new ResponseObject&lt;$VAR2$&gt;();&#10;}" description="reset post method" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final Logger LOG= LoggerFactory.getLogger($class_name$.class);" description="log" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="className" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mapif" value="  &lt;if test=&quot;$VAR$ != null&quot;&gt;$VAR$ = #{$VAR$},&lt;/if&gt;" description="mapper if condition" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="cks" value="Preconditions.checkState(StringUtils.isNotBlank($END$));" description="check string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ckc" value="Preconditions.checkState(CollectionUtils.isNotEmpty($END$));" description="check collection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

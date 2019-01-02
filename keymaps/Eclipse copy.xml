@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="FindInPath" />
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+</keymap>

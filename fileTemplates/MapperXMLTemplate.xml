@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xquark.dal.mapper.${OBJ}Mapper" >
+
+  <resultMap id="BaseResultMap" type="com.xquark.dal.model.${OBJ}" >
+    <id column="id" property="id" typeHandler="idHandler"/>
+    <result column="archive" jdbcType="BIT" property="archive" />
+    <result column="created_at" jdbcType="TIMESTAMP" property="createdAt" />
+    <result column="updated_at" jdbcType="TIMESTAMP" property="updatedAt" />
+    <result column="id_raw" jdbcType="LONG" property="idRaw"/>
+  </resultMap>
+  
+  <sql id="Base_Insert_Column">
+        archive, created_at, updated_at
+   </sql>
+   <sql id="Base_Insert_Column_value">
+        false, now(), now()
+   </sql>
+   <sql id="Batch_Insert_Column_value">
+        false, now(), now()
+   </sql>
+   <sql id="Base_Select_Column">
+        id,<include refid="Base_Insert_Column"/>
+   </sql>
+   <sql id="Base_Join_Column">
+        
+   </sql>
+   <sql id="listCondition">
+   <if test="params!=null">
+        <if test="params.keyWord!=null and params.keyWord !=''">
+            and ${nick}.title like CONCAT('%','${DS}{params.keyWord}','%' )
+        </if>
+        <if test="params.startDate != null and params.startDate != ''">
+            and ${nick}.updated_at >= #{params.startDate}
+        </if>
+        <if test="params.endDate != null and params.endDate != ''">
+            <![CDATA[and ${nick}.updated_at <= #{params.endDate}]]>
+        </if>
+        <if test="params.order != null">
+            ORDER BY ${nick}.${DS}{params.order}
+            <if test="params.direction != null">
+                ${DS}{params.direction}
+            </if>
+        </if>
+        </if>
+   </sql>
+
+
+  <insert id="insert" parameterType="com.xquark.dal.model.${OBJ}">
+    <selectKey resultType="long" keyProperty="idRaw">
+      SELECT LAST_INSERT_ID() AS id
+    </selectKey>
+    insert into ${TABLE} (<include refid="Base_Insert_Column"/>)
+    values (<include refid="Base_Insert_Column_value"/>)
+  </insert>
+
+
+  <insert id="batchInsert" >
+    insert into ${TABLE} (<include refid="Base_Insert_Column"/>)
+    values
+    <foreach item="item" collection="collection" separator=",">
+      (<include refid="Batch_Insert_Column_value"/>)
+    </foreach>
+  </insert>
+
+  <update id="batchDelete">
+    update ${TABLE} set archive = true where id in
+    <foreach item="item" collection="collection" open="(" separator="," close=")">
+         #{item,typeHandler=idHandler}
+    </foreach>
+  </update>
+
+   <select id="count" resultType="Long">
+        select count(*) from ${TABLE} ${nick}
+        where ${nick}.archive = false
+        <include refid="listCondition"></include> 
+    </select>
+
+  <select id="getByPrimaryKey" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Select_Column" />
+    from  ${TABLE}
+    where id = #{id,typeHandler=idHandler} and archive=false
+  </select>
+
+  <update id="update" parameterType="com.xquark.dal.model.${OBJ}">
+    update ${TABLE}
+    <set >
+      updated_at = now()
+    </set>
+    where id = #{id,typeHandler=idHandler}
+  </update>
+
+  <update id="delete">
+    update ${TABLE} set archive = true where id = #{id,typeHandler=idHandler}
+  </update>
+ 
+  <select id="list" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Join_Column"/>
+        from ${TABLE} as ${nick} 
+        where ${nick}.archive = false
+        <include refid="listCondition"></include> 
+          <if test="params!=null and params.pageable != null and  params.pageable== true">
+            <if test="params.page != null">
+                LIMIT #{params.page.offset}, #{params.page.size}
+            </if>
+        </if>
+    </select>
+
+
+
+
+</mapper>
