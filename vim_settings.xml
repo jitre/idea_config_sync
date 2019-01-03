@@ -14,7 +14,6 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1546423408813" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
         <mark key="'" line="547" column="0" />
         <mark key="[" line="522" column="33" />
@@ -37,6 +36,7 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546485408032" />
     </filemarks>
     <jumps>
       <jump line="75" column="66" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/course/rank.js" />
