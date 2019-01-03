@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546420387049">
+      <file name="/Dummy.txt" timestamp="1546485913216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -36,7 +36,12 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546485408032" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1546485865978">
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="75" column="55" />
+        <mark key="." line="75" column="55" />
+        <mark key="^" line="75" column="55" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="75" column="66" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/course/rank.js" />
@@ -144,8 +149,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>打开识别，点击关注</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -157,13 +162,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>打开识别，点击关注</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaENhbGxCYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgPHAgY2xhc3M9InRleHQiPjx0ZXh0IGNsYXNzPSJpY29uIj7il488L3RleHQ+5omT5byA5b6u5L+h5omr5LiA5omrPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
