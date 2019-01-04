@@ -21,11 +21,6 @@
         <mark key="^" line="522" column="36" />
         <mark key="." line="522" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MgmActivityMapper.xml" timestamp="1546004495241">
-        <mark key="[" line="276" column="15" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
         <mark key="[" line="40" column="28" />
         <mark key="]" line="60" column="17" />
@@ -48,7 +43,6 @@
         <mark key="^" line="1799" column="25" />
         <mark key="." line="1799" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1546517709314" />
     </filemarks>
     <jumps>
       <jump line="75" column="66" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/course/rank.js" />
