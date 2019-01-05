@@ -1,7 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
@@ -47,9 +44,6 @@
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="Diff.PrevChange" />
-  <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-  </action>
   <action id="EditorDeleteToWordStart" />
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
