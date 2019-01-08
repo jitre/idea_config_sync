@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546597461990">
+      <file name="/Dummy.txt" timestamp="1546941666403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1546849553650" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
+        <mark key="[" line="358" column="32" />
+        <mark key="]" line="358" column="39" />
+        <mark key="^" line="358" column="39" />
+        <mark key="." line="358" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
         <mark key="[" line="1799" column="27" />
         <mark key="]" line="1799" column="26" />
