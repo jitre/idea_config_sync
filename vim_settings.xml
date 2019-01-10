@@ -8,7 +8,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1546849553650" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
@@ -32,9 +31,7 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1546935262764" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1546848315205" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1546857991932" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserAddressServiceImpl.java" timestamp="1547111040964" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
         <mark key="'" line="547" column="0" />
         <mark key="[" line="522" column="33" />
@@ -52,7 +49,6 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1546848490804" />
     </filemarks>
     <jumps>
       <jump line="75" column="66" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/course/rank.js" />
