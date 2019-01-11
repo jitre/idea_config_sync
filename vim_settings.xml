@@ -39,6 +39,7 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1547195762758" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
         <mark key="'" line="547" column="0" />
         <mark key="[" line="522" column="33" />
@@ -57,6 +58,7 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1547195156377" />
     </filemarks>
     <jumps>
       <jump line="316" column="56" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/UserService.java" />
