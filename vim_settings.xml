@@ -44,7 +44,7 @@
         <mark key="^" line="522" column="36" />
         <mark key="." line="522" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547516201085">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547543634039">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
@@ -60,6 +60,7 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1547543860574" />
     </filemarks>
     <jumps>
       <jump line="316" column="56" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/UserService.java" />
