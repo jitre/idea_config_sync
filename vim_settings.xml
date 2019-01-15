@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546943704075">
+      <file name="/Dummy.txt" timestamp="1547541536978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -26,8 +26,8 @@
         <mark key="^" line="1799" column="26" />
         <mark key="." line="1799" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1546943713419">
-        <mark key="[" line="134" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1547541512770">
+        <mark key="[" line="30" column="15" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
