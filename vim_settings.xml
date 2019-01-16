@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/entity/WechatCustomerMsgExt.java" timestamp="1547636186490" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547637839820">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547644422318">
         <mark key="'" line="80" column="46" />
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="79" />
@@ -36,6 +36,11 @@
         <mark key="^" line="198" column="73" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1547636204666" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1547644564952">
+        <mark key="[" line="5948" column="38" />
+        <mark key="]" line="5948" column="38" />
+        <mark key="." line="5948" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547627930567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -48,7 +53,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1547637851487">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1547644451540">
         <mark key="[" line="88" column="69" />
         <mark key="]" line="88" column="69" />
         <mark key="." line="88" column="69" />
@@ -194,7 +199,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>upload</text>
+        <text>[0].dropzone</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -206,7 +211,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>[0].dropzone</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
