@@ -15,6 +15,12 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/upload.js" timestamp="1547604931371" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
@@ -37,6 +43,12 @@
         <mark key="]" line="360" column="24" />
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547624826240">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="198" column="73" />
       </file>
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
         <mark key="'" line="547" column="0" />
@@ -169,8 +181,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:7001</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -182,43 +194,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>:7001</text>
+        <text>selected=&quot;selected&quot;</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
-      <register name="0" type="4">
-        <text>width: 60%;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlBST0RVQ1QiPuWVhuWTgTwvb3B0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxlcnQoInRlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGNlbnRlckxlZnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkubGVmdCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWF4LXdpZHRoOiA3NTBweDsK</text>
+        <text encoding="base64">YWxlcnQoInRlc3QiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KGNlbnRlckxlZnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkubGVmdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdCBidXllcl9pZCwgTUFYKHN1Y2NlZWRfYXQpIEFTIG1heF9jcmVhdGVkX2F0LCBDT1VOVChidXllcl9pZCkgQVMgYnV5X2NvdW50IEZST00KICAgICAgICAgICAgICAgIHhxdWFya19vcmRlcgogICAgICAgICAgICAgICAgV0hFUkUgc3RhdHVzID0gJ1NVQ0NFU1MnCiAgICAgICAgICAgICAgICBBTkQgYXJjaGl2ZSA9IGZhbHNlCiAgICAgICAgICAgICAgICBHUk9VUCBCWSBidXllcl9pZAo=</text>
+        <text encoding="base64">ICAgICAgbWF4LXdpZHRoOiA3NTBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXIrPTEwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludFJlY29yZFNlcnZpY2UgcG9pbnRSZWNvcmRTZXJ2aWNlID0gcG9pbnRDb250ZXh0SW5pdGlhbGl6ZS5nZXRQb2ludFJlY29yZFNlcnZpY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdCBidXllcl9pZCwgTUFYKHN1Y2NlZWRfYXQpIEFTIG1heF9jcmVhdGVkX2F0LCBDT1VOVChidXllcl9pZCkgQVMgYnV5X2NvdW50IEZST00KICAgICAgICAgICAgICAgIHhxdWFya19vcmRlcgogICAgICAgICAgICAgICAgV0hFUkUgc3RhdHVzID0gJ1NVQ0NFU1MnCiAgICAgICAgICAgICAgICBBTkQgYXJjaGl2ZSA9IGZhbHNlCiAgICAgICAgICAgICAgICBHUk9VUCBCWSBidXllcl9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wb2ludFJlY29yZFNlcnZpY2UgPSBwb2ludFJlY29yZFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIrPTEwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBCg==</text>
+        <text encoding="base64">ICAgICAgICBQb2ludFJlY29yZFNlcnZpY2UgcG9pbnRSZWNvcmRTZXJ2aWNlID0gcG9pbnRDb250ZXh0SW5pdGlhbGl6ZS5nZXRQb2ludFJlY29yZFNlcnZpY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
