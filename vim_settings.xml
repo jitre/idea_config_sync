@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547541536978">
+      <file name="/Dummy.txt" timestamp="1547627930567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -27,6 +27,12 @@
         <mark key="^" line="358" column="39" />
         <mark key="." line="358" column="39" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/dist/carousel.js" timestamp="1547626596386">
+        <mark key="[" line="1550" column="41" />
+        <mark key="]" line="1550" column="57" />
+        <mark key="^" line="1550" column="57" />
+        <mark key="." line="1550" column="57" />
+      </file>
       <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
         <mark key="[" line="1799" column="27" />
         <mark key="]" line="1799" column="26" />
@@ -37,6 +43,12 @@
         <mark key="[" line="30" column="15" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/carousel/list.js" timestamp="1547627705154">
+        <mark key="[" line="978" column="65" />
+        <mark key="]" line="978" column="62" />
+        <mark key="." line="978" column="62" />
+        <mark key="^" line="978" column="62" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1546420382300">
         <mark key="[" line="360" column="25" />
@@ -50,22 +62,11 @@
         <mark key="." line="198" column="0" />
         <mark key="^" line="198" column="73" />
       </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
-        <mark key="'" line="547" column="0" />
-        <mark key="[" line="522" column="33" />
-        <mark key="]" line="522" column="36" />
-        <mark key="^" line="522" column="36" />
-        <mark key="." line="522" column="36" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547543634039">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
         <mark key="^" line="28" column="71" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1546423438461">
         <mark key="[" line="174" column="11" />
@@ -73,7 +74,9 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
+      <file name="/carousel.js" timestamp="1547627206255" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1547543860574" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/CarouselImage.java" timestamp="1547626431750" />
     </filemarks>
     <jumps>
       <jump line="316" column="56" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/UserService.java" />
@@ -181,8 +184,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiZ0YXJnZXQhPT0nRU1QVFkn</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -194,13 +197,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>selected=&quot;selected&quot;</text>
+        <text>!target</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlBST0RVQ1QiPuWVhuWTgTwvb3B0aW9uPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JiZ0YXJnZXQhPT0nRU1QVFkn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
