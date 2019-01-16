@@ -8,6 +8,7 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/entity/WechatCustomerMsgExt.java" timestamp="1547636186490" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547604837294">
         <mark key="'" line="46" column="15" />
         <mark key="[" line="3" column="0" />
@@ -62,7 +63,7 @@
         <mark key="." line="198" column="0" />
         <mark key="^" line="198" column="73" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1547636015648" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1547636204666" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547543634039">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="28" column="72" />
