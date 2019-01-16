@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/entity/WechatCustomerMsgExt.java" timestamp="1547636186490" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547604837294">
-        <mark key="'" line="46" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547637839820">
+        <mark key="'" line="80" column="46" />
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="79" />
+        <mark key="." line="8" column="79" />
+        <mark key="^" line="8" column="79" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
@@ -47,11 +48,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1547637765776">
-        <mark key="[" line="146" column="43" />
-        <mark key="]" line="146" column="42" />
-        <mark key="." line="146" column="42" />
-        <mark key="^" line="146" column="42" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1547637851487">
+        <mark key="[" line="88" column="69" />
+        <mark key="]" line="88" column="69" />
+        <mark key="." line="88" column="69" />
+        <mark key="^" line="88" column="69" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1547541512770">
         <mark key="[" line="30" column="15" />
@@ -87,7 +88,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/CarouselImage.java" timestamp="1547626431750" />
     </filemarks>
     <jumps>
-      <jump line="316" column="56" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/UserService.java" />
       <jump line="162" column="5" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/WEB-INF/views/crm/course/rank.html" />
       <jump line="223" column="47" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/list.js" />
       <jump line="75" column="47" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/resources/META-INF/applicationContext-service.xml" />
@@ -187,13 +187,14 @@
       <jump line="513" column="0" filename="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" />
       <jump line="547" column="0" filename="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" />
       <jump line="46" column="15" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="80" column="46" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[0].dropzone</text>
+        <text>upload</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -205,13 +206,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>[0].dropzone</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JiZ0YXJnZXQhPT0nRU1QVFkn</text>
+        <text>'product/upload',</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
