@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547708965910">
+      <file name="/Dummy.txt" timestamp="1547726451529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -38,6 +38,9 @@
         <mark key="]" line="88" column="69" />
         <mark key="." line="88" column="69" />
         <mark key="^" line="88" column="69" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
+        <mark key="[" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
         <mark key="[" line="1799" column="27" />
@@ -78,6 +81,9 @@
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
         <mark key="^" line="28" column="71" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
+        <mark key="[" line="274" column="24" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1546423438461">
         <mark key="[" line="174" column="11" />
