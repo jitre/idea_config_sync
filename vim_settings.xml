@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547627930567">
+      <file name="/Dummy.txt" timestamp="1547708965910">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -50,7 +50,7 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/carousel/list.js" timestamp="1547627705154">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/carousel/list.js" timestamp="1547708728809">
         <mark key="[" line="978" column="65" />
         <mark key="]" line="978" column="62" />
         <mark key="." line="978" column="62" />
@@ -62,11 +62,11 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547624826240">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="198" column="73" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547708849758">
+        <mark key="[" line="199" column="74" />
+        <mark key="]" line="199" column="74" />
+        <mark key="." line="199" column="74" />
+        <mark key="^" line="198" column="93" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1547645621983">
         <mark key="[" line="5194" column="38" />
@@ -193,7 +193,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[0].dropzone</text>
+        <text>selected=&quot;selected&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -205,13 +205,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>[0].dropzone</text>
+        <text>selected=&quot;selected&quot;</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
-      <register name="0" type="4">
-        <text>'product/upload',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkVNUFRZIiBzZWxlY3RlZD0ic2VsZWN0ZWQiPuaXoOihjOS4ujwvb3B0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgPjwvb3B0aW9uPgo=</text>
