@@ -3,13 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/entity/WechatCustomerMsgExt.java" timestamp="1547636186490" />
+      <file name="/Dummy.txt" timestamp="1547627930567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547644422318">
         <mark key="'" line="80" column="46" />
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="79" />
         <mark key="." line="8" column="79" />
         <mark key="^" line="8" column="79" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
@@ -23,41 +33,17 @@
         <mark key="^" line="1550" column="57" />
         <mark key="." line="1550" column="57" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
-        <mark key="[" line="1799" column="27" />
-        <mark key="]" line="1799" column="26" />
-        <mark key="^" line="1799" column="26" />
-        <mark key="." line="1799" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547624826240">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="198" column="73" />
-      </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1547636204666" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1547645621983">
-        <mark key="[" line="5194" column="38" />
-        <mark key="]" line="5194" column="38" />
-        <mark key="." line="5194" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1547627930567">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/upload.js" timestamp="1547604931371" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1547644451540">
         <mark key="[" line="88" column="69" />
         <mark key="]" line="88" column="69" />
         <mark key="." line="88" column="69" />
         <mark key="^" line="88" column="69" />
+      </file>
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
+        <mark key="[" line="1799" column="27" />
+        <mark key="]" line="1799" column="26" />
+        <mark key="^" line="1799" column="26" />
+        <mark key="." line="1799" column="26" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1547541512770">
         <mark key="[" line="30" column="15" />
@@ -76,7 +62,18 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547543634039">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547624826240">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="198" column="73" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1547645621983">
+        <mark key="[" line="5194" column="38" />
+        <mark key="]" line="5194" column="38" />
+        <mark key="." line="5194" column="38" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547690467158">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
@@ -88,9 +85,6 @@
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
-      <file name="/carousel.js" timestamp="1547627206255" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1547543860574" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/CarouselImage.java" timestamp="1547626431750" />
     </filemarks>
     <jumps>
       <jump line="162" column="5" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/WEB-INF/views/crm/course/rank.html" />
