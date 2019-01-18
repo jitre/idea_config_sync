@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547796684818">
-        <mark key="[" line="268" column="6" />
-        <mark key="]" line="268" column="18" />
-        <mark key="." line="268" column="18" />
-        <mark key="^" line="268" column="18" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547799848140">
+        <mark key="'" line="312" column="16" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="298" column="42" />
+        <mark key="." line="298" column="42" />
+        <mark key="^" line="298" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1547796274138">
         <mark key="[" line="0" column="0" />
@@ -96,8 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="47" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/list.js" />
-      <jump line="75" column="47" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/resources/META-INF/applicationContext-service.xml" />
       <jump line="89" column="0" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmTaskServiceImpl.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmExamServiceImpl.java" />
       <jump line="1280" column="94" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" />
@@ -196,13 +195,15 @@
       <jump line="46" column="15" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="80" column="46" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="215" column="45" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatServiceImpl.java" />
+      <jump line="270" column="61" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" />
+      <jump line="297" column="16" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgkJLypmaW5hbCBMaXN0PFNrdUF0dHJpYnV0ZVZPPiBza3VBdHRyaWJ1dGVzID0gcmVzdWx0LmdldFNrdUF0dHJpYnV0ZXMoKTsKCQlmaW5hbCBMaXN0PFNrdT4gc2t1TGlzdCA9IHJlc3VsdC5nZXRTa3VzKCk7CgkJZmluYWwgTWFwPFNrdSwgSW50ZWdlcj4gc2t1UHJpb3JpdHlNYXAgPSBuZXcgSGFzaE1hcDw+KCk7ICAvL+eUqOS6juWtmOWCqOavj+S4qnNrdeeahOadg+mHjQoJCWZpbmFsIE1hcDxTdHJpbmcsSW50ZWdlcj4gc2t1QXR0cmlidXRlSXRlbVByaW9yaXR5TWFwPW5ldyBIYXNoTWFwPD4oKTsKCQkvL+iuoeeul+avj+S4quWxnuaAp+WAvOeahOadg+mHjQoJCWludCB0b3RhbD0wOwoJCWZvciAoU2t1QXR0cmlidXRlVk8gc2t1QXR0cmlidXRlIDogc2t1QXR0cmlidXRlcykgewoJCQlMaXN0PFNrdUF0dHJpYnV0ZUl0ZW0+IGl0ZW1zID0gc2t1QXR0cmlidXRlLmdldEl0ZW1zKCk7CgkJCSBpZihDb2xsZWN0aW9uVXRpbHMuc2l6ZUlzRW1wdHkoaXRlbXMpKXsKCQkJCSBmb3IgKFNrdUF0dHJpYnV0ZUl0ZW0gaXRlbSA6IGl0ZW1zKSB7CgkJCQkgCSAgICAgIHNrdUF0dHJpYnV0ZUl0ZW1Qcmlvcml0eU1hcC5wdXQoaXRlbS5nZXROYW1lKCksKyt0b3RhbCk7CgkJCQkgfQoJCQkgfQoJCX0KCQlza3VMaXN0LnNvcnQobmV3IENvbXBhcmF0b3I8U2t1PigpIHsKCQkJKi8vKioKCQkJICog6K6h566Xc2t155qE5p2D6YeNCgkJCSAqIEBwYXJhbSBza3UKCQkJICogQHJldHVybgoJCQkgKi8vKgoJCQlpbnQgIGNvdW50U2t1UHJpb3JpdHkoU2t1IHNrdSl7CgkJCQlTdHJpbmcgc3BlYyA9IHNrdS5nZXRTcGVjKCk7CgkJCQlpZihTdHJpbmdVdGlscy5pc05vdEJsYW5rKHNwZWMpKXsKCQkJCQlTdHJpbmcgc3BlY3NbXT0Jc3BlYy5zcGxpdCgiLCIpOwoJCQkJCWludCBwcmlvcml0eT0xOwoJCQkJCWZvciAoU3RyaW5nIHMgOiBzcGVjcykgewoJCQkJCQkgaWYoc2t1QXR0cmlidXRlSXRlbVByaW9yaXR5TWFwLmNvbnRhaW5zVmFsdWUocykpewoJCQkJCQkgCSAgIHByaW9yaXR5Kj1za3VBdHRyaWJ1dGVJdGVtUHJpb3JpdHlNYXAuZ2V0KHMpOwoJCQkJCQkgfQoJCQkJCX0KCQkJCQlyZXR1cm4gcHJpb3JpdHk7CgkJCQl9CgoJCQkJcmV0dXJuIDA7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBpbnQgY29tcGFyZShTa3UgbzEsIFNrdSBvMikgewoJCQkJaW50IG8xUHJpb3JpdHk9MDsKCQkJCWludCBvMlByaW9yaXR5PTA7CgkJCQlib29sZWFuIGV4aXN0ID0gc2t1UHJpb3JpdHlNYXAuY29udGFpbnNWYWx1ZShvMSk7CgkJCQlpZihleGlzdCl7CgkJCQkJbzFQcmlvcml0eT1za3VQcmlvcml0eU1hcC5nZXQobzEpOwoJCQkJfWVsc2V7CgkJCQkJaW50IHByaW9yaXR5PWNvdW50U2t1UHJpb3JpdHkobzEpOwoJCQkJCXNrdVByaW9yaXR5TWFwLnB1dChvMSxwcmlvcml0eSk7CgkJCQl9CgkJCQlleGlzdCA9IHNrdVByaW9yaXR5TWFwLmNvbnRhaW5zVmFsdWUobzIpOwoJCQkJaWYoZXhpc3QpewoJCQkJCW8yUHJpb3JpdHk9c2t1UHJpb3JpdHlNYXAuZ2V0KG8yKTsKCQkJCX1lbHNlewoJCQkJCWludCBwcmlvcml0eT1jb3VudFNrdVByaW9yaXR5KG8yKTsKCQkJCQlza3VQcmlvcml0eU1hcC5wdXQobzEscHJpb3JpdHkpOwoJCQkJfQoJCQkJcmV0dXJuIG8xUHJpb3JpdHktbzJQcmlvcml0eTsKCQkJfQoJCX0pOyovCg==</text>
+      <register name="&quot;" type="4">
+        <text>getSkus()</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -214,43 +215,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG_FILE</text>
+        <text>getSkus()</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNlbmRMaW5rTXNnKFN0cmluZyBvcGVuaWQsIFN0cmluZyB0aXRsZSwgU3RyaW5nIGRlc2MsIFN0cmluZyB1cmwsIFN0cmluZyBwaWNVcmwpOwo=</text>
+        <text encoding="base64">CQkgTWFwPFN0cmluZyxJbnRlZ2VyPiBza3VJdGVtSW5kZXhNYXAgPSBuZXcgSGFzaE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgkJLypmaW5hbCBMaXN0PFNrdUF0dHJpYnV0ZVZPPiBza3VBdHRyaWJ1dGVzID0gcmVzdWx0LmdldFNrdUF0dHJpYnV0ZXMoKTsKCQlmaW5hbCBMaXN0PFNrdT4gc2t1TGlzdCA9IHJlc3VsdC5nZXRTa3VzKCk7CgkJZmluYWwgTWFwPFNrdSwgSW50ZWdlcj4gc2t1UHJpb3JpdHlNYXAgPSBuZXcgSGFzaE1hcDw+KCk7ICAvL+eUqOS6juWtmOWCqOavj+S4qnNrdeeahOadg+mHjQoJCWZpbmFsIE1hcDxTdHJpbmcsSW50ZWdlcj4gc2t1QXR0cmlidXRlSXRlbVByaW9yaXR5TWFwPW5ldyBIYXNoTWFwPD4oKTsKCQkvL+iuoeeul+avj+S4quWxnuaAp+WAvOeahOadg+mHjQoJCWludCB0b3RhbD0wOwoJCWZvciAoU2t1QXR0cmlidXRlVk8gc2t1QXR0cmlidXRlIDogc2t1QXR0cmlidXRlcykgewoJCQlMaXN0PFNrdUF0dHJpYnV0ZUl0ZW0+IGl0ZW1zID0gc2t1QXR0cmlidXRlLmdldEl0ZW1zKCk7CgkJCSBpZihDb2xsZWN0aW9uVXRpbHMuc2l6ZUlzRW1wdHkoaXRlbXMpKXsKCQkJCSBmb3IgKFNrdUF0dHJpYnV0ZUl0ZW0gaXRlbSA6IGl0ZW1zKSB7CgkJCQkgCSAgICAgIHNrdUF0dHJpYnV0ZUl0ZW1Qcmlvcml0eU1hcC5wdXQoaXRlbS5nZXROYW1lKCksKyt0b3RhbCk7CgkJCQkgfQoJCQkgfQoJCX0KCQlza3VMaXN0LnNvcnQobmV3IENvbXBhcmF0b3I8U2t1PigpIHsKCQkJKi8vKioKCQkJICog6K6h566Xc2t155qE5p2D6YeNCgkJCSAqIEBwYXJhbSBza3UKCQkJICogQHJldHVybgoJCQkgKi8vKgoJCQlpbnQgIGNvdW50U2t1UHJpb3JpdHkoU2t1IHNrdSl7CgkJCQlTdHJpbmcgc3BlYyA9IHNrdS5nZXRTcGVjKCk7CgkJCQlpZihTdHJpbmdVdGlscy5pc05vdEJsYW5rKHNwZWMpKXsKCQkJCQlTdHJpbmcgc3BlY3NbXT0Jc3BlYy5zcGxpdCgiLCIpOwoJCQkJCWludCBwcmlvcml0eT0xOwoJCQkJCWZvciAoU3RyaW5nIHMgOiBzcGVjcykgewoJCQkJCQkgaWYoc2t1QXR0cmlidXRlSXRlbVByaW9yaXR5TWFwLmNvbnRhaW5zVmFsdWUocykpewoJCQkJCQkgCSAgIHByaW9yaXR5Kj1za3VBdHRyaWJ1dGVJdGVtUHJpb3JpdHlNYXAuZ2V0KHMpOwoJCQkJCQkgfQoJCQkJCX0KCQkJCQlyZXR1cm4gcHJpb3JpdHk7CgkJCQl9CgoJCQkJcmV0dXJuIDA7CgkJCX0KCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBpbnQgY29tcGFyZShTa3UgbzEsIFNrdSBvMikgewoJCQkJaW50IG8xUHJpb3JpdHk9MDsKCQkJCWludCBvMlByaW9yaXR5PTA7CgkJCQlib29sZWFuIGV4aXN0ID0gc2t1UHJpb3JpdHlNYXAuY29udGFpbnNWYWx1ZShvMSk7CgkJCQlpZihleGlzdCl7CgkJCQkJbzFQcmlvcml0eT1za3VQcmlvcml0eU1hcC5nZXQobzEpOwoJCQkJfWVsc2V7CgkJCQkJaW50IHByaW9yaXR5PWNvdW50U2t1UHJpb3JpdHkobzEpOwoJCQkJCXNrdVByaW9yaXR5TWFwLnB1dChvMSxwcmlvcml0eSk7CgkJCQl9CgkJCQlleGlzdCA9IHNrdVByaW9yaXR5TWFwLmNvbnRhaW5zVmFsdWUobzIpOwoJCQkJaWYoZXhpc3QpewoJCQkJCW8yUHJpb3JpdHk9c2t1UHJpb3JpdHlNYXAuZ2V0KG8yKTsKCQkJCX1lbHNlewoJCQkJCWludCBwcmlvcml0eT1jb3VudFNrdVByaW9yaXR5KG8yKTsKCQkJCQlza3VQcmlvcml0eU1hcC5wdXQobzEscHJpb3JpdHkpOwoJCQkJfQoJCQkJcmV0dXJuIG8xUHJpb3JpdHktbzJQcmlvcml0eTsKCQkJfQoJCX0pOyovCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluZGV4Kys7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkuYXBwZW5kKCIgICAgICAgICAgICAgXCJwaWN1cmxcIjpcIiIpCgkJCQkJLmFwcGVuZChwaWNVcmwpCgkJCQkJLmFwcGVuZCgiXCJcbiIpCg==</text>
+        <text encoding="base64">CQkJaWYoQ29sbGVjdGlvblV0aWxzLnNpemVJc0VtcHR5KGl0ZW1zKSl7CgkJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vbWVzc2FnZT0i5oSf6LCi5oKo55qE5pSv5oyB77yM56Wd5oKo55Sf5rS75oSJ5b+r77yM5YaN6KeB77yBIjsK</text>
+        <text encoding="base64">CQkJCWZvciAoU2t1QXR0cmlidXRlSXRlbSBpdGVtIDogaXRlbXMpIHsKCQkJCQlza3VJdGVtUHJpb3JpdHlNYXAucHV0KGl0ZW0uZ2V0TmFtZSgpLCsrdG90YWwpOwoJCQkJfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJd2VjaGF0U2VydmljZS5zZW5kTGlua01zZyh3ZWNoYXRDdXN0b21lck1zZy5nZXRPcGVuaWQoKSwiIiwiIiwsc2F0aXNmYWN0aW9uUGljVXJsKTsK</text>
+        <text encoding="base64">CQkJYXR0cmlidXRlTGF5ZXJNYXAucHV0KGxheWVyLGl0ZW1zLnNpemUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYXR0cmlidXRlSXRlbUluZGV4TWFwLnB1dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgLy/orqHnrpdza3Xmr4/kuKrlsZ7mgKfnmoTmnYPph40K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAJIExpc3Q8U2t1PiBza3VMaXN0ID0gcmVzdWx0LmdldFNrdXMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
