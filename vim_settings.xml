@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547799848140">
-        <mark key="'" line="312" column="16" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="298" column="42" />
-        <mark key="." line="298" column="42" />
-        <mark key="^" line="298" column="42" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547801370024">
+        <mark key="[" line="310" column="14" />
+        <mark key="]" line="311" column="24" />
+        <mark key="." line="311" column="24" />
+        <mark key="^" line="311" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1547796274138">
         <mark key="[" line="0" column="0" />
@@ -202,8 +201,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getSkus()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -215,7 +214,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>getSkus()</text>
+        <text>itemCount</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -224,34 +223,34 @@
         <text encoding="base64">CQkgTWFwPFN0cmluZyxJbnRlZ2VyPiBza3VJdGVtSW5kZXhNYXAgPSBuZXcgSGFzaE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluZGV4Kys7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJaWYoQ29sbGVjdGlvblV0aWxzLnNpemVJc0VtcHR5KGl0ZW1zKSl7CgkJCX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWZvciAoU2t1QXR0cmlidXRlSXRlbSBpdGVtIDogaXRlbXMpIHsKCQkJCQlza3VJdGVtUHJpb3JpdHlNYXAucHV0KGl0ZW0uZ2V0TmFtZSgpLCsrdG90YWwpOwoJCQkJfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGludCAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJYXR0cmlidXRlTGF5ZXJNYXAucHV0KGxheWVyLGl0ZW1zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYXR0cmlidXRlSXRlbUluZGV4TWFwLnB1dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgLy/orqHnrpdza3Xmr4/kuKrlsZ7mgKfnmoTmnYPph40K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAJIExpc3Q8U2t1PiBza3VMaXN0ID0gcmVzdWx0LmdldFNrdXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
