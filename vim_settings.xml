@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547802109054">
-        <mark key="[" line="313" column="20" />
-        <mark key="]" line="313" column="30" />
-        <mark key="." line="313" column="30" />
-        <mark key="^" line="313" column="30" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547803622111">
+        <mark key="[" line="326" column="34" />
+        <mark key="]" line="327" column="5" />
+        <mark key="^" line="327" column="5" />
+        <mark key="." line="327" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1547796274138">
         <mark key="[" line="0" column="0" />
@@ -79,6 +79,7 @@
         <mark key="." line="199" column="74" />
         <mark key="^" line="198" column="93" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1547802763281" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
       </file>
@@ -201,8 +202,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCB0ZW1wPTE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>skuList.size()</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -214,7 +215,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>tempItemIndex</text>
+        <text>skuList.size()</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -223,34 +224,34 @@
         <text encoding="base64">CQkgTWFwPFN0cmluZyxJbnRlZ2VyPiBza3VJdGVtSW5kZXhNYXAgPSBuZXcgSGFzaE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCB0ZW1wPTE7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoU2t1IHNrdSA6IHNrdUxpc3QpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2t1TGlzdC5hZGQoaW5kZXgsc2t1KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgdGVtcCo9Y291bnQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
