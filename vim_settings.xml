@@ -63,7 +63,7 @@
         <mark key="." line="426" column="18" />
         <mark key="^" line="426" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547796274138">
+      <file name="/Dummy.txt" timestamp="1547889952113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
@@ -106,7 +106,7 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1547888770208">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="21" />
+        <mark key="]" line="28" column="21" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1546423438461">
@@ -114,11 +114,6 @@
         <mark key="]" line="174" column="9" />
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/webapp/WEB-INF/web.xml" timestamp="1547888395825">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
