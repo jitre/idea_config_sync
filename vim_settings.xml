@@ -8,12 +8,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1546420382300">
-        <mark key="[" line="360" column="25" />
-        <mark key="]" line="360" column="24" />
-        <mark key="^" line="360" column="24" />
-        <mark key="." line="360" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/InsideEmployee/InsideEmployeeJob.java" timestamp="1548087126968">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="25" column="10" />
@@ -26,27 +20,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
-        <mark key="'" line="547" column="0" />
-        <mark key="[" line="522" column="33" />
-        <mark key="]" line="522" column="36" />
-        <mark key="^" line="522" column="36" />
-        <mark key="." line="522" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/InsideEmployee/InsideUserEmployeeJob.java" timestamp="1548088696142">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5-sources.jar!/org/apache/http/client/params/ClientPNames.java" timestamp="1548090767712" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
         <mark key="^" line="358" column="39" />
         <mark key="." line="358" column="39" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
         <mark key="[" line="1799" column="27" />
@@ -59,12 +38,40 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1546420382300">
+        <mark key="[" line="360" column="25" />
+        <mark key="]" line="360" column="24" />
+        <mark key="^" line="360" column="24" />
+        <mark key="." line="360" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1-sources.jar!/org/apache/http/params/CoreConnectionPNames.java" timestamp="1548090505394" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5-sources.jar!/org/apache/http/impl/conn/PoolingClientConnectionManager.java" timestamp="1548090318583" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5-sources.jar!/org/apache/http/impl/client/DefaultRequestDirector.java" timestamp="1548090748538" />
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
+        <mark key="'" line="547" column="0" />
+        <mark key="[" line="522" column="33" />
+        <mark key="]" line="522" column="36" />
+        <mark key="^" line="522" column="36" />
+        <mark key="." line="522" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/InsideEmployee/InsideUserEmployeeJob.java" timestamp="1548088696142">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5-sources.jar!/org/apache/http/client/params/HttpClientParams.java" timestamp="1548090800894" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="60" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/PoolingHttpClients.java" timestamp="1548090892484" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1546423438461">
         <mark key="[" line="174" column="11" />
         <mark key="]" line="174" column="9" />
         <mark key="." line="174" column="9" />
         <mark key="^" line="174" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5/httpclient-4.5-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" timestamp="1548090404430" />
     </filemarks>
     <jumps>
       <jump line="316" column="56" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/UserService.java" />
@@ -224,7 +231,7 @@
         <text encoding="base64">ICAgIEBBCg==</text>
       </register>
       <register name=":" type="4">
-        <text>93</text>
+        <text>882</text>
       </register>
     </registers>
     <search>
@@ -252,12 +259,6 @@
         <entry>list</entry>
       </history-search>
       <history-cmd>
-        <entry>564</entry>
-        <entry>580</entry>
-        <entry>443</entry>
-        <entry>543</entry>
-        <entry>1264</entry>
-        <entry>2533</entry>
         <entry>667</entry>
         <entry>257</entry>
         <entry>292</entry>
@@ -272,6 +273,12 @@
         <entry>86</entry>
         <entry>94</entry>
         <entry>93</entry>
+        <entry>195</entry>
+        <entry>139</entry>
+        <entry>164</entry>
+        <entry>220</entry>
+        <entry>71</entry>
+        <entry>882</entry>
       </history-cmd>
       <history-expr />
       <history-input />
