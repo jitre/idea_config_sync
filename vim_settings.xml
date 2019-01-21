@@ -3,10 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1546943704075">
+      <file name="/Dummy.txt" timestamp="1548087260210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1546420382300">
+        <mark key="[" line="360" column="25" />
+        <mark key="]" line="360" column="24" />
+        <mark key="^" line="360" column="24" />
+        <mark key="." line="360" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/InsideEmployee/InsideEmployeeJob.java" timestamp="1548087126968">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547188325111">
         <mark key="'" line="46" column="15" />
@@ -14,11 +26,27 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
+        <mark key="'" line="547" column="0" />
+        <mark key="[" line="522" column="33" />
+        <mark key="]" line="522" column="36" />
+        <mark key="^" line="522" column="36" />
+        <mark key="." line="522" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/InsideEmployee/InsideUserEmployeeJob.java" timestamp="1548087042892">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
         <mark key="^" line="358" column="39" />
         <mark key="." line="358" column="39" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/agent/UserAgentController.java" timestamp="1546595189886">
         <mark key="[" line="1799" column="27" />
@@ -30,24 +58,6 @@
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1547484186461" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1546420382300">
-        <mark key="[" line="360" column="25" />
-        <mark key="]" line="360" column="24" />
-        <mark key="^" line="360" column="24" />
-        <mark key="." line="360" column="24" />
-      </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager-1.2-tomcat-7/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java" timestamp="1545960319345">
-        <mark key="'" line="547" column="0" />
-        <mark key="[" line="522" column="33" />
-        <mark key="]" line="522" column="36" />
-        <mark key="^" line="522" column="36" />
-        <mark key="." line="522" column="36" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1545966687151">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1546423438461">
         <mark key="[" line="174" column="11" />
@@ -162,8 +172,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWxlcnQoInRlc3QiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -175,7 +185,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>endAuthTime</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
