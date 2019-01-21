@@ -9,7 +9,6 @@
         <mark key="." line="52" column="28" />
         <mark key="^" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1547892823668" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
@@ -28,7 +27,6 @@
         <mark key="^" line="1799" column="26" />
         <mark key="." line="1799" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/biz/src/main/java/com/xquark/biz/filter/CORSFilter.java" timestamp="1547888402752" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/webapp/WEB-INF/web.xml" timestamp="1547888062156">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="18" />
@@ -48,23 +46,19 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserAddressServiceImpl.java" timestamp="1547817148168" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1547708849758">
         <mark key="[" line="199" column="74" />
         <mark key="]" line="199" column="74" />
         <mark key="." line="199" column="74" />
         <mark key="^" line="198" column="93" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1547817758541" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form-冲突-jitre_Win10.js" timestamp="1547879632313" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1547817071932" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1547886285105">
         <mark key="[" line="426" column="16" />
         <mark key="]" line="426" column="18" />
         <mark key="." line="426" column="18" />
         <mark key="^" line="426" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547892154063">
+      <file name="/Dummy.txt" timestamp="1548056924366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
@@ -93,15 +87,12 @@
         <mark key="." line="978" column="62" />
         <mark key="^" line="978" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/filter/CORSFilter.java" timestamp="1547888794910" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1547817079776">
         <mark key="[" line="360" column="25" />
         <mark key="]" line="360" column="24" />
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1547884420632" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1547880435459" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
       </file>
