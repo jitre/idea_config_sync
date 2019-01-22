@@ -9,6 +9,7 @@
         <mark key="." line="52" column="28" />
         <mark key="^" line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/base/imp/TemplateBaseServiceImpl.java" timestamp="1548147233290" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1546941657945">
         <mark key="[" line="358" column="32" />
         <mark key="]" line="358" column="39" />
@@ -93,7 +94,13 @@
         <mark key="^" line="360" column="24" />
         <mark key="." line="360" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1548064144055" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1548149649526">
+        <mark key="'" line="253" column="28" />
+        <mark key="[" line="139" column="16" />
+        <mark key="]" line="139" column="14" />
+        <mark key="^" line="139" column="14" />
+        <mark key="." line="139" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1548065137372" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1548057887613" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
@@ -115,13 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmTaskServiceImpl.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmExamServiceImpl.java" />
-      <jump line="1280" column="94" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" />
-      <jump line="289" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Order.java" />
-      <jump line="150" column="32" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/WEB-INF/views/crm/course/rank.html" />
-      <jump line="56" column="12" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/course/rank.html" />
-      <jump line="242" column="12" filename="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmTaskController.java" />
       <jump line="261" column="20" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/publish.js" />
       <jump line="147" column="48" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/publish.js" />
       <jump line="1017" column="56" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/dist/crmTaskList.js" />
@@ -215,6 +215,13 @@
       <jump line="215" column="45" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatServiceImpl.java" />
       <jump line="270" column="61" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" />
       <jump line="297" column="16" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" />
+      <jump line="21" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="94" column="15" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="95" column="28" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="139" column="14" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="221" column="16" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="226" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="253" column="28" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -236,7 +243,7 @@
         <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>https</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxmaWx0ZXI+CiAgICAgICAgPGZpbHRlci1uYW1lPmNvcnM8L2ZpbHRlci1uYW1lPgogICAgICAgIDxmaWx0ZXItY2xhc3M+Y29tLnhxdWFyay5iaXouZmlsdGVyLkNPUlNGaWx0ZXI8L2ZpbHRlci1jbGFzcz4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlci1tYXBwaW5nPgogICAgICAgIDxmaWx0ZXItbmFtZT5jb3JzPC9maWx0ZXItbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+Lyo8L3VybC1wYXR0ZXJuPgogICAgPC9maWx0ZXItbWFwcGluZz4K</text>
@@ -276,9 +283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>https</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>https</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -298,6 +305,7 @@
         <entry>archive</entry>
         <entry>permission</entry>
         <entry>list</entry>
+        <entry>https</entry>
       </history-search>
       <history-cmd>
         <entry>564</entry>
