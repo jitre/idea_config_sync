@@ -10,11 +10,11 @@
     <mask>*.png</mask>
     <mask>*.jsp</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
