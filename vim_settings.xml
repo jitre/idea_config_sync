@@ -59,7 +59,7 @@
         <mark key="." line="426" column="18" />
         <mark key="^" line="426" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548158565590">
+      <file name="/Dummy.txt" timestamp="1548159063451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/TargetType.java" timestamp="1547624693090">
@@ -82,6 +82,7 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/jdbc.properties" timestamp="1548158930869" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/carousel/list.js" timestamp="1547708728809">
         <mark key="[" line="978" column="65" />
         <mark key="]" line="978" column="62" />
@@ -103,7 +104,7 @@
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1548065137372" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1548057887613" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548158551867">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
         <mark key="^" line="3" column="21" />
