@@ -7,7 +7,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/base/imp/TemplateBaseServiceImpl.java" timestamp="1548147233290" />
       <file name="/mallProductEdit.html" timestamp="1548231302296" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/SkuForm.java" timestamp="1548227727409" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548233143468">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548232859380" />
@@ -45,7 +45,13 @@
       <file name="/Dummy.txt" timestamp="1548230208847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1548206342129" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1548241359038">
+        <mark key="[" line="166" column="24" />
+        <mark key="]" line="166" column="30" />
+        <mark key="." line="166" column="30" />
+        <mark key="^" line="166" column="30" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1548241002197" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1548162391481" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1548162339996" />
       <file name="/fragment.java" timestamp="1547888108768">
@@ -158,8 +164,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DECIMAL</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -171,13 +177,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>setPoint</text>
+        <text>DECIMAL</text>
       </register>
       <register name="/" type="4">
         <text>https</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oImRlYWwiK3NrdS5nZXRTcGVjKCkpOwo=</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJuZXRXb3J0aCAhPSBudWxsIj4KICAgICAgbmV0X3dvcnRoLAogICAgPC9pZj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
