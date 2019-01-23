@@ -9,8 +9,7 @@
         <mark key="^" line="304" column="2" />
         <mark key="." line="304" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnection.java" timestamp="1548173997478" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/AbstractOperations.java" timestamp="1548174091894" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548251181004" />
     </filemarks>
     <jumps />
     <registers />
@@ -18,7 +17,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
