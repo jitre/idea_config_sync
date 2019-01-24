@@ -10,6 +10,7 @@
         <mark key="." line="154" column="0" />
       </file>
       <file name="/SkuMapper.xml" timestamp="1548299702424" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/core/ApplicationContext.java" timestamp="1548301925107" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1548295591471" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
