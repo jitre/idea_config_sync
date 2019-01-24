@@ -35,6 +35,9 @@
         <mark key="[" line="37" column="25" />
         <mark key="^" line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548315755248">
+        <mark key="'" line="441" column="53" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
@@ -55,7 +58,6 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/outpay/impl/TenPaymentImpl.java" timestamp="1548313361568" />
     </filemarks>
     <jumps>
-      <jump line="261" column="20" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/publish.js" />
       <jump line="147" column="48" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/publish.js" />
       <jump line="1017" column="56" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/dist/crmTaskList.js" />
       <jump line="17" column="17" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/CrmTaskExecuteService.java" />
@@ -155,6 +157,7 @@
       <jump line="221" column="16" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="226" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="253" column="28" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
+      <jump line="441" column="53" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
