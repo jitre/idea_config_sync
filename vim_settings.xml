@@ -11,6 +11,9 @@
       </file>
       <file name="/SkuMapper.xml" timestamp="1548299702424" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/order/OrderControllerApi.java" timestamp="1548312034575" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1548314723639" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/SmsSendRecordServiceImpl.java" timestamp="1548314728841" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1548315120148" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/core/ApplicationContext.java" timestamp="1548301925107" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1548295591471" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1548313070174" />
