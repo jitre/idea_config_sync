@@ -3,14 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1548162621212" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/base/imp/TemplateBaseServiceImpl.java" timestamp="1548147233290" />
-      <file name="/mallProductEdit.html" timestamp="1548231302296" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/SkuForm.java" timestamp="1548227727409" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548232859380" />
+      <file name="/Dummy.txt" timestamp="1548230208847">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1548241359038">
+        <mark key="[" line="166" column="24" />
+        <mark key="]" line="166" column="30" />
+        <mark key="." line="166" column="30" />
+        <mark key="^" line="166" column="30" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548294026776" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
         <mark key="]" line="64" column="53" />
@@ -20,8 +25,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/jdbc.properties" timestamp="1548158930869" />
-      <file name="/config-dev-hds.properties" timestamp="1548230151827" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1548206627725">
         <mark key="[" line="53" column="56" />
         <mark key="]" line="53" column="0" />
@@ -37,23 +40,9 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/category/impl/CategoryServiceImpl.java" timestamp="1548162627138" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548209111194" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548230208847">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1548241359038">
-        <mark key="[" line="166" column="24" />
-        <mark key="]" line="166" column="30" />
-        <mark key="." line="166" column="30" />
-        <mark key="^" line="166" column="30" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1548241002197" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1548162391481" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1548162339996" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
