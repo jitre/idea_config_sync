@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548348581815" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/connector/Connector.java" timestamp="1548349410063" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
+        <mark key="[" line="57" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
@@ -17,15 +27,11 @@
         <mark key="[" line="37" column="25" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
-        <mark key="[" line="92" column="30" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/authentication/TokenAuthenticationFilter.java" timestamp="1548350137924" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548348581815" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/connector/Request.java" timestamp="1548349673673" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
       </file>
@@ -35,12 +41,11 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
-        <mark key="[" line="57" column="26" />
-      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1548350547080" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1548350452457" />
     </filemarks>
     <jumps>
       <jump line="261" column="20" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/publish.js" />
