@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548297205264" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548295732768">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
+      <file name="/SkuMapper.xml" timestamp="1548299702424" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1548295591471" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
@@ -16,11 +17,16 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1548241359038">
-        <mark key="[" line="166" column="24" />
-        <mark key="]" line="166" column="30" />
-        <mark key="." line="166" column="30" />
-        <mark key="^" line="166" column="30" />
+      <file name="/Dummy.txt" timestamp="1548300502735">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_180614.sql" timestamp="1548300335904">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="85" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1548299872346">
+        <mark key="[" line="37" column="25" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
@@ -31,6 +37,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_180609.sql" timestamp="1548300257152" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1548206627725">
         <mark key="[" line="53" column="56" />
         <mark key="]" line="53" column="0" />
@@ -45,6 +52,12 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_190122.sql" timestamp="1548300513934">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
@@ -156,8 +169,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NOT NULL</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -169,13 +182,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>DECIMAL</text>
+        <text>NOT NULL</text>
       </register>
       <register name="/" type="4">
         <text>https</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJuZXRXb3J0aCAhPSBudWxsIj4KICAgICAgbmV0X3dvcnRoLAogICAgPC9pZj4K</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgeHF1YXJrX3NrdQogIEFERCBsZW5ndGggZG91YmxlIERFRkFVTFQgMCBOT1QgTlVMTApDT01NRU5UICfllYblk4Hplb/luqYnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -184,28 +197,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgeHF1YXJrX3Byb2R1Y3QKICBBREQga2luZCB2YXJjaGFyKDE2KSBERUZBVUxUICcnIE5PVCBOVUxMCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09NTUVOVCAn5ZWG5ZOB57G75Z6LJzsKLS0gQUxURVIgVEFCTEUgeHF1YXJrX3Byb2R1Y3QgQUREIHdlaWdodF91bml0IHZhcmNoYXIoOCkgREVGQVVMVCAnRycgTk9UIE5VTEwgQ09NTUVOVCAn5ZWG5ZOB55qE6YeN6YeP5Y2V5L2NJzsKQUxURVIgVEFCTEUgeHF1YXJrX3Byb2R1Y3QKICBBREQgcG9pbnQgZGVjaW1hbCBERUZBVUxUIDAgTk9UIE5VTEwKQ09NTUVOVCAn5ZWG5ZOB6LSt5Lmw6L+U5Yip56ev5YiGJzsKQUxURVIgVEFCTEUgeHF1YXJrX3Byb2R1Y3QKICBBREQgbW9yYWxpdHlfcG9pbnRfcmF0ZSBkZWNpbWFsIERFRkFVTFQgMCBOT1QgTlVMTApDT01NRU5UICfllYblk4HnmoTlvrfliIbmr5TkvosnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0U2t1SW1nVXJsKCkgewoJCXJldHVybiBza3VJbWdVcmw7Cgl9CgoJcHVibGljIHZvaWQgc2V0U2t1SW1nVXJsKFN0cmluZyBza3VJbWdVcmwpIHsKCQl0aGlzLnNrdUltZ1VybCA9IHNrdUltZ1VybDsKCX0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBOb3ROdWxsKG1lc3NhZ2UgPSAie3ZhbGlkLm5vdEJsYW5rLm1lc3NhZ2V9IikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0U2t1SW1nVXJsKCkgewoJCXJldHVybiBza3VJbWdVcmw7Cgl9CgoJcHVibGljIHZvaWQgc2V0U2t1SW1nVXJsKFN0cmluZyBza3VJbWdVcmwpIHsKCQl0aGlzLnNrdUltZ1VybCA9IHNrdUltZ1VybDsKCX0KCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBOb3ROdWxsKG1lc3NhZ2UgPSAie3ZhbGlkLm5vdEJsYW5rLm1lc3NhZ2V9IikKCXByaXZhdGUgU3RyaW5nIHNrdUltZ1VybDsKCg==</text>
+        <text encoding="base64">CUBOb3ROdWxsKG1lc3NhZ2UgPSAie3ZhbGlkLm5vdEJsYW5rLm1lc3NhZ2V9IikK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
