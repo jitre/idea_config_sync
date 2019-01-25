@@ -3,20 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548383550573" />
-      <file name="/SkuMapper.xml" timestamp="1548299702424" />
-      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpSessionListener.java" timestamp="1548383202460" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/order/OrderControllerApi.java" timestamp="1548312034575" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548386277066" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1548320664662">
+        <mark key="[" line="2816" column="70" />
+        <mark key="]" line="2816" column="70" />
+        <mark key="." line="2816" column="70" />
+        <mark key="^" line="2816" column="107" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1548316018883">
+        <mark key="'" line="6458" column="59" />
+      </file>
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/example-app/src/main/java/com/orangefunction/tomcatredissessionmanager/exampleapp/WebApp.java" timestamp="1548394009721" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1548314723639" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/core/ApplicationContext.java" timestamp="1548301925107" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
+        <mark key="[" line="57" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/order/DanbaoOrderWorkflow.java" timestamp="1548313275814" />
+      <file name="/Dummy.txt" timestamp="1548386629859">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548315755248">
         <mark key="'" line="441" column="53" />
       </file>
@@ -29,8 +42,12 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/listener/handler/transaction/DanbaoOrderTransactionHandler.java" timestamp="1548313329262" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_180609.sql" timestamp="1548300257152" />
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548394797533">
+        <mark key="[" line="655" column="0" />
+        <mark key="]" line="655" column="0" />
+        <mark key="." line="655" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.2/96d156244c8caca49b6db147c66e4d8ed6b244f2/commons-pool2-2.2-sources.jar!/org/apache/commons/pool2/impl/BaseObjectPoolConfig.java" timestamp="1548394354182" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/SkuForm.java" timestamp="1548318585745">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -42,7 +59,6 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/Manager.java" timestamp="1548387962377" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
@@ -52,42 +68,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1547726224227">
         <mark key="[" line="274" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/outpay/impl/TenPaymentImpl.java" timestamp="1548313361568" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1548320664662">
-        <mark key="[" line="2816" column="70" />
-        <mark key="]" line="2816" column="70" />
-        <mark key="." line="2816" column="70" />
-        <mark key="^" line="2816" column="107" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1548316018883">
-        <mark key="'" line="6458" column="59" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/ManagerBase.java" timestamp="1548388774513" />
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/build.gradle" timestamp="1548386602735" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
-        <mark key="[" line="92" column="30" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="/edit.js" timestamp="1548316996269" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1548388696237" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/SmsSendRecordServiceImpl.java" timestamp="1548314728841" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1548315120148" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1548295591471" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1548313070174" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
-        <mark key="[" line="57" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548386629859">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1548316835929" />
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548393117269">
-        <mark key="[" line="655" column="0" />
-        <mark key="]" line="655" column="0" />
-        <mark key="." line="655" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.2/96d156244c8caca49b6db147c66e4d8ed6b244f2/commons-pool2-2.2-sources.jar!/org/apache/commons/pool2/impl/BaseObjectPoolConfig.java" timestamp="1548387739536" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_190122.sql" timestamp="1548300513934">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="11" column="22" />
