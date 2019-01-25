@@ -16,7 +16,7 @@
       <file name="/SkuMapper.xml" timestamp="1548299702424" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpSessionListener.java" timestamp="1548383202460" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/order/OrderControllerApi.java" timestamp="1548312034575" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548384766768" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548386277066" />
       <file name="/edit.js" timestamp="1548316996269" />
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
@@ -50,6 +50,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548386377265" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/listener/handler/transaction/DanbaoOrderTransactionHandler.java" timestamp="1548313329262" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_180609.sql" timestamp="1548300257152" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/SkuForm.java" timestamp="1548318585745">
