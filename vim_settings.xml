@@ -13,6 +13,7 @@
         <mark key="'" line="6458" column="59" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548383550573" />
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/build.gradle" timestamp="1548386602735" />
       <file name="/SkuMapper.xml" timestamp="1548299702424" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpSessionListener.java" timestamp="1548383202460" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/order/OrderControllerApi.java" timestamp="1548312034575" />
@@ -33,7 +34,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548301152507">
+      <file name="/Dummy.txt" timestamp="1548386629859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/order/DanbaoOrderWorkflow.java" timestamp="1548313275814" />
