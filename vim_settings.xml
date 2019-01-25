@@ -9,9 +9,6 @@
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1548316018883">
-        <mark key="'" line="6458" column="59" />
-      </file>
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager/example-app/src/main/java/com/orangefunction/tomcatredissessionmanager/exampleapp/WebApp.java" timestamp="1548394009721" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
         <mark key="[" line="92" column="30" />
@@ -31,9 +28,7 @@
       <file name="/Dummy.txt" timestamp="1548404392375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548315755248">
-        <mark key="'" line="441" column="53" />
-      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1548417354010" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
         <mark key="]" line="64" column="53" />
@@ -60,6 +55,7 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1548416948975" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
