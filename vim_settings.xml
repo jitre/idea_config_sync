@@ -3,19 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1548465938943">
+        <mark key="[" line="382" column="21" />
+        <mark key="]" line="382" column="33" />
+        <mark key="^" line="382" column="33" />
+        <mark key="." line="382" column="33" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1548320664662">
         <mark key="[" line="2816" column="70" />
         <mark key="]" line="2816" column="70" />
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/example-app/src/main/java/com/orangefunction/tomcatredissessionmanager/exampleapp/WebApp.java" timestamp="1548394009721" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
         <mark key="[" line="92" column="30" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/MySessionListener.java" timestamp="1548404124965" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
+        <mark key="[" line="55" column="14" />
+      </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,10 +32,9 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548404392375">
+      <file name="/Dummy.txt" timestamp="1548465398946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1548417354010" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
         <mark key="]" line="64" column="53" />
@@ -43,7 +49,6 @@
         <mark key="]" line="655" column="0" />
         <mark key="." line="655" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.2/96d156244c8caca49b6db147c66e4d8ed6b244f2/commons-pool2-2.2-sources.jar!/org/apache/commons/pool2/impl/BaseObjectPoolConfig.java" timestamp="1548394354182" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/SkuForm.java" timestamp="1548318585745">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -55,7 +60,12 @@
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1548416948975" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/packageRainConfig.html" timestamp="1548465983404">
+        <mark key="[" line="40" column="84" />
+        <mark key="]" line="40" column="88" />
+        <mark key="." line="40" column="88" />
+        <mark key="^" line="40" column="88" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
@@ -81,7 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1017" column="56" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/dist/crmTaskList.js" />
       <jump line="17" column="17" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/CrmTaskExecuteService.java" />
       <jump line="350" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmTaskController.java" />
       <jump line="28" column="50" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/list.js" />
@@ -181,13 +190,14 @@
       <jump line="253" column="28" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="441" column="53" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
       <jump line="6312" column="59" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="82" column="15" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/packageRainConfig.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+CgkJCWNvbS54cXVhcmsuY29uZmlnLk15U2Vzc2lvbkxpc3RlbmVyCgkJPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>合作伙伴</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -199,43 +209,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>/*,#{numInPackage,jdbcType=INTEGER})*/</text>
+        <text>合作伙伴</text>
       </register>
       <register name="/" type="4">
         <text>https</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgeHF1YXJrX3NrdQogIEFERCBsZW5ndGggZG91YmxlIERFRkFVTFQgMCBOT1QgTlVMTApDT01NRU5UICfllYblk4Hplb/luqYnOwo=</text>
+        <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL21hbGwvc3luYyIpCiAgcHVibGljIFN0cmluZyBkYXRhU3luYyhNb2RlbCBtb2RlbCkgewogICAgbW9kZWwuYWRkQXR0cmlidXRlKFBBR0VfRU5VTS5NT0RVTEUuZ2V0VmFsdWUoKSwgInN5bmMiKTsKICAgIG1vZGVsLmFkZEF0dHJpYnV0ZShQQUdFX0VOVU0uRElTUExBWS5nZXRWYWx1ZSgpLCAi5ZCI5L2c5LyZ5Ly0Iik7CiAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoUEFHRV9FTlVNLlBBR0UuZ2V0VmFsdWUoKSwgIm1hbGwiKTsKICAgIHJldHVybiAibWFsbC9zeW5jIjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+CgkJCWNvbS54cXVhcmsuY29uZmlnLk15U2Vzc2lvbkxpc3RlbmVyCgkJPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbi5leHBpcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS02IGNvbC1tZC00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIj4KICAgICAgICAgICAgICAgIDxoMz7orqLljZU8L2gzPgogICAgICAgICAgICAgICAgPHA+PGEgaHJlZj0iL3NlbGxlcnBjL3RoaXJkL3N1cHBsaWVyL29yZGVyL2V4cG9ydEV4Y2VsIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGV4cG9ydCIgZGF0YS10eXBlPSJvcmRlciIKICAgICAgICAgICAgICAgICAgICAgIHJvbGU9ImJ1dHRvbiI+6K6i5Y2V5a+85Ye6PC9hPjwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS02IGNvbC1tZC00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGh1bWJuYWlsIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXB0aW9uIj4KICAgICAgICAgICAgICAgIDxoMz7lupPlrZg8L2gzPgogICAgICAgICAgICAgICAgPHA+PGEgaHJlZj0iL3NlbGxlcnBjL3RoaXJkL3N1cHBsaWVyL3NrdS9leHBvcnRFeGNlbCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBleHBvcnQiIGRhdGEtdHlwZT0iYW1vdW50IgogICAgICAgICAgICAgICAgICAgICAgcm9sZT0iYnV0dG9uIj7mqKHmnb/kuIvovb08L2E+CiAgICAgICAgICAgICAgICAgIDxidXR0b24gaHJlZj0iIyIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBpbXBvcnQiIGRhdGEtdHlwZT0iYW1vdW50IiBpZD0iYW1vdW50IgogICAgICAgICAgICAgICAgICAgICByb2xlPSJidXR0b24iPuWvvOWFpUV4Y2VsPC9idXR0b24+PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYgY29sLW1kLTQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aHVtYm5haWwiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcHRpb24iPgogICAgICAgICAgICAgICAgPGgzPueJqea1gTwvaDM+CiAgICAgICAgICAgICAgICA8cD48YSBocmVmPSIvc2VsbGVycGMvdGhpcmQvc3VwcGxpZXIvbG9naXN0aWNzL2V4cG9ydEV4Y2VsIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGV4cG9ydCIgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgZGF0YS10eXBlPSJyb3V0ZXIiPuaooeadv+S4i+i9vTwvYT4KICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGltcG9ydCIgcm9sZT0iYnV0dG9uIiBkYXRhLXR5cGU9InJvdXRlciI+5a+85YWlRXhjZWw8L2J1dHRvbj4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAvKiAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LCAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sICN7bGVuZ3RoLGpkYmNUeXBlPURPVUJMRX0sKi8K</text>
+        <text encoding="base64">ICA8IS0tZXhjZWzkuIrkvKAtLT4KICA8ZGl2IGlkPSJtb2RhbC1pbXBvcnQtZXhjZWwiIGNsYXNzPSJtb2RhbCBmYWRlIiB0YWJpbmRleD0iLTEiIHJvbGU9ImRpYWxvZyI+CiAgICA8ZGl2IGNsYXNzPSJtb2RhbC1kaWFsb2ciIHJvbGU9ImRvY3VtZW50Ij4KICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCI+CiAgICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtaGVhZGVyIj4KICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0ibW9kYWwiIGFyaWEtbGFiZWw9IkNsb3NlIj48c3BhbgogICAgICAgICAgICAgIGFyaWEtaGlkZGVuPSJ0cnVlIj4mdGltZXM7PC9zcGFuPjwvYnV0dG9uPgogICAgICAgICAgPGg0IGNsYXNzPSJtb2RhbC10aXRsZSI+RXhjZWzkuIrkvKA8L2g0PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWJvZHkiPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wem9uZSBkei1jbGlja2FibGUiIGlkPSJpbXBvcnQiCiAgICAgICAgICAgICAgICAgICBlbmN0eXBlPSJtdWx0aXBhcnQvZm9ybS1kYXRhIgogICAgICAgICAgICAgICAgICAgbWV0aG9kPSJwb3N0IiBzdHlsZT0ibWluLWhlaWdodDogMjAwcHggIWltcG9ydGFudDsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZHotZGVmYXVsdCBkei1tZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgPHNwYW4+5re75YqgZXhjZWw8c3Bhbj7ngrnlh7vmiJbmi5bmi73mlofku7bliLDmraTlpIQ8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8Zm9ybSBpZD0idXBsb2FkZXItZm9ybSI+CiAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJmaWxlLWtleSIgbmFtZT0ia2V5Ii8+CiAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJpbXBvcnQtdHlwZSIgbmFtZT0idHlwZSIvPgogICAgICAgICAgPC9mb3JtPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWZvb3RlciI+CiAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgZGF0YS1kaXNtaXNzPSJtb2RhbCI+5Y+W5raIPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9InN5bmMiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuWQjOatpTwvYnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj48IS0tIC8ubW9kYWwtY29udGVudCAtLT4KICAgIDwvZGl2PjwhLS0gLy5tb2RhbC1kaWFsb2cgLS0+CiAgPC9kaXY+PCEtLSAvLm1vZGFsIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8IS0tICA8aWYgdGVzdD0ibnVtSW5QYWNrYWdlICE9IG51bGwiPgogICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9LAogICAgPC9pZj4tLT4K</text>
+        <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+CgkJCWNvbS54cXVhcmsuY29uZmlnLk15U2Vzc2lvbkxpc3RlbmVyCgkJPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgPCEtLSA8aWYgdGVzdD0iaGVpZ2h0ICE9IG51bGwiPgogICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgPC9pZj4KICAgIDxpZiB0ZXN0PSJ3aWR0aCAhPSBudWxsIj4KICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICA8L2lmPgogICAgPGlmIHRlc3Q9Imxlbmd0aCAhPSBudWxsIj4KICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgIDwvaWY+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbi5leHBpcmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qI3t3ZWlnaHQsamRiY1R5cGU9REVDSU1BTH0sKi8K</text>
+        <text encoding="base64">ICAgICAvKiAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LCAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sICN7bGVuZ3RoLGpkYmNUeXBlPURPVUJMRX0sKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKiAgI3tudW1JblBhY2thZ2UsamRiY1R5cGU9SU5URUdFUn0sKi8K</text>
+        <text encoding="base64">ICA8IS0tICA8aWYgdGVzdD0ibnVtSW5QYWNrYWdlICE9IG51bGwiPgogICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9LAogICAgPC9pZj4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qI3toZWlnaHQsamRiY1R5cGU9RE9VQkxFfSwKICAgICN7bGVuZ3RoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sKi8K</text>
+        <text encoding="base64">ICAgPCEtLSA8aWYgdGVzdD0iaGVpZ2h0ICE9IG51bGwiPgogICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgPC9pZj4KICAgIDxpZiB0ZXN0PSJ3aWR0aCAhPSBudWxsIj4KICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICA8L2lmPgogICAgPGlmIHRlc3Q9Imxlbmd0aCAhPSBudWxsIj4KICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgIDwvaWY+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qI3t3ZWlnaHQsamRiY1R5cGU9REVDSU1BTH0sKi8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
