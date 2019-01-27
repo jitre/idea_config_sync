@@ -32,6 +32,7 @@
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1548560930554" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -41,6 +42,7 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1548560991186" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
       </file>
@@ -65,7 +67,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/bargainProductList.html" timestamp="1548473565452" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548404064545">
         <mark key="[" line="655" column="0" />
         <mark key="]" line="655" column="0" />
@@ -106,7 +107,6 @@
         <mark key="." line="280" column="97" />
         <mark key="^" line="279" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1548467189490" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1548405092214">
         <mark key="[" line="274" column="24" />
       </file>
