@@ -15,11 +15,11 @@
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1548749544875">
-        <mark key="[" line="641" column="0" />
-        <mark key="]" line="641" column="0" />
-        <mark key="." line="641" column="0" />
-        <mark key="^" line="635" column="16" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1548751200403">
+        <mark key="[" line="652" column="0" />
+        <mark key="]" line="659" column="60" />
+        <mark key="^" line="850" column="97" />
+        <mark key="." line="850" column="97" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/fragments/common.html" timestamp="1548466026839">
         <mark key="[" line="5" column="0" />
@@ -61,12 +61,12 @@
         <mark key="]" line="795" column="0" />
         <mark key="." line="795" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548749527602">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548751309185">
         <mark key="'" line="423" column="0" />
-        <mark key="[" line="677" column="0" />
-        <mark key="]" line="677" column="0" />
-        <mark key="." line="677" column="0" />
-        <mark key="^" line="641" column="31" />
+        <mark key="[" line="679" column="0" />
+        <mark key="]" line="679" column="0" />
+        <mark key="." line="679" column="0" />
+        <mark key="^" line="679" column="50" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
@@ -137,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="36" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmTaskController.java" />
       <jump line="30" column="24" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
       <jump line="22" column="43" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmTaskVO.java" />
       <jump line="20" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
@@ -237,13 +236,14 @@
       <jump line="78" column="50" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="67" column="45" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="423" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
+      <jump line="653" column="14" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXBhcmVzZWRDb252ZXJQcmljZSB8fCAhcGFyZXNlZFByaWNlKSB7CiAgICAgICAgICBpZiAocGFyZXNlZENvbnZlclByaWNlID4gcGFyZXNlZFByaWNlKSB7CiAgICAgICAgICAgIHV0aWxzLnRvb2wuYWxlcnQoJ+WFkeaNouS7t+S4jeiDveWkp+S6juWUruS7tycpOwogICAgICAgICAgfQogICAgICAgICAgJCgiI2RlZHVjdGlvbkRQb2ludCIpLnByb3AoInZhbHVlIiwgIiIpOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29udmVyc2lvblByaWNlID0gJCgiI2NvbnZlcnNpb25QcmljZSIpLnByb3AoInZhbHVlIik7Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -258,49 +258,49 @@
         <text>conversionPrice</text>
       </register>
       <register name="/" type="4">
-        <text>https</text>
+        <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>productPrice</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCB0ciA9ICQodGhpcykucGFyZW50cygiLnNrdV9jZWxsIik7CiAgICAgICAgICBsZXQgY29udmVyc2lvblByaWNlVmFsaWQ9dHIuZmluZCgiLmNvbnZlcnNpb25QcmljZSIpLnZhbGlkKCk7CiAgICAgICAgICBsZXQgcHJpY2VWYWxpZCA9IHRyLmZpbmQoIi5wcm9kdWN0UHJpY2UiKS52YWxpZCgpOwogICAgICAgICAgaWYoIWNvbnZlcnNpb25QcmljZVZhbGlkfHwhcHJpY2VWYWxpZCl7CiAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICB9CiAgICAgICAgICBsZXQgY29udmVyc2lvblByaWNlID0gdHIuZmluZCgiLmNvbnZlcnNpb25QcmljZSIpLnByb3AoInZhbHVlIik7CiAgICAgICAgICBsZXQgcHJpY2UgPSB0ci5maW5kKCIucHJvZHVjdFByaWNlIikucHJvcCgidmFsdWUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXBhcmVzZWRDb252ZXJQcmljZSB8fCAhcGFyZXNlZFByaWNlKSB7CiAgICAgICAgICBpZiAocGFyZXNlZENvbnZlclByaWNlID4gcGFyZXNlZFByaWNlKSB7CiAgICAgICAgICAgIHV0aWxzLnRvb2wuYWxlcnQoJ+WFkeaNouS7t+S4jeiDveWkp+S6juWUruS7tycpOwogICAgICAgICAgfQogICAgICAgICAgJCgiI2RlZHVjdGlvbkRQb2ludCIpLnByb3AoInZhbHVlIiwgIiIpOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY29udmVyc2lvblByaWNlID0gJCgiI2NvbnZlcnNpb25QcmljZSIpLnByb3AoInZhbHVlIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaWNlPSAkKCIjcHJvZHVjdFByaWNlIikucHJvcCgidmFsdWUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0ciA9ICQoZWxlbWVudCkucGFyZW50cygiLnNrdV9jZWxsIik7CiAgICAgICAgICBwcmljZSA9IHRyLmZpbmQoIi5wcm9kdWN0UHJpY2UiKS5wcm9wKCJ2YWx1ZSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29kZSA9IHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnZlcnNpb25QcmljZSA9ICQoIiNjb252ZXJzaW9uUHJpY2UiKS5wcm9wKCJ2YWx1ZSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgi5ZWG5ZOB5YWR5o2i5Lu35LiN6IO95aSn5LqO5ZSu5Lu3ISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnZlcnNpb25QcmljZT12YWx1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBjb252ZXJzaW9uUHJpY2VWYWxpZD10ci5maW5kKCIuY29udmVyc2lvblByaWNlIikudmFsaWQoKTsKICAgICAgICAgIGxldCBwcmljZVZhbGlkID0gdHIuZmluZCgiLnByb2R1Y3RQcmljZSIpLnZhbGlkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIuWVhuWTgeWFkeaNouS7t+S4jeiDveWkp+S6juWUruS7tyEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKCFjb252ZXJzaW9uUHJpY2VWYWxpZHx8IXByaWNlVmFsaWQpewogICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgfQogICAgICAgICAgbGV0IGNvbnZlcnNpb25QcmljZSA9IHRyLmZpbmQoIi5jb252ZXJzaW9uUHJpY2UiKS5wcm9wKCJ2YWx1ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
       </register>
     </registers>
     <search>
-      <last-search>https</last-search>
+      <last-search encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>https</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -321,6 +321,7 @@
         <entry>permission</entry>
         <entry>list</entry>
         <entry>https</entry>
+        <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>443</entry>
