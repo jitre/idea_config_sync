@@ -58,12 +58,12 @@
         <mark key="]" line="795" column="0" />
         <mark key="." line="795" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1548752922063">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1549849203309">
         <mark key="'" line="423" column="0" />
-        <mark key="[" line="675" column="66" />
-        <mark key="]" line="675" column="65" />
-        <mark key="." line="675" column="65" />
-        <mark key="^" line="675" column="65" />
+        <mark key="[" line="675" column="102" />
+        <mark key="]" line="675" column="102" />
+        <mark key="." line="675" column="102" />
+        <mark key="^" line="675" column="102" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
         <mark key="[" line="64" column="51" />
@@ -120,7 +120,7 @@
         <mark key="." line="280" column="97" />
         <mark key="^" line="279" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1549848190496" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-dev-hds.properties" timestamp="1549849095219" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1548405092214">
         <mark key="[" line="274" column="24" />
       </file>
