@@ -58,11 +58,11 @@
       <file name="/Dummy.txt" timestamp="1549870578246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1549870083285">
-        <mark key="[" line="829" column="32" />
-        <mark key="]" line="829" column="37" />
-        <mark key="." line="829" column="37" />
-        <mark key="^" line="829" column="37" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1549961591225">
+        <mark key="[" line="502" column="16" />
+        <mark key="]" line="502" column="18" />
+        <mark key="." line="502" column="18" />
+        <mark key="^" line="502" column="18" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1549958799832">
         <mark key="[" line="149" column="28" />
