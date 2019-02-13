@@ -49,6 +49,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/form.js" timestamp="1549869337682" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/product/import.js" timestamp="1550029145960" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
       </file>
@@ -76,11 +77,11 @@
         <mark key="." line="663" column="0" />
         <mark key="^" line="657" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1548077230766">
-        <mark key="[" line="64" column="51" />
-        <mark key="]" line="64" column="53" />
-        <mark key="." line="64" column="53" />
-        <mark key="^" line="64" column="53" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/multiUpload.js" timestamp="1550029521269">
+        <mark key="[" line="160" column="6" />
+        <mark key="]" line="160" column="7" />
+        <mark key="." line="160" column="7" />
+        <mark key="^" line="160" column="7" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
@@ -91,6 +92,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/product/fileUploader.js" timestamp="1550029232059" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548404064545">
         <mark key="[" line="655" column="0" />
         <mark key="]" line="655" column="0" />
@@ -252,7 +254,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0aHVtYm5haWw9Owo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -264,7 +266,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>submit</text>
+        <text>thumbnail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
@@ -273,34 +275,34 @@
         <text encoding="base64">ICAgICAgICAgIGxldCBjb252ZXJzaW9uUHJpY2VWYWxpZD10ci5maW5kKCIuY29udmVyc2lvblByaWNlIikudmFsaWQoKTsKICAgICAgICAgIGxldCBwcmljZVZhbGlkID0gdHIuZmluZCgiLnByb2R1Y3RQcmljZSIpLnZhbGlkKCk7CiAgICAgICAgICBpZighY29udmVyc2lvblByaWNlVmFsaWR8fCFwcmljZVZhbGlkKXsKICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgIH0KICAgICAgICAgIGxldCBjb252ZXJzaW9uUHJpY2UgPSB0ci5maW5kKCIuY29udmVyc2lvblByaWNlIikucHJvcCgidmFsdWUiKTsKICAgICAgICAgIGxldCBwcmljZSA9IHRyLmZpbmQoIi5wcm9kdWN0UHJpY2UiKS5wcm9wKCJ2YWx1ZSIpOwogICAgICAgICAgbGV0IHBhcmVzZWRQcmljZSA9IE51bWJlci5wYXJzZUZsb2F0KHByaWNlKTsKICAgICAgICAgIGxldCBwYXJlc2VkQ29udmVyUHJpY2UgPSBOdW1iZXIucGFyc2VGbG9hdChjb252ZXJzaW9uUHJpY2UpOwogICAgICAgICAgbGV0IHJlc3VsdCA9ICgocGFyZXNlZFByaWNlIC0gcGFyZXNlZENvbnZlclByaWNlKSAqIDEwKS50b0ZpeGVkKDIpOwogICAgICAgICAgdHIuZmluZCgiLmRlZHVjdGlvbkRQb2ludCIpLnByb3AoInZhbHVlIiwKICAgICAgICAgICAgICByZXN1bHQgPT09IDAgPyAwLjAwIDogcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0aHVtYm5haWw9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKHR5cGVvZiBpbWdEYXRhLmZpbGVUeXBlIT0ndW5kZWZpbmVkJyYmaW1nRGF0YS5maWxlVHlwZSE9J0lNRycpewogICAgICAgICAgICBzd2l0Y2goaW1nRGF0YS5maWxlVHlwZSl7CiAgICAgICAgICAgICAgY2FzZSAnVklERU8nIDp0aHVtYm5haWw9ZGVmYXVsdFZpZGVvUGljVXJsO2JyZWFrOwogICAgICAgICAgICAgIGNhc2UgJ1BERic6dGh1bWJuYWlsPWRlZmF1bHRQZGZQaWNVcmw7YnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgdGh1bWJuYWlsPQogICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gJCgiI3NhdmUsI3N1Ym1pdCIpLm9uKCJjbGljayIsZnVuY3Rpb24oKXsKICAgICAgLy8gICAgbGV0IGxlZ2FsPSRmb3JtLnZhbGlkYXRlKCk7CiAgICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygic3VibWl0Q2FsbEJhY2siKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gJCgiI3NhdmUsI3N1Ym1pdCIpLm9uKCJjbGljayIsZnVuY3Rpb24oKXsKICAgICAgLy8gICAgbGV0IGxlZ2FsPSRmb3JtLnZhbGlkYXRlKCk7CiAgICAgIC8vIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygic3VibWl0Q2FsbEJhY2siKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgZWxlbWVudD0kKGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
