@@ -16,6 +16,13 @@
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550136755091">
+        <mark key="'" line="1215" column="58" />
+        <mark key="[" line="1215" column="63" />
+        <mark key="]" line="1215" column="57" />
+        <mark key="^" line="1215" column="57" />
+        <mark key="." line="1215" column="57" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMsgToEngineerTask.java" timestamp="1550131786402" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
         <mark key="[" line="92" column="30" />
@@ -137,7 +144,6 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/resources/logback.xml" timestamp="1550112822948" />
     </filemarks>
     <jumps>
-      <jump line="30" column="24" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
       <jump line="22" column="43" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmTaskVO.java" />
       <jump line="20" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
       <jump line="18" column="75" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
@@ -237,13 +243,14 @@
       <jump line="67" column="45" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="423" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
       <jump line="653" column="14" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="1215" column="58" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0aHVtYm5haWw9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>.addClass(&quot;itemactive&quot;)</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -255,7 +262,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>thumbnail</text>
+        <text>.addClass(&quot;itemactive&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
@@ -264,34 +271,34 @@
         <text encoding="base64">ICAgICAgICAgIGxldCBjb252ZXJzaW9uUHJpY2VWYWxpZD10ci5maW5kKCIuY29udmVyc2lvblByaWNlIikudmFsaWQoKTsKICAgICAgICAgIGxldCBwcmljZVZhbGlkID0gdHIuZmluZCgiLnByb2R1Y3RQcmljZSIpLnZhbGlkKCk7CiAgICAgICAgICBpZighY29udmVyc2lvblByaWNlVmFsaWR8fCFwcmljZVZhbGlkKXsKICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgIH0KICAgICAgICAgIGxldCBjb252ZXJzaW9uUHJpY2UgPSB0ci5maW5kKCIuY29udmVyc2lvblByaWNlIikucHJvcCgidmFsdWUiKTsKICAgICAgICAgIGxldCBwcmljZSA9IHRyLmZpbmQoIi5wcm9kdWN0UHJpY2UiKS5wcm9wKCJ2YWx1ZSIpOwogICAgICAgICAgbGV0IHBhcmVzZWRQcmljZSA9IE51bWJlci5wYXJzZUZsb2F0KHByaWNlKTsKICAgICAgICAgIGxldCBwYXJlc2VkQ29udmVyUHJpY2UgPSBOdW1iZXIucGFyc2VGbG9hdChjb252ZXJzaW9uUHJpY2UpOwogICAgICAgICAgbGV0IHJlc3VsdCA9ICgocGFyZXNlZFByaWNlIC0gcGFyZXNlZENvbnZlclByaWNlKSAqIDEwKS50b0ZpeGVkKDIpOwogICAgICAgICAgdHIuZmluZCgiLmRlZHVjdGlvbkRQb2ludCIpLnByb3AoInZhbHVlIiwKICAgICAgICAgICAgICByZXN1bHQgPT09IDAgPyAwLjAwIDogcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0aHVtYm5haWw9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKHR5cGVvZiBpbWdEYXRhLmZpbGVUeXBlIT0ndW5kZWZpbmVkJyYmaW1nRGF0YS5maWxlVHlwZSE9J0lNRycpewogICAgICAgICAgICBzd2l0Y2goaW1nRGF0YS5maWxlVHlwZSl7CiAgICAgICAgICAgICAgY2FzZSAnVklERU8nIDp0aHVtYm5haWw9ZGVmYXVsdFZpZGVvUGljVXJsO2JyZWFrOwogICAgICAgICAgICAgIGNhc2UgJ1BERic6dGh1bWJuYWlsPWRlZmF1bHRQZGZQaWNVcmw7YnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgdGh1bWJuYWlsPQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB0aHVtYm5haWw9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKHR5cGVvZiBpbWdEYXRhLmZpbGVUeXBlIT0ndW5kZWZpbmVkJyYmaW1nRGF0YS5maWxlVHlwZSE9J0lNRycpewogICAgICAgICAgICBzd2l0Y2goaW1nRGF0YS5maWxlVHlwZSl7CiAgICAgICAgICAgICAgY2FzZSAnVklERU8nIDp0aHVtYm5haWw9ZGVmYXVsdFZpZGVvUGljVXJsO2JyZWFrOwogICAgICAgICAgICAgIGNhc2UgJ1BERic6dGh1bWJuYWlsPWRlZmF1bHRQZGZQaWNVcmw7YnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgdGh1bWJuYWlsPQogICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gJCgiI3NhdmUsI3N1Ym1pdCIpLm9uKCJjbGljayIsZnVuY3Rpb24oKXsKICAgICAgLy8gICAgbGV0IGxlZ2FsPSRmb3JtLnZhbGlkYXRlKCk7CiAgICAgIC8vIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygic3VibWl0Q2FsbEJhY2siKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gJCgiI3NhdmUsI3N1Ym1pdCIpLm9uKCJjbGljayIsZnVuY3Rpb24oKXsKICAgICAgLy8gICAgbGV0IGxlZ2FsPSRmb3JtLnZhbGlkYXRlKCk7CiAgICAgIC8vIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygic3VibWl0Q2FsbEJhY2siKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgaWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgaWYK</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
