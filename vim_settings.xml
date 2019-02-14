@@ -9,18 +9,14 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/QyhUserMapper.xml" timestamp="1550132423618" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1548320664662">
         <mark key="[" line="2816" column="70" />
         <mark key="]" line="2816" column="70" />
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550126701634">
-        <mark key="[" line="1325" column="41" />
-        <mark key="]" line="1325" column="56" />
-        <mark key="." line="1325" column="56" />
-        <mark key="^" line="1325" column="56" />
-      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMsgToEngineerTask.java" timestamp="1550131786402" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
         <mark key="[" line="92" column="30" />
         <mark key="]" line="154" column="0" />
