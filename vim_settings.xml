@@ -15,18 +15,14 @@
         <mark key="." line="2816" column="70" />
         <mark key="^" line="2816" column="107" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550213072883">
-        <mark key="[" line="1265" column="0" />
-        <mark key="]" line="1265" column="0" />
-        <mark key="." line="1265" column="0" />
-        <mark key="^" line="1268" column="94" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550220562099">
+        <mark key="'" line="1325" column="34" />
+        <mark key="[" line="1325" column="76" />
+        <mark key="]" line="1325" column="107" />
+        <mark key="." line="1325" column="107" />
+        <mark key="^" line="1325" column="107" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMsgToEngineerTask.java" timestamp="1550210804339" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Sku.java" timestamp="1548299753608">
-        <mark key="[" line="92" column="30" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -53,7 +49,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549870578246">
+      <file name="/Dummy.txt" timestamp="1550221213802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1550208191504">
@@ -62,12 +58,13 @@
         <mark key="." line="502" column="18" />
         <mark key="^" line="502" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1549958799832">
-        <mark key="[" line="149" column="28" />
-        <mark key="]" line="157" column="84" />
-        <mark key="." line="157" column="84" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550220773053">
+        <mark key="[" line="272" column="26" />
+        <mark key="]" line="272" column="26" />
+        <mark key="." line="272" column="26" />
+        <mark key="^" line="272" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550209821534">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550221156287">
         <mark key="'" line="463" column="0" />
         <mark key="[" line="788" column="41" />
         <mark key="]" line="788" column="44" />
@@ -90,11 +87,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1548404064545">
-        <mark key="[" line="655" column="0" />
-        <mark key="]" line="655" column="0" />
-        <mark key="." line="655" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" timestamp="1548473580177">
         <mark key="'" line="63" column="45" />
         <mark key="[" line="1" column="33" />
@@ -102,21 +94,11 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/SkuForm.java" timestamp="1548318585745">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1548384365055">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="16" />
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/packageRainConfig.html" timestamp="1548466066101">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1550210771680" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
@@ -145,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="43" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmTaskVO.java" />
       <jump line="20" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
       <jump line="18" column="75" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmQuestionMapper.xml" />
       <jump line="342" column="33" filename="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmTaskController.java" />
@@ -245,13 +226,14 @@
       <jump line="423" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
       <jump line="653" column="14" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="1215" column="58" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="1325" column="34" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIiIpOwogICAgICAgICAgICAgICAgICAvLyBsZXQgc2t1QXR0ckluZm8gPSAkKCIuc2t1X2l0ZW0gYSIpLmF0dHIoImRhdGEtaWQiLGl0ZW0uYXR0cmlidXRlcy5zcGxpdCgiLSIpWzBdKTsKICAgICAgICAgICAgICAgICAgLy8gc2t1QXR0ckluZm8ucHJldigiLmR6X3ByZXZpZXciKS5hdHRyKCJkYXRhLWltZyIsaXRlbS5za3VJbWcpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -269,37 +251,37 @@
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$(&quot;.sku_tablecell&quot;).find(&quot;.operation&quot;)</text>
+        <text>item.skuImg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIiIpOwogICAgICAgICAgICAgICAgICAvLyBsZXQgc2t1QXR0ckluZm8gPSAkKCIuc2t1X2l0ZW0gYSIpLmF0dHIoImRhdGEtaWQiLGl0ZW0uYXR0cmlidXRlcy5zcGxpdCgiLSIpWzBdKTsKICAgICAgICAgICAgICAgICAgLy8gc2t1QXR0ckluZm8ucHJldigiLmR6X3ByZXZpZXciKS5hdHRyKCJkYXRhLWltZyIsaXRlbS5za3VJbWcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIOihqOagvOWIoOmZpOaMiemSriAqLwogICAgICAgICAgICAgICAgJCgiLnNrdV90YWJsZWNlbGwiKS5maW5kKCIub3BlcmF0aW9uIikub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICBsZXQgc2t1RGVsID0gY29uZmlybSgi6K+l57uE6KeE5qC85Yig6Zmk5ZCOLOWwhuS4jeWPr+aBouWkjSznoa7orqTopoHliKDpmaTlkJc/Iik7CiAgICAgICAgICAgICAgICAgIHNrdURlbCA9PSB0cnVlID8gJCh0aGlzKS5wYXJlbnRzKCIuc2t1X2NlbGwiKS5yZW1vdmUoKSA6IGNvbnNvbGUubG9nKCLlj5bmtojliKDpmaQiKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gLy/nu5lh5qCH562+55qE5LiK5LiA5Liq5YWE5byf5YWD57Sg5re75YqgZGF0YS1pbWflsZ7mgKcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLyog6K6+572uZHpfcHJldmlld+eahGRhdGEtaW1nIOWxnuaApyAqLwogICAgICAgICAgICAgICAgICAvL+aJvuWIsGRvbeS4rWRhdGEtaWTkuLp4eOeahGEg5qCH562+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIOihqOagvOWIoOmZpOaMiemSriAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIOihqOagvOWIoOmZpOaMiemSriAqLwogICAgICAgICAgICAgICAgJCgiLnNrdV90YWJsZWNlbGwiKS5maW5kKCIub3BlcmF0aW9uIikub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICBsZXQgc2t1RGVsID0gY29uZmlybSgi6K+l57uE6KeE5qC85Yig6Zmk5ZCOLOWwhuS4jeWPr+aBouWkjSznoa7orqTopoHliKDpmaTlkJc/Iik7CiAgICAgICAgICAgICAgICAgIHNrdURlbCA9PSB0cnVlID8gJCh0aGlzKS5wYXJlbnRzKCIuc2t1X2NlbGwiKS5yZW1vdmUoKSA6IGNvbnNvbGUubG9nKCLlj5bmtojliKDpmaQiKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiDooajmoLzliKDpmaTmjInpkq4gKi8KICAgICAgICAkKCIuc2t1X3RhYmxlY2VsbCIpLmZpbmQoIi5vcGVyYXRpb24iKS5vbignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgc2t1RGVsID0gY29uZmlybSgi6K+l57uE6KeE5qC85Yig6Zmk5ZCOLOWwhuS4jeWPr+aBouWkjSznoa7orqTopoHliKDpmaTlkJc/Iik7CiAgICAgICAgICBza3VEZWwgPT0gdHJ1ZSA/ICQodGhpcykucGFyZW50cygiLnNrdV9jZWxsIikucmVtb3ZlKCkgOiBjb25zb2xlLmxvZygi5Y+W5raI5Yig6ZmkIik7OwogICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyogICAgICAgIGxldCBjZWxsc1RlbXA9OwogICAgICAgIGNlbGxzVGVtcC5vZmYoImNsaWNrIikub24oImNsaWNrIiwgZnVuY3Rpb24gKCkgewogICAgICAgIH0pKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIOihqOagvOWIoOmZpOaMiemSriAqLwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBza3VEZWwgPSBjb25maXJtKCLor6Xnu4Top4TmoLzliKDpmaTlkI4s5bCG5LiN5Y+v5oGi5aSNLOehruiupOimgeWIoOmZpOWQlz8iKTsKICAgICAgICAgIHNrdURlbD09dHJ1ZT8gJCh0aGlzKS5wYXJlbnRzKCIuc2t1X2NlbGwiKS5yZW1vdmUoKTpjb25zb2xlLmxvZygi5Y+W5raI5Yig6ZmkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiDooajmoLzliKDpmaTmjInpkq4gKi8KICAgICAgICAkKCIuc2t1X3RhYmxlY2VsbCIpLmZpbmQoIi5vcGVyYXRpb24iKS5vbignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICBsZXQgc2t1RGVsID0gY29uZmlybSgi6K+l57uE6KeE5qC85Yig6Zmk5ZCOLOWwhuS4jeWPr+aBouWkjSznoa7orqTopoHliKDpmaTlkJc/Iik7CiAgICAgICAgICBza3VEZWwgPT0gdHJ1ZSA/ICQodGhpcykucGFyZW50cygiLnNrdV9jZWxsIikucmVtb3ZlKCkgOiBjb25zb2xlLmxvZygi5Y+W5raI5Yig6ZmkIik7OwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
