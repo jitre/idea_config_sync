@@ -9,12 +9,12 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550486422160">
-        <mark key="'" line="1398" column="0" />
-        <mark key="[" line="1451" column="97" />
-        <mark key="]" line="1451" column="101" />
-        <mark key="." line="1451" column="101" />
-        <mark key="^" line="1451" column="101" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550486531602">
+        <mark key="'" line="1397" column="0" />
+        <mark key="[" line="781" column="93" />
+        <mark key="]" line="781" column="101" />
+        <mark key="." line="781" column="93" />
+        <mark key="^" line="781" column="96" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
@@ -227,8 +227,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNrdVNwZWMucHVzaChwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>items[i]</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -245,8 +245,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnRpZXMuZm9yRWFjaChmdW5jdGlvbihwKXsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoLTE9PXByb2R1Y3REYXRhUHJvcGVydHlOYW1lLmluZGV4T2YocCkmJnAhPT0nX19yb3dOdW1fXycpewogICAgICAgICAgICAgICAgICAgICAgICAgIHNrdVNwZWMucHVzaChwKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>items[i]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNrdVNwZWMucHVzaChwKTsK</text>
