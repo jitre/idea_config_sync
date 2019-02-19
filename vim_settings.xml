@@ -9,13 +9,6 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550493165372">
-        <mark key="'" line="1041" column="22" />
-        <mark key="[" line="1385" column="43" />
-        <mark key="]" line="1385" column="44" />
-        <mark key="." line="1385" column="44" />
-        <mark key="^" line="1385" column="44" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -28,20 +21,14 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1550493693528">
-        <mark key="'" line="96" column="26" />
-        <mark key="[" line="124" column="51" />
-        <mark key="]" line="124" column="56" />
-        <mark key="^" line="124" column="56" />
-        <mark key="." line="124" column="56" />
-      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1550539525841" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1548241089316">
         <mark key="[" line="401" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550461860184">
+      <file name="/Dummy.txt" timestamp="1550539058686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550220773053">
@@ -117,7 +104,6 @@
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/config.js" timestamp="1550470499522">
         <mark key="[" line="158" column="6" />
-        <mark key="]" line="160" column="6" />
         <mark key="^" line="50" column="35" />
         <mark key="." line="158" column="0" />
       </file>
