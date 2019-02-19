@@ -46,7 +46,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550557885236">
+      <file name="/Dummy.txt" timestamp="1550570306056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
@@ -57,10 +57,6 @@
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550569644091">
         <mark key="'" line="468" column="0" />
-        <mark key="[" line="780" column="39" />
-        <mark key="]" line="780" column="36" />
-        <mark key="." line="780" column="36" />
-        <mark key="^" line="780" column="36" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550557292003" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
