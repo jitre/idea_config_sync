@@ -9,22 +9,19 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="/PromotionCouponVo.java" timestamp="1550542160872" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/error/GlobalErrorCode.java" timestamp="1550547182306" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550634288927" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/authentication/MobilePhoneAuthenticationProvider.java" timestamp="1550547163630" />
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1550539525841" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/PromotionCouponVo.java" timestamp="1550542123071">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -58,7 +55,6 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550569644091">
         <mark key="'" line="468" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550557292003" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
@@ -92,7 +88,6 @@
         <mark key="." line="110" column="12" />
         <mark key="^" line="110" column="12" />
       </file>
-      <file name="/OrderServiceImpl.java" timestamp="1550541291437" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1548405092214">
         <mark key="[" line="274" column="24" />
       </file>
@@ -102,11 +97,9 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1550555745299" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1550555826589" />
     </filemarks>
     <jumps>
       <jump line="145" column="23" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
