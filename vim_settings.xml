@@ -9,15 +9,30 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" timestamp="1550634557610">
+        <mark key="'" line="232" column="4" />
+        <mark key="[" line="270" column="5" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550634288927" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550634891916">
+        <mark key="[" line="551" column="55" />
+        <mark key="]" line="551" column="66" />
+        <mark key="^" line="551" column="66" />
+        <mark key="." line="551" column="66" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/vo/ProductVO.java" timestamp="1550634528174">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="53" column="40" />
       </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
@@ -102,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="23" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="114" column="17" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="129" column="51" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="131" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
@@ -202,13 +216,14 @@
       <jump line="1397" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="1041" column="22" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="96" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" />
+      <jump line="232" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!repeatCount</text>
+        <text>userId</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -220,43 +235,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>!repeatCount</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>deductionDPoint</text>
+        <text>user.getId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0PWZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIAlTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGxldCBqPTA7ajxza3VDb2Rlcy5sZW5ndGgmJiFyZXN1bHQ7aisrKXsKICAgICAgICAgICAgICBpZihpIT09ail7CiAgICAgICAgICAgICAgICBsZXQgdjI9JChza3VDb2Rlcy5nZXQoaikpLnByb3AoInZhbHVlIik7CiAgICAgICAgICAgICAgICBpZih2MSE9JycmJiB2MiE9JycgJiYgdjE9PT12Mil7CiAgICAgICAgICAgICAgICAgIHJlc3VsdD10cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgLy9ub3RoaW5nCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">cHJvZHVjdEJhc2ljVk8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWN0aXZlVHlwZSBhY3RpdmVUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0PWZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuZGFsLnN0YXR1cy5TZXJ2aWNlRmVlU3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuZGFsLnZvLkNvdXBvblN0YXRpc3RpY3NWTzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGxldCBqPTA7ajxza3VDb2Rlcy5sZW5ndGgmJiFyZXN1bHQ7aisrKXsKICAgICAgICAgICAgICBpZihpIT09ail7CiAgICAgICAgICAgICAgICBsZXQgdjI9JChza3VDb2Rlcy5nZXQoaikpLnByb3AoInZhbHVlIik7CiAgICAgICAgICAgICAgICBpZih2MSE9JycmJiB2MiE9JycgJiYgdjE9PT12Mil7CiAgICAgICAgICAgICAgICAgIHJlc3VsdD10cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgLy9ub3RoaW5nCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWN0aXZlVHlwZSBhY3RpdmVUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWN0aXZlVHlwZSBhY3RpdmVUeXBlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
