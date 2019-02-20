@@ -9,7 +9,7 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" timestamp="1550634557610">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" timestamp="1550642600338">
         <mark key="'" line="232" column="4" />
         <mark key="[" line="270" column="5" />
         <mark key="]" line="232" column="0" />
@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550641332952">
-        <mark key="[" line="551" column="55" />
-        <mark key="]" line="551" column="66" />
-        <mark key="^" line="551" column="66" />
-        <mark key="." line="551" column="66" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550642807052">
+        <mark key="[" line="558" column="0" />
+        <mark key="]" line="558" column="0" />
+        <mark key="^" line="532" column="31" />
+        <mark key="." line="558" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
         <mark key="[" line="3" column="0" />
@@ -47,6 +47,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550642437776" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
         <mark key="[" line="57" column="26" />
       </file>
@@ -58,7 +59,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550570306056">
+      <file name="/Dummy.txt" timestamp="1550643014284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
@@ -222,8 +223,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>userId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -235,7 +236,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
@@ -244,34 +245,34 @@
         <text>user.getId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAlTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvbW90aW9uIGNhblVzZVByb21vdGlvbiA9IGZ1bGxDdXRTZXJ2aWNlCiAgICAgICAgICAgICAgICAuc2VsZWN0Q2FuVXNlUHJvbW90aW9uKHZvLmdldElkKCksIHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIGlmIChjYW5Vc2VQcm9tb3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgYm9vbGVhbiBpc0ZpcnN0ID0gY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLkZJUlNUX0ZJTFRFUjsKICAgICAgICAgICAgICAgIGlmIChpc0ZpcnN0ICYmIGNhblVzZVByb21vdGlvbi5nZXROb3RGaXJzdEZpbHRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLklOU0lERV9CVVkKICAgICAgICAgICAgICAgICAgICAmJiAhKChVc2VyRW1wbG95ZWVWTykgdXNlcikuZ2V0SXNFbXBsb3llZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2by5zZXRDYW5Vc2VQcm9tb3Rpb24oY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSk7CiAgICAgICAgICAgICAgICB2by5zZXRQcm9tb3Rpb25QcmljZShpc0ZpcnN0ID8gY2FuVXNlUHJvbW90aW9uLmdldERpc2NvdW50VG90YWwoKQogICAgICAgICAgICAgICAgICAgIDogdm8uZ2V0UHJpY2UoKS5tdWx0aXBseShjYW5Vc2VQcm9tb3Rpb24uZ2V0UmVhbERpc2NvdW50KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kaXZpZGUoQmlnRGVjaW1hbC52YWx1ZU9mKDEwKSwgMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX0VWRU4pKTsKICAgICAgICAgICAgICAgIHZvLnNldFNob3dQcm9tb3Rpb25UYWcodHJ1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgYm9vbGVhbiBpc1JlZ2lzdGVyZWQgPSB1c2VyU2VydmljZS5pc1JlZ2lzdGVkRW1wbG95ZWUoZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKSk7Ci8vICAgICAgICAgICAgaWYgKCFpc1JlZ2lzdGVyZWQpewogICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7Ci8vICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvZHVjdEJhc2ljVk8K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHZvLnNldEZpbHRlcnMoKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0PWZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIAlTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGxldCBqPTA7ajxza3VDb2Rlcy5sZW5ndGgmJiFyZXN1bHQ7aisrKXsKICAgICAgICAgICAgICBpZihpIT09ail7CiAgICAgICAgICAgICAgICBsZXQgdjI9JChza3VDb2Rlcy5nZXQoaikpLnByb3AoInZhbHVlIik7CiAgICAgICAgICAgICAgICBpZih2MSE9JycmJiB2MiE9JycgJiYgdjE9PT12Mil7CiAgICAgICAgICAgICAgICAgIHJlc3VsdD10cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgLy9ub3RoaW5nCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">cHJvZHVjdEJhc2ljVk8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWN0aXZlVHlwZSBhY3RpdmVUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0PWZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
