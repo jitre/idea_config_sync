@@ -41,7 +41,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/form.js" timestamp="1550720062239" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1550716069158" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1550721471112">
+        <mark key="'" line="1692" column="57" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="63" column="37" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
         <mark key="]" line="204" column="27" />
@@ -72,6 +78,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/CemDataType.java" timestamp="1550721457629" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
@@ -110,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="148" column="0" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="144" column="48" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="7" column="65" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
@@ -210,13 +216,14 @@
       <jump line="232" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="1351" column="4" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="1691" column="57" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>UserPartnerType</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -228,13 +235,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IuaXoCIuZXF1YWxzKHRoaXMuc2t1U3RyKSA/IA==</text>
+        <text>UserPartnerType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>user.getId()</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuZGFsLnR5cGUuVXNlclBhcnRuZXJUeXBlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
