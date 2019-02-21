@@ -95,8 +95,11 @@
         <mark key="." line="110" column="12" />
         <mark key="^" line="110" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1548405092214">
-        <mark key="[" line="274" column="24" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1550737671039">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_190122.sql" timestamp="1548300513934">
         <mark key="[" line="12" column="2" />
@@ -266,7 +269,7 @@
         <text encoding="base64">ICAgICAgICAgICAgUHJvbW90aW9uIGNhblVzZVByb21vdGlvbiA9IGZ1bGxDdXRTZXJ2aWNlCiAgICAgICAgICAgICAgICAuc2VsZWN0Q2FuVXNlUHJvbW90aW9uKHZvLmdldElkKCksIHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIGlmIChjYW5Vc2VQcm9tb3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgYm9vbGVhbiBpc0ZpcnN0ID0gY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLkZJUlNUX0ZJTFRFUjsKICAgICAgICAgICAgICAgIGlmIChpc0ZpcnN0ICYmIGNhblVzZVByb21vdGlvbi5nZXROb3RGaXJzdEZpbHRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLklOU0lERV9CVVkKICAgICAgICAgICAgICAgICAgICAmJiAhKChVc2VyRW1wbG95ZWVWTykgdXNlcikuZ2V0SXNFbXBsb3llZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2by5zZXRDYW5Vc2VQcm9tb3Rpb24oY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSk7CiAgICAgICAgICAgICAgICB2by5zZXRQcm9tb3Rpb25QcmljZShpc0ZpcnN0ID8gY2FuVXNlUHJvbW90aW9uLmdldERpc2NvdW50VG90YWwoKQogICAgICAgICAgICAgICAgICAgIDogdm8uZ2V0UHJpY2UoKS5tdWx0aXBseShjYW5Vc2VQcm9tb3Rpb24uZ2V0UmVhbERpc2NvdW50KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kaXZpZGUoQmlnRGVjaW1hbC52YWx1ZU9mKDEwKSwgMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX0VWRU4pKTsKICAgICAgICAgICAgICAgIHZvLnNldFNob3dQcm9tb3Rpb25UYWcodHJ1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgYm9vbGVhbiBpc1JlZ2lzdGVyZWQgPSB1c2VyU2VydmljZS5pc1JlZ2lzdGVkRW1wbG95ZWUoZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKSk7Ci8vICAgICAgICAgICAgaWYgKCFpc1JlZ2lzdGVyZWQpewogICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7Ci8vICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1031</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -314,8 +317,8 @@
         <entry>86</entry>
         <entry>94</entry>
         <entry>93</entry>
-        <entry>wq</entry>
         <entry>1031</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
