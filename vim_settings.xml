@@ -71,6 +71,7 @@
         <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/CemDataType.java" timestamp="1550721457629" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1550738862167" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
