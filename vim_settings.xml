@@ -15,6 +15,9 @@
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550719070056">
+        <mark key="'" line="1351" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -47,6 +50,7 @@
       <file name="/Dummy.txt" timestamp="1550715888296">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1550719022923" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="54" />
@@ -100,8 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="17" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
-      <jump line="129" column="51" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="131" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="148" column="0" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
       <jump line="144" column="48" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
@@ -200,6 +202,8 @@
       <jump line="1041" column="22" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="96" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" />
       <jump line="232" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
+      <jump line="1351" column="4" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
