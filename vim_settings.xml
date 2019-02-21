@@ -12,9 +12,6 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550732416807">
         <mark key="[" line="186" column="156" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550719070056">
-        <mark key="'" line="4" column="4" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -41,6 +38,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/form.js" timestamp="1550720062239" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550741365985">
+        <mark key="[" line="3063" column="57" />
+        <mark key="]" line="3063" column="14" />
+        <mark key="^" line="3063" column="14" />
+        <mark key="." line="3063" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
         <mark key="]" line="204" column="27" />
@@ -71,15 +74,15 @@
         <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/CemDataType.java" timestamp="1550721457629" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1550738862167" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1550741260816" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
         <mark key="^" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550454738335">
-        <mark key="[" line="2286" column="23" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550741327461">
+        <mark key="[" line="2206" column="29" />
         <mark key="]" line="2287" column="12" />
         <mark key="^" line="2287" column="12" />
         <mark key="." line="2287" column="12" />
