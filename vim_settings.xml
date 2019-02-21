@@ -15,7 +15,6 @@
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_180815.sql" timestamp="1550646306868" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -25,7 +24,6 @@
         <mark key="^" line="532" column="31" />
         <mark key="." line="558" column="0" />
       </file>
-      <file name="/ProductMapper.xml" timestamp="1550645441156" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -38,10 +36,6 @@
       </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550642437776" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1548230096054">
-        <mark key="[" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
@@ -67,7 +61,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-uat-hds.properties" timestamp="1550646781236" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
