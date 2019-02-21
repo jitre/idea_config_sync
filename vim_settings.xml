@@ -16,7 +16,7 @@
         <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550719070056">
-        <mark key="'" line="1351" column="4" />
+        <mark key="'" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
@@ -40,6 +40,7 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/form.js" timestamp="1550720062239" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1550716069158" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
@@ -50,12 +51,17 @@
       <file name="/Dummy.txt" timestamp="1550715888296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1550719022923" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1550720438571" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="54" />
         <mark key="." line="68" column="54" />
         <mark key="^" line="68" column="54" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550720471350">
+        <mark key="[" line="794" column="0" />
+        <mark key="]" line="794" column="0" />
+        <mark key="." line="794" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
@@ -237,28 +243,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6IHRoaXMucHJvZHVjdE5hbWUgKyAiWyIgKyB0aGlzLnNrdVN0ciArICJdIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvbW90aW9uIGNhblVzZVByb21vdGlvbiA9IGZ1bGxDdXRTZXJ2aWNlCiAgICAgICAgICAgICAgICAuc2VsZWN0Q2FuVXNlUHJvbW90aW9uKHZvLmdldElkKCksIHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIGlmIChjYW5Vc2VQcm9tb3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgYm9vbGVhbiBpc0ZpcnN0ID0gY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLkZJUlNUX0ZJTFRFUjsKICAgICAgICAgICAgICAgIGlmIChpc0ZpcnN0ICYmIGNhblVzZVByb21vdGlvbi5nZXROb3RGaXJzdEZpbHRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLklOU0lERV9CVVkKICAgICAgICAgICAgICAgICAgICAmJiAhKChVc2VyRW1wbG95ZWVWTykgdXNlcikuZ2V0SXNFbXBsb3llZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2by5zZXRDYW5Vc2VQcm9tb3Rpb24oY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSk7CiAgICAgICAgICAgICAgICB2by5zZXRQcm9tb3Rpb25QcmljZShpc0ZpcnN0ID8gY2FuVXNlUHJvbW90aW9uLmdldERpc2NvdW50VG90YWwoKQogICAgICAgICAgICAgICAgICAgIDogdm8uZ2V0UHJpY2UoKS5tdWx0aXBseShjYW5Vc2VQcm9tb3Rpb24uZ2V0UmVhbERpc2NvdW50KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kaXZpZGUoQmlnRGVjaW1hbC52YWx1ZU9mKDEwKSwgMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX0VWRU4pKTsKICAgICAgICAgICAgICAgIHZvLnNldFNob3dQcm9tb3Rpb25UYWcodHJ1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgYm9vbGVhbiBpc1JlZ2lzdGVyZWQgPSB1c2VyU2VydmljZS5pc1JlZ2lzdGVkRW1wbG95ZWUoZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKSk7Ci8vICAgICAgICAgICAgaWYgKCFpc1JlZ2lzdGVyZWQpewogICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7Ci8vICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc2t1Q29kZXM9JCgiLnNrdV90YWJsZSIpLmZpbmQoIi5za3VDb2RlIik7CiAgICAgICAgbGV0IHJlcGVhdENvdW50PTA7CiAgICAgICAgZm9yKGxldCBpPTA7aTxza3VDb2Rlcy5sZW5ndGg7aSsrKXsKICAgICAgICAgICAgbGV0IHY9JChza3VDb2Rlcy5nZXQoaSkpLnByb3AoInZhbHVlIik7CiAgICAgICAgICAgIGlmKHYpewogICAgICAgICAgICAgIGlmKHY9PXZhbHVlKXsKICAgICAgICAgICAgICAgICsrcmVwZWF0Q291bnQ7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0aGlzLm9wdGlvbmFsKGVsZW1lbnQpIHx8IHJlcGVhdENvdW50PT09MTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHZvLnNldEZpbHRlcnMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAlTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICA6IHRoaXMucHJvZHVjdE5hbWUgKyAiWyIgKyB0aGlzLnNrdVN0ciArICJdIjsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvZHVjdEJhc2ljVk8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvbW90aW9uIGNhblVzZVByb21vdGlvbiA9IGZ1bGxDdXRTZXJ2aWNlCiAgICAgICAgICAgICAgICAuc2VsZWN0Q2FuVXNlUHJvbW90aW9uKHZvLmdldElkKCksIHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIGlmIChjYW5Vc2VQcm9tb3Rpb24gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgYm9vbGVhbiBpc0ZpcnN0ID0gY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLkZJUlNUX0ZJTFRFUjsKICAgICAgICAgICAgICAgIGlmIChpc0ZpcnN0ICYmIGNhblVzZVByb21vdGlvbi5nZXROb3RGaXJzdEZpbHRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSA9PSBQcm9tb3Rpb25UeXBlLklOU0lERV9CVVkKICAgICAgICAgICAgICAgICAgICAmJiAhKChVc2VyRW1wbG95ZWVWTykgdXNlcikuZ2V0SXNFbXBsb3llZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2by5zZXRDYW5Vc2VQcm9tb3Rpb24oY2FuVXNlUHJvbW90aW9uLmdldFR5cGUoKSk7CiAgICAgICAgICAgICAgICB2by5zZXRQcm9tb3Rpb25QcmljZShpc0ZpcnN0ID8gY2FuVXNlUHJvbW90aW9uLmdldERpc2NvdW50VG90YWwoKQogICAgICAgICAgICAgICAgICAgIDogdm8uZ2V0UHJpY2UoKS5tdWx0aXBseShjYW5Vc2VQcm9tb3Rpb24uZ2V0UmVhbERpc2NvdW50KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kaXZpZGUoQmlnRGVjaW1hbC52YWx1ZU9mKDEwKSwgMiwgQmlnRGVjaW1hbC5ST1VORF9IQUxGX0VWRU4pKTsKICAgICAgICAgICAgICAgIHZvLnNldFNob3dQcm9tb3Rpb25UYWcodHJ1ZSk7CiAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgYm9vbGVhbiBpc1JlZ2lzdGVyZWQgPSB1c2VyU2VydmljZS5pc1JlZ2lzdGVkRW1wbG95ZWUoZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKSk7Ci8vICAgICAgICAgICAgaWYgKCFpc1JlZ2lzdGVyZWQpewogICAgICAgICAgICAgICAgdm8uc2V0U2hvd1Byb21vdGlvblRhZyhmYWxzZSk7Ci8vICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1031</text>
