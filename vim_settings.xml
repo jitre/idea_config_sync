@@ -50,19 +50,11 @@
         <mark key="." line="204" column="27" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550742387765">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="54" />
         <mark key="." line="68" column="54" />
         <mark key="^" line="68" column="54" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550720471350">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
@@ -75,6 +67,12 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/CemDataType.java" timestamp="1550721457629" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1550741260816" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/im/OrderItemEx.java" timestamp="1550744804309">
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="26" />
+        <mark key="." line="114" column="26" />
+        <mark key="^" line="114" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
@@ -114,6 +112,7 @@
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/OrderItem.java" timestamp="1550744770753" />
     </filemarks>
     <jumps>
       <jump line="144" column="48" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
@@ -222,7 +221,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PaymentMode</text>
+        <text>+ &quot;[&quot; + this.skuStr + &quot;]&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -234,7 +233,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>PaymentMode</text>
+        <text>+ &quot;[&quot; + this.skuStr + &quot;]&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
