@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550642807052">
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="558" column="0" />
-        <mark key="^" line="532" column="31" />
-        <mark key="." line="558" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550736689405">
+        <mark key="[" line="548" column="35" />
+        <mark key="]" line="559" column="0" />
+        <mark key="^" line="533" column="31" />
+        <mark key="." line="559" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1550722420188">
         <mark key="'" line="1620" column="66" />
@@ -47,7 +47,7 @@
         <mark key="." line="204" column="27" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550732554267">
+      <file name="/Dummy.txt" timestamp="1550736708380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
