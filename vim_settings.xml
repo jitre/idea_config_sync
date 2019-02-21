@@ -9,11 +9,8 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" timestamp="1550642600338">
-        <mark key="'" line="232" column="4" />
-        <mark key="[" line="270" column="5" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550732416807">
+        <mark key="[" line="186" column="156" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550719070056">
         <mark key="'" line="4" column="4" />
@@ -50,10 +47,9 @@
         <mark key="." line="204" column="27" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550722607474">
+      <file name="/Dummy.txt" timestamp="1550732554267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductEdit.html" timestamp="1550720438571" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="54" />
@@ -61,9 +57,9 @@
         <mark key="^" line="68" column="54" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550720471350">
-        <mark key="[" line="794" column="0" />
-        <mark key="]" line="794" column="0" />
-        <mark key="." line="794" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
