@@ -10,12 +10,6 @@
         <mark key="." line="382" column="33" />
       </file>
       <file name="/CartItemVO.java" timestamp="1550807961915" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550827421549">
-        <mark key="[" line="2829" column="89" />
-        <mark key="]" line="2829" column="89" />
-        <mark key="^" line="2829" column="89" />
-        <mark key="." line="2829" column="89" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550806348072">
         <mark key="[" line="1040" column="30" />
         <mark key="]" line="1044" column="41" />
@@ -63,7 +57,7 @@
         <mark key="." line="204" column="27" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550828615455">
+      <file name="/Dummy.txt" timestamp="1550831374703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/cart/CartController.java" timestamp="1550807733935" />
@@ -88,7 +82,6 @@
         <mark key="^" line="310" column="62" />
         <mark key="." line="310" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550830903449" />
       <file name="$USER_HOME$/Project/github/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCustomFormMapper.xml" timestamp="1550824270565" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
