@@ -41,6 +41,7 @@
         <mark key="." line="130" column="55" />
         <mark key="^" line="130" column="55" />
       </file>
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmUserCustomController.java" timestamp="1550823417223" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550741365985">
         <mark key="[" line="3063" column="57" />
         <mark key="]" line="3063" column="14" />
@@ -48,7 +49,7 @@
         <mark key="." line="3063" column="14" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1550807691207" />
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCustomController.java" timestamp="1550822806902" />
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCustomController.java" timestamp="1550824129644" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
         <mark key="]" line="204" column="27" />
@@ -73,6 +74,7 @@
         <mark key="'" line="111" column="54" />
         <mark key="^" line="319" column="23" />
       </file>
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCustomFormMapper.xml" timestamp="1550824270565" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig.js" timestamp="1548466304135">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="33" />
@@ -97,6 +99,7 @@
         <mark key="^" line="2287" column="12" />
         <mark key="." line="2287" column="12" />
       </file>
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmCustomController.java" timestamp="1550824327967" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
