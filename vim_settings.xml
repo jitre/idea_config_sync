@@ -48,6 +48,7 @@
         <mark key="." line="3063" column="14" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1550807691207" />
+      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCustomController.java" timestamp="1550822806902" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
         <mark key="]" line="204" column="27" />
