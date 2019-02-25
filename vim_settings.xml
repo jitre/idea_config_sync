@@ -3,14 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1551086455869">
+      <file name="/Dummy.txt" timestamp="1551094656443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551087918150">
+      <file name="find.xml" timestamp="1548378588563">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551094592870">
         <mark key="[" line="1262" column="21" />
         <mark key="]" line="1277" column="27" />
         <mark key="." line="1277" column="27" />
         <mark key="^" line="1277" column="27" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1551094310804">
+        <mark key="[" line="268" column="22" />
+        <mark key="]" line="268" column="27" />
+        <mark key="." line="268" column="27" />
+        <mark key="^" line="268" column="27" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1551082902284">
         <mark key="'" line="111" column="54" />
@@ -30,9 +39,6 @@
         <mark key="]" line="93" column="18" />
         <mark key="^" line="93" column="18" />
         <mark key="." line="93" column="18" />
-      </file>
-      <file name="find.xml" timestamp="1548378588563">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
@@ -144,8 +150,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>weight</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -157,13 +163,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>findAttributeByProductId</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYoaXRlbS5hbW91bnQ9PT0tMTAwMSl7Ly/mjpLmn6XlgYfmlbDmja4K</text>
+        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9IndlaWdodCI+CiAgICAgICAgd2VpZ2h0ID0gI3t3ZWlnaHR9LAogICAgICA8L2lmPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
