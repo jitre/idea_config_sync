@@ -9,14 +9,12 @@
         <mark key="^" line="382" column="33" />
         <mark key="." line="382" column="33" />
       </file>
-      <file name="/CartItemVO.java" timestamp="1550807961915" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550806348072">
         <mark key="[" line="1040" column="30" />
         <mark key="]" line="1044" column="41" />
         <mark key="^" line="1044" column="41" />
         <mark key="." line="1044" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1550827648724" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
       </file>
@@ -35,33 +33,30 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/form.js" timestamp="1550812678942" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1550804669562">
         <mark key="[" line="129" column="38" />
         <mark key="]" line="130" column="55" />
         <mark key="." line="130" column="55" />
         <mark key="^" line="130" column="55" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmUserCustomController.java" timestamp="1550825121844" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550741365985">
         <mark key="[" line="3063" column="57" />
         <mark key="]" line="3063" column="14" />
         <mark key="^" line="3063" column="14" />
         <mark key="." line="3063" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1550807691207" />
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCustomController.java" timestamp="1550825652061" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
         <mark key="[" line="204" column="27" />
         <mark key="]" line="204" column="27" />
         <mark key="." line="204" column="27" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550831374703">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551076866804">
+        <mark key="[" line="255" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551076904800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/cart/CartController.java" timestamp="1550807733935" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/ProductMapper.java" timestamp="1550827011058" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/vo/CartItemVO.java" timestamp="1550807503856">
         <mark key="[" line="67" column="12" />
         <mark key="]" line="67" column="12" />
@@ -82,7 +77,6 @@
         <mark key="^" line="310" column="62" />
         <mark key="." line="310" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCustomFormMapper.xml" timestamp="1550824270565" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
@@ -98,6 +92,7 @@
         <mark key="." line="114" column="26" />
         <mark key="^" line="114" column="26" />
       </file>
+      <file name="/ProductController.java" timestamp="1551076870365" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="16" />
@@ -110,7 +105,6 @@
         <mark key="^" line="2287" column="12" />
         <mark key="." line="2287" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/github/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmCustomController.java" timestamp="1550825623226" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="21" />
