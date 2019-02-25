@@ -3,71 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1548467308579">
-        <mark key="[" line="379" column="53" />
-        <mark key="]" line="379" column="69" />
-        <mark key="^" line="382" column="33" />
-        <mark key="." line="382" column="33" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1550806348072">
-        <mark key="[" line="1040" column="30" />
-        <mark key="]" line="1044" column="41" />
-        <mark key="^" line="1044" column="41" />
-        <mark key="." line="1044" column="41" />
-      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1551078508178" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
         <mark key="[" line="55" column="14" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1550751988079">
-        <mark key="[" line="548" column="35" />
-        <mark key="]" line="559" column="0" />
-        <mark key="^" line="533" column="31" />
-        <mark key="." line="559" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/supplier/add.js" timestamp="1548466373414">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="42" />
       </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1550804669562">
-        <mark key="[" line="129" column="38" />
-        <mark key="]" line="130" column="55" />
-        <mark key="." line="130" column="55" />
-        <mark key="^" line="130" column="55" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1550741365985">
-        <mark key="[" line="3063" column="57" />
-        <mark key="]" line="3063" column="14" />
-        <mark key="^" line="3063" column="14" />
-        <mark key="." line="3063" column="14" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/OrderItem.java" timestamp="1550655204927">
-        <mark key="[" line="204" column="27" />
-        <mark key="]" line="204" column="27" />
-        <mark key="." line="204" column="27" />
-        <mark key="^" line="204" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551076866804">
-        <mark key="[" line="255" column="36" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551079668001">
+        <mark key="[" line="1112" column="60" />
+        <mark key="]" line="1113" column="34" />
+        <mark key="." line="1113" column="34" />
+        <mark key="^" line="1113" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1551076904800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/vo/CartItemVO.java" timestamp="1550807503856">
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="67" column="12" />
-        <mark key="." line="67" column="12" />
-        <mark key="^" line="67" column="10" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1550557493208">
-        <mark key="[" line="68" column="54" />
-        <mark key="]" line="68" column="54" />
-        <mark key="." line="68" column="54" />
-        <mark key="^" line="68" column="54" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/PromotionGoodsDetailMapper.xml" timestamp="1551078647177" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1551078778337">
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="453" column="24" />
+        <mark key="." line="450" column="20" />
+        <mark key="^" line="450" column="20" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550830944322">
         <mark key="a" line="319" column="23" />
@@ -80,55 +37,14 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig.js" timestamp="1548466304135">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/im/OrderItemEx.java" timestamp="1550744804309">
-        <mark key="[" line="114" column="28" />
-        <mark key="]" line="114" column="26" />
-        <mark key="." line="114" column="26" />
-        <mark key="^" line="114" column="26" />
-      </file>
       <file name="/ProductController.java" timestamp="1551076870365" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" timestamp="1550557937325">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="16" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/SkuMapper.java" timestamp="1551078817592">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="93" column="18" />
+        <mark key="^" line="93" column="18" />
+        <mark key="." line="93" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1550741327461">
-        <mark key="[" line="2206" column="29" />
-        <mark key="]" line="2287" column="12" />
-        <mark key="^" line="2287" column="12" />
-        <mark key="." line="2287" column="12" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1548159187040">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/gulpfile.js" timestamp="1550227036583">
-        <mark key="[" line="110" column="9" />
-        <mark key="]" line="110" column="12" />
-        <mark key="." line="110" column="12" />
-        <mark key="^" line="110" column="12" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1550737671039">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/docs/update_190122.sql" timestamp="1548300513934">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/list.js" timestamp="1551078312166" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,8 +155,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>width</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -252,44 +168,44 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>findAttributeByProductId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>typeof(formData.width)=== &quot;undefined&quot;?'':formData.width</text>
+        <text>@Param(&quot;productId&quot;) String productId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGVvZihza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkpID09PSAidW5kZWZpbmVkIj8nJzpza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZihwcm9kdWN0LmdldEFtb3VudCgpPT1udWxsKXsKICAgICAgICAgICAgICAgIHByb2R1Y3Quc2V0QW1vdW50KDApOwogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLGFtb3VudAo=</text>
+        <text encoding="base64">ICAgIG9yZGVyIGJ5IHNrdV9vcmRlcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHR5cGVvZihza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkpID09PSAidW5kZWZpbmVkIj8nJzpza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZihwcm9kdWN0LmdldEFtb3VudCgpPT1udWxsKXsKICAgICAgICAgICAgICAgIHByb2R1Y3Quc2V0QW1vdW50KDApOwogICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLGFtb3VudAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaGtleSA9ICN7a2V5LGpkYmNUeXBlPVZBUkNIQVJ9LAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>sku_height,sku_weight,sku_width,
       sku_length,num_in_package</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9IndlaWdodCAhPSBudWxsIj4KICAgICAgICB3ZWlnaHQgPSAje3dlaWdodCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9ImhlaWdodCAhPSBudWxsIj4KICAgICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgICA8L2lmPgogICAgICA8aWYgdGVzdD0id2lkdGggIT0gbnVsbCI+CiAgICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIDwvaWY+CiAgICAgIDxpZiB0ZXN0PSJsZW5ndGggIT0gbnVsbCI+CiAgICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9Im51bUluUGFja2FnZSAhPSBudWxsIj4KICAgICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgIDwvaWY+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9IndlaWdodCAhPSBudWxsIj4KICAgICAgICB3ZWlnaHQgPSAje3dlaWdodCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9ImhlaWdodCAhPSBudWxsIj4KICAgICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgICA8L2lmPgogICAgICA8aWYgdGVzdD0id2lkdGggIT0gbnVsbCI+CiAgICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIDwvaWY+CiAgICAgIDxpZiB0ZXN0PSJsZW5ndGggIT0gbnVsbCI+CiAgICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9Im51bUluUGFja2FnZSAhPSBudWxsIj4KICAgICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgIDwvaWY+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICA8IS0tIDxpZiB0ZXN0PSJudW1JblBhY2thZ2UgIT0gbnVsbCI+CiAgICAgICAgbnVtX2luX3BhY2thZ2UgPSAje251bUluUGFja2FnZSxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgPC9pZj4tLT4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICA8IS0tIDxpZiB0ZXN0PSJ3ZWlnaHQgIT0gbnVsbCI+CiAgICAgICAgd2VpZ2h0ID0gI3t3ZWlnaHQsamRiY1R5cGU9SU5URUdFUn0sCiAgICAgIDwvaWY+CiAgICAgIDxpZiB0ZXN0PSJoZWlnaHQgIT0gbnVsbCI+CiAgICAgICAgaGVpZ2h0ID0gI3toZWlnaHQsamRiY1R5cGU9RE9VQkxFfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9IndpZHRoICE9IG51bGwiPgogICAgICAgIHdpZHRoID0gI3t3aWR0aCxqZGJjVHlwZT1ET1VCTEV9LAogICAgICA8L2lmPgogICAgICA8aWYgdGVzdD0ibGVuZ3RoICE9IG51bGwiPgogICAgICAgIGxlbmd0aCA9ICN7bGVuZ3RoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIDwvaWY+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9IndlaWdodCAhPSBudWxsIj4KICAgICAgICB3ZWlnaHQgPSAje3dlaWdodCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9ImhlaWdodCAhPSBudWxsIj4KICAgICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgICA8L2lmPgogICAgICA8aWYgdGVzdD0id2lkdGggIT0gbnVsbCI+CiAgICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIDwvaWY+CiAgICAgIDxpZiB0ZXN0PSJsZW5ndGggIT0gbnVsbCI+CiAgICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9Im51bUluUGFja2FnZSAhPSBudWxsIj4KICAgICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
