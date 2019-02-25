@@ -3,30 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1551078508178" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
-        <mark key="[" line="55" column="14" />
-      </file>
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551079715931">
-        <mark key="[" line="1112" column="60" />
-        <mark key="]" line="1113" column="34" />
-        <mark key="." line="1113" column="34" />
-        <mark key="^" line="1113" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551076904800">
+      <file name="/Dummy.txt" timestamp="1551081415443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/PromotionGoodsDetailMapper.xml" timestamp="1551078647177" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1551078778337">
-        <mark key="[" line="450" column="0" />
-        <mark key="]" line="453" column="24" />
-        <mark key="." line="450" column="20" />
-        <mark key="^" line="450" column="20" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1550830944322">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1551082902284">
         <mark key="a" line="319" column="23" />
         <mark key="'" line="111" column="54" />
         <mark key="[" line="310" column="64" />
@@ -37,14 +20,15 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
-      <file name="/ProductController.java" timestamp="1551076870365" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1548465548754">
+        <mark key="[" line="55" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/SkuMapper.java" timestamp="1551078817592">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="93" column="18" />
         <mark key="^" line="93" column="18" />
         <mark key="." line="93" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/list.js" timestamp="1551078312166" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +140,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0LnNldEFtb3VudChza3UuZ2V0QW1vdW50KCkpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -177,35 +161,34 @@
         <text>@Param(&quot;productId&quot;) String productId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0LnNldEFtb3VudChza3UuZ2V0QW1vdW50KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgSW50ZWdlciB0b3RhbEFtb3VudCA9IHNrdU1hcHBlci5jb3VudFRvdGFsQW1vdW50KHBpZCk7CiAgICAgIHByb2R1Y3Quc2V0QW1vdW50KHRvdGFsQW1vdW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9yZGVyIGJ5IHNrdV9vcmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGVvZihza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkpID09PSAidW5kZWZpbmVkIj8nJzpza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZihwcm9kdWN0LmdldEFtb3VudCgpPT1udWxsKXsKICAgICAgICAgICAgICAgIHByb2R1Y3Quc2V0QW1vdW50KDApOwogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG9yZGVyIGJ5IHNrdV9vcmRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLGFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGVvZihza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkpID09PSAidW5kZWZpbmVkIj8nJzpza3VJbWdNYXAuZ2V0KGltZ1NwZWNWYWx1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGtleSA9ICN7a2V5LGpkYmNUeXBlPVZBUkNIQVJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZihwcm9kdWN0LmdldEFtb3VudCgpPT1udWxsKXsKICAgICAgICAgICAgICAgIHByb2R1Y3Quc2V0QW1vdW50KDApOwogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>sku_height,sku_weight,sku_width,
-      sku_length,num_in_package</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLGFtb3VudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9IndlaWdodCAhPSBudWxsIj4KICAgICAgICB3ZWlnaHQgPSAje3dlaWdodCxqZGJjVHlwZT1JTlRFR0VSfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9ImhlaWdodCAhPSBudWxsIj4KICAgICAgICBoZWlnaHQgPSAje2hlaWdodCxqZGJjVHlwZT1ET1VCTEV9LAogICAgICA8L2lmPgogICAgICA8aWYgdGVzdD0id2lkdGggIT0gbnVsbCI+CiAgICAgICAgd2lkdGggPSAje3dpZHRoLGpkYmNUeXBlPURPVUJMRX0sCiAgICAgIDwvaWY+CiAgICAgIDxpZiB0ZXN0PSJsZW5ndGggIT0gbnVsbCI+CiAgICAgICAgbGVuZ3RoID0gI3tsZW5ndGgsamRiY1R5cGU9RE9VQkxFfSwKICAgICAgPC9pZj4KICAgICAgPGlmIHRlc3Q9Im51bUluUGFja2FnZSAhPSBudWxsIj4KICAgICAgICBudW1faW5fcGFja2FnZSA9ICN7bnVtSW5QYWNrYWdlLGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">ICAgICAgaGtleSA9ICN7a2V5LGpkYmNUeXBlPVZBUkNIQVJ9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
