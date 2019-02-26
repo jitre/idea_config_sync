@@ -47,7 +47,7 @@
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1551173384799" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1551176757276" />
     </filemarks>
     <jumps>
       <jump line="7" column="65" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmObjQuestionMapper.xml" />
