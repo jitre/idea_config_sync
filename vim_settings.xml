@@ -7,6 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/shop/OrderController.java" timestamp="1551333583748" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551340707941" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551094592870">
         <mark key="[" line="1262" column="21" />
         <mark key="]" line="1277" column="27" />
@@ -60,7 +61,7 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/thirdSupplier/ThirdPartySupplierController.java" timestamp="1551336584542">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/thirdSupplier/ThirdPartySupplierController.java" timestamp="1551340675859">
         <mark key="[" line="107" column="12" />
         <mark key="]" line="107" column="13" />
         <mark key="." line="107" column="13" />
