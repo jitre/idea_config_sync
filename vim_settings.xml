@@ -29,6 +29,9 @@
       <file name="find.xml" timestamp="1548378588563">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/package.txt" timestamp="1551416209985">
+        <mark key="'" line="3796" column="71" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1551407323156" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/thirdSupplier/ThirdPartySupplierController.java" timestamp="1551340675859">
         <mark key="[" line="107" column="12" />
@@ -51,13 +54,7 @@
         <mark key="." line="268" column="27" />
         <mark key="^" line="268" column="27" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" timestamp="1551082902284">
-        <mark key="'" line="111" column="54" />
-        <mark key="[" line="310" column="64" />
-        <mark key="]" line="310" column="62" />
-        <mark key="^" line="310" column="62" />
-        <mark key="." line="310" column="62" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/biz/pom.xml" timestamp="1551415120472" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/pom.xml" timestamp="1547726233509">
         <mark key="[" line="86" column="19" />
       </file>
@@ -75,12 +72,12 @@
         <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/DanbaoOrderWorkflow.java" timestamp="1551407358980" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1551415827310" />
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="75" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/pdfjs/web/viewer.html" />
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/pdfjs/web/viewer.html" />
       <jump line="120" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmCourseController.java" />
       <jump line="306" column="0" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmStoreMapper.xml" />
@@ -180,6 +177,7 @@
       <jump line="1619" column="66" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" />
       <jump line="111" column="54" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/form.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/shop/ThirdPartySupplierOrderExportVO.java" />
+      <jump line="3796" column="71" filename="$USER_HOME$/Project/mall-platform-qysc/package.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
