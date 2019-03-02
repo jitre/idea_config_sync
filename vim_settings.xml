@@ -9,6 +9,7 @@
         <mark key="." line="1221" column="63" />
         <mark key="^" line="1221" column="63" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/config/ServiceConfig.java" timestamp="1551513374674" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -51,6 +52,7 @@
         <mark key="." line="227" column="36" />
         <mark key="^" line="227" column="36" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1551513531315" />
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/pdfjs/web/viewer.html" />
