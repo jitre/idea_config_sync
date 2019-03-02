@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551424822712">
+        <mark key="[" line="1221" column="37" />
+        <mark key="]" line="1221" column="63" />
+        <mark key="." line="1221" column="63" />
+        <mark key="^" line="1221" column="63" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -12,41 +18,6 @@
         <mark key="." line="141" column="72" />
         <mark key="^" line="141" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551436619691" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallOrder.html" timestamp="1551332864170" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1551336543569">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="144" column="2" />
-        <mark key="^" line="138" column="28" />
-        <mark key="." line="138" column="28" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SubAccountLogMapper.xml" timestamp="1551423376655" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551424636891">
-        <mark key="[" line="606" column="57" />
-        <mark key="]" line="606" column="59" />
-        <mark key="^" line="606" column="59" />
-        <mark key="." line="606" column="59" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1551436926040" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/package.txt" timestamp="1551417427301">
-        <mark key="'" line="3796" column="71" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1551407323156" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/pom.xml" timestamp="1551417733160">
-        <mark key="[" line="227" column="25" />
-        <mark key="]" line="227" column="36" />
-        <mark key="." line="227" column="36" />
-        <mark key="^" line="227" column="36" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/excel/impl/ExcelServiceImpl.java" timestamp="1551336664438" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551424822712">
-        <mark key="[" line="1221" column="37" />
-        <mark key="]" line="1221" column="63" />
-        <mark key="." line="1221" column="63" />
-        <mark key="^" line="1221" column="63" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/shop/OrderController.java" timestamp="1551333583748" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/biz/pom.xml" timestamp="1551415120472" />
       <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1551437609884">
         <mark key="[" line="657" column="8" />
         <mark key="]" line="657" column="5" />
@@ -58,10 +29,28 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderWorkflow.java" timestamp="1551407481483" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1551436303667" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/DanbaoOrderWorkflow.java" timestamp="1551407358980" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1551425823099" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1551336543569">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="144" column="2" />
+        <mark key="^" line="138" column="28" />
+        <mark key="." line="138" column="28" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551424636891">
+        <mark key="[" line="606" column="57" />
+        <mark key="]" line="606" column="59" />
+        <mark key="^" line="606" column="59" />
+        <mark key="." line="606" column="59" />
+      </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/aop/AspectClearAndMigratePoint.java" timestamp="1551512296791" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/package.txt" timestamp="1551417427301">
+        <mark key="'" line="3796" column="71" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/pom.xml" timestamp="1551417733160">
+        <mark key="[" line="227" column="25" />
+        <mark key="]" line="227" column="36" />
+        <mark key="." line="227" column="36" />
+        <mark key="^" line="227" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/pdfjs/web/viewer.html" />
