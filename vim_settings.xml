@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551424822712">
-        <mark key="[" line="1221" column="37" />
-        <mark key="]" line="1221" column="63" />
-        <mark key="." line="1221" column="63" />
-        <mark key="^" line="1221" column="63" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/config/ServiceConfig.java" timestamp="1551513374674" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -19,17 +12,7 @@
         <mark key="." line="141" column="72" />
         <mark key="^" line="141" column="72" />
       </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1551437609884">
-        <mark key="[" line="657" column="8" />
-        <mark key="]" line="657" column="5" />
-        <mark key="." line="657" column="5" />
-        <mark key="^" line="657" column="5" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/SkuMapper.java" timestamp="1551423859115">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/PromotionGetWayType.java" timestamp="1551518829054" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1551336543569">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="144" column="2" />
@@ -43,16 +26,37 @@
         <mark key="." line="606" column="59" />
       </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/aop/AspectClearAndMigratePoint.java" timestamp="1551512296791" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/package.txt" timestamp="1551417427301">
-        <mark key="'" line="3796" column="71" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/MgmBaseWechatUser.java" timestamp="1551518810272" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/pom.xml" timestamp="1551417733160">
         <mark key="[" line="227" column="25" />
         <mark key="]" line="227" column="36" />
         <mark key="." line="227" column="36" />
         <mark key="^" line="227" column="36" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551424822712">
+        <mark key="[" line="1221" column="37" />
+        <mark key="]" line="1221" column="63" />
+        <mark key="." line="1221" column="63" />
+        <mark key="^" line="1221" column="63" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/InvitePromotion.java" timestamp="1551518773617" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1551519421766" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/Inviter.java" timestamp="1551518816572" />
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1551437609884">
+        <mark key="[" line="657" column="8" />
+        <mark key="]" line="657" column="5" />
+        <mark key="." line="657" column="5" />
+        <mark key="^" line="657" column="5" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/SkuMapper.java" timestamp="1551423859115">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1551513531315" />
+      <file name="/fragment.java" timestamp="1551518906955">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/pdfjs/web/viewer.html" />
