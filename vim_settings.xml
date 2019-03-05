@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551771692786">
-        <mark key="[" line="323" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1551771769489">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551773025133">
+        <mark key="[" line="318" column="22" />
+        <mark key="]" line="318" column="43" />
+        <mark key="." line="318" column="43" />
+        <mark key="^" line="318" column="43" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
@@ -153,8 +153,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>EMPTY_SKU</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -166,7 +166,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>equals()</text>
+        <text>EMPTY_SKU</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
