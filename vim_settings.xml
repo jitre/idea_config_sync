@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/WechatCustomerMsgController.java" timestamp="1551869819058" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/entity/WechatCustomerMsgExt.java" timestamp="1551870430804" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -20,6 +22,7 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_170626.sql" timestamp="1551859881796" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1551851308921" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1551869813515" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1551851163780" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551862402133">
         <mark key="'" line="36" column="15" />
@@ -30,12 +33,14 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_181227.sql" timestamp="1551860090996">
         <mark key="'" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1551869693896" />
       <file name="/WechatCustomerMsgExt.java" timestamp="1551867402838" />
       <file name="/Dummy.txt" timestamp="1551866353075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1551836389438" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_180526.sql" timestamp="1551860206301" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterReplyMessageVo.java" timestamp="1551870439460" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ModuleFunctionMapper.xml" timestamp="1551862534886" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1551857552242">
         <mark key="'" line="21" column="13" />
@@ -52,17 +57,13 @@
         <mark key="." line="260" column="69" />
         <mark key="^" line="260" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1551857079303">
-        <mark key="'" line="1084" column="68" />
-        <mark key="[" line="1267" column="0" />
-        <mark key="]" line="1267" column="42" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551862725069">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551869807052" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551862499345">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="54" />
