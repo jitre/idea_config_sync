@@ -3,14 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551783432620" />
       <file name="/Dummy.txt" timestamp="1551781566058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1551766431411" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1551836389438" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/home/HomeControllerApi.java" timestamp="1551781275072">
         <mark key="[" line="136" column="34" />
         <mark key="]" line="136" column="47" />
@@ -29,7 +28,6 @@
         <mark key="." line="34" column="4" />
         <mark key="^" line="34" column="4" />
       </file>
-      <file name="/ProductController.java" timestamp="1551780638129" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1551336543569">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="144" column="2" />
