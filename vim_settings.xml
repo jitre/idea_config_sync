@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/log/MiniProgramLogController.java" timestamp="1551863510740">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/log/MiniProgramLogController.java" timestamp="1551866341456">
         <mark key="[" line="51" column="59" />
         <mark key="]" line="51" column="69" />
         <mark key="." line="51" column="69" />
@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_181227.sql" timestamp="1551860090996">
         <mark key="'" line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551781566058">
+      <file name="/Dummy.txt" timestamp="1551866353075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1551836389438" />
