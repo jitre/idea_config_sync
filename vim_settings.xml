@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/log/MiniProgramLogController.java" timestamp="1551859672524">
-        <mark key="[" line="52" column="59" />
-        <mark key="]" line="52" column="59" />
-        <mark key="." line="52" column="59" />
-        <mark key="^" line="52" column="59" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/log/MiniProgramLogController.java" timestamp="1551862646872">
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="51" column="69" />
+        <mark key="." line="51" column="69" />
+        <mark key="^" line="51" column="69" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/home/HomeControllerApi.java" timestamp="1551781275072">
         <mark key="[" line="136" column="34" />
@@ -45,7 +45,7 @@
         <mark key="." line="227" column="36" />
         <mark key="^" line="227" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551857345737">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551862402133">
         <mark key="'" line="36" column="15" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -59,6 +59,7 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1551836389438" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_180526.sql" timestamp="1551860206301" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ModuleFunctionMapper.xml" timestamp="1551862534886" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1551857552242">
         <mark key="'" line="21" column="13" />
         <mark key="[" line="1124" column="32" />
@@ -91,17 +92,17 @@
         <mark key="[" line="1267" column="0" />
         <mark key="]" line="1267" column="42" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551860074424">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551862725069">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551857487179">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551862499345">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1551857290946">
         <mark key="[" line="0" column="0" />
@@ -213,8 +214,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGFyYW1ldGVyVHlwZT0iY29tLnhxdWFyay5kYWwubW9kZWwuTWluaVByb2dyYW1BY2Nlc3NMb2ciIA==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -226,7 +227,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>退款订单表</text>
+        <text encoding="base64">cGFyYW1ldGVyVHlwZT0iY29tLnhxdWFyay5kYWwubW9kZWwuTWluaVByb2dyYW1BY2Nlc3NMb2ciIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
@@ -235,34 +236,34 @@
         <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQ291cG9uU2VuZE1hcHBlciBjb3Vwb25TZW5kTWFwcGVyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG5ld01hcHBlckZhY3RvcnlCZWFuKENvdXBvblNlbmRNYXBwZXIuY2xhc3MpLmdldE9iamVjdCgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagKY3JlYXRlIHRhYmxlIHhxdWFya19taW5pX2FjY2Vzc19sb2cK</text>
+        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBBVVRPX0lOQ1JFTUVOVCA9IDUyNgo=</text>
+        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagKY3JlYXRlIHRhYmxlIHhxdWFya19taW5pX2FjY2Vzc19sb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBVVRPX0lOQ1JFTUVOVCA9IDUyNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcmNoaXZlICAgICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwLAogIGlzX2NsZWFyICAgICAgICAgICB0aW55aW50KDEpICAgICBkZWZhdWx0IDAgY29tbWVudCAn5piv5ZCm5riF6Zmk6L+H56ev5YiGJywKICBpc19taWdyYXRlICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwIGNvbW1lbnQgJ+aYr+WQpui/h+a4oei/h+enr+WIhicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVkX2F0ICAgICAgICAgZGF0ZXRpbWUgICAgICAgbnVsbCwK</text>
+        <text encoding="base64">ICBhcmNoaXZlICAgICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwLAogIGlzX2NsZWFyICAgICAgICAgICB0aW55aW50KDEpICAgICBkZWZhdWx0IDAgY29tbWVudCAn5piv5ZCm5riF6Zmk6L+H56ev5YiGJywKICBpc19taWdyYXRlICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwIGNvbW1lbnQgJ+aYr+WQpui/h+a4oei/h+enr+WIhicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2FibGVfcXlzY19wb2ludCAgZGVjaW1hbCgxMiwgMikgbm90IG51bGwgZGVmYXVsdCAwIGNvbW1lbnQgJ+eUqOaIt+WPr+eUqOenr+WIhicsCiAgY3VycmVudF9wb2ludCAgICAgIGRlY2ltYWwoMTIsIDIpIG5vdCBudWxsIGRlZmF1bHQgMCBjb21tZW50ICfnlKjmiLflvZPliY3lraPluqblj6/nlKjnp6/liIYnLAogIHByZXZpb3VzX3BvaW50ICAgICBkZWNpbWFsKDEyLCAyKSBub3QgbnVsbCBkZWZhdWx0IDAgY29tbWVudCAn55So5oi35LiK5Liq5a2j5bqm5Y+v55So56ev5YiGJywKICBmcmVlemVkX3F5c2NfcG9pbnQgZGVjaW1hbCgxMiwgMikgbm90IG51bGwgZGVmYXVsdCAwIGNvbW1lbnQgJ+eUqOaIt+WGu+e7k+eahOaOpeWIhicsCg==</text>
+        <text encoding="base64">ICB1cGRhdGVkX2F0ICAgICAgICAgZGF0ZXRpbWUgICAgICAgbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS3mlrDlop7lrZfmrrVmbGFnIOW+ruS/oeWVhuWfjuWGhemDqOWRmOW3peihqOaYr+WQpuiiq+WQjOatpeWIsGNlbSzpu5jorqRmYWxzZQphbHRlciB0YWJsZSB4cXVhcmtfaW5zaWRlX2VtcGxveWVlX3Fpbnl1YW4gYWRkIGZsYWcgdGlueWludCBkZWZhdWx0IDAgY29tbWVudCflhoXpg6jlkZjlt6XmmK/lkKbooqvlkIzmraXliLBjZW0s6buY6K6kZmFsc2UnOwoKLS3mlrDlop7lrZfmrrVmbGFnIOeUqOaIt+WSjOWRmOW3peWFs+iBlOihqOaYr+WQpuiiq+WQjOatpeWIsGNlbSzpu5jorqRmYWxzZQo=</text>
+        <text encoding="base64">ICB1c2FibGVfcXlzY19wb2ludCAgZGVjaW1hbCgxMiwgMikgbm90IG51bGwgZGVmYXVsdCAwIGNvbW1lbnQgJ+eUqOaIt+WPr+eUqOenr+WIhicsCiAgY3VycmVudF9wb2ludCAgICAgIGRlY2ltYWwoMTIsIDIpIG5vdCBudWxsIGRlZmF1bHQgMCBjb21tZW50ICfnlKjmiLflvZPliY3lraPluqblj6/nlKjnp6/liIYnLAogIHByZXZpb3VzX3BvaW50ICAgICBkZWNpbWFsKDEyLCAyKSBub3QgbnVsbCBkZWZhdWx0IDAgY29tbWVudCAn55So5oi35LiK5Liq5a2j5bqm5Y+v55So56ev5YiGJywKICBmcmVlemVkX3F5c2NfcG9pbnQgZGVjaW1hbCgxMiwgMikgbm90IG51bGwgZGVmYXVsdCAwIGNvbW1lbnQgJ+eUqOaIt+WGu+e7k+eahOaOpeWIhicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgeHF1YXJrX2luc2lkZV91c2VyX2VtcGxveWVlIGFkZCBmbGFnIHRpbnlpbnQgZGVmYXVsdCAwIGNvbW1lbnQn5YaF6YOo5ZGY5bel5piv5ZCm6KKr5ZCM5q2l5YiwY2VtLOm7mOiupGZhbHNlJzsK</text>
+        <text encoding="base64">LS3mlrDlop7lrZfmrrVmbGFnIOW+ruS/oeWVhuWfjuWGhemDqOWRmOW3peihqOaYr+WQpuiiq+WQjOatpeWIsGNlbSzpu5jorqRmYWxzZQphbHRlciB0YWJsZSB4cXVhcmtfaW5zaWRlX2VtcGxveWVlX3Fpbnl1YW4gYWRkIGZsYWcgdGlueWludCBkZWZhdWx0IDAgY29tbWVudCflhoXpg6jlkZjlt6XmmK/lkKbooqvlkIzmraXliLBjZW0s6buY6K6kZmFsc2UnOwoKLS3mlrDlop7lrZfmrrVmbGFnIOeUqOaIt+WSjOWRmOW3peWFs+iBlOihqOaYr+WQpuiiq+WQjOatpeWIsGNlbSzpu5jorqRmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>332</text>
