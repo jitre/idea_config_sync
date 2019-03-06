@@ -12,12 +12,6 @@
         <mark key="." line="51" column="69" />
         <mark key="^" line="51" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/openapi/home/HomeControllerApi.java" timestamp="1551781275072">
-        <mark key="[" line="136" column="34" />
-        <mark key="]" line="136" column="47" />
-        <mark key="^" line="136" column="47" />
-        <mark key="." line="136" column="47" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190307.sql" timestamp="1551860124902">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -25,26 +19,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_170626.sql" timestamp="1551859881796" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1551336543569">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="144" column="2" />
-        <mark key="^" line="138" column="28" />
-        <mark key="." line="138" column="28" />
-      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1551851308921" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551781317537">
-        <mark key="[" line="601" column="0" />
-        <mark key="]" line="601" column="59" />
-        <mark key="^" line="601" column="34" />
-        <mark key="." line="601" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1551866535660" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1551851163780" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/pom.xml" timestamp="1551417733160">
-        <mark key="[" line="227" column="25" />
-        <mark key="]" line="227" column="36" />
-        <mark key="." line="227" column="36" />
-        <mark key="^" line="227" column="36" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551862402133">
         <mark key="'" line="36" column="15" />
         <mark key="[" line="14" column="0" />
@@ -66,18 +43,6 @@
         <mark key="]" line="1124" column="57" />
         <mark key="." line="1124" column="57" />
         <mark key="^" line="1124" column="57" />
-      </file>
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1551437609884">
-        <mark key="[" line="657" column="8" />
-        <mark key="]" line="657" column="5" />
-        <mark key="." line="657" column="5" />
-        <mark key="^" line="657" column="5" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mapper/SkuMapper.java" timestamp="1551781116817">
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="4" />
-        <mark key="^" line="34" column="4" />
       </file>
       <file name="/WechatServiceImpl.java" timestamp="1551851181656" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/config/MapperConfig.xml" timestamp="1551857196609">
