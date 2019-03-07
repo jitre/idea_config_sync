@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/WechatCustomerMsgController.java" timestamp="1551962892507" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/context/request/async/WebAsyncManagerIntegrationFilter.java" timestamp="1551939598859" />
       <file name="/CartItemVO.java" timestamp="1551944053018" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551953686461">
@@ -11,6 +12,7 @@
         <mark key="^" line="781" column="79" />
         <mark key="." line="781" column="79" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.4/xquark-point-core-0.1.4.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1551962764439" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1551937939311" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551950504718" />
@@ -62,7 +64,7 @@
         <mark key="^" line="647" column="5" />
         <mark key="." line="647" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551943620247">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551962340208">
         <mark key="[" line="393" column="16" />
         <mark key="]" line="393" column="87" />
         <mark key="." line="393" column="87" />
