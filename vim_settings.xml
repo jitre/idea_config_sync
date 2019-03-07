@@ -25,7 +25,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1551939586840" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-uat-hds.properties" timestamp="1551937310942">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-uat-hds.properties" timestamp="1551946036540">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="6" column="26" />
