@@ -5,9 +5,6 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/context/request/async/WebAsyncManagerIntegrationFilter.java" timestamp="1551939598859" />
       <file name="/CartItemVO.java" timestamp="1551944053018" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
-        <mark key="[" line="103" column="79" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551953686461">
         <mark key="[" line="781" column="78" />
         <mark key="]" line="781" column="79" />
@@ -17,12 +14,24 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1551937939311" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551950504718" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551957723760" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551958595664" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1551953363332">
         <mark key="[" line="111" column="80" />
         <mark key="]" line="111" column="80" />
         <mark key="^" line="111" column="80" />
         <mark key="." line="111" column="80" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/BaseVO.java" timestamp="1551959455232" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1551959068533" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/MsgType.java" timestamp="1551922685412">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/user/UserVO.java" timestamp="1551959517263">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1551948492133" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1551941454056">
@@ -31,12 +40,14 @@
         <mark key="." line="478" column="41" />
         <mark key="^" line="478" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551943626455">
+      <file name="/Dummy.txt" timestamp="1551960112046">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/authentication/TokenAuthenticationFilter.java" timestamp="1551958866308" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1551948717982" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1551939586840" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1551939706491" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/web/src/main/java/com/xquark/authentication/TokenAuthenticationFilter.java" timestamp="1551958693234" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/SkuAttributeItem.java" timestamp="1551951549120" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
         <mark key="[" line="299" column="32" />
@@ -46,6 +57,11 @@
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551939078423" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.java" timestamp="1551937962447" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1551959911492">
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="0" />
+        <mark key="." line="462" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
         <mark key="]" line="647" column="5" />
@@ -57,9 +73,6 @@
         <mark key="]" line="393" column="87" />
         <mark key="." line="393" column="87" />
         <mark key="^" line="393" column="87" />
-      </file>
-      <file name="/fragment.java" timestamp="1551857290946">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -168,8 +181,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>skuAttributeItemIds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldEhhc0lkZW50aXR5KHVzZXJWTy5nZXRIKTsK</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -181,43 +194,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>skuAttributeItemIds</text>
+        <text>serVO.getHasIdentity()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTa3VBdHRyaWJ1dGVJdGVtSWRzOmZ1bmN0aW9uKGRhdGEpewogICAgICAgICAgc2t1QXR0cmlidXRlSXRlbUlkcz1kYXRhOwogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGlzUHJveHk9dS5nZXRJc1Byb3h5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcCByZXN1bHQgPSBuZXcgSGFzaE1hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldEhhc0lkZW50aXR5KHVzZXJWTy5nZXRIKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzUHJveHk9dS5nZXRJc1Byb3h5KCk7CiAgICBpc01lbWJlcj11LmdldElzTWVtYmVyKCk7CiAgICBoYXNJZGVudGl0eT11LmdldEhhc0lkZW50aXR5KCk7CiAgICBpc0xpZ2h0ZW49dS5nZXRJc0xpZ2h0ZW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZW5kTGlua01zZ1dpdGhvdXRQaWN0dXJlKFN0cmluZyBvcGVuSWQsIFN0cmluZyB0aXRsZSwgU3RyaW5nIGRlc2MsIFN0cmluZyBsaW5rVXJsKSB7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBTdHJpbmcgdXJsID0gQ1VTVE9NX1NFTkRfTVNHX1VSTC5yZXBsYWNlKCJBQ0NFU1NfVE9LRU4iLCB0aGlzLmdldFdlY2hhdEFjY2Vzc1Rva2VuKCkpOwovLwkJCVN0cmluZyBib2R5PSJ7XCJ0b3VzZXJcIjpcIiIrb3BlbklkKyJcIixcIm1zZ3R5cGVcIjpcIiIrbXNndHlwZSsiXCIsXCIiK21zZ3R5cGUrIlwiOntcIiIrdHlwZSsiXCI6XCIiK2NvbnRlbnQrIlwifX0iOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNCQm9keT1uZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBzQkJvZHkuYXBwZW5kKCJ7XCJ0b3VzZXJcIjpcIiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKG9wZW5JZCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIlwiLFxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICBcIm1zZ3R5cGVcIjpcImxpbmtcIixcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgICAgXCJuZXdzXCI6e1xuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgXCJhcnRpY2xlc1wiOiBbXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAge1xuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgICAgICBcInRpdGxlXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCh0aXRsZSkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIlwiLFxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgICAgICBcImRlc2NyaXB0aW9uXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZChkZXNjKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiXCIsXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAgICAgIFwidXJsXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZChsaW5rVXJsKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiXCIsXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAgfVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgIF1cbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgICAgfVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIn0iKTsKICAgICAgICAgICAgbG9nLmluZm8oIuWPkemAgeWuouacjea2iOaBr+WPguaVsFt7fV0iLHNCQm9keS50b1N0cmluZygpKTsKICAgICAgICAgICAgU3RyaW5nIGpzb25TdHIgPSBIdHRwS2l0LnBvc3QodXJsLCBzQkJvZHkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGlmKFN0cmluZ1V0aWwuaXNOb3RCbGFuayhqc29uU3RyKSl7CiAgICAgICAgICAgICAgICBKU09OT2JqZWN0IG9iaiA9IEpTT05PYmplY3QucGFyc2VPYmplY3QoanNvblN0cik7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygi5Y+R6YCB5a6i5pyN5raI5oGv77yM6L+U5Zue57uT5p6cW3t9XSIsSlNPTi50b0pTT04ob2JqKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlzUHJveHk9dS5nZXRJc1Byb3h5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCkuc2V0KHNlc3Npb25JZCwgdXNlcik7CiAgICAgICAgcmVkaXNUZW1wbGF0ZS5leHBpcmUoc2Vzc2lvbklkLCAxNSwgVGltZVVuaXQuREFZUyk7CgogICAgICAgIFN0cmluZyBjcElkUyA9IFN0cmluZy52YWx1ZU9mKHRva2VuLmdldENwSWQoKSk7CiAgICAgICAgcmVkaXNVdGlscy5zZXQoY3BJZFMsIHVzZXIuZ2V0VW5pb25JZCgpKTsKICAgICAgICByZWRpc1RlbXBsYXRlLmV4cGlyZShjcElkUywgMTUsIFRpbWVVbml0LkRBWVMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcCByZXN1bHQgPSBuZXcgSGFzaE1hcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYWxsQ2VudGVyLnNhdGlzZmFjdGlvbi5waWNVcmx9IikKICAgIHByaXZhdGUgU3RyaW5nIHNhdGlzZmFjdGlvblBpY1VybDsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZW5kTGlua01zZ1dpdGhvdXRQaWN0dXJlKFN0cmluZyBvcGVuSWQsIFN0cmluZyB0aXRsZSwgU3RyaW5nIGRlc2MsIFN0cmluZyBsaW5rVXJsKSB7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBTdHJpbmcgdXJsID0gQ1VTVE9NX1NFTkRfTVNHX1VSTC5yZXBsYWNlKCJBQ0NFU1NfVE9LRU4iLCB0aGlzLmdldFdlY2hhdEFjY2Vzc1Rva2VuKCkpOwovLwkJCVN0cmluZyBib2R5PSJ7XCJ0b3VzZXJcIjpcIiIrb3BlbklkKyJcIixcIm1zZ3R5cGVcIjpcIiIrbXNndHlwZSsiXCIsXCIiK21zZ3R5cGUrIlwiOntcIiIrdHlwZSsiXCI6XCIiK2NvbnRlbnQrIlwifX0iOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNCQm9keT1uZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBzQkJvZHkuYXBwZW5kKCJ7XCJ0b3VzZXJcIjpcIiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKG9wZW5JZCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIlwiLFxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICBcIm1zZ3R5cGVcIjpcImxpbmtcIixcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgICAgXCJuZXdzXCI6e1xuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgXCJhcnRpY2xlc1wiOiBbXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAge1xuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgICAgICBcInRpdGxlXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZCh0aXRsZSkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIlwiLFxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgICAgICBcImRlc2NyaXB0aW9uXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZChkZXNjKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiXCIsXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAgICAgIFwidXJsXCI6XCIiKQogICAgICAgICAgICAgICAgLmFwcGVuZChsaW5rVXJsKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiXCIsXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiICAgICAgICAgfVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIiAgICAgICAgIF1cbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgICAgfVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIn0iKTsKICAgICAgICAgICAgbG9nLmluZm8oIuWPkemAgeWuouacjea2iOaBr+WPguaVsFt7fV0iLHNCQm9keS50b1N0cmluZygpKTsKICAgICAgICAgICAgU3RyaW5nIGpzb25TdHIgPSBIdHRwS2l0LnBvc3QodXJsLCBzQkJvZHkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGlmKFN0cmluZ1V0aWwuaXNOb3RCbGFuayhqc29uU3RyKSl7CiAgICAgICAgICAgICAgICBKU09OT2JqZWN0IG9iaiA9IEpTT05PYmplY3QucGFyc2VPYmplY3QoanNvblN0cik7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygi5Y+R6YCB5a6i5pyN5raI5oGv77yM6L+U5Zue57uT5p6cW3t9XSIsSlNPTi50b0pTT04ob2JqKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>1102</text>
