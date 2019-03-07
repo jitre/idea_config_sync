@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1551924541933">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -18,30 +21,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1551922976793" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/MsgType.java" timestamp="1551922685412">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-uat-hds.properties" timestamp="1551930694851">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551862402133">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/WechatService.java" timestamp="1551923030973" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1551922586243" />
-      <file name="/Dummy.txt" timestamp="1551924541933">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterReplyMessageVo.java" timestamp="1551922590953" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/WechatConstants.java" timestamp="1551924532738" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1551931364499" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551862725069">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/MsgType.java" timestamp="1551922685412">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551924518625">
         <mark key="[" line="448" column="61" />
@@ -49,17 +45,21 @@
         <mark key="." line="448" column="61" />
         <mark key="^" line="448" column="59" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/MiniProgramAccessLog.java" timestamp="1551862402133">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551862499345">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="54" />
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/WechatAppConfigMapper.xml" timestamp="1551923849070" />
       <file name="/fragment.java" timestamp="1551857290946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatServiceImpl.java" timestamp="1551923542632" />
     </filemarks>
     <jumps>
       <jump line="136" column="20" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmStoreMapper.xml" />
@@ -219,7 +219,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>332</text>
+        <text>517</text>
       </register>
     </registers>
     <search>
@@ -249,7 +249,6 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>667</entry>
         <entry>257</entry>
         <entry>292</entry>
         <entry>63</entry>
@@ -269,6 +268,7 @@
         <entry>607</entry>
         <entry>142</entry>
         <entry>332</entry>
+        <entry>517</entry>
       </history-cmd>
       <history-expr />
       <history-input />
