@@ -17,6 +17,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1551937939311" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551950504718" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551957723760" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1551953363332">
         <mark key="[" line="111" column="80" />
         <mark key="]" line="111" column="80" />
@@ -37,7 +38,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1551939586840" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1551939706491" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/SkuAttributeItem.java" timestamp="1551951549120" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551953692994">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
         <mark key="[" line="299" column="32" />
         <mark key="]" line="299" column="30" />
         <mark key="^" line="299" column="30" />
