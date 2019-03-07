@@ -32,22 +32,22 @@
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/WechatService.java" timestamp="1551923030973" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1551922586243" />
-      <file name="/Dummy.txt" timestamp="1551866353075">
+      <file name="/Dummy.txt" timestamp="1551924541933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterReplyMessageVo.java" timestamp="1551922590953" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/WechatConstants.java" timestamp="1551923123270" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/WechatConstants.java" timestamp="1551924532738" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551862725069">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551923556893">
-        <mark key="[" line="504" column="44" />
-        <mark key="]" line="504" column="42" />
-        <mark key="^" line="504" column="42" />
-        <mark key="." line="504" column="42" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1551924518625">
+        <mark key="[" line="448" column="61" />
+        <mark key="]" line="448" column="61" />
+        <mark key="." line="448" column="61" />
+        <mark key="^" line="448" column="59" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551862499345">
         <mark key="[" line="8" column="43" />
@@ -55,7 +55,7 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/WechatAppConfigMapper.xml" timestamp="1551923184243" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/WechatAppConfigMapper.xml" timestamp="1551923849070" />
       <file name="/fragment.java" timestamp="1551857290946">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,7 +168,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CUSTOM_SEND_MSG_URL</text>
+        <text>ZWWSC</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -180,13 +180,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>CUSTOM_SEND_MSG_URL</text>
+        <text>ZWWSC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQ291cG9uU2VuZE1hcHBlciBjb3Vwb25TZW5kTWFwcGVyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG5ld01hcHBlckZhY3RvcnlCZWFuKENvdXBvblNlbmRNYXBwZXIuY2xhc3MpLmdldE9iamVjdCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYWxsQ2VudGVyLnNhdGlzZmFjdGlvbi5waWNVcmx9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -195,28 +195,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTdHJpbmcgc3RhdGUgPSAgIjEyM3d4IiArIE9BdXRoTWFuYWdlci5TVEFURV9GTEFHICsgImZrZHNhamciOwogICAgICAgIFN0cmluZ1tdIHBhcmFtcyA9IHN0YXRlLnNwbGl0KE9BdXRoTWFuYWdlci5TVEFURV9GTEFHKTsKICAgICAgICBTdHJpbmdbXSBwYXJhbXMxID0gU3RyaW5nVXRpbHMuc3BsaXQoc3RhdGUsIE9BdXRoTWFuYWdlci5TVEFURV9GTEFHKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zWzBdICsgIiwiICsgcGFyYW1zWzFdKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zMVswXSArICIsIiArIHBhcmFtczFbMV0pOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXJpY2gtdGV4dCwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS3orr/pl67ml6Xlv5fooagKY3JlYXRlIHRhYmxlIHhxdWFya19taW5pX2FjY2Vzc19sb2cK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBBVVRPX0lOQ1JFTUVOVCA9IDUyNgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYWxsQ2VudGVyLnNhdGlzZmFjdGlvbi5waWNVcmx9IikKICAgIHByaXZhdGUgU3RyaW5nIHNhdGlzZmFjdGlvblBpY1VybDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTdHJpbmcgc3RhdGUgPSAgIjEyM3d4IiArIE9BdXRoTWFuYWdlci5TVEFURV9GTEFHICsgImZrZHNhamciOwogICAgICAgIFN0cmluZ1tdIHBhcmFtcyA9IHN0YXRlLnNwbGl0KE9BdXRoTWFuYWdlci5TVEFURV9GTEFHKTsKICAgICAgICBTdHJpbmdbXSBwYXJhbXMxID0gU3RyaW5nVXRpbHMuc3BsaXQoc3RhdGUsIE9BdXRoTWFuYWdlci5TVEFURV9GTEFHKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zWzBdICsgIiwiICsgcGFyYW1zWzFdKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFyYW1zMVswXSArICIsIiArIHBhcmFtczFbMV0pOwogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXJpY2gtdGV4dCwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcmNoaXZlICAgICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwLAogIGlzX2NsZWFyICAgICAgICAgICB0aW55aW50KDEpICAgICBkZWZhdWx0IDAgY29tbWVudCAn5piv5ZCm5riF6Zmk6L+H56ev5YiGJywKICBpc19taWdyYXRlICAgICAgICAgdGlueWludCgxKSAgICAgZGVmYXVsdCAwIGNvbW1lbnQgJ+aYr+WQpui/h+a4oei/h+enr+WIhicK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>332</text>
