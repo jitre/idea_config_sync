@@ -6,11 +6,14 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/WechatCustomerMsgController.java" timestamp="1551962892507" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/context/request/async/WebAsyncManagerIntegrationFilter.java" timestamp="1551939598859" />
       <file name="/CartItemVO.java" timestamp="1551944053018" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1551953686461">
-        <mark key="[" line="781" column="78" />
-        <mark key="]" line="781" column="79" />
-        <mark key="^" line="781" column="79" />
-        <mark key="." line="781" column="79" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
+        <mark key="[" line="103" column="79" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552013514685">
+        <mark key="[" line="758" column="48" />
+        <mark key="]" line="778" column="39" />
+        <mark key="^" line="778" column="39" />
+        <mark key="." line="778" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.4/xquark-point-core-0.1.4.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1551962764439" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
@@ -18,7 +21,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551950504718" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551958595664" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1552008550779" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1551953363332">
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552012170204">
         <mark key="[" line="111" column="80" />
         <mark key="]" line="111" column="80" />
         <mark key="^" line="111" column="80" />
@@ -54,7 +57,7 @@
         <mark key="^" line="299" column="30" />
         <mark key="." line="299" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551939078423" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1552012966652" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.java" timestamp="1551937962447" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1551959911492">
         <mark key="[" line="462" column="0" />
@@ -73,6 +76,9 @@
         <mark key="]" line="393" column="87" />
         <mark key="." line="393" column="87" />
         <mark key="^" line="393" column="87" />
+      </file>
+      <file name="/fragment.java" timestamp="1552013437857">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
