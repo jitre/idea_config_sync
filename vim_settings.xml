@@ -9,11 +9,17 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552032068212">
-        <mark key="[" line="1272" column="79" />
-        <mark key="]" line="1272" column="81" />
-        <mark key="." line="1272" column="81" />
-        <mark key="^" line="1272" column="81" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/log/MiniProgramLogController.java" timestamp="1551866341456">
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="51" column="69" />
+        <mark key="." line="51" column="69" />
+        <mark key="^" line="51" column="69" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552032277228">
+        <mark key="[" line="1278" column="76" />
+        <mark key="]" line="1278" column="81" />
+        <mark key="." line="1278" column="81" />
+        <mark key="^" line="1278" column="81" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.4/xquark-point-core-0.1.4.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1551962764439" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
@@ -64,6 +70,12 @@
         <mark key="]" line="462" column="0" />
         <mark key="." line="462" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniProgramAccessLogMapper.xml" timestamp="1551862725069">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/it/sauronsoftware/jave/1.0.2.3/jave-1.0.2.3.jar!/it/sauronsoftware/jave/AudioAttributes.class" timestamp="1551963054923" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
@@ -76,6 +88,12 @@
         <mark key="]" line="393" column="87" />
         <mark key="." line="393" column="87" />
         <mark key="^" line="393" column="87" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MiniProgramAccessLogMapper.java" timestamp="1551862499345">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1552013437857">
         <mark key="[" line="0" column="0" />
@@ -188,7 +206,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IGluZGV4MT0wOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -215,25 +233,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgU2t1bW9kZWwodGV4dCwgYXJyLCBza3VBdHRyaWJ1dGVJZCwgaW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdjEuaXRlbXMuZm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNrdU1vZGVscy5mb3JFYWNoKGZ1bmN0aW9uKCl7CgogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdjEuaXRlbXMuZm9yCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldEhhc0lkZW50aXR5KHVzZXJWTy5nZXRIKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNrdU1vZGVscy5mb3JFYWNoKGZ1bmN0aW9uKCl7CgogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
