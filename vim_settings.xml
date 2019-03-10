@@ -3,26 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-service/src/main/resources/mybatis-config.xml" timestamp="1552206763642" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatMessageLogMapper.java" timestamp="1552209704029">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
-        <mark key="[" line="103" column="79" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/InMessage.java" timestamp="1552207679210" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552034394903">
-        <mark key="[" line="1277" column="100" />
-        <mark key="]" line="1277" column="101" />
-        <mark key="." line="1277" column="101" />
-        <mark key="^" line="1277" column="101" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatCustomerMsgMapper.java" timestamp="1552207738570" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatMessageLogMapper.xml" timestamp="1552210216101">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatMessageLogMapper.xml" timestamp="1552210980911">
+        <mark key="[" line="5" column="46" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="22" />
@@ -30,13 +18,7 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552012170204">
-        <mark key="[" line="111" column="80" />
-        <mark key="]" line="111" column="80" />
-        <mark key="^" line="111" column="80" />
-        <mark key="." line="111" column="80" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1552206711371" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1552210542908" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatMessageLogService.java" timestamp="1552207815170">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="33" />
@@ -44,19 +26,13 @@
         <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1552206444412" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/servlet/OpenWeChatServlet.java" timestamp="1552203201193" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552205400796" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1552207964318">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/jdbc.properties" timestamp="1552210794235" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1552210941971">
         <mark key="[" line="121" column="38" />
         <mark key="]" line="123" column="52" />
         <mark key="^" line="123" column="52" />
         <mark key="." line="123" column="52" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
-        <mark key="[" line="299" column="32" />
-        <mark key="]" line="299" column="30" />
-        <mark key="^" line="299" column="30" />
-        <mark key="." line="299" column="30" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
@@ -70,17 +46,47 @@
         <mark key="." line="393" column="87" />
         <mark key="^" line="393" column="87" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMessageLogServiceImpl.java" timestamp="1552209751173">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMessageLogServiceImpl.java" timestamp="1552211608795">
         <mark key="[" line="34" column="126" />
         <mark key="]" line="34" column="125" />
         <mark key="." line="34" column="125" />
         <mark key="^" line="34" column="125" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-service/src/main/resources/mybatis-config.xml" timestamp="1552206763642" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
+        <mark key="[" line="103" column="79" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/InMessage.java" timestamp="1552207679210" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552034394903">
+        <mark key="[" line="1277" column="100" />
+        <mark key="]" line="1277" column="101" />
+        <mark key="." line="1277" column="101" />
+        <mark key="^" line="1277" column="101" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatCustomerMsgMapper.java" timestamp="1552207738570" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552012170204">
+        <mark key="[" line="111" column="80" />
+        <mark key="]" line="111" column="80" />
+        <mark key="^" line="111" column="80" />
+        <mark key="." line="111" column="80" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1552206711371" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/servlet/OpenWeChatServlet.java" timestamp="1552203201193" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/preOnline/jdbc.properties" timestamp="1552210555072" />
+      <file name="/Dummy.txt" timestamp="1552210993818">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
+        <mark key="[" line="299" column="32" />
+        <mark key="]" line="299" column="30" />
+        <mark key="^" line="299" column="30" />
+        <mark key="." line="299" column="30" />
+      </file>
       <file name="/fragment.java" timestamp="1552207838386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552210182812">
-        <mark key="[" line="17" column="10" />
+        <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="8" />
