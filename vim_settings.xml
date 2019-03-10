@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/WechatCustomerMsgController.java" timestamp="1551962892507" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/context/request/async/WebAsyncManagerIntegrationFilter.java" timestamp="1551939598859" />
-      <file name="/CartItemVO.java" timestamp="1551944053018" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -15,56 +12,38 @@
         <mark key="." line="1277" column="101" />
         <mark key="^" line="1277" column="101" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.4/xquark-point-core-0.1.4.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1551962764439" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1551937069678" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1551937939311" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1551950504718" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1551958595664" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1552008550779" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552012170204">
         <mark key="[" line="111" column="80" />
         <mark key="]" line="111" column="80" />
         <mark key="^" line="111" column="80" />
         <mark key="." line="111" column="80" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/BaseVO.java" timestamp="1551959455232" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1551959068533" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/MsgType.java" timestamp="1551922685412">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1551963002841" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/user/UserVO.java" timestamp="1551959517263">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1551948492133" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/servlet/OpenWeChatServlet.java" timestamp="1552203201193" />
       <file name="/Dummy.txt" timestamp="1552034507793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/authentication/TokenAuthenticationFilter.java" timestamp="1551958866308" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1551948717982" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/ChangeAudioFormat.java" timestamp="1551963012780" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" timestamp="1551939586840" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1551963809083" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/web/src/main/java/com/xquark/authentication/TokenAuthenticationFilter.java" timestamp="1551958693234" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/SkuAttributeItem.java" timestamp="1551951549120" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1552203504233" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
         <mark key="[" line="299" column="32" />
         <mark key="]" line="299" column="30" />
         <mark key="^" line="299" column="30" />
         <mark key="." line="299" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1552028034966" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/3.2.3.RELEASE/spring-security-config-3.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.java" timestamp="1551937962447" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1551959911492">
         <mark key="[" line="462" column="0" />
         <mark key="]" line="462" column="0" />
         <mark key="." line="462" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/it/sauronsoftware/jave/1.0.2.3/jave-1.0.2.3.jar!/it/sauronsoftware/jave/AudioAttributes.class" timestamp="1551963054923" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
         <mark key="]" line="647" column="5" />
