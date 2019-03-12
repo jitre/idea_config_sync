@@ -12,12 +12,6 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1552376040737">
-        <mark key="[" line="1274" column="40" />
-        <mark key="]" line="1274" column="38" />
-        <mark key="." line="1274" column="38" />
-        <mark key="^" line="1274" column="38" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190307.sql" timestamp="1552297889603" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatMessageLogMapper.xml" timestamp="1552210980911">
         <mark key="[" line="5" column="46" />
@@ -28,12 +22,6 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552372639497">
-        <mark key="[" line="98" column="55" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatMessageLogService.java" timestamp="1552207815170">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="33" />
@@ -41,12 +29,13 @@
         <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1552361638493" />
-      <file name="/Dummy.txt" timestamp="1552376311478">
+      <file name="/Dummy.txt" timestamp="1552384752301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552288363437" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1552359113876" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/springmvc/scrmapp-controllers.xml" timestamp="1552359202368" />
+      <file name="/product.js" timestamp="1552384730119" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1552210941971">
         <mark key="[" line="121" column="38" />
         <mark key="]" line="123" column="52" />
@@ -58,11 +47,6 @@
         <mark key="]" line="299" column="30" />
         <mark key="^" line="299" column="30" />
         <mark key="." line="299" column="30" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1552381248166">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1552361168472" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
