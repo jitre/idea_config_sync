@@ -28,11 +28,11 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552012170204">
-        <mark key="[" line="111" column="80" />
-        <mark key="]" line="111" column="80" />
-        <mark key="^" line="111" column="80" />
-        <mark key="." line="111" column="80" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552370992486">
+        <mark key="[" line="101" column="53" />
+        <mark key="]" line="101" column="54" />
+        <mark key="^" line="101" column="54" />
+        <mark key="." line="101" column="54" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatMessageLogService.java" timestamp="1552207815170">
         <mark key="[" line="10" column="33" />
@@ -188,8 +188,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxyZXN1bHRNYXAgdHlwZT0iIGNvbS56aXdvdy5zY3JtYXBwLnRvb2xzLndlaXhpbi5Jbk1lc3NhZ2UiIGlkPSJyZXN1bHRNYXAiPgoJPC9yZXN1bHRNYXA+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>row[p]</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -201,13 +201,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>parameterType=&quot;com.ziwow.scrmapp.tools.weixin.InMessage&quot;</text>
+        <text>row[p]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>#{event}</text>
+        <text>row[p]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxyZXN1bHRNYXAgdHlwZT0iIGNvbS56aXdvdy5zY3JtYXBwLnRvb2xzLndlaXhpbi5Jbk1lc3NhZ2UiIGlkPSJyZXN1bHRNYXAiPgoJPC9yZXN1bHRNYXA+Cg==</text>
