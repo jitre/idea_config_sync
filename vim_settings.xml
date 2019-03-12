@@ -59,6 +59,11 @@
         <mark key="^" line="299" column="30" />
         <mark key="." line="299" column="30" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1552379710315">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1552361168472" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
@@ -188,8 +193,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>index2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiOTA1NjogIiArIGVuY29kZSg0MCkpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -206,8 +211,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>${dataId}-${itemName}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiOTA1NjogIiArIGVuY29kZSg0MCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBpZD1gJHtkYXRhSWR9LSR7aXRlbU5hbWV9YDsK</text>
