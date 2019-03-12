@@ -28,11 +28,11 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552371768496">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="99" column="33" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1552372639497">
+        <mark key="[" line="98" column="55" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatMessageLogService.java" timestamp="1552207815170">
         <mark key="[" line="10" column="33" />
@@ -41,7 +41,7 @@
         <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1552361638493" />
-      <file name="/Dummy.txt" timestamp="1552210993818">
+      <file name="/Dummy.txt" timestamp="1552372779117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552288363437" />
@@ -188,8 +188,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBpZD1gJHtkYXRhSWR9LSR7aXRlbU5hbWV9YDsK</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -201,7 +201,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>itemName</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
