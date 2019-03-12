@@ -40,6 +40,7 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1552361638493" />
       <file name="/Dummy.txt" timestamp="1552210993818">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +59,7 @@
         <mark key="^" line="299" column="30" />
         <mark key="." line="299" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1552359696451" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1552361168472" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1551948907809">
         <mark key="[" line="647" column="4" />
         <mark key="]" line="647" column="5" />
