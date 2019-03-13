@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmProductController.java" timestamp="1552447989980" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190307.sql" timestamp="1552297889603" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatMessageLogMapper.xml" timestamp="1552210980911">
         <mark key="[" line="5" column="46" />
@@ -20,6 +21,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/productList.js" timestamp="1552447868935" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
@@ -45,6 +47,7 @@
         <mark key="^" line="123" column="52" />
         <mark key="." line="123" column="52" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmProductController.java" timestamp="1552448121124" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1551957635684">
         <mark key="[" line="299" column="32" />
         <mark key="]" line="299" column="30" />
