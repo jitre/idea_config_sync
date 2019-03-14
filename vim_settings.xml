@@ -27,7 +27,7 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552384752301">
+      <file name="/Dummy.txt" timestamp="1552560172141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1552210941971">
@@ -48,7 +48,9 @@
         <mark key="^" line="647" column="5" />
         <mark key="." line="647" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552556925901" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552560167670">
+        <mark key="[" line="391" column="50" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMessageLogServiceImpl.java" timestamp="1552211608795">
         <mark key="[" line="34" column="126" />
         <mark key="]" line="34" column="125" />
