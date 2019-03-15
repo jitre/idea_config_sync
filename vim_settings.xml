@@ -3,20 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
-        <mark key="[" line="11" column="10" />
-      </file>
       <file name="/Dummy.txt" timestamp="1552560172141">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/soap/handler/ReadHeadersHandler.java" timestamp="1552622797697" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552620923548" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552621912487" />
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/client/XFireProxy.java" timestamp="1552621987641" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
+        <mark key="[" line="11" column="10" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/client/Client.java" timestamp="1552622019586" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1552620356809" />
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-all/1.2.6/xfire-all-1.2.6.jar!/org/codehaus/xfire/client/Client.class" timestamp="1552622230887" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552560167670">
         <mark key="[" line="391" column="50" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/fault/SoapFaultSerializer.java" timestamp="1552622931128" />
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/fault/Soap11FaultSerializer.java" timestamp="1552623093053" />
       <file name="/fragment.java" timestamp="1552207838386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,7 +190,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFdlY2hhdFByb3ZpbmNlPiBnZXRQcm92aW5jZSgpOwoKICAgIHB1YmxpYyBMaXN0PFdlY2hhdENpdHk+IGdldENpdHkoU3RyaW5nIHByb3ZpbmNlSWQpOwoKICAgIHB1YmxpYyBMaXN0PFdlY2hhdEFyZWE+IGdldEFyZWEoU3RyaW5nIGNpdHlJZCk7CgogICAgV2VjaGF0VXNlclZvIGdldENpdHlOYW1lKFN0cmluZyBhcmVhSWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1102</text>
+        <text>31</text>
       </register>
     </registers>
     <search>
@@ -214,8 +220,6 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>292</entry>
-        <entry>63</entry>
         <entry>124</entry>
         <entry>240</entry>
         <entry>232</entry>
@@ -234,6 +238,8 @@
         <entry>332</entry>
         <entry>517</entry>
         <entry>1102</entry>
+        <entry>131</entry>
+        <entry>31</entry>
       </history-cmd>
       <history-expr />
       <history-input />
