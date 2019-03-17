@@ -6,23 +6,17 @@
       <file name="/Dummy.txt" timestamp="1552560172141">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/soap/handler/ReadHeadersHandler.java" timestamp="1552622797697" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1552632020386" />
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/client/XFireProxy.java" timestamp="1552621987641" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/jdbc.properties" timestamp="1552801676196" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552210382635">
         <mark key="[" line="11" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/client/Client.java" timestamp="1552622019586" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1552620356809" />
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-all/1.2.6/xfire-all-1.2.6.jar!/org/codehaus/xfire/client/Client.class" timestamp="1552622230887" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/webapp/WEB-INF/web.xml" timestamp="1552801587346" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552560167670">
         <mark key="[" line="391" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/fault/SoapFaultSerializer.java" timestamp="1552622931128" />
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/xfire/xfire-core/1.2.6/xfire-core-1.2.6-sources.jar!/org/codehaus/xfire/fault/Soap11FaultSerializer.java" timestamp="1552624074505" />
       <file name="/fragment.java" timestamp="1552207838386">
         <mark key="[" line="0" column="0" />
       </file>
