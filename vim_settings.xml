@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552804663409">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552804742664">
+      <file name="/Dummy.txt" timestamp="1552806193690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
@@ -17,6 +11,25 @@
       </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1552805798134">
         <mark key="[" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/dal/type/PointOperationScene.java" timestamp="1552805739915">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="53" />
+        <mark key="." line="24" column="53" />
+        <mark key="^" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/redis.properties" timestamp="1552804663409">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1552806139888" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1552805878325">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552805029453">
         <mark key="[" line="391" column="50" />
@@ -26,12 +39,6 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/dal/type/PointOperationScene.java" timestamp="1552805739915">
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-parent/pom.xml" timestamp="1552583827204">
         <mark key="[" line="415" column="0" />
