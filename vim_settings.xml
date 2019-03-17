@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1552807269503" />
       <file name="/Dummy.txt" timestamp="1552806193690">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,6 +26,7 @@
         <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1552806139888" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1552807255866" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1552805878325">
         <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="27" />
