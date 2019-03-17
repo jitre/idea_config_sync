@@ -15,7 +15,10 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552560167670">
+      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1552805798134">
+        <mark key="[" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1552805029453">
         <mark key="[" line="391" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1552207838386">
@@ -23,6 +26,12 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/dal/type/PointOperationScene.java" timestamp="1552805739915">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="53" />
+        <mark key="." line="24" column="53" />
+        <mark key="^" line="24" column="53" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-parent/pom.xml" timestamp="1552583827204">
         <mark key="[" line="415" column="0" />
@@ -136,8 +145,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>REGISTER_P</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -149,13 +158,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>index2</text>
+        <text>REGISTER_P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiOTA1NjogIiArIGVuY29kZSg0MCkpOwo=</text>
+      <register name="0" type="4">
+        <text>PREINJECT_P</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
