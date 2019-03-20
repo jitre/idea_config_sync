@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1553005210417">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1553060897159">
         <mark key="'" line="827" column="17" />
-        <mark key="[" line="839" column="0" />
-        <mark key="]" line="839" column="8" />
-        <mark key="^" line="853" column="40" />
-        <mark key="." line="839" column="0" />
+        <mark key="[" line="848" column="35" />
+        <mark key="]" line="848" column="32" />
+        <mark key="^" line="848" column="32" />
+        <mark key="." line="848" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553005325400">
+      <file name="/Dummy.txt" timestamp="1553060909497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
@@ -199,8 +199,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBBc3luYwo=</text>
+      <register name="&quot;" type="4">
+        <text>@NotBlank</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -212,7 +212,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>==false</text>
+        <text>@NotBlank</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
