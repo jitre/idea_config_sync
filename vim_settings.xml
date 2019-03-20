@@ -53,7 +53,7 @@
         <mark key="^" line="0" column="92" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideEmployeeMapper.xml" timestamp="1553059919715" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1553059893121" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1553071156818" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideUserEmployeeMapper.xml" timestamp="1553004803957">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -86,7 +86,7 @@
         <mark key="]" line="415" column="0" />
         <mark key="." line="415" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1553005535582">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1553071147439">
         <mark key="[" line="313" column="26" />
         <mark key="]" line="314" column="46" />
         <mark key="^" line="314" column="46" />
