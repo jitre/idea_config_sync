@@ -10,13 +10,13 @@
         <mark key="^" line="848" column="32" />
         <mark key="." line="848" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553060909497">
+      <file name="/Dummy.txt" timestamp="1553061700940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1552805798134">
+      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190108.sql" timestamp="1553001633762">
@@ -29,11 +29,11 @@
         <mark key="^" line="278" column="8" />
         <mark key="." line="278" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/dal/type/PointOperationScene.java" timestamp="1553002350195">
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/dal/type/PointOperationScene.java" timestamp="1553061619777">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderWorkflow.java" timestamp="1553002146353">
         <mark key="[" line="113" column="0" />
@@ -66,7 +66,7 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="39" column="66" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1553002192568">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1553061693752">
         <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="27" />
         <mark key="^" line="40" column="27" />
