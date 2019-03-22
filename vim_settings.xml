@@ -32,14 +32,18 @@
         <mark key="^" line="124" column="27" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1553242565737">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ThirdOrderMapper.xml" timestamp="1553090238451">
         <mark key="[" line="77" column="10" />
         <mark key="]" line="77" column="16" />
         <mark key="^" line="77" column="16" />
         <mark key="." line="77" column="16" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/login.html" timestamp="1553242684489" />
       <file name="/application.properties" timestamp="1553223575005" />
-      <file name="/Dummy.txt" timestamp="1553223661692">
+      <file name="/Dummy.txt" timestamp="1553242639292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/shop/ShopController.java" timestamp="1553171017066">
@@ -71,6 +75,7 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/login.html" timestamp="1553242627696" />
       <file name="/fragment.java" timestamp="1552207838386">
         <mark key="[" line="0" column="0" />
       </file>
