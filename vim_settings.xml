@@ -28,7 +28,7 @@
         <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1553408426351" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" timestamp="1553409001738">
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" timestamp="1553413705466">
         <mark key="[" line="523" column="0" />
         <mark key="]" line="523" column="0" />
         <mark key="." line="523" column="0" />
@@ -71,11 +71,6 @@
         <mark key="^" line="9" column="64" />
         <mark key="." line="9" column="64" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/shop/ShopController.java" timestamp="1553171017066">
-        <mark key="[" line="1419" column="0" />
-        <mark key="]" line="1419" column="0" />
-        <mark key="." line="1419" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" timestamp="1553408549216">
         <mark key="[" line="44" column="54" />
         <mark key="]" line="44" column="57" />
@@ -88,6 +83,9 @@
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
+        <mark key="[" line="265" column="31" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1553405929530" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1553405650659" />
@@ -114,16 +112,6 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-parent/pom.xml" timestamp="1552583827204">
-        <mark key="[" line="415" column="0" />
-        <mark key="]" line="415" column="0" />
-        <mark key="." line="415" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1553170999021">
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
       </file>
     </filemarks>
     <jumps>
