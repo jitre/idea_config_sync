@@ -51,6 +51,9 @@
       <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1553361558960">
         <mark key="v" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/development/redis.properties" timestamp="1553400740748">
+        <mark key="[" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553362206348">
         <mark key="[" line="270" column="48" />
       </file>
@@ -153,7 +156,7 @@
       <file name="/fragment.java" timestamp="1547888108768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1553359441664">
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1553400701753">
         <mark key="[" line="159" column="17" />
       </file>
     </filemarks>
