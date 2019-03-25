@@ -60,12 +60,14 @@
       <file name="/Dummy.txt" timestamp="1553408557401">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553522826935" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatDataAnalysisImpl.java" timestamp="1553249036715">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="64" />
         <mark key="^" line="9" column="64" />
         <mark key="." line="9" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1553522481294" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" timestamp="1553408549216">
         <mark key="[" line="44" column="54" />
         <mark key="]" line="44" column="57" />
@@ -98,7 +100,7 @@
         <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/login.html" timestamp="1553521860976" />
-      <file name="/fragment.java" timestamp="1552207838386">
+      <file name="/fragment.java" timestamp="1553522783525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
