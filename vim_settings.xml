@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/FragmentAndDescController.java" timestamp="1553586334201" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1553526433685" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/biz/src/main/java/com/xquark/biz/filter/CORSFilter.java" timestamp="1553524419629" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1553582642207" />
@@ -52,6 +53,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="32" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/FragmentImageMapper.xml" timestamp="1553586233272" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/fragment/FragmentController.java" timestamp="1553586147673" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ImageMapper.xml" timestamp="1553586374890" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1553564618303" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
