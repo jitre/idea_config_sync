@@ -30,6 +30,7 @@
         <mark key="]" line="29" column="19" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1553611964114" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindPdt.jsp" timestamp="1553563993880" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
         <mark key="[" line="27" column="0" />
@@ -43,6 +44,7 @@
         <mark key="[" line="103" column="79" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/FragmentAndDescController.java" timestamp="1553586334201" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/InMessage.java" timestamp="1553611898863" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1553526433685" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/biz/src/main/java/com/xquark/biz/filter/CORSFilter.java" timestamp="1553524419629" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1553582642207" />
