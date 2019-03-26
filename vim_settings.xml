@@ -38,7 +38,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1553585026603" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1553585956379">
+        <mark key="[" line="275" column="58" />
+        <mark key="]" line="275" column="57" />
+        <mark key="^" line="275" column="57" />
+        <mark key="." line="275" column="57" />
+      </file>
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,9 +51,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/PayUrlConfig.java" timestamp="1553570058898">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553585101656">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1553564618303" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
