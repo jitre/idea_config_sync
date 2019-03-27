@@ -3,51 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
-        <mark key="[" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1553525937981" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/myProducts/productDetail.js" timestamp="1553563560166" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/filter/MyAuthenticationSuccessHandler.java" timestamp="1553522153119" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/session/ConcurrentSessionControlAuthenticationStrategy.java" timestamp="1553526388881" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1553407195382">
-        <mark key="[" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553570061845">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="35" />
-        <mark key="^" line="61" column="39" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1553568206228" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/session/CompositeSessionAuthenticationStrategy.java" timestamp="1553526372043" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553526548501" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1553568741924" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1553525441460" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/order/OrderController.java" timestamp="1553590569827" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" timestamp="1553601556735">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1553611964114" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindPdt.jsp" timestamp="1553563993880" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java" timestamp="1553565414144" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationSuccessHandler.java" timestamp="1553525564003" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/FilterMapper.xml" timestamp="1553568778676" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/FragmentAndDescController.java" timestamp="1553586334201" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/InMessage.java" timestamp="1553611898863" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java" timestamp="1553526433685" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/biz/src/main/java/com/xquark/biz/filter/CORSFilter.java" timestamp="1553524419629" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1553582642207" />
+      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
+        <mark key="[" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" timestamp="1553413705466">
         <mark key="[" line="523" column="0" />
         <mark key="]" line="523" column="0" />
@@ -62,27 +23,43 @@
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1553526248422" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ThirdOrderMapper.xml" timestamp="1553657766495">
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="80" column="21" />
+        <mark key="^" line="80" column="21" />
+        <mark key="." line="80" column="21" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1553407195382">
+        <mark key="[" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/PayUrlConfig.java" timestamp="1553590924196">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/FragmentImageMapper.xml" timestamp="1553586233272" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/fragment/FragmentController.java" timestamp="1553586147673" />
-      <file name="/Dummy.txt" timestamp="1553601561640">
+      <file name="/Dummy.txt" timestamp="1553657793371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ImageMapper.xml" timestamp="1553586374890" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1553564618303" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553570061845">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/FilterLevelMapper.xml" timestamp="1553568562866" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1553525952912" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/outpay/impl/TenPaymentImpl.java" timestamp="1553589727851" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/WEB-INF/views/login.html" timestamp="1553521860976" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" timestamp="1553601556735">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1553569954816">
         <mark key="[" line="0" column="0" />
       </file>
