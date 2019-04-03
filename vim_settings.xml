@@ -4,11 +4,33 @@
     <globalmarks />
     <filemarks>
       <file name="/edit.js" timestamp="1554296812324" />
-      <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554296455192" />
+      <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/SkuMapper.xml" timestamp="1554299259349" />
+      <file name="/Dummy.txt" timestamp="1554300834457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554301378029">
+        <mark key="[" line="1262" column="78" />
+        <mark key="]" line="1263" column="0" />
+        <mark key="^" line="1262" column="60" />
+        <mark key="." line="1263" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/dal/docs/update_170626.sql" timestamp="1554296470614" />
+      <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/sku/SkuAttributeController.java" timestamp="1554300294148" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IGluZGV4MT1zZWxlY3RlZEF0dHJpYnV0ZUxpc3QuaW5kZXhPZih2MS5za3VBdHRyaWJ1dGVJZCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyogICAgICAgICAgICAgICAgICBsZXQgaW5kZXgxPTA7CiAgICAgICAgICAgICAgICAgIGxldCBpbmRleDI9MDsKICAgICAgICAgICAgICAgICAgZm9yKGxldCBpdGVtIG9mIHYxLml0ZW1zKXsKICAgICAgICAgICAgICAgICAgICBpZihjaG9vc2VBdHRyaWJ1dGVBbmRJdGVtcy5za3VBdHRyaWJ1dGVzLmluZGV4T2YoaXRlbS5pZCkhPT0tMSl7CiAgICAgICAgICAgICAgICAgICAgICBpbmRleDE9Y2hvb3NlQXR0cmlidXRlQW5kSXRlbXMuc2t1QXR0cmlidXRlcy5pbmRleE9mKGl0ZW0uaWQpOwogICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgIGZvcihsZXQgaXRlbSBvZiB2Mi5pdGVtcyl7CiAgICAgICAgICAgICAgICAgICAgaWYoY2hvb3NlQXR0cmlidXRlQW5kSXRlbXMuc2t1QXR0cmlidXRlcy5pbmRleE9mKGl0ZW0uaWQpIT09LTEpewogICAgICAgICAgICAgICAgICAgICAgaW5kZXgyPWNob29zZUF0dHJpYnV0ZUFuZEl0ZW1zLnNrdUF0dHJpYnV0ZXMuaW5kZXhPZihpdGVtLmlkKTsKICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICByZXR1cm4gIGluZGV4Mi1pbmRleDE7Ki8K</text>
+      </register>
       <register name=":" type="4">
         <text>1260</text>
       </register>
