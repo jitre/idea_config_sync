@@ -3,42 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1554273178603" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/reserveService/reserveService_clean.js" timestamp="1554274033824" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/mapper/ProductMapper.xml" timestamp="1554278532855" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/mapper/WechatMemberMapper.xml" timestamp="1554278433371" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/CallCenterOssUtil.java" timestamp="1554275536471" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatMemberServiceImpl.java" timestamp="1554278506547" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/webapp/resource/js/innerClientMng/innerClientMng.js" timestamp="1554278169906" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/production/log4j.properties" timestamp="1554275454106" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/mq/WechatMqConsumer.java" timestamp="1554271609057" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/pom.xml" timestamp="1554259351495" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/servlet/OpenWeChatServlet.java" timestamp="1554272624788" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1554275517649" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/webapp/mobile/reserveService/jsp/reserveService_clean.jsp" timestamp="1554274025960" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/Tools.java" timestamp="1554271353255" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/reserveService/reserveService_install.js" timestamp="1554274088624" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1554272088385" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/webapp/WEB-INF/page/innerClientMng/innerClientMng.jsp" timestamp="1554278192042" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1554269746693" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/WeChatConstants.java" timestamp="1554273249011" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/ChannelMapper.xml" timestamp="1554274459565" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/pom.xml" timestamp="1554271219951" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1554259311349" />
-      <file name="$USER_HOME$/Documents/project/scrmpc/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1554275785001" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/scrm/SCRMProductFormPro.java" timestamp="1554266023349" />
+      <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554294001828" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>1260</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
+      <history-cmd>
+        <entry>1260</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts />
   </component>
