@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/weixin/Tools.java" timestamp="1554271353255" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1554272088385" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1554269746693" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/pom.xml" timestamp="1554271219951" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/mq/WechatMqConsumer.java" timestamp="1554271609057" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/pom.xml" timestamp="1554259351495" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1554259311349" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/scrm/SCRMProductFormPro.java" timestamp="1554266023349" />
