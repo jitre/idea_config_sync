@@ -15,6 +15,8 @@
       </file>
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/DiscountPricingChain.java" timestamp="1554343546157" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1554341974553" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FirstFilterDiscountPricingChain.java" timestamp="1554344596295" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/YundouDiscountPricingChain.java" timestamp="1554343955889" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallSummary.html" timestamp="1554341930723" />
     </filemarks>
     <jumps />
