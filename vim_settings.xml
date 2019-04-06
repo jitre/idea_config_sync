@@ -6,20 +6,14 @@
       <file name="/Dummy.txt" timestamp="1554300834457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1554346174118" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/DiscountPricingChain.java" timestamp="1554343546157" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FirstFilterDiscountPricingChain.java" timestamp="1554344596295" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/pom.xml" timestamp="1554345711286" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallSummary.html" timestamp="1554341930723" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallProductList.html" timestamp="1554341982340" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1554535024340" />
       <file name="$USER_HOME$/Documents/project/hds/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554301378029">
         <mark key="[" line="1262" column="78" />
         <mark key="]" line="1263" column="0" />
         <mark key="^" line="1262" column="60" />
         <mark key="." line="1263" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1554341974553" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/YundouDiscountPricingChain.java" timestamp="1554343955889" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1554535475784" />
     </filemarks>
     <jumps />
     <registers>
