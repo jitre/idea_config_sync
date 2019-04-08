@@ -12,15 +12,13 @@
         <mark key="^" line="61" column="39" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554702103439" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1554189759464" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/logback.xml" timestamp="1554088666467" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1554113767016" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" timestamp="1553601556735">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="29" column="19" />
@@ -37,6 +35,7 @@
         <mark key="^" line="275" column="57" />
         <mark key="." line="275" column="57" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1554702153694" />
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,7 +51,6 @@
       <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1553743151461">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1554113820341" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="34" column="20" />
@@ -75,7 +73,7 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1554113682254" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/config.js" timestamp="1554702061572" />
     </filemarks>
     <jumps>
       <jump line="54" column="42" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmPointMapper.xml" />
