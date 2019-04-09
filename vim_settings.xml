@@ -6,34 +6,14 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553570061845">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="35" />
-        <mark key="^" line="61" column="39" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1554702103439" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
-        <mark key="[" line="265" column="31" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" timestamp="1553601556735">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" timestamp="1553413705466">
         <mark key="[" line="523" column="0" />
         <mark key="]" line="523" column="0" />
         <mark key="." line="523" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatCustomerMsgServiceImpl.java" timestamp="1553585956379">
-        <mark key="[" line="275" column="58" />
-        <mark key="]" line="275" column="57" />
-        <mark key="^" line="275" column="57" />
-        <mark key="." line="275" column="57" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/xlsxUpload.js" timestamp="1554702153694" />
       <file name="/JavaScript Console" timestamp="1553242565737">
@@ -51,16 +31,31 @@
       <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1553743151461">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/PayUrlConfig.java" timestamp="1553590924196">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
+      </file>
+      <file name="/WechatCustomerMsgServiceImpl.java" timestamp="1554773622409" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/filter/MerchantAuthenticationSuccessHandler.java" timestamp="1553570061845">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
+        <mark key="[" line="265" column="31" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" timestamp="1553601556735">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1553601555058">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/scrm/SCrmControllerApi.java" timestamp="1554088599001">
         <mark key="]" line="368" column="61" />
