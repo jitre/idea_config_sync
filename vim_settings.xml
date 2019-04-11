@@ -26,6 +26,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1554972645220">
         <mark key="[" line="1151" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/shop/ShopController.java" timestamp="1554992787014" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1554973830589" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/securityCheck/jsp/securityCheck.jsp" timestamp="1554962055384">
         <mark key="[" line="34" column="15" />
@@ -51,11 +52,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/DefaultFFMPEGLocator.class" timestamp="1554986360279" />
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/service/point/impl/PointTransferServiceImpl.class" timestamp="1554992844097" />
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/FFMPEGLocator.class" timestamp="1554985811089" />
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1554991888939" />
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1554992590141" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/model/UserOriginPoint.class" timestamp="1554992674434" />
       <file name="$USER_HOME$/Project/jave/src/main/java/it/sauronsoftware/jave/DefaultFFMPEGLocator.java" timestamp="1554986514072" />
       <file name="/fragment.java" timestamp="1554890615559">
         <mark key="[" line="0" column="0" />
@@ -63,7 +66,7 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1554991684105" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1554992696732" />
     </filemarks>
     <jumps>
       <jump line="54" column="42" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmPointMapper.xml" />
