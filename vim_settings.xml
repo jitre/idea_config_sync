@@ -15,7 +15,7 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/haventBindAnyPdt.jsp" timestamp="1554970486242" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/haventBindAnyPdt.jsp" timestamp="1554973779341" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1554806412071">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="48" column="108" />
@@ -55,6 +55,7 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1554973830589" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/securityCheck/jsp/securityCheck.jsp" timestamp="1554962055384">
         <mark key="[" line="34" column="15" />
         <mark key="]" line="34" column="15" />
