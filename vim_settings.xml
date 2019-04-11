@@ -8,11 +8,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/FFMPEGExecutor.class" timestamp="1554985589427" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/haventBindAnyPdt.jsp" timestamp="1554973779341" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1554987920601">
-        <mark key="[" line="161" column="16" />
-        <mark key="]" line="161" column="21" />
-        <mark key="^" line="161" column="21" />
-        <mark key="." line="161" column="21" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1554990746306">
+        <mark key="[" line="162" column="14" />
+        <mark key="]" line="162" column="20" />
+        <mark key="^" line="162" column="20" />
+        <mark key="." line="162" column="20" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1553407195382">
         <mark key="[" line="12" column="18" />
@@ -37,15 +37,17 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/CallCenterOssUtil.java" timestamp="1554984942995" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1554990654515" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/CallCenterOssUtil.java" timestamp="1554988866385" />
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
         <mark key="[" line="272" column="134" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1554990542398" />
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/IgnoreErrorEncoder.class" timestamp="1554986293856" />
-      <file name="/Dummy.txt" timestamp="1554987942111">
+      <file name="/Dummy.txt" timestamp="1554990267549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/DefaultFFMPEGLocator.class" timestamp="1554986360279" />
@@ -60,7 +62,7 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1554987859441" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1554990673324" />
     </filemarks>
     <jumps>
       <jump line="54" column="42" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmPointMapper.xml" />
@@ -169,7 +171,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGk+PC9pPg==</text>
+        <text>picPath + picName + &quot;.mp3&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -181,7 +183,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGk+PC9pPg==</text>
+        <text>picPath + picName + &quot;.mp3&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
