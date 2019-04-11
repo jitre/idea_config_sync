@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1554990654515" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1554992063359" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/CallCenterOssUtil.java" timestamp="1554988866385" />
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
@@ -52,7 +52,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/DefaultFFMPEGLocator.class" timestamp="1554986360279" />
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/FFMPEGLocator.class" timestamp="1554985811089" />
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1554991775302" />
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1554991888939" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
