@@ -40,11 +40,11 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554962062749">
+      <file name="/Dummy.txt" timestamp="1554973135044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1554875914307">
-        <mark key="[" line="1125" column="3" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1554972645220">
+        <mark key="[" line="1151" column="0" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" timestamp="1554801132881">
         <mark key="[" line="45" column="0" />
@@ -60,9 +60,6 @@
         <mark key="]" line="34" column="15" />
         <mark key="^" line="33" column="11" />
         <mark key="." line="34" column="15" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1554876809648">
-        <mark key="[" line="40" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1554890615559">
         <mark key="[" line="0" column="0" />
