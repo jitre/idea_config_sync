@@ -7,7 +7,7 @@
         <mark key="[" line="9" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/FFMPEGExecutor.class" timestamp="1554985589427" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/haventBindAnyPdt.jsp" timestamp="1554973779341" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/haventBindAnyPdt.jsp" timestamp="1555052821794" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1554990746306">
         <mark key="[" line="162" column="14" />
         <mark key="]" line="162" column="20" />
@@ -27,7 +27,7 @@
         <mark key="[" line="1151" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/shop/ShopController.java" timestamp="1554992787014" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1554973830589" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1555052970779" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/securityCheck/jsp/securityCheck.jsp" timestamp="1554962055384">
         <mark key="[" line="34" column="15" />
         <mark key="]" line="34" column="15" />
@@ -59,6 +59,7 @@
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/service/point/impl/PointTransferServiceImpl.class" timestamp="1554993563112" />
       <file name="$MAVEN_REPOSITORY$/com/github/dadiyang/jave/1.0.5/jave-1.0.5.jar!/it/sauronsoftware/jave/FFMPEGLocator.class" timestamp="1554985811089" />
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1554992590141" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/noQrCodeBindPdt.jsp" timestamp="1555053003759" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
