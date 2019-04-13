@@ -3,62 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productDetail.html" timestamp="1555143259760" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
-        <mark key="[" line="103" column="79" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productDetail.html" timestamp="1555148788692">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="115" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmProductController.java" timestamp="1555151718122">
+        <mark key="[" line="284" column="12" />
+        <mark key="]" line="284" column="13" />
+        <mark key="^" line="284" column="13" />
+        <mark key="." line="284" column="13" />
       </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1554994235617">
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="0" />
-        <mark key="." line="541" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/category.js" timestamp="1555151937337">
+        <mark key="'" line="46" column="2" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/category.js" timestamp="1555145243629">
-        <mark key="[" line="245" column="3" />
-        <mark key="]" line="246" column="17" />
-        <mark key="^" line="246" column="17" />
-        <mark key="." line="246" column="17" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1553242565737">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1554990746306">
-        <mark key="[" line="162" column="14" />
-        <mark key="]" line="162" column="20" />
-        <mark key="^" line="162" column="20" />
-        <mark key="." line="162" column="20" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmFavoriteController.java" timestamp="1555151601416" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1553407195382">
         <mark key="[" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1553743151461">
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
-        <mark key="[" line="272" column="134" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555151319263">
+        <mark key="[" line="9" column="109" />
+        <mark key="]" line="13" column="116" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="85" column="111" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555143776714">
-        <mark key="[" line="88" column="69" />
-        <mark key="]" line="88" column="67" />
-        <mark key="." line="88" column="67" />
-        <mark key="^" line="88" column="67" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/js/dist/product/category.js" timestamp="1555151859288">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="275" column="6" />
+        <mark key="." line="274" column="29" />
+        <mark key="^" line="274" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554990267549">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/js/dist/product/category.js" timestamp="1555146723728">
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
-        <mark key="^" line="46" column="21" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productdetail.css" timestamp="1555143321279">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="95" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productlist.css" timestamp="1555144365268">
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productlist.css" timestamp="1555147688270">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
@@ -66,26 +50,53 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1554972645220">
         <mark key="[" line="1151" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555143909798">
-        <mark key="[" line="88" column="66" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555151277182">
+        <mark key="[" line="9" column="99" />
+        <mark key="]" line="9" column="99" />
+        <mark key="." line="9" column="99" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1555053827686">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="4" />
-        <mark key="^" line="30" column="4" />
-        <mark key="." line="30" column="4" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmFavoriteServiceImpl.java" timestamp="1555149291495" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/css/promotedetail.css" timestamp="1555144227761">
+        <mark key="[" line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
+        <mark key="[" line="103" column="79" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1553242565737">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
+        <mark key="[" line="272" column="134" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmProductVO.java" timestamp="1555149097796">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555151945776">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/productDetail.js" timestamp="1555148568917">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="116" column="2" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productdetail.css" timestamp="1555143321279">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/securityCheck/jsp/securityCheck.jsp" timestamp="1554962055384">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="34" column="15" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmProductController.java" timestamp="1555149195154">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="235" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/css/promotedetail.css" timestamp="1555144227761">
-        <mark key="[" line="111" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/dist/product/category.js" timestamp="1555150923559">
+        <mark key="[" line="269" column="30" />
+        <mark key="]" line="269" column="29" />
+        <mark key="." line="269" column="29" />
+        <mark key="^" line="269" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1554890615559">
         <mark key="[" line="0" column="0" />
@@ -95,9 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="32" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmNotificationServiceImpl.java" />
-      <jump line="225" column="34" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmReadLogServiceImpl.java" />
-      <jump line="292" column="32" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmNotificationServiceImpl.java" />
       <jump line="60" column="35" filename="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmProductServiceImpl.java" />
       <jump line="668" column="48" filename="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/_resources/js/page/crm/task/list.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" />
@@ -195,13 +203,16 @@
       <jump line="27" column="11" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" />
       <jump line="22" column="9" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/webapp/WEB-INF/web.xml" />
       <jump line="134" column="0" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productlist.css" />
+      <jump line="46" column="2" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/category.js" />
+      <jump line="15" column="26" filename="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productDetail.html" />
+      <jump line="29" column="31" filename="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmProductVO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhZGRDbGlja0V2ZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -213,43 +224,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>t=20180121</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtdWkoJ2JvZHknKS5vbigndGFwJywgJ2EnLCBmdW5jdGlvbiAoKSB7CiAgICBkb2N1bWVudC5sb2NhdGlvbi5ocmVmID0gdGhpcy5ocmVmOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgaWYoZGF0YVtpXS5jb2xsZWN0U3RhdHVzKXsKICAgICAgICBzcGFuLmFkZENsYXNzKCJjb2xsZWN0ZWQiKTsKICAgICAgfWVsc2V7CiAgICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZGRDbGlja0V2ZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYWRkQ2xpY2tFdmVudCgpIHsKICAkJCgiLmNvbGxlY3Rpb24iKS5vZmYoImNsaWNrIikub24oImNsaWNrIiwgZnVuY3Rpb24gKCkgewogICAgY29uc29sZS5sb2coImhlbGxvIik7CiAgfSk7Cn0K</text>
+        <text encoding="base64">ICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmxvY2F0aW9uLmhyZWYgPSB0aGlzLmhyZWY7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogLjNyZW07CiAgaGVpZ2h0OiAuM3JlbTsKICBtYXJnaW4tcmlnaHQ6IC4ycmVtOwogIG1hcmdpbi10b3A6IC4ycmVtOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogLjNyZW07CiAgaGVpZ2h0OiAuM3JlbTsKICB3aWR0aDogLjNyZW07CiAgbWFyZ2luLXJpZ2h0OiAuMnJlbTsKICBtYXJnaW4tdG9wOiAuMnJlbTsK</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoImFkZGVkIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuY29sbGVjdHsKICAgICAgICAgICBsaW5lLWhlaWdodDogLjNyZW07CiAgICAgICAgICAgIGhlaWdodDogLjNyZW07CiAgICAgICAgICAgIG1hcmdpbi1yaWdodDogLjJyZW07CiAgICAgICAgICAgIG1hcmdpbi10b3A6IC4ycmVtOwogICAgICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoLi4vaW1hZ2VzL3Nwcml0ZS9jb2xsZWN0MS5wbmcpIG5vLXJlcGVhdDsKICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb250YWluOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHJlYWxVcmwpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpLmFwcGVuZChhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>834</text>
