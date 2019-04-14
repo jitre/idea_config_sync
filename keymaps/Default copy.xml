@@ -17,7 +17,6 @@
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="$Undo">
-    <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="AceAction">
