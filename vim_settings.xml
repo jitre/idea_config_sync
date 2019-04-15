@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productDetail.html" timestamp="1555148788692">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="115" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
         <mark key="[" line="103" column="79" />
       </file>
@@ -20,7 +15,12 @@
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1555318122752" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/webapp/WEB-INF/web.xml" timestamp="1555320571453">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1555318584296" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpSessionListener.java" timestamp="1555318207110" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/category.js" timestamp="1555151937337">
         <mark key="'" line="46" column="2" />
@@ -28,6 +28,7 @@
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1555318443729" />
       <file name="/JavaScript Console" timestamp="1553242565737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,6 +41,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
         <mark key="[" line="272" column="134" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/context/AbstractSecurityWebApplicationInitializer.java" timestamp="1555319559949" />
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmProductVO.java" timestamp="1555149097796">
         <mark key="'" line="29" column="31" />
         <mark key="[" line="80" column="0" />
@@ -61,14 +63,7 @@
       <file name="/Dummy.txt" timestamp="1555151945776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/productDetail.js" timestamp="1555148568917">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="116" column="2" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productdetail.css" timestamp="1555143321279">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="95" column="26" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/Session.java" timestamp="1555318367930" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1555312019481" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productlist.css" timestamp="1555147688270">
         <mark key="[" line="148" column="0" />
@@ -83,14 +78,17 @@
         <mark key="]" line="9" column="99" />
         <mark key="." line="9" column="99" />
       </file>
+      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1555319050547" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmProductController.java" timestamp="1555149195154">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="235" column="39" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1555318138839" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/web.xml" timestamp="1555320536885">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/dist/product/category.js" timestamp="1555150923559">
         <mark key="[" line="269" column="30" />
         <mark key="]" line="269" column="29" />
@@ -105,6 +103,12 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/redis.properties" timestamp="1552804738101">
         <mark key="[" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/webapp/WEB-INF/web.xml" timestamp="1555320506120">
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+        <mark key="^" line="40" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -241,28 +245,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoImFkZGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHJlYWxVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgc3Bhbi5hZGRDbGFzcygiY29sbGVjdCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoImFkZGVkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHJlYWxVcmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>834</text>
