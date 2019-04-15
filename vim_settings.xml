@@ -20,6 +20,8 @@
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1553061626706">
         <mark key="[" line="9" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1555318122752" />
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpSessionListener.java" timestamp="1555318207110" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/category.js" timestamp="1555151937337">
         <mark key="'" line="46" column="2" />
         <mark key="[" line="280" column="0" />
@@ -88,6 +90,7 @@
         <mark key="[" line="233" column="0" />
         <mark key="]" line="235" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1555318138839" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/dist/product/category.js" timestamp="1555150923559">
         <mark key="[" line="269" column="30" />
         <mark key="]" line="269" column="29" />
