@@ -8,6 +8,9 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="115" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
+        <mark key="[" line="103" column="79" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmProductController.java" timestamp="1555151718122">
         <mark key="[" line="284" column="12" />
         <mark key="]" line="284" column="13" />
@@ -23,12 +26,23 @@
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmFavoriteController.java" timestamp="1555151601416" />
+      <file name="/JavaScript Console" timestamp="1553242565737">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1553407195382">
         <mark key="[" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1553743151461">
         <mark key="[" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
+        <mark key="[" line="272" column="134" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmProductVO.java" timestamp="1555149097796">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555151319263">
         <mark key="[" line="9" column="109" />
@@ -42,6 +56,18 @@
         <mark key="." line="274" column="29" />
         <mark key="^" line="274" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555151945776">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/productDetail.js" timestamp="1555148568917">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="116" column="2" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productdetail.css" timestamp="1555143321279">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="95" column="26" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1555312019481" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productlist.css" timestamp="1555147688270">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -55,37 +81,6 @@
         <mark key="]" line="9" column="99" />
         <mark key="." line="9" column="99" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmFavoriteServiceImpl.java" timestamp="1555149291495" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1555232543616" />
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/css/promotedetail.css" timestamp="1555144227761">
-        <mark key="[" line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/com/xquark/dal/mapper/ThirdPartySupplierMapper.xml" timestamp="1551425607314">
-        <mark key="[" line="103" column="79" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1553242565737">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1554898505005">
-        <mark key="[" line="272" column="134" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/vo/CrmProductVO.java" timestamp="1555149097796">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555151945776">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/src/product/productDetail.js" timestamp="1555148568917">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="116" column="2" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/css/productdetail.css" timestamp="1555143321279">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="95" column="26" />
-      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-core/pom.xml" timestamp="1553413738925">
         <mark key="[" line="265" column="31" />
       </file>
@@ -98,6 +93,9 @@
         <mark key="]" line="269" column="29" />
         <mark key="." line="269" column="29" />
         <mark key="^" line="269" column="29" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/target/xquark-web-0.1.0-SNAPSHOT/_resources/css/promotedetail.css" timestamp="1555144227761">
+        <mark key="[" line="111" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1554890615559">
         <mark key="[" line="0" column="0" />
