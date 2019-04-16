@@ -10,6 +10,7 @@
         <mark key="." line="284" column="13" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/webapp/WEB-INF/web.xml" timestamp="1555378138318" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1555399521536" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1555379720140" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/product/productListByCategory.html" timestamp="1555151319263">
         <mark key="[" line="9" column="109" />
@@ -43,7 +44,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555398683781" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555399285361" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/dist/product/category.js" timestamp="1555150923559">
         <mark key="[" line="269" column="30" />
         <mark key="]" line="269" column="29" />
