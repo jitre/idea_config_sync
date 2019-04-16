@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1555381141408">
         <mark key="[" line="238" column="86" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1555396671660" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1555398679651" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1555378190094" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1555379495869" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1555395800163" />
@@ -43,7 +43,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555396662890" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555398683781" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/_resources/js/dist/product/category.js" timestamp="1555150923559">
         <mark key="[" line="269" column="30" />
         <mark key="]" line="269" column="29" />
