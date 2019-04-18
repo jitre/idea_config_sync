@@ -15,11 +15,19 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1555403467688">
         <mark key="'" line="727" column="61" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555570312988">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1555406777117">
         <mark key="[" line="42" column="92" />
         <mark key="]" line="42" column="137" />
         <mark key="." line="42" column="137" />
         <mark key="^" line="42" column="137" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1555570005474">
+        <mark key="[" line="351" column="21" />
+        <mark key="]" line="351" column="21" />
+        <mark key="." line="351" column="21" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/logisticsPlatform/LogisticsPlatformController.java" timestamp="1555569714462" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1555406742639">
@@ -135,8 +143,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>成为沁园会员，立享专属优惠券</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -148,7 +156,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>t=20180121</text>
+        <text>成为沁园会员，立享专属优惠券</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
