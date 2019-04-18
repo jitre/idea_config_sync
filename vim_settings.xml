@@ -6,41 +6,22 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/webapp/WEB-INF/web.xml" timestamp="1555378138318" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1555407257019" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.2.3.RELEASE/spring-security-web-3.2.3.RELEASE-sources.jar!/org/springframework/security/web/session/HttpSessionEventPublisher.java" timestamp="1555404975997" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/session/MySessionRegistryImpl.java" timestamp="1555408418297">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1555415590726" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1555403467688">
         <mark key="'" line="727" column="61" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1555379720140" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.63/tomcat-catalina-7.0.63-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1555403514897" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/coupon/impl/CouponProvideServiceImpl.java" timestamp="1555378876819" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateDataItem.java" timestamp="1555395781222" />
-      <file name="$USER_HOME$/Desktop/RedisSessionManager.class" timestamp="1555403797310" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1555379632145" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/member/MemberController.java" timestamp="1555485085620" />
-      <file name="$USER_HOME$/Project/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java" timestamp="1555404949306" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1555406777117">
         <mark key="[" line="42" column="92" />
         <mark key="]" line="42" column="137" />
         <mark key="." line="42" column="137" />
         <mark key="^" line="42" column="137" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhWxSaaSServiceImpl.java" timestamp="1555465562382" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1555398679651" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.2.3.RELEASE/spring-security-core-3.2.3.RELEASE-sources.jar!/org/springframework/security/core/session/SessionRegistryImpl.java" timestamp="1555408430890" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1555379495869" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/authentication/AppAuthenticationFilter.java" timestamp="1555480036694" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1555395800163" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1555378861501" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555399285361" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/logisticsPlatform/LogisticsPlatformController.java" timestamp="1555567250919" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1555406742639">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
