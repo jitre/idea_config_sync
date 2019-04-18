@@ -6,40 +6,11 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmParam.java" timestamp="1555595654869" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/schedule/GeneratorCsvScheduledTask.java" timestamp="1555575119052" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1555591861970">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="24" />
-        <mark key="^" line="116" column="35" />
-        <mark key="." line="116" column="35" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1555596004887">
-        <mark key="[" line="167" column="36" />
-        <mark key="]" line="167" column="41" />
-        <mark key="^" line="167" column="41" />
-        <mark key="." line="167" column="41" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1555592176538">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="260" column="4" />
-        <mark key="^" line="260" column="4" />
-        <mark key="." line="260" column="4" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1555594258715" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1555594416026" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatOrdersServiceImpl.java" timestamp="1555574929547" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1555597642716" />
       <file name="/application.properties" timestamp="1555579762274" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1555594376828" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1555593416190" />
-      <file name="/Dummy.txt" timestamp="1555573594474">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmSubmittedOrderTemplateParam.java" timestamp="1555595830645">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="26" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/WechatTemplateMessageService.java" timestamp="1555597794771">
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1555596563863">
         <mark key="[" line="68" column="18" />
@@ -47,13 +18,10 @@
         <mark key="." line="68" column="16" />
         <mark key="^" line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/vo/callCenter/CallCenterMessage.java" timestamp="1555572804009" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/Order.java" timestamp="1555597977395" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/order/OrderController.java" timestamp="1555596803746" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/mapper/WechatOrdersMapper.xml" timestamp="1555575153225" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/WechatFans.java" timestamp="1555594278786" />
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/CustomerServiceController.java" timestamp="1555574844213" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/payment/PaymentController.java" timestamp="1555596970105" />
-      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/logisticsPlatform/LogisticsPlatformController.java" timestamp="1555572406980" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1555597622624" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1555592681866">
         <mark key="[" line="362" column="0" />
         <mark key="]" line="362" column="0" />
@@ -72,10 +40,48 @@
         <mark key="^" line="248" column="70" />
         <mark key="." line="248" column="70" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserAddressController.java" timestamp="1555594133766">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="239" column="12" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1555598233877" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmParam.java" timestamp="1555595654869" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1555591861970">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="24" />
+        <mark key="^" line="116" column="35" />
+        <mark key="." line="116" column="35" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1555597539554" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1555592176538">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="260" column="4" />
+        <mark key="^" line="260" column="4" />
+        <mark key="." line="260" column="4" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1555594258715" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1555594416026" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1555597737325">
+        <mark key="[" line="200" column="48" />
+        <mark key="]" line="200" column="95" />
+        <mark key="." line="200" column="48" />
+        <mark key="^" line="200" column="47" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatOrdersServiceImpl.java" timestamp="1555574929547" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1555594376828" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1555593416190" />
+      <file name="/Dummy.txt" timestamp="1555598343774">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmSubmittedOrderTemplateParam.java" timestamp="1555595830645">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/address/impl/AddressServiceImpl.java" timestamp="1555598093037" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/vo/callCenter/CallCenterMessage.java" timestamp="1555572804009" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/persistence/mapper/WechatOrdersMapper.xml" timestamp="1555575153225" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/CustomerServiceController.java" timestamp="1555574844213" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/payment/PaymentController.java" timestamp="1555596970105" />
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/restapi/logisticsPlatform/LogisticsPlatformController.java" timestamp="1555572406980" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/outpay/impl/TenPaymentImpl.java" timestamp="1555597133638" />
       <file name="/fragment.java" timestamp="1555595596665">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,8 +192,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pararms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -199,7 +205,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>pararms</text>
+        <text>total_point_amount,total_point_to_fee,use_point</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
@@ -208,34 +214,34 @@
         <text encoding="base64">ICAvKioKICAgKiDor7fmsYJTQ1JN55So5oi35ZCM5q2l5o6l5Y+jCiAgICoKICAgKiBAcGFyYW0gbW9iaWxlIOeUqOaIt+aJi+acuuWPtwogICAqIEBwYXJhbSB1bmlvbklkIOeUqOaIt3VuaW9uSWQKICAgKi8KICBwdWJsaWMgdm9pZCBwb3N0U3luY1VzZXJBc3luYyhTdHJpbmcgbW9iaWxlLCBTdHJpbmcgdW5pb25JZCkgewogICAgU0NybVBhcmFtIHBhcmFtcyA9IG5ldyBTQ3JtVXNlclBhcmFtKG1vYmlsZSwgdW5pb25JZCk7CiAgICAvLyDpmaTml6Xlv5flpJbml6DlkI7nu63mk43kvZwKICAgIHRoaXMucG9zdEFzeW5jKHNDYW1VUkxDb25zdGFudHMuZ2V0U1lOQ19VU0VSKCksIHBhcmFtcywgRElTQ0FSRF9IQU5ETEVSKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNDcm1QYXJhbSBwYXJhbXMgPSBuZXcgU0NybVVzZXJQYXJhbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBTQ3JtU3VibWl0dGVkT3JkZXJUZW1wbGF0ZVBhcmFtKFN0cmluZyBwaG9uZSwgU3RyaW5nIG1lc3NhZ2UsaW50IHR5cGUpIHsKCQl0aGlzLnBob25lID0gcGhvbmU7CgkJdGhpcy5tZXNzYWdlID0gbWVzc2FnZTsKCQl0aGlzLnR5cGUgPSB0eXBlOwoJfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0UGhvbmUoKSB7CgkJcmV0dXJuIHBob25lOwoJfQoKCXB1YmxpYyBTdHJpbmcgZ2V0TWVzc2FnZSgpIHsKCQlyZXR1cm4gbWVzc2FnZTsKCX0KCglwdWJsaWMgaW50IGdldFR5cGUoKSB7CgkJcmV0dXJuIHR5cGU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHBob25lOwoKCXByaXZhdGUgU3RyaW5nIG1lc3NhZ2U7CgoJcHJpdmF0ZSBpbnQgdHlwZTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gbW9iaWxlIOeUqOaIt+aJi+acuuWPtwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewovLwkJU0NybVBhcmFtIHVzZXJQYXJhbSA9IG5ldyBTQ3JtVXNlclBhcmFtKCIxODYwMDAwMDAwMSIsCi8vCQkJCSJvekxuUHdlUlpCUkVxSzhneE9GRlhGRklhUzRFIik7Ci8vCQlTQ3JtQWRkcmVzc1BhcmFtIGFkZHJlc3NQYXJhbSA9IG5ldyBTQ3JtQWRkcmVzc1BhcmFtKCk7Ci8vLy8JCWFkZHJlc3NQYXJhbS5zZXRhSWQoMTA3KTsKLy8JCWFkZHJlc3NQYXJhbS5zZXRQcm92aW5jZUlkKCIzMzAwMDAiKTsKLy8JCWFkZHJlc3NQYXJhbS5zZXRQcm92aW5jZU5hbWUoIua1meaxn+ecgSIpOwovLwkJYWRkcmVzc1BhcmFtLnNldENpdHlJZCgiMzMwNjAwIik7Ci8vCQlhZGRyZXNzUGFyYW0uc2V0Q2l0eU5hbWUoIue7jeWFtOW4giIpOwovLwkJYWRkcmVzc1BhcmFtLnNldEFyZWFJZCgiMzMwNjIxIik7Ci8vCQlhZGRyZXNzUGFyYW0uc2V0QXJlYU5hbWUoIue7jeWFtOWOvyIpOwovLwkJYWRkcmVzc1BhcmFtLnNldENvbnRhY3RzKCLnrb7mlLbkuroyIik7Ci8vCQlhZGRyZXNzUGFyYW0uc2V0Q29udGFjdHNNb2JpbGUoIjE4NjAwMDAwMDAxIik7Ci8vCQlhZGRyZXNzUGFyYW0uc2V0U3RyZWV0TmFtZSgi6KGX6YGT5Zyw5Z2AIik7Ci8vCQlhZGRyZXNzUGFyYW0uc2V0VW5pb25JZCgib3pMblB3ZVJaQlJFcUs4Z3hPRkZYRkZJYVM0RSIpOwovLwkJbmV3IFNDcm1IdHRwVXRpbHMobnVsbCkucG9zdChzQ2FtVVJMQ29uc3RhbnRzLlNZTkNfQUREUkVTUywgYWRkcmVzc1BhcmFtKTsKCiAgICAvL+W+queOr+ivu+WPlmNlbeeUqOaIt+aJi+acuuWPt+WFqOmHj+aVsOaNrgogICAgZmluYWwgRmlsZSBmaWxlID0gbmV3IEZpbGUoIi9Vc2Vycy9odWFuZ2ppYW5iby9EZXNrdG9wL21vYmlsZS50eHQiKTsKCiAgICBmaW5hbCBPdXRwdXRTdHJlYW1Xcml0ZXIgb3V0cHV0U3RyZWFtV3JpdGVyID0gbmV3IE91dHB1dFN0cmVhbVdyaXRlcigKICAgICAgICBuZXcgRmlsZU91dHB1dFN0cmVhbShmaWxlKSwKICAgICAgICAiVVRGLTgiKTsKCiAgICBpbnQgcGFnZVNpemUgPSA1MDAwOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMzAzOyBpKyspIHsKCiAgICAgIGZpbmFsIGludCBwYWdlSW5kZXggPSBpOwoKICAgICAgU3RyaW5nIGJhc2VVcmwgPSAiaHR0cHM6Ly9jZW0ucWlueXVhbi5jbi8hL2F1ZGllbmNlL2FwaS9hcGkvZGF0YS9zZWdtZW50L3BhZ2VzIjsKICAgICAgU3RyaW5nIGFpZCA9ICIxMDAwMiI7CiAgICAgIFN0cmluZyBzZWNyZXRLZXkgPSAicTZoZGk0eHBvc3ZnMXc1NCI7CiAgICAgIFN0cmluZyBzZWdtZW50SWQ9IlNHMTA1MiI7CgogICAgICBsb25nIHRzID0gbmV3IERhdGUoKS5nZXRUaW1lKCkgLyAxMDAwOwoKICAgICAgU3RyaW5nIHNpZ24gPSBNRDVVdGlsLm1kNSgiYWlkIiArIGFpZCArICJ0cyIgKyB0cyArIHNlY3JldEtleSk7CgogICAgICBmaW5hbCBTdHJpbmcgdXJsID0gYmFzZVVybCArICI/YWlkPSIgKyBhaWQgKyAiJnRzPSIgKyB0cyArICImc2lnbj0iICsgc2lnbisiJnNlZ21lbnRJZD0iK3NlZ21lbnRJZAogICAgICAgICAgKyAiJnBhZ2VJbmRleD0iICsgcGFnZUluZGV4ICsgIiZwYWdlU2l6ZT0iICsgcGFnZVNpemU7CgogICAgICAgICAgICBIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBEZWZhdWx0SHR0cENsaWVudCgpOwogICAgICAgICAgICBIdHRwR2V0IGh0dHBHZXQgPSBuZXcgSHR0cEdldCh1cmwpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0taHR0cCBnZXQ6IiArIHVybCk7CiAgICAgICAgICAgIGZpbmFsIEh0dHBSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5leGVjdXRlKGh0dHBHZXQpOwogICAgICAgICAgICBuZXcgVGhyZWFkKCkgewogICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIENlbVJlc3AgY2VtUGhvbmVEYXRhUmVzcCA9IG51bGw7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICBIdHRwRW50aXR5IGVudGl0eSA9IHJlc3BvbnNlLmdldEVudGl0eSgpOwogICAgICAgICAgICBTdHJpbmcgY29udGVudCA9IEVudGl0eVV0aWxzLnRvU3RyaW5nKGVudGl0eSwgIlVURi04Iik7CgogICAgICAgICAgICBjZW1QaG9uZURhdGFSZXNwID0gSlNPTi5wYXJzZU9iamVjdChjb250ZW50LCBDZW1SZXNwLmNsYXNzKTsKICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS3or7fmsYLlpLHotKU6cGFnZUluZGV4PSIgKyBwYWdlSW5kZXgpOwogICAgICAgICAgfQogICAgICAgICAgU3RhdHVzQmVhbiBzdGF0dXMgPSBjZW1QaG9uZURhdGFSZXNwLmdldFN0YXR1cygpOwogICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVN0YXR1czoiICsgc3RhdHVzLnRvU3RyaW5nKCkpOwogICAgICAgICAgaWYgKCJFMCIuZXF1YWxzKHN0YXR1cy5nZXRDb2RlKCkpKSB7CgogICAgICAgICAgICBEYXRhQmVhbiBkYXRhID0gY2VtUGhvbmVEYXRhUmVzcC5nZXREYXRhKCk7CiAgICAgICAgICAgIExpc3Q8TGlzdEJlYW4+IGxpc3QgPSBkYXRhLmdldExpc3QoKTsKCiAgICAgICAgICAgIHRyeSAgewogICAgICAgICAgICAgIGZvciAoTGlzdEJlYW4gY2VtVXNlckRhdGEgOiBsaXN0KSB7CiAgICAgICAgICAgICAgICBvdXRwdXRTdHJlYW1Xcml0ZXIud3JpdGUoY2VtVXNlckRhdGEuZ2V0TW9iaWxlKCkgKyAiXHJcbiIpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBvdXRwdXRTdHJlYW1Xcml0ZXIuZmx1c2goKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLeWGmeWFpeWujOaIkHBhZ2VJbmRleDoiICsgcGFnZUluZGV4KTsKCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LnN0YXJ0KCk7CiAgICB9CgogIH0KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlclNlcnZpY2UubG9hZEJ5T3JkZXJObyhvcmRlck5vKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNDcm1QYXJhbSBwYXJhbXMgPSBuZXcgU0NybVVzZXJQYXJhbSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBTQ3JtU3VibWl0dGVkT3JkZXJUZW1wbGF0ZVBhcmFtKFN0cmluZyBwaG9uZSwgU3RyaW5nIG1lc3NhZ2UsaW50IHR5cGUpIHsKCQl0aGlzLnBob25lID0gcGhvbmU7CgkJdGhpcy5tZXNzYWdlID0gbWVzc2FnZTsKCQl0aGlzLnR5cGUgPSB0eXBlOwoJfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0UGhvbmUoKSB7CgkJcmV0dXJuIHBob25lOwoJfQoKCXB1YmxpYyBTdHJpbmcgZ2V0TWVzc2FnZSgpIHsKCQlyZXR1cm4gbWVzc2FnZTsKCX0KCglwdWJsaWMgaW50IGdldFR5cGUoKSB7CgkJcmV0dXJuIHR5cGU7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/pgJrov4d1bmlvbuafpeivoueUqOaIt+eahG9wZW5JZAo=</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHBob25lOwoKCXByaXZhdGUgU3RyaW5nIG1lc3NhZ2U7CgoJcHJpdmF0ZSBpbnQgdHlwZTsK</text>
       </register>
       <register name=":" type="4">
         <text>834</text>
