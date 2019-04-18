@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/7.0.27/3b4b9e5e9ebc105a358f55765f5a2083974fb5dc/tomcat-catalina-7.0.27-sources.jar!/org/apache/catalina/session/StandardSession.java" timestamp="1555403467688">
         <mark key="'" line="727" column="61" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555573594474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/resources/META-INF/spring-security-context.xml" timestamp="1555406777117">
         <mark key="[" line="42" column="92" />
         <mark key="]" line="42" column="137" />
@@ -22,7 +25,7 @@
         <mark key="^" line="42" column="137" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/vo/callCenter/CallCenterMessage.java" timestamp="1555572804009" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1555570005474">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1555573584924">
         <mark key="[" line="351" column="21" />
         <mark key="]" line="351" column="21" />
         <mark key="." line="351" column="21" />
