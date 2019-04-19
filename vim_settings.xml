@@ -34,12 +34,6 @@
         <mark key="." line="87" column="41" />
         <mark key="^" line="87" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1555593789885">
-        <mark key="[" line="248" column="65" />
-        <mark key="]" line="248" column="70" />
-        <mark key="^" line="248" column="70" />
-        <mark key="." line="248" column="70" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1555598233877" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmParam.java" timestamp="1555595654869" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1555591861970">
@@ -66,7 +60,7 @@
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/service/impl/WechatOrdersServiceImpl.java" timestamp="1555574929547" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1555594376828" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/model/Product.java" timestamp="1555593416190" />
-      <file name="/Dummy.txt" timestamp="1555598343774">
+      <file name="/Dummy.txt" timestamp="1555639234597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmSubmittedOrderTemplateParam.java" timestamp="1555595830645">
