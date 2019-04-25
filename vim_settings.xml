@@ -30,6 +30,7 @@
         <mark key="." line="118" column="86" />
         <mark key="^" line="118" column="86" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1556172181922" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1555641766602">
         <mark key="[" line="92" column="48" />
         <mark key="]" line="413" column="84" />
@@ -81,7 +82,6 @@
         <mark key="]" line="249" column="0" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/mapper/PointRecordMapper.xml" timestamp="1555988171966" />
       <file name="/fragment.java" timestamp="1555595596665">
         <mark key="[" line="0" column="0" />
       </file>
