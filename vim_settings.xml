@@ -24,6 +24,10 @@
         <mark key="^" line="260" column="4" />
         <mark key="." line="260" column="4" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1556276241692">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1555597737325">
         <mark key="[" line="200" column="48" />
         <mark key="]" line="200" column="95" />
@@ -194,7 +198,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>热更新测试</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -211,8 +215,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9kdWN0TmFtZSs9b3JkZXJJdGVtOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
