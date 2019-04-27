@@ -27,6 +27,11 @@
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" timestamp="1556350458772">
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="0" />
+        <mark key="." line="523" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1555597737325">
         <mark key="[" line="200" column="48" />
         <mark key="]" line="200" column="95" />
@@ -41,9 +46,6 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556349342606">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmSubmittedOrderTemplateParam.java" timestamp="1555595830645">
         <mark key="[" line="17" column="27" />
@@ -60,8 +62,8 @@
         <mark key="." line="118" column="86" />
         <mark key="^" line="118" column="86" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1556257479669">
-        <mark key="[" line="368" column="37" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1556350376623">
+        <mark key="[" line="368" column="42" />
         <mark key="]" line="368" column="37" />
         <mark key="." line="368" column="37" />
         <mark key="^" line="368" column="41" />
@@ -94,8 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="34" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/DiscountPricingChain.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/CouponDiscountPricingChain.java" />
       <jump line="101" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/DiscountPricingChain.java" />
       <jump line="123" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FirstFilterDiscountPricingChain.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FirstFilterDiscountPricingChain.java" />
@@ -194,13 +194,15 @@
       <jump line="91" column="6" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" />
       <jump line="319" column="60" filename="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-parent/pom.xml" />
+      <jump line="562" column="9" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" />
+      <jump line="523" column="15" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxyZWxlYXNlcz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvcmVsZWFzZXM+CgkJCTxpZD5ib25lY3AtcmVwbzwvaWQ+CgkJCTxuYW1lPkJvbmVDUCBSZXBvc2l0b3J5PC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9qb2xib3guY29tL2JvbmVjcC9kb3dubG9hZHMvbWF2ZW48L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -221,34 +223,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxyZWxlYXNlcz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvcmVsZWFzZXM+CgkJCTxpZD5ib25lY3AtcmVwbzwvaWQ+CgkJCTxuYW1lPkJvbmVDUCBSZXBvc2l0b3J5PC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9qb2xib3guY29tL2JvbmVjcC9kb3dubG9hZHMvbWF2ZW48L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQk8cmVwb3NpdG9yeT4KCQkJPGlkPm9yZy5hcGFjaGUubWF2ZW4yLnJlcG8xPC9pZD4KCQkJPG5hbWU+TWF2ZW4yIHJlcG8xPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9yZXBvMS5tYXZlbi5vcmcvbWF2ZW4yPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3JnLmFwYWNoZS5tYXZlbjIucmVwbzI8L2lkPgoJCQk8bmFtZT5NYXZlbjIgcmVwbzI8L25hbWU+CgkJCTx1cmw+aHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjI8L3VybD4KCQk8L3JlcG9zaXRvcnk+CgkJPHJlcG9zaXRvcnk+CgkJCTxpZD5qYm9zcyBtYXZlbjI8L2lkPgoJCQk8bmFtZT5qYm9zcyBtYXZlbjI8L25hbWU+CgkJCTx1cmw+aHR0cHM6Ly9yZXBvc2l0b3J5Lmpib3NzLm9yZy9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+CgkJPC9yZXBvc2l0b3J5PgoJCTxyZXBvc2l0b3J5PgoJCQk8aWQ+b3NzLnNvbmF0eXBlLm9yZzwvaWQ+CgkJCTxuYW1lPm9zcy5zb25hdHlwZS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPm0ycmVwby5lcHNlZWxvbi5vcmc8L2lkPgoJCQk8bmFtZT5tMnJlcG8uZXBzZWVsb24ub3JnPC9uYW1lPgoJCQk8dXJsPmh0dHA6Ly9tMnJlcG8uZXBzZWVsb24ub3JnLzwvdXJsPgoJCTwvcmVwb3NpdG9yeT4KCQk8cmVwb3NpdG9yeT4KCQkJPGlkPnRlYW0uYW5kcm9tZGEub3JnPC9pZD4KCQkJPG5hbWU+dGVhbS5hbmRyb21kYS5vcmc8L25hbWU+CgkJCTx1cmw+aHR0cDovL3RlYW0uYW5kcm9tZGEub3JnL21hdmVuMi88L3VybD4KCQk8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9kdWN0TmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9kdWN0TmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlclNlcnZpY2UubG9hZEJ5T3JkZXJObyhvcmRlck5vKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlclNlcnZpY2UubG9hZEJ5T3JkZXJObyhvcmRlck5vKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNDcm1QYXJhbSBwYXJhbXMgPSBuZXcgU0NybVVzZXJQYXJhbSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>834</text>
