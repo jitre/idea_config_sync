@@ -46,7 +46,7 @@
         <mark key="[" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderRefundServiceImpl.java" timestamp="1556457870098" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1556504863419">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1556505149606">
         <mark key="[" line="119" column="79" />
         <mark key="]" line="118" column="86" />
         <mark key="." line="118" column="86" />
@@ -61,6 +61,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1556505910021">
+        <mark key="[" line="248" column="27" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatTemplateMapper.java" timestamp="1556505269004" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1556459699052" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1556459160686">
         <mark key="'" line="157" column="22" />
@@ -70,6 +76,7 @@
         <mark key="^" line="200" column="62" />
       </file>
       <file name="/MallPointServiceImpl.java" timestamp="1556443279218" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1556505188266" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderRefundService.java" timestamp="1556457851428" />
       <file name="/OrderJob.java" timestamp="1556443955305" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1556441105317">
