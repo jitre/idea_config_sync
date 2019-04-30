@@ -25,24 +25,18 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderRefundMapper.xml" timestamp="1556457863941" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556460394717" />
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/service/point/PointTransferService.class" timestamp="1556439354892" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmPointChangeTemplateParam.java" timestamp="1556459534794">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="41" column="3" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/MallPointService.java" timestamp="1556444151054">
         <mark key="[" line="75" column="56" />
         <mark key="]" line="75" column="81" />
         <mark key="^" line="75" column="81" />
         <mark key="." line="75" column="81" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1556457666938">
-        <mark key="[" line="2940" column="0" />
-        <mark key="]" line="2940" column="0" />
-        <mark key="." line="2940" column="0" />
-        <mark key="^" line="2939" column="88" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1556589536402">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="2932" column="0" />
+        <mark key="]" line="2932" column="0" />
+        <mark key="." line="2932" column="0" />
+        <mark key="^" line="2931" column="88" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
@@ -59,7 +53,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1556507647287">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1556588730841">
         <mark key="[" line="71" column="68" />
         <mark key="]" line="71" column="76" />
         <mark key="." line="71" column="76" />
@@ -123,12 +117,12 @@
         <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" timestamp="1556459699052" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1556541891289">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1556589523684">
         <mark key="'" line="157" column="22" />
-        <mark key="[" line="197" column="51" />
-        <mark key="]" line="197" column="51" />
-        <mark key="." line="197" column="51" />
-        <mark key="^" line="200" column="62" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="268" column="22" />
       </file>
       <file name="/MallPointServiceImpl.java" timestamp="1556443279218" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1556541559232" />
@@ -142,11 +136,11 @@
         <mark key="]" line="413" column="0" />
         <mark key="." line="413" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1556541510518">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="221" column="5" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="163" column="51" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1556588515515">
+        <mark key="[" line="160" column="72" />
+        <mark key="]" line="160" column="70" />
+        <mark key="." line="160" column="70" />
+        <mark key="^" line="160" column="70" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderRefundService.java" timestamp="1556457851428" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1556507420296">
@@ -174,14 +168,7 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1556441105317">
-        <mark key="'" line="830" column="21" />
-        <mark key="[" line="829" column="8" />
-        <mark key="]" line="829" column="24" />
-        <mark key="." line="829" column="24" />
-        <mark key="^" line="829" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556541919249">
+      <file name="/Dummy.txt" timestamp="1556588654991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmSubmittedOrderTemplateParam.java" timestamp="1556458798899">
@@ -224,7 +211,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/order/OrderRefundController.java" timestamp="1556457937984" />
     </filemarks>
     <jumps>
-      <jump line="70" column="11" filename="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/impl/PointCommServiceImpl.java" />
       <jump line="40" column="6" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" />
       <jump line="40" column="6" filename="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/preOnline/application.properties" />
       <jump line="568" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" />
@@ -324,13 +310,14 @@
       <jump line="14" column="23" filename="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmTemplateParam.java" />
       <jump line="90" column="17" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" />
       <jump line="415" column="16" filename="$USER_HOME$/Project/scrmapp/scrmapp-parent/pom.xml" />
+      <jump line="236" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlTWVzc2FnZVNlcnZpY2Uubm90aWZ5UGFpZFVzZXJCeVNDcm0ob3JkZXJObyk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -342,43 +329,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>defaultString()</text>
+        <text>pointTotal.getCurrentPoint()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcGEubGVuZ3RoOyBpKyspIHsKICAgICAgICBwYVtpXT1TdHJpbmdVdGlscy5kZWZhdWx0SWZCbGFuayhwYVtpXSwiLSIpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>orderVO.getTotalFee()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlTWVzc2FnZVNlcnZpY2Uubm90aWZ5UGFpZFVzZXJCeVNDcm0ob3JkZXJObyk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIHMgOiBwYSkgewoKICAgIH0K</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3ROYW1lPVN0cmluZ1V0aWxzLmRlZmF1bHRJZkJsYW5rKHByb2R1Y3ROYW1lLCItIik7Cg==</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNDcm1PcmRlclJlZnVuZFRlbXBsYXRlUGFyYW0gcGFyYW1zPW5ldyBTQ3JtT3JkZXJSZWZ1bmRUZW1wbGF0ZVBhcmFtKHVuaW9uSWQsb3JkZXJObyx1c2VyTmFtZSwKICAgICAgICBwaG9uZSxyZWZ1bmRGZWUscmVmdW5kUG9pbnQpOwogICAgLy8g6Zmk5pel5b+X5aSW5peg5ZCO57ut5pON5L2cCiAgICB0aGlzLnBvc3RBc3luYyhzQ2FtVVJMQ29uc3RhbnRzLmdldE9SREVSX1JFRlVORF9OT1RJRlkoKSwgcGFyYW1zLCBESVNDQVJEX0hBTkRMRVIpOwo=</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNDcm1Qb2ludENoYW5nZVRlbXBsYXRlUGFyYW0gcGFyYW1zPW5ldyBTQ3JtUG9pbnRDaGFuZ2VUZW1wbGF0ZVBhcmFtKHVuaW9uSWQsdHlwZSxwb2ludENvdW50LAogICAgICAgIHBvaW50VG90YWwpOwogICAgLy8g6Zmk5pel5b+X5aSW5peg5ZCO57ut5pON5L2cCiAgICB0aGlzLnBvc3RBc3luYyhzQ2FtVVJMQ29uc3RhbnRzLmdldFBPSU5UX0NIQU5HRV9OT1RJRlkoKSwgcGFyYW1zLCBESVNDQVJEX0hBTkRMRVIpOwo=</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNDcm1SZWdpc3RyeVRlbXBsYXRlUGFyYW0gcGFyYW1zPW5ldyBTQ3JtUmVnaXN0cnlUZW1wbGF0ZVBhcmFtKHVuaW9uSWQsdXNlck5hbWUscGhvbmUpOwogICAgLy8g6Zmk5pel5b+X5aSW5peg5ZCO57ut5pON5L2cCiAgICB0aGlzLnBvc3RBc3luYyhzQ2FtVVJMQ29uc3RhbnRzLmdldFJFR0lTVFJZX05PVElGWSgpLCBwYXJhbXMsIERJU0NBUkRfSEFORExFUik7Cg==</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIGFycmF5cz1uZXcgU3RyaW5nWzFdOwogICAgQXJyYXlzLgo=</text>
+        <text encoding="base64">ICBAQXN5bmMK</text>
       </register>
       <register name=":" type="4">
         <text>834</text>
