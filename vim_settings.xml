@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/context/annotation/Lazy.java" timestamp="1556613872950" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/context/annotation/Lazy.java" timestamp="1556615038303" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1556455720936">
         <mark key="[" line="852" column="87" />
         <mark key="]" line="852" column="105" />
@@ -28,11 +28,11 @@
         <mark key="^" line="75" column="81" />
         <mark key="." line="75" column="81" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1556613933629">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1556615083138">
         <mark key="'" line="232" column="40" />
         <mark key="[" line="232" column="36" />
-        <mark key="]" line="232" column="36" />
-        <mark key="." line="232" column="36" />
+        <mark key="]" line="232" column="41" />
+        <mark key="." line="232" column="41" />
         <mark key="^" line="232" column="41" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
@@ -141,13 +141,13 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1556613928131">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1556615087180">
         <mark key="[" line="818" column="34" />
-        <mark key="]" line="818" column="34" />
-        <mark key="." line="818" column="34" />
+        <mark key="]" line="818" column="39" />
+        <mark key="." line="818" column="39" />
         <mark key="^" line="818" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556592945377">
+      <file name="/Dummy.txt" timestamp="1556615112476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/inject/InjectPointController.java" timestamp="1556441905910">
