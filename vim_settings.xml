@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class" timestamp="1556697607248" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmTemplateParam.java" timestamp="1556693506032">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="18" column="3" />
@@ -21,17 +20,13 @@
         <mark key="." line="255" column="7" />
         <mark key="^" line="262" column="32" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1556694214157" />
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1556695155187">
         <mark key="[" line="166" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderRefundService.java" timestamp="1556704228371" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1556705654923" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1556705622815" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderRefundMapper.xml" timestamp="1556704545827" />
+      <file name="$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4-sources.jar!/com/sun/mail/smtp/SMTPTransport.java" timestamp="1556954354159" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
@@ -45,19 +40,12 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar!/org/springframework/context/config/spring-context-4.0.xsd" timestamp="1556698669741" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderRefundServiceImpl.java" timestamp="1556704237840">
         <mark key="'" line="618" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1556706837792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/RefundOrder.java" timestamp="1556704433751" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-service/src/main/java/com/ziwow/scrmapp/listener/AppContextListener.java" timestamp="1556697346359" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/OrderRefund.java" timestamp="1556704417028" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1556705393699" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/outpay/impl/TenPaymentImpl.java" timestamp="1556706677019" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderService.java" timestamp="1556705737111" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1556702080001">
         <mark key="'" line="31" column="16" />
         <mark key="[" line="264" column="64" />
@@ -68,8 +56,6 @@
       <file name="/fragment.java" timestamp="1556706724993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.1.9.1/xquark-point-core-0.1.9.1.jar!/com/point/xquark/dal/mapper/PointTransferMapper.xml" timestamp="1556702970519" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1556702197022" />
     </filemarks>
     <jumps>
       <jump line="528" column="49" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" />
