@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderRefundServiceImpl.java" timestamp="1556704237840">
+        <mark key="'" line="618" column="73" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmTemplateParam.java" timestamp="1556693506032">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="18" column="3" />
@@ -13,21 +16,30 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1556706926873">
+      <file name="/Dummy.txt" timestamp="1557049337468">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1557049188460" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557049271680">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="255" column="7" />
-        <mark key="]" line="255" column="7" />
-        <mark key="." line="255" column="7" />
-        <mark key="^" line="262" column="32" />
+        <mark key="[" line="186" column="50" />
+        <mark key="]" line="186" column="87" />
+        <mark key="." line="186" column="87" />
+        <mark key="^" line="186" column="87" />
       </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/PromotionBargain.java" timestamp="1557049214072" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1556695155187">
         <mark key="[" line="166" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.0.3.RELEASE/spring-context-support-4.0.3.RELEASE-sources.jar!/org/springframework/mail/javamail/JavaMailSenderImpl.java" timestamp="1556965122529" />
-      <file name="$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4-sources.jar!/com/sun/mail/smtp/SMTPTransport.java" timestamp="1556954354159" />
+      <file name="$USER_HOME$/Project/pinpoint/web/src/main/java/com/navercorp/pinpoint/web/alarm/AlarmMessageSenderImple.java" timestamp="1556973768673">
+        <mark key="[" line="53" column="118" />
+        <mark key="]" line="53" column="127" />
+        <mark key="^" line="53" column="127" />
+        <mark key="." line="53" column="127" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
@@ -41,18 +53,6 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderRefundServiceImpl.java" timestamp="1556704237840">
-        <mark key="'" line="618" column="73" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556706837792">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/pinpoint/web/src/main/java/com/navercorp/pinpoint/web/alarm/AlarmMessageSenderImple.java" timestamp="1556973768673">
-        <mark key="[" line="53" column="118" />
-        <mark key="]" line="53" column="127" />
-        <mark key="^" line="53" column="127" />
-        <mark key="." line="53" column="127" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1556702080001">
         <mark key="'" line="31" column="16" />
         <mark key="[" line="264" column="64" />
@@ -60,6 +60,7 @@
         <mark key="^" line="264" column="52" />
         <mark key="." line="264" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557048308817" />
       <file name="/fragment.java" timestamp="1556706724993">
         <mark key="[" line="0" column="0" />
       </file>
