@@ -20,13 +20,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/config/ServiceConfig.java" timestamp="1557112468667" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557113707807">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-        <mark key="^" line="299" column="8" />
-      </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,6 +64,7 @@
         <mark key="^" line="264" column="52" />
         <mark key="." line="264" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/task/TaskClearPoint.java" timestamp="1557115453954" />
       <file name="/fragment.java" timestamp="1556706724993">
         <mark key="[" line="0" column="0" />
       </file>
