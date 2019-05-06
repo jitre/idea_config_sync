@@ -6,15 +6,8 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/utils/src/main/java/com/xquark/utils/http/po/SCrmTemplateParam.java" timestamp="1556693506032">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/config/ServiceConfig.java" timestamp="1557112468667" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557133438473">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557138734171">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="60" />
         <mark key="." line="229" column="0" />
@@ -34,6 +27,7 @@
         <mark key="^" line="124" column="38" />
         <mark key="." line="124" column="38" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1557138204813" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/impl/PointTransferServiceImpl.java" timestamp="1557131415966">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -42,6 +36,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1557121771744">
         <mark key="[" line="166" column="30" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1557137848305" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/aop/AspectClearAndMigratePoint.java" timestamp="1557112900120">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="29" column="0" />
@@ -50,20 +45,20 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1556706818423">
-        <mark key="'" line="232" column="40" />
-        <mark key="[" line="2931" column="91" />
-        <mark key="]" line="2931" column="109" />
-        <mark key="." line="2931" column="109" />
-        <mark key="^" line="2931" column="109" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557133445721">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1557138115785" />
+      <file name="/Dummy.txt" timestamp="1557139089546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.2.0.0/xquark-point-core-0.2.0.0.jar!/com/point/xquark/service/point/impl/PointTransferServiceImpl.class" timestamp="1557133410714" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InvitePromotionMapper.xml" timestamp="1557139079284">
+        <mark key="[" line="129" column="57" />
+        <mark key="]" line="129" column="73" />
+        <mark key="^" line="129" column="73" />
+        <mark key="." line="129" column="73" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1557121830797" />
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/0.2.0.0/xquark-point-core-0.2.0.0.jar!/com/point/xquark/dal/mapper/PointTransferMapper.xml" timestamp="1557133371696" />
       <file name="$USER_HOME$/Project/pinpoint/web/src/main/java/com/navercorp/pinpoint/web/alarm/AlarmMessageSenderImple.java" timestamp="1556973768673">
@@ -89,6 +84,7 @@
       <file name="/fragment.java" timestamp="1556706724993">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1557138766235" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
