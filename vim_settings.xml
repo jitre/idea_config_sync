@@ -8,7 +8,7 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/config/ServiceConfig.java" timestamp="1557199512759" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/InsideBuyDiscountPricingChain.java" timestamp="1557199259260" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557138734171">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557208951470">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="60" />
         <mark key="." line="229" column="0" />
@@ -22,16 +22,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557121835172">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557208693115">
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="38" />
         <mark key="^" line="124" column="38" />
         <mark key="." line="124" column="38" />
-      </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/java/com/point/xquark/service/point/impl/PointTransferServiceImpl.java" timestamp="1557131415966">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/PromotionType.java" timestamp="1557199305015" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
@@ -58,7 +53,7 @@
         <mark key="^" line="53" column="127" />
         <mark key="." line="53" column="127" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1557199772551" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1557208659915" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FullCutDiscountPricingChain.java" timestamp="1557199198626" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1557132015448">
         <mark key="[" line="40" column="30" />
@@ -66,6 +61,7 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557209106205" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1557199274142" />
       <file name="/fragment.java" timestamp="1556706724993">
         <mark key="[" line="0" column="0" />
