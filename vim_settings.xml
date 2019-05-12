@@ -6,16 +6,29 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatUserMapper.xml" timestamp="1557374262673">
+        <mark key="[" line="26" column="128" />
+        <mark key="]" line="26" column="138" />
+        <mark key="." line="26" column="138" />
+        <mark key="^" line="26" column="138" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_R150528.sql" timestamp="1557645013198" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557389490854">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="60" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/regist/regist_page1.js" timestamp="1557389025996">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1557648752328">
+        <mark key="[" line="217" column="97" />
+        <mark key="]" line="217" column="133" />
+        <mark key="." line="217" column="134" />
+        <mark key="^" line="217" column="134" />
       </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557648050006">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557648161915">
         <mark key="[" line="124" column="39" />
         <mark key="]" line="126" column="39" />
         <mark key="^" line="126" column="39" />
@@ -38,7 +51,7 @@
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1557647844210">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1557648470066">
         <mark key="'" line="3240" column="8" />
         <mark key="[" line="3244" column="51" />
         <mark key="]" line="3244" column="49" />
@@ -79,7 +92,7 @@
         <mark key="^" line="119" column="119" />
         <mark key="." line="119" column="119" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1557647708038">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1557648581551">
         <mark key="[" line="423" column="0" />
         <mark key="]" line="434" column="62" />
         <mark key="^" line="430" column="15" />
@@ -91,7 +104,12 @@
         <mark key="^" line="602" column="26" />
         <mark key="." line="602" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557578391126" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557648864075">
+        <mark key="[" line="213" column="89" />
+        <mark key="]" line="213" column="107" />
+        <mark key="." line="213" column="107" />
+        <mark key="^" line="213" column="107" />
+      </file>
       <file name="/fragment.java" timestamp="1557647829950">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,8 +226,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>userName,phone,refundFee,refundPoint</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -221,22 +239,22 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>userName,phone,refundFee,refundPoint</text>
+        <text>begin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKioqCiAgICog6K+35rGCU0NSTeWPkemAgeWFrOS8l+mAgOasvumAmuefpQogICAqIEBwYXJhbSB1bmlvbklkCiAgICogQHBhcmFtIG9yZGVyTm8KICAgKiBAcGFyYW0gdXNlck5hbWUKICAgKiBAcGFyYW0gcGhvbmUKICAgKiBAcGFyYW0gcmVmdW5kRmVlCiAgICogQHBhcmFtIHJlZnVuZFBvaW50CiAgICovCiAgcHVibGljIHZvaWQgcG9zdFN5bmNPcmRlclJlZnVuZFRlbXBsYXRlKFN0cmluZyB1bmlvbklkLCBTdHJpbmcgb3JkZXJObywgU3RyaW5nIHVzZXJOYW1lLAogICAgICBTdHJpbmcgcGhvbmUsIFN0cmluZyByZWZ1bmRGZWUsIFN0cmluZyByZWZ1bmRQb2ludCkgewogICAgU3RyaW5nW10gcGE9e29yZGVyTm8sdXNlck5hbWUscGhvbmUscmVmdW5kRmVlLHJlZnVuZFBvaW50fTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcGEubGVuZ3RoOyBpKyspIHsKICAgICAgcGFbaV09U3RyaW5nVXRpbHMuZGVmYXVsdElmQmxhbmsocGFbaV0sIi0iKTsKICAgIH0KICAgIFNDcm1UZW1wbGF0ZVBhcmFtIHBhcmFtcz1uZXcgU0NybVRlbXBsYXRlUGFyYW0odW5pb25JZCwib3JkZXJSZWZ1bmRUZW1wbGF0ZSIsCiAgICAgICAgU3RyaW5nVXRpbHMuam9pbihwYSwiLCIpKTsKICAgIC8vIOmZpOaXpeW/l+WkluaXoOWQjue7reaTjeS9nAogICAgdGhpcy5wb3N0QXN5bmMoc0NhbVVSTENvbnN0YW50cy5nZXRTQ1JNX05PVElGWSgpLCBwYXJhbXMsIERJU0NBUkRfSEFORExFUik7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>setScale(2, BigDecimal.ROUND_HALF_UP)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gdXNlck5hbWUKICAgKiBAcGFyYW0gcGhvbmUKICAgKiBAcGFyYW0gcmVmdW5kRmVlCiAgICogQHBhcmFtIHJlZnVuZFBvaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IFN0cmluZyB1c2VyTmFtZSwKICAgICAgU3RyaW5nIHBob25lLCBTdHJpbmcgcmVmdW5kRmVlLCBTdHJpbmcgcmVmdW5kUG9pbnQ=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGJ1eWVySWQgPSBvcmRlci5nZXRCdXllcklkKCk7CiAgICAgIFVzZXIgdXNlciA9IHVzZXJTZXJ2aWNlLmxvYWQoYnV5ZXJJZCk7CiAgICAgIGlmKHVzZXIhPW51bGwpewogICAgICAgIHNDcm1IdHRwVXRpbHMucG9zdFN5bmNDb21tZW50Tm90aWZ5VGVtcGxhdGUodXNlci5nZXRVbmlvbklkKCksb3JkZXIuZ2V0T3JkZXJObygpLAogICAgICAgICAgICBvcmRlci5nZXRUb3RhbEZlZSgpLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkudG9TdHJpbmcoKSk7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -245,19 +263,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2NybQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyU2VydmljZS5saXN0VW5Db21tZW50T3JkZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgYmVnaW4gPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIGludCByZXN1bHQgPSBvcmRlclNlcnZpY2UuYXV0b1NpZ24oKTsKICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>523</text>
