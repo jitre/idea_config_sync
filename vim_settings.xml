@@ -12,7 +12,6 @@
         <mark key="." line="26" column="138" />
         <mark key="^" line="26" column="138" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_R150528.sql" timestamp="1557645013198" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/regist/regist_page1.js" timestamp="1557389025996">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -28,13 +27,13 @@
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557648161915">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557717480667">
         <mark key="[" line="124" column="39" />
         <mark key="]" line="126" column="39" />
         <mark key="^" line="126" column="39" />
         <mark key="." line="126" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1557557500989" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.4/druid-1.0.4.jar!/com/alibaba/druid/pool/DruidDataSource.class" timestamp="1557717653836" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1557648061521">
         <mark key="[" line="236" column="25" />
         <mark key="]" line="236" column="32" />
@@ -67,7 +66,6 @@
         <mark key="." line="2831" column="42" />
         <mark key="^" line="2831" column="42" />
       </file>
-      <file name="/application.properties" timestamp="1557566522449" />
       <file name="/Dummy.txt" timestamp="1557648917054">
         <mark key="[" line="0" column="0" />
       </file>
