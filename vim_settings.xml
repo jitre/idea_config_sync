@@ -33,7 +33,7 @@
         <mark key="^" line="126" column="39" />
         <mark key="." line="126" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.4/druid-1.0.4.jar!/com/alibaba/druid/pool/DruidDataSource.class" timestamp="1557717653836" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.4/druid-1.0.4.jar!/com/alibaba/druid/pool/DruidDataSource.class" timestamp="1557718363902" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1557648061521">
         <mark key="[" line="236" column="25" />
         <mark key="]" line="236" column="32" />
