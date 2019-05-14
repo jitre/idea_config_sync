@@ -40,12 +40,12 @@
         <mark key="^" line="236" column="32" />
         <mark key="." line="236" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1557647545641">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1557802903406">
         <mark key="'" line="2717" column="0" />
-        <mark key="[" line="2759" column="14" />
-        <mark key="]" line="2759" column="43" />
-        <mark key="." line="2762" column="15" />
-        <mark key="^" line="2762" column="15" />
+        <mark key="[" line="2748" column="21" />
+        <mark key="]" line="2748" column="19" />
+        <mark key="." line="2748" column="19" />
+        <mark key="^" line="2748" column="19" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
@@ -66,7 +66,7 @@
         <mark key="." line="2831" column="42" />
         <mark key="^" line="2831" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557648917054">
+      <file name="/Dummy.txt" timestamp="1557802911728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductUserMapper.xml" timestamp="1557560070302">
@@ -102,7 +102,7 @@
         <mark key="^" line="602" column="26" />
         <mark key="." line="602" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557648864075">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557802794178">
         <mark key="[" line="213" column="89" />
         <mark key="]" line="213" column="107" />
         <mark key="." line="213" column="107" />
