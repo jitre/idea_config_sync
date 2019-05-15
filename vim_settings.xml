@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatUserMapper.xml" timestamp="1557374262673">
-        <mark key="[" line="26" column="128" />
-        <mark key="]" line="26" column="138" />
-        <mark key="." line="26" column="138" />
-        <mark key="^" line="26" column="138" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindSuccess.jsp" timestamp="1557911623740">
         <mark key="[" line="12" column="101" />
         <mark key="]" line="44" column="17" />
@@ -39,11 +33,11 @@
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557913629778">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="4" />
-        <mark key="." line="128" column="4" />
-        <mark key="^" line="128" column="4" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1557926620377">
+        <mark key="[" line="127" column="5" />
+        <mark key="]" line="127" column="4" />
+        <mark key="." line="127" column="4" />
+        <mark key="^" line="127" column="4" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/index/index.jsp" timestamp="1557908410679">
         <mark key="[" line="30" column="0" />
@@ -51,12 +45,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/scheduling/support/CronSequenceGenerator.java" timestamp="1557923520751" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Scheduled.java" timestamp="1557922604752" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1557804227200">
-        <mark key="'" line="2717" column="0" />
-        <mark key="[" line="2752" column="86" />
-        <mark key="]" line="2752" column="86" />
-        <mark key="." line="2752" column="86" />
-        <mark key="^" line="2752" column="86" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1557926286846">
+        <mark key="[" line="233" column="15" />
+        <mark key="]" line="233" column="55" />
+        <mark key="." line="233" column="55" />
+        <mark key="^" line="233" column="55" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
@@ -71,10 +64,16 @@
         <mark key="." line="2831" column="42" />
         <mark key="^" line="2831" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557911675752">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatUserMapper.java" timestamp="1557926224247">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="68" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557926624742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1557923817100" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1557925900733" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1557908477785" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1557923974621" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/css/bindProduct/bindSuccess.css" timestamp="1557910793527">
@@ -89,9 +88,12 @@
         <mark key="^" line="119" column="119" />
         <mark key="." line="119" column="119" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1557648581551">
-        <mark key="]" line="423" column="62" />
-        <mark key="." line="426" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatUserService.java" timestamp="1557926233187">
+        <mark key="'" line="18" column="54" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="60" column="3" />
+        <mark key="." line="62" column="42" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1557805850526">
         <mark key="[" line="214" column="68" />
@@ -99,11 +101,12 @@
         <mark key="." line="214" column="68" />
         <mark key="^" line="214" column="68" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1557923835765">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="116" column="41" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1557926524972">
+        <mark key="'" line="44" column="3" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="132" column="16" />
+        <mark key="." line="132" column="16" />
+        <mark key="^" line="132" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1557913684557">
         <mark key="[" line="0" column="0" />
@@ -116,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="28" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="139" column="14" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="221" column="16" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
       <jump line="226" column="26" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/resources/env/config-innertest-hds.properties" />
@@ -216,13 +218,14 @@
       <jump line="104" column="40" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
       <jump line="34" column="3" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="17" column="54" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatUserService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -234,43 +237,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>filterChange</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDAgMTAgKiAqID8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLllK7lkI7mnI3liqHmj5DphpLpgJrnn6Xlrprml7blj5HpgIHmqKHmnb/mtojmga/lkoznn63kv6HpgJrnn6XlpLHotKU6IiwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXZWNoYXRGYW5zIGZhbnMgPSB3ZWNoYXRGYW5zU2VydmljZS5nZXRXZWNoYXRGYW5zQnlJZCh1c2VyLmdldFdmSWQoKSk7CiAgICAgICAgU3RyaW5nW10gcGFyYW1zPXsiMjAxOeW5tDXmnIgxN+aXpSIsIuaygeWbreWHgOawtOWZqOS/neWFu+ekvOWMhSIsIuaIquatojIwMTnlubQ25pyIMTjml6UifTsKICAgICAgICB3ZWNoYXRUZW1wbGF0ZVNlcnZpY2Uuc2VuZFRlbXBsYXRlKGZhbnMuZ2V0T3BlbklkKCksIiIsIEFycmF5cy5hc0xpc3QocGFyYW1zKSwiYXdhcmROb3RpZnlUZW1wbGF0ZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWNoYXRVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmdldE8K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWMK</text>
+        <text encoding="base64">ICAgICAgICBXZWNoYXRVc2VyIHVzZXI9bmV3IFdlY2hhdFVzZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKioKICAgICAqIOavj+WkqeWNgeeCueaJp+ihjAogICAgICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBZZWFybHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOavj+WkqTEw54K55omn6KGMCg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWNoYXRVCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmlsdGVyQ2hhbmdlUmVtaW5kU2VydmljZSBmaWx0ZXJDaGFuZ2VSZW1pbmRTZXJ2aWNlOwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBXZWNoYXRPcmRlcnNTZXJ2aWNlIHdlY2hhdE9yZGVyc1NlcnZpY2U7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIE1vYmlsZVNlcnZpY2UgbW9iaWxlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmdldE8K</text>
       </register>
       <register name=":" type="4">
         <text>443</text>
