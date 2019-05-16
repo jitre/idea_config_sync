@@ -39,12 +39,9 @@
         <mark key="." line="127" column="4" />
         <mark key="^" line="127" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/index/index.jsp" timestamp="1557908410679">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="41" column="20" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/scheduling/support/CronSequenceGenerator.java" timestamp="1557923520751" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Scheduled.java" timestamp="1557922604752" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1557976160019" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1557926286846">
         <mark key="[" line="233" column="15" />
         <mark key="]" line="233" column="55" />
@@ -82,6 +79,7 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1557976412448" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1557560063585">
         <mark key="[" line="119" column="113" />
         <mark key="]" line="119" column="119" />
