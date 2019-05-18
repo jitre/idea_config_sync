@@ -20,7 +20,7 @@
         <mark key="." line="146" column="13" />
         <mark key="^" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558162733882" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558164107807" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1558012427814">
         <mark key="'" line="2717" column="0" />
         <mark key="[" line="2728" column="10" />
@@ -35,6 +35,7 @@
         <mark key="[" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/task/InjectPointTaskService.java" timestamp="1558163316050" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/ResponseHandler.java" timestamp="1558164093734" />
       <file name="/Dummy.txt" timestamp="1558072744401">
         <mark key="[" line="0" column="0" />
       </file>
