@@ -103,11 +103,26 @@
       <file name="/Dummy.txt" timestamp="1558072744401">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductUserMapper.xml" timestamp="1557560070302">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/css/bindProduct/bindSuccess.css" timestamp="1557910793527">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/register.jsp" timestamp="1557386582346">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="71" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/promotion/PromotionActionType.java" timestamp="1558178447609">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1558165662990">
         <mark key="[" line="572" column="0" />
@@ -230,7 +245,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgTUlYLmNvZGUoKTsK</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -251,34 +266,34 @@
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVyOyBpKyspIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgTUlYLmNvZGUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNSVguY29kZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJTZXJ2aWNlLmxvYWRVc2Vyc1dpdGhQb2ludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8aW5jbHVkZSByZWZpZD0iSm9pbl9Db2x1bW5fTGlzdCIgLz4K</text>
+        <text encoding="base64">CS8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsaW1pdCAje3BhZ2V9LCN7c2l6ZX0K</text>
+        <text encoding="base64">ICAgIHVzZXJTZXJ2aWNlLmxvYWRVc2Vyc1dpdGhQb2ludCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">CQk8aW5jbHVkZSByZWZpZD0iSm9pbl9Db2x1bW5fTGlzdCIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8aWYgdGVzdD0icGFnZSAhPSBudWxsIiA+CgkJCWxpbWl0ICN7cGFnZS5vZmZzZXR9LCAje3BhZ2Uuc2l6ZX0KCQk8L2lmPgo=</text>
+        <text encoding="base64">CQlsaW1pdCAje3BhZ2V9LCN7c2l6ZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>588</text>
