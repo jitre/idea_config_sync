@@ -68,7 +68,7 @@
         <mark key="[" line="412" column="37" />
         <mark key="]" line="412" column="50" />
       </file>
-      <file name="/OrderController.java" timestamp="1558264610628" />
+      <file name="/OrderController.java" timestamp="1558264780632" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" timestamp="1558254933857" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindSuccess.jsp" timestamp="1557911623740">
         <mark key="[" line="12" column="101" />
@@ -108,6 +108,7 @@
         <mark key="^" line="216" column="81" />
         <mark key="." line="216" column="81" />
       </file>
+      <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1558264907518" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/ProductMapper.java" timestamp="1558165678759">
         <mark key="[" line="62" column="74" />
         <mark key="]" line="62" column="107" />
