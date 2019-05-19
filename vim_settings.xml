@@ -131,14 +131,14 @@
         <mark key="^" line="862" column="42" />
         <mark key="." line="862" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558072744401">
+      <file name="/Dummy.txt" timestamp="1558261792163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558258387343">
-        <mark key="[" line="230" column="24" />
-        <mark key="]" line="230" column="24" />
-        <mark key="^" line="230" column="24" />
-        <mark key="." line="230" column="24" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558261740014">
+        <mark key="[" line="247" column="59" />
+        <mark key="]" line="247" column="75" />
+        <mark key="^" line="247" column="75" />
+        <mark key="." line="247" column="75" />
       </file>
       <file name="/fragment.java" timestamp="1558257867727">
         <mark key="[" line="0" column="0" />
@@ -251,7 +251,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getId()</text>
+        <text>&quot;owmUes88H68QDVijkz9rQAR0D748&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -263,7 +263,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>getId()</text>
+        <text>&quot;owmUes88H68QDVijkz9rQAR0D748&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
