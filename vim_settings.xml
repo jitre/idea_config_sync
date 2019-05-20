@@ -51,11 +51,11 @@
         <mark key="^" line="559" column="58" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/WechatOrdersMapper.xml" timestamp="1558329127648" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558256891294">
-        <mark key="[" line="216" column="60" />
-        <mark key="]" line="216" column="81" />
-        <mark key="^" line="216" column="81" />
-        <mark key="." line="216" column="81" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
+        <mark key="[" line="212" column="30" />
+        <mark key="]" line="212" column="27" />
+        <mark key="^" line="212" column="27" />
+        <mark key="." line="212" column="27" />
       </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1558264907518" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/SmsSendRecordServiceImpl.java" timestamp="1558328023991" />
@@ -75,7 +75,7 @@
         <mark key="^" line="862" column="42" />
         <mark key="." line="862" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558261792163">
+      <file name="/Dummy.txt" timestamp="1558335816643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1558330228441" />
@@ -84,11 +84,11 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558261740014">
-        <mark key="[" line="247" column="59" />
-        <mark key="]" line="247" column="75" />
-        <mark key="^" line="247" column="75" />
-        <mark key="." line="247" column="75" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558335810272">
+        <mark key="[" line="230" column="26" />
+        <mark key="]" line="230" column="25" />
+        <mark key="^" line="230" column="25" />
+        <mark key="." line="230" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1558257867727">
         <mark key="[" line="0" column="0" />
@@ -200,8 +200,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKioKICAgICAqIOa0u+WKqOmAmuefpea1i+ivlQogICAgICovCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAwIDE2IDE3IDUgPyAiKQogICAgcHVibGljIHZvaWQgcmVnaXN0ZXJBY3Rpdml0eVJlbWluZGVyTXNnVGVzdCgpIHsKICAgICAgICBpZiAoIWZsYWcuZXF1YWxzKCIwIikpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHlvIDlp4suLi4uLi4iKTsKICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgV2VjaGF0VXNlciB1c2VyID0gd2VjaGF0VXNlclNlcnZpY2UuZ2V0VXNlckJ5TW9iaWxlUGhvbmUoIjE4MzU4NzMzNjk1Iik7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBXZWNoYXRGYW5zIGZhbnMgPSB3ZWNoYXRGYW5zU2VydmljZS5nZXRXZWNoYXRGYW5zQnlJZCh1c2VyLmdldFdmSWQoKSk7CiAgICAgICAgICAgIFN0cmluZ1tdIHBhcmFtcz17IjIwMTnlubQ15pyIMTjml6UiLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoZmFucy5nZXRPcGVuSWQoKSwiIiwgQXJyYXlzLmFzTGlzdChwYXJhbXMpLCJhd2FyZE5vdGlmeVRlbXBsYXRlIik7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLlj5HpgIHpgJrnn6XmiJDlip8sdXNlcjp7fSIsdXNlci5nZXRNb2JpbGVQaG9uZSgpKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLlrprlkJHkurrnvqTlj5HpgIHpgJrnn6XlpLHotKU6IiwgZSk7CiAgICAgICAgfQogICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgbG9nZ2VyLmluZm8oIkg15rS75Yqo5qih5p2/5raI5oGv5o+Q6YaS5a6a5pe25Lu75Yqh57uT5p2f77yM5YWx6ICX5pe277yaWyIgKyAoZW5kIC0gYmVnaW4pIC8gMTAwMCArICJd56eSIik7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>totalPoint</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -213,7 +213,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;owmUes88H68QDVijkz9rQAR0D748&quot;</text>
+        <text>totalPoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
