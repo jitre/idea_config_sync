@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558523813168">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,6 +24,12 @@
         <mark key="^" line="212" column="27" />
         <mark key="." line="212" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1558521226351">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/UserMapper.java" timestamp="1558250854227">
         <mark key="[" line="103" column="68" />
         <mark key="]" line="103" column="67" />
@@ -33,10 +42,11 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
+      <file name="/TemplateMsgScheduledTask.java" timestamp="1558523547711" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1558521287054">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1558523737860">
         <mark key="[" line="145" column="30" />
         <mark key="]" line="143" column="39" />
         <mark key="." line="143" column="39" />
@@ -45,34 +55,23 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
-        <mark key="[" line="306" column="54" />
-        <mark key="]" line="306" column="56" />
-        <mark key="." line="306" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558335816643">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1558521226351">
-        <mark key="[" line="24" column="56" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
-      </file>
-      <file name="/TemplateMsgScheduledTask.java" timestamp="1558520403002" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1558434121959" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558522016764">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558523800785">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="147" column="27" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="18" />
-        <mark key="^" line="120" column="18" />
+        <mark key="]" line="147" column="26" />
+        <mark key="." line="147" column="26" />
+        <mark key="^" line="147" column="26" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558335810272">
         <mark key="[" line="230" column="26" />
         <mark key="]" line="230" column="25" />
         <mark key="^" line="230" column="25" />
         <mark key="." line="230" column="25" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
+        <mark key="[" line="306" column="54" />
+        <mark key="]" line="306" column="56" />
+        <mark key="." line="306" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1558521209901">
         <mark key="[" line="0" column="0" />
@@ -185,7 +184,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKioKICAgICAqIOa0u+WKqOadpea6kOeUqOaIt+WPkemAgeWFrOS8l+WPt+mAmuefpS3nrKzkuIDmibkKICAgICAqLwogICAgQFNjaGVkdWxlZChjcm9uID0gIjAgMCAxMCAyMyA1ID8gIikKICAgIHB1YmxpYyB2b2lkIHJlZ2lzdGVyQWN0aXZpdHlSZW1pbmRlck1zZygpIHsKICAgICAgICBpZiAoIWZsYWcuZXF1YWxzKCIwIikpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHlvIDlp4suLi4uLi4iKTsKICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgTGlzdDxUZW1wV2VjaGF0RmFucz4gZmFuc0xpc3QgPSB3ZWNoYXRGYW5zU2VydmljZS5sb2FkVGVtcFdlY2hhdEZhbnNCYXRjaDEoKTsKICAgICAgICBsb2dnZXIuaW5mbygi6I635Y+W6YCa55+l55So5oi377yM5pWw6YePOnt9IixmYW5zTGlzdC5zaXplKCkpOwogICAgICAgIERhdGUgZCA9IG5ldyBEYXRlKCk7CiAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbTpzcyIpOwogICAgICAgIGZpbmFsIFN0cmluZyB0aW1lID0gc2RmLmZvcm1hdChkKTsKICAgICAgICBmb3IgKFRlbXBXZWNoYXRGYW5zIGZhbnMgOiBmYW5zTGlzdCkgewogICAgICAgICAgdHJ5ewogICAgICAgICAgICAgIFN0cmluZ1tdIHBhcmFtcz17dGltZSwi5rKB5Zut5YeA5rC05Zmo5L+d5YW756S85YyFIiwi5oiq5q2iMjAxOeW5tDbmnIgxOOaXpSJ9OwogICAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoZmFucy5nZXRPcGVuSWQoKSwiIiwgQXJyYXlzLmFzTGlzdChwYXJhbXMpLCJhd2FyZE5vdGlmeVRlbXBsYXRlIik7CiAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWPkemAgemAmuefpeaIkOWKnyx1c2VyOnt9IixmYW5zLmdldE1vYmlsZSgpKTsKICAgICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi5a6a5ZCR5Lq6576k5Y+R6YCB6YCa55+l5aSx6LSlOiIsIGUpOwogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHnu5PmnZ/vvIzlhbHogJfml7bvvJpbIiArIChlbmQgLSBiZWdpbikgLyAxMDAwICsgIl3np5IiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzEwICogKiAqICogPyIpCg==</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -197,43 +196,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>注册的用户</text>
+        <text>fans.getOpenId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKioKICAgICAqIOa0u+WKqOadpea6kOeUqOaIt+WPkemAgeWFrOS8l+WPt+mAmuefpS3nrKzkuIDmibkKICAgICAqLwogICAgQFNjaGVkdWxlZChjcm9uID0gIjAgMCAxMCAyMyA1ID8gIikKICAgIHB1YmxpYyB2b2lkIHJlZ2lzdGVyQWN0aXZpdHlSZW1pbmRlck1zZygpIHsKICAgICAgICBpZiAoIWZsYWcuZXF1YWxzKCIwIikpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHlvIDlp4suLi4uLi4iKTsKICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgTGlzdDxUZW1wV2VjaGF0RmFucz4gZmFuc0xpc3QgPSB3ZWNoYXRGYW5zU2VydmljZS5sb2FkVGVtcFdlY2hhdEZhbnNCYXRjaDEoKTsKICAgICAgICBsb2dnZXIuaW5mbygi6I635Y+W6YCa55+l55So5oi377yM5pWw6YePOnt9IixmYW5zTGlzdC5zaXplKCkpOwogICAgICAgIERhdGUgZCA9IG5ldyBEYXRlKCk7CiAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbTpzcyIpOwogICAgICAgIGZpbmFsIFN0cmluZyB0aW1lID0gc2RmLmZvcm1hdChkKTsKICAgICAgICBmb3IgKFRlbXBXZWNoYXRGYW5zIGZhbnMgOiBmYW5zTGlzdCkgewogICAgICAgICAgdHJ5ewogICAgICAgICAgICAgIFN0cmluZ1tdIHBhcmFtcz17dGltZSwi5rKB5Zut5YeA5rC05Zmo5L+d5YW756S85YyFIiwi5oiq5q2iMjAxOeW5tDbmnIgxOOaXpSJ9OwogICAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoZmFucy5nZXRPcGVuSWQoKSwiIiwgQXJyYXlzLmFzTGlzdChwYXJhbXMpLCJhd2FyZE5vdGlmeVRlbXBsYXRlIik7CiAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWPkemAgemAmuefpeaIkOWKnyx1c2VyOnt9IixmYW5zLmdldE1vYmlsZSgpKTsKICAgICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi5a6a5ZCR5Lq6576k5Y+R6YCB6YCa55+l5aSx6LSlOiIsIGUpOwogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHnu5PmnZ/vvIzlhbHogJfml7bvvJpbIiArIChlbmQgLSBiZWdpbikgLyAxMDAwICsgIl3np5IiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDMwIDE5IDIyIDUgPyAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+WPluaXpeacnwo=</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzEwICogKiAqICogPyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISJvYkpOSHhMMktzWVpzemVXN1ZSRDFGUlJibXpVIi5lcXVhbHMoZmFucy5nZXRPcGVuSWQoKSkpewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzEwICogKiAqICogPyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZGF0ZU5vd1N0ciA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAvL+iOt+WPluaXpeacnwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuagvOW8j+WMluWQjueahOaXpeacn++8miIgKyBkYXRlTm93U3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISJvYkpOSHhMMktzWVpzemVXN1ZSRDFGUlJibXpVIi5lcXVhbHMoZmFucy5nZXRPcGVuSWQoKSkpewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZGF0ZU5vd1N0ciA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAg5L2c6ICF77yaa29va29iCiAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9rb29rb2IvYXJ0aWNsZS9kZXRhaWxzLzY4ODUzODMKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuagvOW8j+WMluWQjueahOaXpeacn++8miIgKyBkYXRlTm93U3RyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKioKICAgICAqIOa0u+WKqOmAmuefpea1i+ivlQogICAgICovCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAwIDE2IDE3IDUgPyAiKQogICAgcHVibGljIHZvaWQgcmVnaXN0ZXJBY3Rpdml0eVJlbWluZGVyTXNnVGVzdCgpIHsKICAgICAgICBpZiAoIWZsYWcuZXF1YWxzKCIwIikpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHlvIDlp4suLi4uLi4iKTsKICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgV2VjaGF0VXNlciB1c2VyID0gd2VjaGF0VXNlclNlcnZpY2UuZ2V0VXNlckJ5TW9iaWxlUGhvbmUoIjE4MzU4NzMzNjk1Iik7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBXZWNoYXRGYW5zIGZhbnMgPSB3ZWNoYXRGYW5zU2VydmljZS5nZXRXZWNoYXRGYW5zQnlJZCh1c2VyLmdldFdmSWQoKSk7CiAgICAgICAgICAgIFN0cmluZ1tdIHBhcmFtcz17IjIwMTnlubQ15pyIMTjml6UiLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoZmFucy5nZXRPcGVuSWQoKSwiIiwgQXJyYXlzLmFzTGlzdChwYXJhbXMpLCJhd2FyZE5vdGlmeVRlbXBsYXRlIik7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLlj5HpgIHpgJrnn6XmiJDlip8sdXNlcjp7fSIsdXNlci5nZXRNb2JpbGVQaG9uZSgpKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLlrprlkJHkurrnvqTlj5HpgIHpgJrnn6XlpLHotKU6IiwgZSk7CiAgICAgICAgfQogICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgbG9nZ2VyLmluZm8oIkg15rS75Yqo5qih5p2/5raI5oGv5o+Q6YaS5a6a5pe25Lu75Yqh57uT5p2f77yM5YWx6ICX5pe277yaWyIgKyAoZW5kIC0gYmVnaW4pIC8gMTAwMCArICJd56eSIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAg5L2c6ICF77yaa29va29iCiAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9rb29rb2IvYXJ0aWNsZS9kZXRhaWxzLzY4ODUzODMKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKioKICAgICAqIOa0u+WKqOmAmuefpea1i+ivlQogICAgICovCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAwIDE2IDE3IDUgPyAiKQogICAgcHVibGljIHZvaWQgcmVnaXN0ZXJBY3Rpdml0eVJlbWluZGVyTXNnVGVzdCgpIHsKICAgICAgICBpZiAoIWZsYWcuZXF1YWxzKCIwIikpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHlvIDlp4suLi4uLi4iKTsKICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgV2VjaGF0VXNlciB1c2VyID0gd2VjaGF0VXNlclNlcnZpY2UuZ2V0VXNlckJ5TW9iaWxlUGhvbmUoIjE4MzU4NzMzNjk1Iik7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBXZWNoYXRGYW5zIGZhbnMgPSB3ZWNoYXRGYW5zU2VydmljZS5nZXRXZWNoYXRGYW5zQnlJZCh1c2VyLmdldFdmSWQoKSk7CiAgICAgICAgICAgIFN0cmluZ1tdIHBhcmFtcz17IjIwMTnlubQ15pyIMTjml6UiLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoZmFucy5nZXRPcGVuSWQoKSwiIiwgQXJyYXlzLmFzTGlzdChwYXJhbXMpLCJhd2FyZE5vdGlmeVRlbXBsYXRlIik7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLlj5HpgIHpgJrnn6XmiJDlip8sdXNlcjp7fSIsdXNlci5nZXRNb2JpbGVQaG9uZSgpKTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLlrprlkJHkurrnvqTlj5HpgIHpgJrnn6XlpLHotKU6IiwgZSk7CiAgICAgICAgfQogICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgbG9nZ2VyLmluZm8oIkg15rS75Yqo5qih5p2/5raI5oGv5o+Q6YaS5a6a5pe25Lu75Yqh57uT5p2f77yM5YWx6ICX5pe277yaWyIgKyAoZW5kIC0gYmVnaW4pIC8gMTAwMCArICJd56eSIik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>588</text>
