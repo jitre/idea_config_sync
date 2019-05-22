@@ -6,13 +6,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1558249583525">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="211" column="12" />
-        <mark key="]" line="211" column="12" />
-        <mark key="." line="211" column="12" />
-        <mark key="^" line="211" column="10" />
-      </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,13 +14,6 @@
         <mark key="]" line="146" column="40" />
         <mark key="." line="146" column="13" />
         <mark key="^" line="146" column="13" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1558258373667">
-        <mark key="'" line="53" column="28" />
-        <mark key="[" line="559" column="56" />
-        <mark key="]" line="559" column="58" />
-        <mark key="." line="559" column="58" />
-        <mark key="^" line="559" column="58" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
         <mark key="[" line="212" column="30" />
@@ -41,34 +27,22 @@
         <mark key="^" line="103" column="67" />
         <mark key="." line="103" column="67" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1558258278089">
-        <mark key="'" line="2717" column="0" />
-        <mark key="[" line="2712" column="33" />
-        <mark key="]" line="2712" column="62" />
-        <mark key="." line="2752" column="86" />
-        <mark key="^" line="2752" column="86" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1558166784529">
-        <mark key="'" line="794" column="67" />
-        <mark key="[" line="862" column="11" />
-        <mark key="]" line="862" column="42" />
-        <mark key="^" line="862" column="42" />
-        <mark key="." line="862" column="42" />
-      </file>
       <file name="/Dummy.txt" timestamp="1558335816643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/TemplateMsgScheduledTask.java" timestamp="1558520403002" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1558434121959" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558488706868">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558520474914">
+        <mark key="[" line="117" column="10" />
+        <mark key="]" line="117" column="6" />
+        <mark key="." line="117" column="6" />
+        <mark key="^" line="117" column="6" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558335810272">
         <mark key="[" line="230" column="26" />
@@ -187,7 +161,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>totalPoint</text>
+        <text>在2019年5-18号10AM钟进行</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -199,7 +173,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>totalPoint</text>
+        <text>在2019年5-18号10AM钟进行</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
