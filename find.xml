@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.css</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
