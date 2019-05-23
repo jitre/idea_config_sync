@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558609914106">
+      <file name="/Dummy.txt" timestamp="1558611470876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556509342664">
@@ -63,12 +63,12 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558610629788">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558611746303">
         <mark key="'" line="147" column="0" />
-        <mark key="[" line="191" column="24" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="211" column="11" />
+        <mark key="[" line="194" column="74" />
+        <mark key="]" line="194" column="74" />
+        <mark key="." line="194" column="74" />
+        <mark key="^" line="194" column="74" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558335810272">
         <mark key="[" line="230" column="26" />
@@ -191,8 +191,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHnu5PmnZ/vvIzlhbHogJfml7bvvJpbIiArIChlbmQgLSBiZWdpbikgLyAxMDAwICsgIl3np5IiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>linkUrl</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -204,7 +204,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxUZW1wV2VjaGF0RmFucz4g</text>
+        <text>linkUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
