@@ -6,17 +6,17 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/config/WebMvcConfig.java" timestamp="1555405334285">
         <mark key="[" line="127" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558523813168">
+      <file name="/Dummy.txt" timestamp="1558595171562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556509342664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1558584403640">
-        <mark key="[" line="130" column="39" />
-        <mark key="]" line="130" column="19" />
-        <mark key="." line="130" column="19" />
-        <mark key="^" line="130" column="19" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1558594640224">
+        <mark key="[" line="203" column="14" />
+        <mark key="]" line="203" column="388" />
+        <mark key="." line="130" column="39" />
+        <mark key="^" line="130" column="39" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1558584348704" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
@@ -44,6 +44,13 @@
         <mark key="^" line="29" column="50" />
       </file>
       <file name="/TemplateMsgScheduledTask.java" timestamp="1558523547711" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1558593893466">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="205" column="14" />
+        <mark key="]" line="205" column="14" />
+        <mark key="." line="205" column="14" />
+        <mark key="^" line="203" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/dist/product.js" timestamp="1556617543361">
         <mark key="[" line="6168" column="33" />
       </file>
@@ -56,12 +63,12 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/memberInfo/memberInfo.jsp" timestamp="1556196095886">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558523800785">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="147" column="27" />
-        <mark key="]" line="147" column="26" />
-        <mark key="." line="147" column="26" />
-        <mark key="^" line="147" column="26" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558594963459">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="150" column="27" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
+        <mark key="^" line="150" column="29" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1558335810272">
         <mark key="[" line="230" column="26" />
@@ -79,7 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="283" column="56" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/bargain/list.js" />
       <jump line="51" column="12" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="289" column="30" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/bargain/list.js" />
@@ -179,13 +185,14 @@
       <jump line="794" column="67" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" />
       <jump line="40" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" />
       <jump line="114" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzEwICogKiAqICogPyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;obJNHxFbyU1AjuOdomU2QsfZuTPI&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -197,13 +204,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>fans.getOpenId()</text>
+        <text>&quot;obJNHxFbyU1AjuOdomU2QsfZuTPI&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDMwIDE5IDIyIDUgPyAiKQo=</text>
+      <register name="0" type="4">
+        <text>fans.getOpenId()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzEwICogKiAqICogPyIpCg==</text>
