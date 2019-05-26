@@ -20,11 +20,18 @@
         <mark key="." line="130" column="39" />
         <mark key="^" line="130" column="39" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" timestamp="1558858478848">
+        <mark key="'" line="681" column="8" />
+        <mark key="[" line="711" column="72" />
+        <mark key="]" line="711" column="72" />
+        <mark key="." line="711" column="72" />
+        <mark key="^" line="711" column="69" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
-        <mark key="[" line="212" column="30" />
-        <mark key="]" line="212" column="27" />
-        <mark key="^" line="212" column="27" />
-        <mark key="." line="212" column="27" />
+        <mark key="[" line="228" column="30" />
+        <mark key="]" line="228" column="27" />
+        <mark key="^" line="228" column="27" />
+        <mark key="." line="228" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/fullCut/PromotionFullCutController.java" timestamp="1558853439241" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1558852845772" />
@@ -89,8 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="12" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
-      <jump line="289" column="30" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/bargain/list.js" />
       <jump line="278" column="46" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/bargain/list.js" />
       <jump line="78" column="50" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
       <jump line="67" column="45" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/packageRainConfig/config.js" />
@@ -189,13 +194,15 @@
       <jump line="114" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
       <jump line="126" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
       <jump line="147" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="711" column="48" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" />
+      <jump line="681" column="8" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>linkUrl</text>
+        <text encoding="base64">YMKlPGlucHV0IHR5cGU9Im51bWJlciIgY2xhc3M9ImRpc2NvdW50VG90YWwiIG5hbWU9ImRpc2NvdW50VG90YWwiIHN0eWxlPSJ3aWR0aDogODBweCIgdmFsdWU9IiR7fSI+PC9pbnB1dD5gOy8vJ8KlJyArIGFmdGVyUHJpY2UudG9GaXhlZCgyKTs=</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -207,43 +214,43 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>linkUrl</text>
+        <text encoding="base64">YMKlPGlucHV0IHR5cGU9Im51bWJlciIgY2xhc3M9ImRpc2NvdW50VG90YWwiIG5hbWU9ImRpc2NvdW50VG90YWwiIHN0eWxlPSJ3aWR0aDogODBweCIgdmFsdWU9IiR7fSI+PC9pbnB1dD5gOy8vJ8KlJyArIGFmdGVyUHJpY2UudG9GaXhlZCgyKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ1c2VyIHBob25lOnt9LG9wZW5JZDp7fSIsdGVtcFdlY2hhdEZhbnMuZ2V0TW9iaWxlKCksdGVtcFdlY2hhdEZhbnMuZ2V0T3BlbklkKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>afterPrice.toFixed(2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHnu5PmnZ/vvIzlhbHogJfml7bvvJpbIiArIChlbmQgLSBiZWdpbikgLyAxMDAwICsgIl3np5IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSDXmtLvliqjmqKHmnb/mtojmga/mj5DphpLlrprml7bku7vliqHnu5PmnZ/vvIzlhbHogJfml7bvvJpbIiArIChlbmQgLSBiZWdpbikgLyAxMDAwICsgIl3np5IiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi56ys5LiA5om55qih5p2/5rWL6K+VLi4uLi4uIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+a1i+ivleeUqOaIt+WPkemAgQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi56ys5LiA5om55qih5p2/5rWL6K+VLi4uLi4uIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFRlbXBXZWNoYXRGYW5zPiBmYW5zTGlzdCA9IHdlY2hhdEZhbnNTZXJ2aWNlLmxvYWRUZW1wV2VjaGF0RmFuc0JhdGNoMigpOwogICAgICAgIGxvZ2dlci5pbmZvKCLojrflj5bpgJrnn6XnlKjmiLfvvIzmlbDph486e30iLGZhbnNMaXN0LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+a1i+ivleeUqOaIt+WPkemAgQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwYXJhbXMyPXt0aW1lLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgd2VjaGF0VGVtcGxhdGVTZXJ2aWNlLnNlbmRUZW1wbGF0ZSgib2pOaVN1SFAwbTV2WmFuNjlZQTdKUWFpbGJ0MCIsbGlua1VybCwgQXJyYXlzLmFzTGlzdChwYXJhbXMyKSwiYXdhcmROb3RpZnlUZW1wbGF0ZSIpOwogICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoIm9qTmlTdUlrYV9IalVHZFhFU0ZKdkxOeDBTeE0iLGxpbmtVcmwsIEFycmF5cy5hc0xpc3QocGFyYW1zMiksImF3YXJkTm90aWZ5VGVtcGxhdGUiKTsKICAgICAgICB3ZWNoYXRUZW1wbGF0ZVNlcnZpY2Uuc2VuZFRlbXBsYXRlKCJvak5pU3VMMGF1WlFHeGYtbjlOWXBFTEJrN2JvIixsaW5rVXJsLCBBcnJheXMuYXNMaXN0KHBhcmFtcyksImF3YXJkTm90aWZ5VGVtcGxhdGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFRlbXBXZWNoYXRGYW5zPiBmYW5zTGlzdCA9IHdlY2hhdEZhbnNTZXJ2aWNlLmxvYWRUZW1wV2VjaGF0RmFuc0JhdGNoMigpOwogICAgICAgIGxvZ2dlci5pbmZvKCLojrflj5bpgJrnn6XnlKjmiLfvvIzmlbDph486e30iLGZhbnNMaXN0LnNpemUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWNoYXRUZW1wbGF0ZVNlcnZpY2Uuc2VuZFRlbXBsYXRlKGZhbnMuZ2V0T3BlbklkKCksIiIsIEFycmF5cy5hc0xpc3QocGFyYW1zKSwiYXdhcmROb3RpZnlUZW1wbGF0ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwYXJhbXMyPXt0aW1lLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgd2VjaGF0VGVtcGxhdGVTZXJ2aWNlLnNlbmRUZW1wbGF0ZSgib2pOaVN1SFAwbTV2WmFuNjlZQTdKUWFpbGJ0MCIsbGlua1VybCwgQXJyYXlzLmFzTGlzdChwYXJhbXMyKSwiYXdhcmROb3RpZnlUZW1wbGF0ZSIpOwogICAgICAgIHdlY2hhdFRlbXBsYXRlU2VydmljZS5zZW5kVGVtcGxhdGUoIm9qTmlTdUlrYV9IalVHZFhFU0ZKdkxOeDBTeE0iLGxpbmtVcmwsIEFycmF5cy5hc0xpc3QocGFyYW1zMiksImF3YXJkTm90aWZ5VGVtcGxhdGUiKTsKICAgICAgICB3ZWNoYXRUZW1wbGF0ZVNlcnZpY2Uuc2VuZFRlbXBsYXRlKCJvak5pU3VMMGF1WlFHeGYtbjlOWXBFTEJrN2JvIixsaW5rVXJsLCBBcnJheXMuYXNMaXN0KHBhcmFtcyksImF3YXJkTm90aWZ5VGVtcGxhdGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>588</text>
