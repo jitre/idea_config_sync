@@ -20,12 +20,12 @@
         <mark key="." line="130" column="39" />
         <mark key="^" line="130" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" timestamp="1558858478848">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" timestamp="1558859755266">
         <mark key="'" line="681" column="8" />
-        <mark key="[" line="711" column="72" />
-        <mark key="]" line="711" column="72" />
-        <mark key="." line="711" column="72" />
-        <mark key="^" line="711" column="69" />
+        <mark key="[" line="779" column="32" />
+        <mark key="]" line="779" column="29" />
+        <mark key="." line="779" column="29" />
+        <mark key="^" line="779" column="29" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
         <mark key="[" line="228" column="30" />
@@ -34,7 +34,9 @@
         <mark key="." line="228" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/fullCut/PromotionFullCutController.java" timestamp="1558853439241" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1558852845772" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1558860333072">
+        <mark key="[" line="82" column="84" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1558521226351">
         <mark key="[" line="24" column="56" />
         <mark key="]" line="24" column="55" />
@@ -201,8 +203,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YMKlPGlucHV0IHR5cGU9Im51bWJlciIgY2xhc3M9ImRpc2NvdW50VG90YWwiIG5hbWU9ImRpc2NvdW50VG90YWwiIHN0eWxlPSJ3aWR0aDogODBweCIgdmFsdWU9IiR7fSI+PC9pbnB1dD5gOy8vJ8KlJyArIGFmdGVyUHJpY2UudG9GaXhlZCgyKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld1Jvdy5kaXNjb3VudFRvdGFsID09PSAnJyB8fCBuZXdSb3cuZGlzY291bnRUb3RhbCA9PT0gMCB8fCB0eXBlb2YobmV3Um93LmRpc2NvdW50VG90YWwpID09PSAidW5kZWZpbmVkIil7CiAgICAgICAgICAgICAgICAgICAgZXJyb3JNc2cgPSAn6aaW5Lu25LyY5oOg5b+F6aG75omL5Yqo6K6+572u5L+D6ZSA5Lu3LOivt+ajgOafpeebuOWFs+WVhuWTgScKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -214,13 +216,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YMKlPGlucHV0IHR5cGU9Im51bWJlciIgY2xhc3M9ImRpc2NvdW50VG90YWwiIG5hbWU9ImRpc2NvdW50VG90YWwiIHN0eWxlPSJ3aWR0aDogODBweCIgdmFsdWU9IiR7fSI+PC9pbnB1dD5gOy8vJ8KlJyArIGFmdGVyUHJpY2UudG9GaXhlZCgyKTs=</text>
+        <text encoding="base64">ID09IHVuZGVmaW5lZA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>afterPrice.toFixed(2)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld1Jvdy5kaXNjb3VudFRvdGFsID09PSAnJyB8fCBuZXdSb3cuZGlzY291bnRUb3RhbCA9PT0gMCB8fCB0eXBlb2YobmV3Um93LmRpc2NvdW50VG90YWwpID09PSAidW5kZWZpbmVkIil7CiAgICAgICAgICAgICAgICAgICAgZXJyb3JNc2cgPSAn6aaW5Lu25LyY5oOg5b+F6aG75omL5Yqo6K6+572u5L+D6ZSA5Lu3LOivt+ajgOafpeebuOWFs+WVhuWTgScKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLwo=</text>
