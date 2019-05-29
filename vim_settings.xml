@@ -38,6 +38,7 @@
         <mark key="." line="205" column="14" />
         <mark key="^" line="203" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/PromotionServiceImpl.java" timestamp="1559135292583" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558662666545">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="194" column="74" />
@@ -61,6 +62,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1559135399114" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1559126608790">
         <mark key="[" line="525" column="30" />
         <mark key="]" line="525" column="30" />
