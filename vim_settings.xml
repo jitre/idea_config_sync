@@ -18,24 +18,9 @@
         <mark key="." line="130" column="39" />
         <mark key="^" line="130" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1559047378084">
-        <mark key="[" line="311" column="17" />
-        <mark key="]" line="311" column="15" />
-        <mark key="." line="311" column="15" />
-        <mark key="^" line="311" column="15" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1559047335051">
-        <mark key="[" line="658" column="0" />
-        <mark key="]" line="660" column="128" />
-        <mark key="." line="662" column="0" />
-        <mark key="^" line="661" column="105" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/fullCut/editNew.js" timestamp="1559046896614">
-        <mark key="'" line="673" column="8" />
-        <mark key="[" line="120" column="14" />
-        <mark key="]" line="120" column="50" />
-        <mark key="." line="120" column="50" />
-        <mark key="^" line="120" column="50" />
+        <mark key="." line="658" column="0" />
+        <mark key="^" line="2" column="105" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1558335739400">
         <mark key="[" line="228" column="30" />
@@ -44,10 +29,9 @@
         <mark key="." line="228" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1559045419007">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="86" column="132" />
-        <mark key="^" line="85" column="82" />
-        <mark key="." line="85" column="82" />
+        <mark key="]" line="84" column="132" />
+        <mark key="^" line="83" column="82" />
+        <mark key="." line="83" column="82" />
       </file>
       <file name="/editNew.js" timestamp="1559094560752" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1558521226351">
