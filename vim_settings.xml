@@ -68,8 +68,8 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1559124343938" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1559124448358" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1559124514548" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1559124507196" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityProductMapper.xml" timestamp="1559100904692" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1559045419007">
         <mark key="]" line="84" column="132" />
