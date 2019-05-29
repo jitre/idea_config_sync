@@ -68,6 +68,8 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1559124343938" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1559124448358" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityProductMapper.xml" timestamp="1559100904692" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1559045419007">
         <mark key="]" line="84" column="132" />
@@ -253,7 +255,7 @@
         <text encoding="base64">ICAgICAgc2VuZENhY2hlLmFkZCh1c2VyLmdldFBob25lKCkpOwoKCiAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcjsgaSsrKSB7CiAgICAgIExpc3Q8VXNlcj4gdXNlcnMgPSB1c2VyU2VydmljZS5sb2FkVXNlcnNXaXRoUG9pbnQoaSoxMDAsIDEwMCk7CiAgICAgIGZvciAoVXNlciB1c2VyIDogdXNlcnMpIHsKICAgICAgICB0cnl7CiAgICAgICAgICB9CiAgICAgICAgfWNhdGNoKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgIGxvZy5lcnJvcigi5Y+R6YCB56ev5YiG5L2/55So6YCa55+l5aSx6LSlIixlKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>588</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -283,7 +285,6 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>140</entry>
         <entry>120</entry>
         <entry>327</entry>
         <entry>86</entry>
@@ -303,6 +304,7 @@
         <entry>523</entry>
         <entry>443</entry>
         <entry>588</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
