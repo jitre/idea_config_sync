@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190523.sql" timestamp="1559100953542" />
+      <file name="/Dummy.txt" timestamp="1559105341745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1559105294481">
         <mark key="[" line="658" column="0" />
         <mark key="]" line="660" column="128" />
@@ -22,6 +26,11 @@
         <mark key="^" line="228" column="27" />
         <mark key="." line="228" column="27" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1559045419007">
+        <mark key="]" line="84" column="132" />
+        <mark key="^" line="83" column="82" />
+        <mark key="." line="83" column="82" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1558609958174">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="205" column="14" />
@@ -29,31 +38,6 @@
         <mark key="." line="205" column="14" />
         <mark key="^" line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
-        <mark key="[" line="306" column="54" />
-        <mark key="]" line="306" column="56" />
-        <mark key="." line="306" column="11" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190527.sql" timestamp="1559100874084">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559105341745">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1559133698304" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1559124507196" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityProductMapper.xml" timestamp="1559100904692" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/order/OrderControllerApi.java" timestamp="1559132782378" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1559045419007">
-        <mark key="]" line="84" column="132" />
-        <mark key="^" line="83" column="82" />
-        <mark key="." line="83" column="82" />
-      </file>
-      <file name="/editNew.js" timestamp="1559094560752" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558662666545">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="194" column="74" />
@@ -66,6 +50,16 @@
         <mark key="]" line="264" column="23" />
         <mark key="^" line="264" column="23" />
         <mark key="." line="264" column="23" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
+        <mark key="[" line="306" column="54" />
+        <mark key="]" line="306" column="56" />
+        <mark key="." line="306" column="11" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190527.sql" timestamp="1559100874084">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1559126608790">
         <mark key="[" line="525" column="30" />
@@ -232,7 +226,7 @@
         <text encoding="base64">ICAgICAgc2VuZENhY2hlLmFkZCh1c2VyLmdldFBob25lKCkpOwoKCiAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcjsgaSsrKSB7CiAgICAgIExpc3Q8VXNlcj4gdXNlcnMgPSB1c2VyU2VydmljZS5sb2FkVXNlcnNXaXRoUG9pbnQoaSoxMDAsIDEwMCk7CiAgICAgIGZvciAoVXNlciB1c2VyIDogdXNlcnMpIHsKICAgICAgICB0cnl7CiAgICAgICAgICB9CiAgICAgICAgfWNhdGNoKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgIGxvZy5lcnJvcigi5Y+R6YCB56ev5YiG5L2/55So6YCa55+l5aSx6LSlIixlKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>527</text>
+        <text>2504</text>
       </register>
     </registers>
     <search>
@@ -262,7 +256,6 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>327</entry>
         <entry>86</entry>
         <entry>94</entry>
         <entry>93</entry>
@@ -282,6 +275,7 @@
         <entry>588</entry>
         <entry>59</entry>
         <entry>527</entry>
+        <entry>2504</entry>
       </history-cmd>
       <history-expr />
       <history-input />
