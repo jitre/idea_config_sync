@@ -9,6 +9,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniMgmEngineerMapper.xml" timestamp="1559217249655" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1559188246402" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityProductMapper.xml" timestamp="1559208299735" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1559105294481">
@@ -35,21 +36,7 @@
         <mark key="^" line="83" column="82" />
         <mark key="." line="83" column="82" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1558609958174">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="205" column="14" />
-        <mark key="]" line="205" column="14" />
-        <mark key="." line="205" column="14" />
-        <mark key="^" line="203" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/PromotionServiceImpl.java" timestamp="1559135292583" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558662666545">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="194" column="74" />
-        <mark key="]" line="194" column="74" />
-        <mark key="." line="194" column="74" />
-        <mark key="^" line="194" column="74" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1559099206620">
         <mark key="[" line="264" column="24" />
         <mark key="]" line="264" column="23" />
