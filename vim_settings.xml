@@ -3,90 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1558534979735" />
-      <file name="/Dummy.txt" timestamp="1556469716139">
+      <file name="/Dummy.txt" timestamp="1559321344656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1558535139924" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1556466326273">
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
-        <mark key="^" line="509" column="81" />
-        <mark key="." line="510" column="0" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1559321339841">
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1556469502244">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="118" column="41" />
-        <mark key="." line="117" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/Promotion.java" timestamp="1558535164570" />
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1556469698417">
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="12" />
-        <mark key="^" line="81" column="4" />
-        <mark key="." line="84" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/shop/ShopController.java" timestamp="1556466277903">
-        <mark key="[" line="1445" column="0" />
-        <mark key="]" line="1445" column="0" />
-        <mark key="." line="1445" column="0" />
-        <mark key="^" line="1444" column="71" />
-      </file>
-      <file name="/fragment.java" timestamp="1556467578939">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1556466256967">
-        <mark key="[" line="207" column="42" />
-        <mark key="]" line="207" column="42" />
-        <mark key="." line="207" column="42" />
-        <mark key="^" line="206" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/MallPointService.java" timestamp="1556464902220">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="113" column="72" />
-        <mark key="^" line="113" column="72" />
-        <mark key="." line="113" column="72" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558623733194">
+        <mark key="[" line="181" column="30" />
+        <mark key="]" line="181" column="26" />
+        <mark key="^" line="181" column="26" />
+        <mark key="." line="181" column="26" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="93" column="35" filename="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiJHtwb2ludENoYW5nZVRlbXBsYXRlLmlkfSIpCg==</text>
-      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pointChangeTemplate</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldFJFR0lTVFJZX05PVElGWQo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgUG9pbnRDb250ZXh0SW5pdGlhbGl6ZSBwb2ludENvbnRleHRJbml0aWFsaXplOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy/ov5nph4zlhpnnp6/liIbpooTms6jlhaUucGPllYbln47nlKjmiLflnKjlvq7kv6HllYbln47mnKrms6jlhozvvIznp6/liIbpooTms6jlhaUucGPllYbln47nlKjmiLflnKjlvq7kv6HllYbln47mnKrms6jlhozvvIwKICAgICAgLy9wb2ludFRyYW5zZmVyKHVzZXIpOwogICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1c2VyLmdldElkKCkpKSB7CiAgICAgICAgaW50IGZsYWcgPSAwOwogICAgICAgIG1hbGxQb2ludFNlcnZpY2UucG9pbnRUcmFuc2Zlcih1c2VyVG9VcGRhdGUuZ2V0UGhvbmUoKSx1c2VyLmdldElkKCksZmxhZywyKTsKICAgICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRU5WX1VSTCsiL3RlbXBsYXRlL29yZGVyL3N1Ym1pdCI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludENvbnRleHRJbml0aWFsaXplLmdldFBvaW50VHJhbnNmZXJTZXJ2aWNlKCkKICAgICAgICAgICAgLnBvaW50VHJhbnNmZXIodXNlclRvVXBkYXRlLmdldFBob25lKCksIHVzZXIuZ2V0SWQoKSwgZmxhZyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNDcm1IdHRwVXRpbHMucG9zdFN5bmNQb2ludENoYW5nZVRlbXBsYXRlKHVzZXIuZ2V0VW5pb25JZCgpLHR5cGUsY2hhbmdlUG9pbnQscG9pbnRUb3RhbC5nZXRDdXJyZW50UG9pbnQoKS50b1N0cmluZygpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRUcmFuc2ZlclNlcnZpY2UucG9pbnRUcmFuc2Zlcih1c2VyLmdldFBob25lKCksIHVzZXJJZCwgZmxhZyk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBNYWxsUG9pbnRTZXJ2aWNlIG1hbGxQb2ludFNlcnZpY2U7CiAgICBAQXV0b3dpcmVkCiAgICBwdWJsaWMgdm9pZCBzZXRNYWxsUG9pbnRTZXJ2aWNlKE1hbGxQb2ludFNlcnZpY2UgbWFsbFBvaW50U2VydmljZSkgewogICAgICAgIHRoaXMubWFsbFBvaW50U2VydmljZSA9IG1hbGxQb2ludFNlcnZpY2U7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJjb250ZXh0IGVycm9yIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pointChangeTemplate</text>
+        <text>.toString()</text>
       </register>
     </registers>
     <search>
@@ -99,10 +49,6 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>

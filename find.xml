@@ -1,19 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java [xquark-dal]'" />
-    <option name="defaultScopeName" value="File '.../dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java [xquark-dal]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../dal/src/main/java/com/xquark/dal/consts/SCamURLConstants.java [xquark-dal]'" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.js</mask>
-    <mask>*.properties</mask>
-    <mask>*.css</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
