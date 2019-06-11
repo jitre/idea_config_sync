@@ -31,7 +31,6 @@
         <mark key="^" line="228" column="27" />
         <mark key="." line="228" column="27" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/error/ExceptionHandler.java" timestamp="1560236196433" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1559723043228">
         <mark key="[" line="259" column="0" />
         <mark key="]" line="259" column="0" />
@@ -57,7 +56,7 @@
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1559099206620">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1560236518608">
         <mark key="[" line="264" column="24" />
         <mark key="]" line="264" column="23" />
         <mark key="^" line="264" column="23" />
@@ -79,7 +78,6 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ControllerAdvice.java" timestamp="1560236406838" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1559126608790">
         <mark key="[" line="525" column="30" />
         <mark key="]" line="525" column="30" />
