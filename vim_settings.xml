@@ -8,7 +8,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhUserServiceImpl.java" timestamp="1560395814302" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhUserServiceImpl.java" timestamp="1560398118936" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1560339875268">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="132" column="38" />
@@ -22,6 +22,7 @@
         <mark key="^" line="585" column="53" />
         <mark key="." line="578" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/constants/QyhConstant.java" timestamp="1560397552517" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1559723043228">
         <mark key="[" line="259" column="0" />
         <mark key="]" line="259" column="0" />
@@ -72,6 +73,9 @@
         <mark key="[" line="306" column="54" />
         <mark key="]" line="306" column="56" />
         <mark key="." line="306" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1560397993769">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
