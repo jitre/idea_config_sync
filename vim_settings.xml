@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/QyhUserMapper.xml" timestamp="1560325037383" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhUserServiceImpl.java" timestamp="1560324910835" />
+      <file name="/Dummy.txt" timestamp="1560340154970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhUserServiceImpl.java" timestamp="1560395814302" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1560339875268">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="132" column="38" />
@@ -18,11 +22,16 @@
         <mark key="^" line="585" column="53" />
         <mark key="." line="578" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1560327629706" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1559723043228">
         <mark key="[" line="259" column="0" />
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1560334260947">
+        <mark key="[" line="548" column="36" />
+        <mark key="]" line="548" column="37" />
+        <mark key="." line="548" column="37" />
+        <mark key="^" line="548" column="37" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1560340053537">
         <mark key="[" line="128" column="0" />
@@ -30,37 +39,18 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="127" column="38" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1559739600565">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhOpenController.java" timestamp="1560324548849" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
-        <mark key="[" line="306" column="54" />
-        <mark key="]" line="306" column="56" />
-        <mark key="." line="306" column="11" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/persistence/mapper/QyhDepartmentMapper.xml" timestamp="1560327638879" />
-      <file name="/Dummy.txt" timestamp="1560340154970">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhWxSaaSServiceImpl.java" timestamp="1560321888927" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1560334260947">
-        <mark key="[" line="548" column="36" />
-        <mark key="]" line="548" column="37" />
-        <mark key="." line="548" column="37" />
-        <mark key="^" line="548" column="37" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560324801636">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560395866219">
         <mark key="'" line="1057" column="13" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1559723059801">
         <mark key="[" line="364" column="0" />
         <mark key="]" line="364" column="0" />
         <mark key="." line="364" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1559739600565">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1559723038069">
         <mark key="[" line="296" column="0" />
@@ -78,7 +68,11 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhAuthCorpServiceImpl.java" timestamp="1560321874524" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1558521301989">
+        <mark key="[" line="306" column="54" />
+        <mark key="]" line="306" column="56" />
+        <mark key="." line="306" column="11" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1215" column="58" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
