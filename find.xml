@@ -13,5 +13,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
   </component>
 </application>
