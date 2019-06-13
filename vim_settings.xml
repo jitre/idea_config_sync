@@ -29,7 +29,7 @@
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1560417483588">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1560418850206">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="129" column="39" />
         <mark key="." line="128" column="0" />
@@ -102,11 +102,11 @@
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1560418154752">
-        <mark key="[" line="304" column="100" />
-        <mark key="]" line="304" column="127" />
-        <mark key="." line="304" column="127" />
-        <mark key="^" line="304" column="127" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1560418836925">
+        <mark key="[" line="236" column="27" />
+        <mark key="]" line="236" column="25" />
+        <mark key="." line="236" column="25" />
+        <mark key="^" line="236" column="25" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1560332981071">
         <mark key="[" line="114" column="0" />
