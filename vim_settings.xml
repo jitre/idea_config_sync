@@ -3,40 +3,151 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559321344656">
+      <file name="/Dummy.txt" timestamp="1560655321771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1559321339841">
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="360" column="0" />
-        <mark key="." line="360" column="0" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1559665372383">
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="259" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1558623733194">
-        <mark key="[" line="181" column="30" />
-        <mark key="]" line="181" column="26" />
-        <mark key="^" line="181" column="26" />
-        <mark key="." line="181" column="26" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1559664004183">
+        <mark key="'" line="346" column="0" />
+        <mark key="[" line="375" column="62" />
+        <mark key="]" line="375" column="60" />
+        <mark key="^" line="375" column="60" />
+        <mark key="." line="375" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1559665073031">
+        <mark key="[" line="304" column="28" />
+        <mark key="]" line="304" column="44" />
+        <mark key="." line="304" column="44" />
+        <mark key="^" line="304" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1559642685485">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="134" column="8" />
+        <mark key="." line="205" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1559665024486">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/Miniprogram.java" timestamp="1559646113814">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1559664989685">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/SrcType.java" timestamp="1560655355643">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1559664038862">
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="301" column="68" />
+        <mark key="]" line="301" column="73" />
+        <mark key="." line="301" column="73" />
+        <mark key="^" line="301" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1559642646778">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1559664059362">
+        <mark key="[" line="259" column="19" />
+        <mark key="]" line="259" column="22" />
+        <mark key="^" line="259" column="22" />
+        <mark key="." line="259" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1559664838920">
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="561" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1559664930119">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="134" column="14" />
+        <mark key="]" line="134" column="28" />
+        <mark key="." line="139" column="50" />
+        <mark key="^" line="139" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/UserMapper.java" timestamp="1559664913195">
+        <mark key="[" line="103" column="32" />
+        <mark key="]" line="103" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1559665660323">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="134" column="63" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateData.java" timestamp="1559641139222">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+      </file>
+      <file name="/fragment.java" timestamp="1559645029535">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="147" column="7" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/Miniprogram.java" />
+      <jump line="42" column="27" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" />
+      <jump line="57" column="26" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="56" column="13" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" />
+      <jump line="346" column="0" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICBXQVk0KDQsIumAlOW+hDQiKSwK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBwYXJhbXM9eyLmnKrpooblj5YiLCIyMDE5LzUvMzAtMjAxOS82LzMwIn07CiAgICAgICAgICAgICAgICAgICAgd2VjaGF0VGVtcGxhdGVTZXJ2aWNlLnNlbmRUZW1wbGF0ZVR5cGUyKGZhbi5nZXRPcGVuSWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgInBhZ2VzL2ZhdGhlcnNfZGF5P3NyY1R5cGU9V0VfQ0hBVF9UV0VFVCIsIEFycmF5cy5hc0xpc3QocGFyYW1zKSwiZmF0aGVyRGF5Tm90aWZ5VGVtcGxhdGUiLAogICAgICAgICAgICAgICAgICAgICAgICB0cnVlKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBXQVk0KDQsIumAlOW+hDQiKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgUG9pbnRDb250ZXh0SW5pdGlhbGl6ZSBwb2ludENvbnRleHRJbml0aWFsaXplOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy/ov5nph4zlhpnnp6/liIbpooTms6jlhaUucGPllYbln47nlKjmiLflnKjlvq7kv6HllYbln47mnKrms6jlhozvvIznp6/liIbpooTms6jlhaUucGPllYbln47nlKjmiLflnKjlvq7kv6HllYbln47mnKrms6jlhozvvIwKICAgICAgLy9wb2ludFRyYW5zZmVyKHVzZXIpOwogICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1c2VyLmdldElkKCkpKSB7CiAgICAgICAgaW50IGZsYWcgPSAwOwogICAgICAgIG1hbGxQb2ludFNlcnZpY2UucG9pbnRUcmFuc2Zlcih1c2VyVG9VcGRhdGUuZ2V0UGhvbmUoKSx1c2VyLmdldElkKCksZmxhZywyKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJjb250ZXh0IGVycm9yIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi6I635Y+W6YCa55+l55So5oi377yM5pWw6YePOnt9IixmYW5zTGlzdC5zaXplKCkpOwogICAgICAgIGZvciAoVGVtcFdlY2hhdEZhbnMgZmFucyA6IGZhbnNMaXN0KSB7CiAgICAgICAgICB0cnl7CiAgICAgICAgICAgICAgU3RyaW5nW10gcGFyYW1zPXt0aW1lLCLmsoHlm63lh4DmsLTlmajkv53lhbvnpLzljIUiLCLmiKrmraIyMDE55bm0NuaciDE45pelIn07CiAgICAgICAgICAgICAgd2VjaGF0VGVtcGxhdGVTZXJ2aWNlLnNlbmRUZW1wbGF0ZShmYW5zLmdldE9wZW5JZCgpLCIiLCBBcnJheXMuYXNMaXN0KHBhcmFtcyksImF3YXJkTm90aWZ5VGVtcGxhdGUiLAogICAgICAgICAgICAgICAgICBmYWxzZSk7CiAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWPkemAgemAmuefpeaIkOWKnyx1c2VyOnt9IixmYW5zLmdldE1vYmlsZSgpKTsKICAgICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi5a6a5ZCR5Lq6576k5Y+R6YCB6YCa55+l5aSx6LSlOiIsIGUpOwogICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxVc2VyPiB1c2VycyA9IHVzZXJTZXJ2aWNlLmxvYWRVc2Vyc1dpdGhQb2ludChpICogMTAwLCAxMDApOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIGQgPSBuZXcgRGF0ZSgpOwogICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW0iKTsKICAgICAgICBmaW5hbCBTdHJpbmcgdGltZSA9IHNkZi5mb3JtYXQoZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>POSTER</text>
       </register>
     </registers>
     <search>
@@ -49,6 +160,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
