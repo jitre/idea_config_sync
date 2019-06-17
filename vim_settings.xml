@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1560480345244">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1560415303193">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="225" column="6" />
@@ -13,34 +16,6 @@
         <mark key="." line="131" column="4" />
         <mark key="^" line="131" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1560418184993">
-        <mark key="[" line="286" column="23" />
-        <mark key="]" line="286" column="27" />
-        <mark key="^" line="286" column="27" />
-        <mark key="." line="286" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1560430553698">
-        <mark key="]" line="124" column="39" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1560434925137">
-        <mark key="'" line="2790" column="0" />
-        <mark key="[" line="2803" column="0" />
-        <mark key="]" line="2807" column="40" />
-        <mark key="^" line="2806" column="29" />
-        <mark key="." line="2807" column="0" />
-      </file>
-      <file name="/securityCheck.js" timestamp="1560479804037" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1560417756393">
-        <mark key="[" line="3255" column="15" />
-        <mark key="]" line="3255" column="62" />
-        <mark key="." line="3255" column="62" />
-        <mark key="^" line="3255" column="62" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1560477812853" />
-      <file name="/Dummy.txt" timestamp="1560480345244">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1560478526287" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/securityCheck/securityCheck.js" timestamp="1560478609802">
         <mark key="[" line="77" column="206" />
         <mark key="]" line="77" column="205" />
@@ -52,6 +27,12 @@
         <mark key="]" line="67" column="23" />
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="23" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1560418184993">
+        <mark key="[" line="325" column="23" />
+        <mark key="]" line="325" column="27" />
+        <mark key="^" line="325" column="27" />
+        <mark key="." line="325" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190613.sql" timestamp="1560420238468">
         <mark key="[" line="1" column="0" />
@@ -65,24 +46,26 @@
         <mark key="." line="548" column="37" />
         <mark key="^" line="548" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/securityCheck/jsp/securityCheck.jsp" timestamp="1560479255579" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1560430553698">
+        <mark key="]" line="124" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/OrderMapper.java" timestamp="1560417729673">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="448" column="53" />
         <mark key="." line="445" column="15" />
         <mark key="^" line="445" column="15" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1560417756393">
+        <mark key="[" line="3255" column="15" />
+        <mark key="]" line="3255" column="62" />
+        <mark key="." line="3255" column="62" />
+        <mark key="^" line="3255" column="62" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/OrderService.java" timestamp="1560417739512">
         <mark key="[" line="617" column="53" />
         <mark key="]" line="618" column="3" />
         <mark key="." line="618" column="3" />
         <mark key="^" line="618" column="3" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1560435470638">
-        <mark key="[" line="236" column="32" />
-        <mark key="]" line="236" column="31" />
-        <mark key="^" line="236" column="31" />
-        <mark key="." line="236" column="31" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1560406862233">
         <mark key="[" line="26" column="35" />
