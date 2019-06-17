@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1560743363074" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1560744694935" />
       <file name="/Dummy.txt" timestamp="1560480345244">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,7 +37,7 @@
         <mark key="^" line="325" column="27" />
         <mark key="." line="325" column="27" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/SCrmThirdUserConverter.java" timestamp="1560743377628" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/SCrmThirdUserConverter.java" timestamp="1560744501711" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190613.sql" timestamp="1560420238468">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="104" />
@@ -85,6 +85,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1560744674503" />
     </filemarks>
     <jumps>
       <jump line="232" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" />
