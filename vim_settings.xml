@@ -9,11 +9,11 @@
         <mark key="^" line="1126" column="35" />
         <mark key="." line="1126" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1560418184993">
-        <mark key="[" line="325" column="23" />
-        <mark key="]" line="325" column="27" />
-        <mark key="^" line="325" column="27" />
-        <mark key="." line="325" column="27" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1560939998509">
+        <mark key="[" line="168" column="79" />
+        <mark key="]" line="169" column="28" />
+        <mark key="^" line="169" column="28" />
+        <mark key="." line="169" column="28" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1560911729691" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1560925155311" />
