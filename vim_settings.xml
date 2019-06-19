@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1560339875268">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="132" column="38" />
-        <mark key="." line="131" column="4" />
-        <mark key="^" line="131" column="4" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1560923358825">
         <mark key="[" line="1125" column="107" />
         <mark key="]" line="1126" column="35" />
@@ -23,27 +17,14 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1560911729691" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1560925155311" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1560924956724">
-        <mark key="[" line="577" column="12" />
-        <mark key="]" line="577" column="13" />
-        <mark key="^" line="577" column="13" />
-        <mark key="." line="577" column="13" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1560924677865" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1560417756393">
         <mark key="[" line="3255" column="15" />
         <mark key="]" line="3255" column="62" />
         <mark key="." line="3255" column="62" />
         <mark key="^" line="3255" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560923709249">
+      <file name="/Dummy.txt" timestamp="1560926514034">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1560912459488">
-        <mark key="[" line="1317" column="70" />
-        <mark key="]" line="1317" column="73" />
-        <mark key="^" line="1317" column="73" />
-        <mark key="." line="1317" column="73" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/preOnline/application.properties" timestamp="1560925066612" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1560916197679">
