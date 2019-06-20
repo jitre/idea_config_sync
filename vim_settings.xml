@@ -3,28 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1560926514034">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1560923358825">
         <mark key="[" line="1125" column="107" />
         <mark key="]" line="1126" column="35" />
         <mark key="^" line="1126" column="35" />
         <mark key="." line="1126" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1560997479334" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1560911729691" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1560925155311" />
-      <file name="/Dummy.txt" timestamp="1560926514034">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1560999717420" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/preOnline/application.properties" timestamp="1560925066612" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1560916197679">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="42" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="25" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="42" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="91" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/FilterChangeRemindServiceImpl.java" timestamp="1560924865924" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1560925190668" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1560923427850">
         <mark key="[" line="578" column="92" />
         <mark key="]" line="579" column="43" />
@@ -37,18 +30,10 @@
         <mark key="^" line="411" column="9" />
         <mark key="." line="411" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/TemplateSetting.java" timestamp="1560925108042" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1560925111398" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1560916622239">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="35" />
-        <mark key="." line="105" column="17" />
-        <mark key="^" line="105" column="17" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1561026857417" />
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/myProducts/jsp/myPdtList.jsp" timestamp="1560947814516" />
     </filemarks>
     <jumps>
       <jump line="232" column="4" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/ProductBasicVO.java" />
