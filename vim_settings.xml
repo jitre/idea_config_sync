@@ -19,11 +19,11 @@
         <mark key="^" line="91" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/2.1.0.0/xquark-point-core-2.1.0.0.jar!/com/point/xquark/service/point/impl/PointRecordServiceImpl.class" timestamp="1561347131040" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561347155737">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561356718730">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="9" />
+        <mark key="^" line="60" column="9" />
+        <mark key="." line="60" column="9" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1561347467059">
         <mark key="[" line="97" column="38" />
