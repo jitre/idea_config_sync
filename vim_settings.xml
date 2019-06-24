@@ -6,14 +6,6 @@
       <file name="/Dummy.txt" timestamp="1560926514034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1561112956029" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1561113498778" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
-        <mark key="[" line="411" column="8" />
-        <mark key="]" line="411" column="9" />
-        <mark key="^" line="411" column="9" />
-        <mark key="." line="411" column="9" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1560923358825">
         <mark key="[" line="1125" column="107" />
         <mark key="]" line="1126" column="35" />
@@ -25,6 +17,29 @@
         <mark key="]" line="91" column="42" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/2.1.0.0/xquark-point-core-2.1.0.0.jar!/com/point/xquark/service/point/impl/PointRecordServiceImpl.class" timestamp="1561347131040" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561347155737">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1561347467059">
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="97" column="35" />
+        <mark key="^" line="97" column="35" />
+        <mark key="." line="97" column="35" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
+        <mark key="[" line="411" column="8" />
+        <mark key="]" line="411" column="9" />
+        <mark key="^" line="411" column="9" />
+        <mark key="." line="411" column="9" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1561346899406">
+        <mark key="[" line="233" column="36" />
+        <mark key="]" line="233" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
@@ -136,8 +151,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBlbW9zdHJpbmcgPSLwn5iC8J+YjfCfjonwn5GNIjsK</text>
+      <register name="&quot;" type="4">
+        <text>@Lazy</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -149,13 +164,13 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>barCode</text>
+        <text>@Lazy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v55+t5L+h5byA5Y+j5YWz6ZetIDIwMTnlubQwNuaciDE55pelCg==</text>
+      <register name="0" type="4">
+        <text>@Lazy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBlbW9zdHJpbmcgPSLwn5iC8J+YjfCfjonwn5GNIjsK</text>
