@@ -7,7 +7,7 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="557" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561361968340">
+      <file name="/Dummy.txt" timestamp="1561426796279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
@@ -45,8 +45,12 @@
         <mark key="]" line="161" column="2" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideUserEmployeeMapper.xml" timestamp="1561361456555" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1561361492751">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1561426783497">
         <mark key="'" line="65" column="13" />
+        <mark key="[" line="545" column="91" />
+        <mark key="]" line="545" column="98" />
+        <mark key="^" line="545" column="90" />
+        <mark key="." line="545" column="91" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
         <mark key="[" line="411" column="8" />
@@ -175,7 +179,7 @@
         <text>deleteByExecuteId</text>
       </register>
       <register name="&quot;" type="4">
-        <text>user.getPhone()</text>
+        <text>请联系在线客服</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -192,8 +196,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy/mo4Dmn6XmmK/lkKbmmK/lhoXpg6jlkZjlt6UKICAgICAgY2hlY2tJbnNpZGVFbXBsb3llZUFuZFNhdmUodXNlci5nZXRQaG9uZSgpLHVzZXIuZ2V0TmFtZSgpLHVzZXIuZ2V0SWQoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>请联系在线客服</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJICAvL+WGhemDqOWRmOW3peajgOafpQo=</text>
