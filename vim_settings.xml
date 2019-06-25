@@ -7,7 +7,7 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="557" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561450198818">
+      <file name="/Dummy.txt" timestamp="1561463781341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
@@ -55,12 +55,12 @@
         <mark key="^" line="35" column="97" />
         <mark key="." line="35" column="98" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1561449755935">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1561463748144">
         <mark key="'" line="65" column="13" />
-        <mark key="[" line="536" column="51" />
-        <mark key="]" line="536" column="76" />
+        <mark key="[" line="534" column="0" />
+        <mark key="]" line="538" column="9" />
         <mark key="^" line="536" column="76" />
-        <mark key="." line="536" column="76" />
+        <mark key="." line="534" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
         <mark key="[" line="411" column="8" />
@@ -188,8 +188,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>INSIDE_EMPLOYEE_REGISTERED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsKICAgICAgICBib29sZWFuIGlzUmVnaXN0ZXJlZCA9IHVzZXJTZXJ2aWNlLmlzUmVnaXN0ZWRFbXBsb3llZSh1c2VySWQpOwogICAgICAgIGlmIChpc1JlZ2lzdGVyZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihHbG9iYWxFcnJvckNvZGUuSU5TSURFX0VNUExPWUVFX1JFR0lTVEVSRUQsICLmgqjlt7Lnu4/ms6jlhozkuLrlhoXpg6jlkZjlt6UsIOivt+ebtOaOpeeZu+W9lSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -210,34 +210,34 @@
         <text>INSIDE_EMPLOYEE_REGISTERED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJICAvL+WGhemDqOWRmOW3peajgOafpQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcklkID0gZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsKICAgICAgICBib29sZWFuIGlzUmVnaXN0ZXJlZCA9IHVzZXJTZXJ2aWNlLmlzUmVnaXN0ZWRFbXBsb3llZSh1c2VySWQpOwogICAgICAgIGlmIChpc1JlZ2lzdGVyZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihHbG9iYWxFcnJvckNvZGUuSU5TSURFX0VNUExPWUVFX1JFR0lTVEVSRUQsICLmgqjlt7Lnu4/ms6jlhozkuLrlhoXpg6jlkZjlt6UsIOivt+ebtOaOpeeZu+W9lSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAvL+WGhemDqOWRmOW3peajgOafpQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyB2b2lkIHNldFBvaW50UmVjb3JkU2VydmljZShQb2ludFJlY29yZFNlcnZpY2UgcG9pbnRSZWNvcmRTZXJ2aWNlKSB7CiAgICAgICAgdGhpcy5wb2ludFJlY29yZFNlcnZpY2UgPSBwb2ludFJlY29yZFNlcnZpY2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBlbW9zdHJpbmcgPSLwn5iC8J+YjfCfjonwn5GNIjsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyB2b2lkIHNldFBvaW50UmVjb3JkU2VydmljZShQb2ludFJlY29yZFNlcnZpY2UgcG9pbnRSZWNvcmRTZXJ2aWNlKSB7CiAgICAgICAgdGhpcy5wb2ludFJlY29yZFNlcnZpY2UgPSBwb2ludFJlY29yZFNlcnZpY2U7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBlbW9zdHJpbmcgPSLwn5iC8J+YjfCfjonwn5GNIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZmxhZz10cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZmxhZz10cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>2504</text>
