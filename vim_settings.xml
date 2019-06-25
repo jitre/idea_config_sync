@@ -7,7 +7,7 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="557" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561463781341">
+      <file name="/Dummy.txt" timestamp="1561466192389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
@@ -33,11 +33,11 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561358740539">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="38" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="38" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561466186472">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1561347467059">
         <mark key="[" line="97" column="38" />
