@@ -7,6 +7,9 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="557" column="77" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561534262078">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="59" column="5" />
@@ -83,7 +86,7 @@
         <mark key="." line="358" column="117" />
         <mark key="^" line="358" column="117" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterMessage.java" timestamp="1561534144713" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterMessage.java" timestamp="1561534256352" />
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
       </file>
