@@ -7,9 +7,6 @@
         <mark key="[" line="556" column="0" />
         <mark key="]" line="557" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561530829261">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="59" column="5" />
@@ -62,23 +59,24 @@
         <mark key="^" line="536" column="76" />
         <mark key="." line="534" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1561533114228" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
         <mark key="[" line="411" column="8" />
         <mark key="]" line="411" column="9" />
         <mark key="^" line="411" column="9" />
         <mark key="." line="411" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1561530142491">
-        <mark key="[" line="148" column="6" />
-        <mark key="]" line="148" column="7" />
-        <mark key="." line="148" column="7" />
-        <mark key="^" line="148" column="7" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1561532730006">
+        <mark key="[" line="197" column="58" />
+        <mark key="]" line="197" column="59" />
+        <mark key="." line="197" column="59" />
+        <mark key="^" line="197" column="59" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1561346899406">
         <mark key="[" line="233" column="36" />
         <mark key="]" line="233" column="40" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1561530214314">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1561532373992">
         <mark key="[" line="358" column="113" />
         <mark key="]" line="358" column="117" />
         <mark key="." line="358" column="117" />
@@ -93,6 +91,7 @@
         <mark key="." line="432" column="57" />
         <mark key="^" line="432" column="57" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1561532451652" />
     </filemarks>
     <jumps>
       <jump line="44" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
