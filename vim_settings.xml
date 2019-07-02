@@ -45,11 +45,11 @@
         <mark key="^" line="97" column="35" />
         <mark key="." line="97" column="35" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1562049884696" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1561358174182">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="161" column="2" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1561534168148" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideEmployeeMapper.xml" timestamp="1561449265702">
         <mark key="[" line="35" column="98" />
         <mark key="]" line="35" column="122" />
@@ -63,7 +63,6 @@
         <mark key="^" line="536" column="76" />
         <mark key="." line="534" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1561533114228" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
         <mark key="[" line="411" column="8" />
         <mark key="]" line="411" column="9" />
@@ -86,7 +85,6 @@
         <mark key="." line="358" column="117" />
         <mark key="^" line="358" column="117" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/callCenter/CallCenterMessage.java" timestamp="1561534256352" />
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,7 +94,6 @@
         <mark key="." line="432" column="57" />
         <mark key="^" line="432" column="57" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1561532451652" />
     </filemarks>
     <jumps>
       <jump line="44" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
