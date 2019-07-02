@@ -57,8 +57,8 @@
         <mark key="^" line="35" column="97" />
         <mark key="." line="35" column="98" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1561463748144">
-        <mark key="'" line="65" column="13" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1562060160468">
+        <mark key="'" line="534" column="8" />
         <mark key="[" line="534" column="0" />
         <mark key="]" line="538" column="9" />
         <mark key="^" line="536" column="76" />
@@ -71,21 +71,9 @@
         <mark key="^" line="411" column="9" />
         <mark key="." line="411" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1561532730006">
-        <mark key="[" line="197" column="58" />
-        <mark key="]" line="197" column="59" />
-        <mark key="." line="197" column="59" />
-        <mark key="^" line="197" column="59" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1561346899406">
         <mark key="[" line="233" column="36" />
         <mark key="]" line="233" column="40" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1561532373992">
-        <mark key="[" line="358" column="113" />
-        <mark key="]" line="358" column="117" />
-        <mark key="." line="358" column="117" />
-        <mark key="^" line="358" column="117" />
       </file>
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
@@ -98,7 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="1351" column="4" filename="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/webapp/_resources/js/page/product/edit.js" />
       <jump line="1691" column="57" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" />
       <jump line="1619" column="66" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" />
@@ -198,6 +185,7 @@
       <jump line="2473" column="11" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" />
       <jump line="2790" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" />
       <jump line="65" column="13" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" />
+      <jump line="534" column="8" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
