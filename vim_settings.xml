@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/product/ProductJob.java" timestamp="1562061730618" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1560923358825">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1562125631532">
         <mark key="[" line="1125" column="107" />
         <mark key="]" line="1126" column="35" />
         <mark key="^" line="1126" column="35" />
         <mark key="." line="1126" column="35" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1562126089036" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/error/GlobalErrorCode.java" timestamp="1562063197341">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="22" />
@@ -28,24 +28,21 @@
         <mark key="^" line="97" column="35" />
         <mark key="." line="97" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1562049884696" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserAuthController.java" timestamp="1561358174182">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="161" column="2" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1562054666318" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/ProductMapper.java" timestamp="1562061881871" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideEmployeeMapper.xml" timestamp="1561449265702">
         <mark key="[" line="35" column="98" />
         <mark key="]" line="35" column="122" />
         <mark key="^" line="35" column="97" />
         <mark key="." line="35" column="98" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1562059269643" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1561346899406">
         <mark key="[" line="233" column="36" />
         <mark key="]" line="233" column="40" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/bean/pojo/AppealMaintenanceParam.java" timestamp="1562125719033" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1562063046371">
         <mark key="[" line="1903" column="0" />
         <mark key="]" line="1903" column="0" />
@@ -69,7 +66,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1562062254428" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1562062442868">
         <mark key="'" line="534" column="8" />
         <mark key="[" line="534" column="0" />
@@ -77,13 +73,13 @@
         <mark key="^" line="536" column="76" />
         <mark key="." line="534" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1560923703144">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1562126078508">
         <mark key="[" line="411" column="8" />
         <mark key="]" line="411" column="9" />
         <mark key="^" line="411" column="9" />
         <mark key="." line="411" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1562061782950" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/workOrderOperation/unfinishedOrderDetail_install.js" timestamp="1562126114174" />
       <file name="/fragment.java" timestamp="1560999511447">
         <mark key="[" line="0" column="0" />
       </file>
