@@ -10,53 +10,19 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhOrdersServiceImpl.java" timestamp="1562125631532">
-        <mark key="[" line="1125" column="107" />
-        <mark key="]" line="1126" column="35" />
-        <mark key="^" line="1126" column="35" />
-        <mark key="." line="1126" column="35" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1562664911989" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1562659441152" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/error/GlobalErrorCode.java" timestamp="1562063197341">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/InjectPointServiceImpl.java" timestamp="1561466186472">
-        <mark key="[" line="61" column="10" />
-        <mark key="]" line="61" column="7" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cashier/impl/CashierServiceImpl.java" timestamp="1561347467059">
-        <mark key="[" line="97" column="38" />
-        <mark key="]" line="97" column="35" />
-        <mark key="^" line="97" column="35" />
-        <mark key="." line="97" column="35" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1562644422507">
         <mark key="[" line="217" column="45" />
         <mark key="]" line="217" column="49" />
         <mark key="^" line="217" column="49" />
         <mark key="." line="217" column="49" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/InsideEmployeeMapper.xml" timestamp="1561449265702">
-        <mark key="[" line="35" column="98" />
-        <mark key="]" line="35" column="122" />
-        <mark key="^" line="35" column="97" />
-        <mark key="." line="35" column="98" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1562665001217" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatMediaServiceImpl.java" timestamp="1562659481963" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/oss/OSSUtil.java" timestamp="1562659467395" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/url/UrlPath.java" timestamp="1562582940224" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/bean/vo/cem/CemAssertInfo.java" timestamp="1562653428121" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1560916197679">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="42" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="25" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1562644681153">
         <mark key="[" line="68" column="116" />
         <mark key="]" line="68" column="138" />
@@ -65,18 +31,12 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1562582971168" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/qiYeHao/workOrderOperation/jsp/unfinishedOrderDetail_install.jsp" timestamp="1562659020879" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1562126078508">
-        <mark key="[" line="411" column="8" />
-        <mark key="]" line="411" column="9" />
-        <mark key="^" line="411" column="9" />
-        <mark key="." line="411" column="9" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/workOrderOperation/unfinishedOrderDetail_install.js" timestamp="1562659362889" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1561360951913">
-        <mark key="[" line="432" column="47" />
-        <mark key="]" line="432" column="57" />
-        <mark key="." line="432" column="57" />
-        <mark key="^" line="432" column="57" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1562664650155">
+        <mark key="[" line="468" column="77" />
+        <mark key="]" line="468" column="76" />
+        <mark key="." line="468" column="76" />
+        <mark key="^" line="468" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -237,7 +197,7 @@
         <text encoding="base64">CQkJICAvL+WGhemDqOWRmOW3peajgOafpQo=</text>
       </register>
       <register name=":" type="4">
-        <text>2504</text>
+        <text>211</text>
       </register>
     </registers>
     <search>
@@ -267,8 +227,6 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>86</entry>
-        <entry>94</entry>
         <entry>93</entry>
         <entry>1031</entry>
         <entry>wq</entry>
@@ -287,6 +245,8 @@
         <entry>59</entry>
         <entry>527</entry>
         <entry>2504</entry>
+        <entry>469</entry>
+        <entry>211</entry>
       </history-cmd>
       <history-expr />
       <history-input />
