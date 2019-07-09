@@ -46,17 +46,8 @@
         <mark key="^" line="35" column="97" />
         <mark key="." line="35" column="98" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1562063046371">
-        <mark key="[" line="1903" column="0" />
-        <mark key="]" line="1903" column="0" />
-        <mark key="." line="1903" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/url/UrlPath.java" timestamp="1562582940224" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1561358179227">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="59" column="5" />
-        <mark key="." line="56" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/bean/vo/cem/CemAssertInfo.java" timestamp="1562653428121" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SmsMarketingTask.java" timestamp="1560916197679">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="42" />
