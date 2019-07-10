@@ -37,6 +37,9 @@
         <mark key="." line="320" column="53" />
       </file>
       <file name="/WechatFansMapper.xml" timestamp="1562746188191" />
+      <file name="/Dummy.txt" timestamp="1562747254361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/WechatTemplateFans.java" timestamp="1562746381219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -58,7 +61,13 @@
       <file name="/TempWechatFans.java" timestamp="1562746337439" />
       <file name="/TemplateMsgScheduledTask.java" timestamp="1562744462070" />
       <file name="/WechatFansServiceImpl.java" timestamp="1562746539758" />
-      <file name="/fragment.java" timestamp="1562746359462">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1562747373935">
+        <mark key="[" line="270" column="54" />
+        <mark key="]" line="270" column="51" />
+        <mark key="^" line="270" column="51" />
+        <mark key="." line="270" column="51" />
+      </file>
+      <file name="/fragment.java" timestamp="1562747254367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1562664650155">
