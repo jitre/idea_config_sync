@@ -28,10 +28,11 @@
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1562766367948">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1562772461318">
+        <mark key="[" line="133" column="43" />
+        <mark key="]" line="133" column="43" />
+        <mark key="." line="133" column="43" />
+        <mark key="^" line="133" column="43" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1562771736242">
         <mark key="'" line="17" column="51" />
@@ -54,7 +55,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/WechatUtils.java" timestamp="1562768058367" />
       <file name="/WechatFansMapper.xml" timestamp="1562746188191" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1562767938070" />
-      <file name="/Dummy.txt" timestamp="1562771539596">
+      <file name="/Dummy.txt" timestamp="1562772467203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/WechatConstants.java" timestamp="1562760592802" />
