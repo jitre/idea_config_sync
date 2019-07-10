@@ -23,12 +23,19 @@
         <mark key="." line="217" column="49" />
       </file>
       <file name="/TemplateMsgScheduledTask.java" timestamp="1562744462070" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1562745861709">
+        <mark key="[" line="141" column="11" />
+        <mark key="]" line="145" column="21" />
+        <mark key="^" line="145" column="21" />
+        <mark key="." line="145" column="21" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1562664650155">
         <mark key="[" line="468" column="77" />
         <mark key="]" line="468" column="76" />
         <mark key="." line="468" column="76" />
         <mark key="^" line="468" column="76" />
       </file>
+      <file name="/WechatFansMapper.xml" timestamp="1562745811455" />
     </filemarks>
     <jumps>
       <jump line="1691" column="57" filename="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" />
