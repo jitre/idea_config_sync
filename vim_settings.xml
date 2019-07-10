@@ -33,7 +33,7 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1562750058608">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1562771736242">
         <mark key="'" line="17" column="51" />
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="26" />
@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/WechatUtils.java" timestamp="1562768058367" />
       <file name="/WechatFansMapper.xml" timestamp="1562746188191" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1562767938070" />
-      <file name="/Dummy.txt" timestamp="1562770893368">
+      <file name="/Dummy.txt" timestamp="1562771539596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/consts/WechatConstants.java" timestamp="1562760592802" />
@@ -80,12 +80,12 @@
         <mark key="." line="270" column="51" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/WechatServiceImpl.java" timestamp="1562768545077" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1562770876943">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1562771534560">
         <mark key="'" line="190" column="0" />
-        <mark key="[" line="275" column="54" />
-        <mark key="]" line="275" column="54" />
-        <mark key="." line="275" column="54" />
-        <mark key="^" line="275" column="54" />
+        <mark key="[" line="232" column="28" />
+        <mark key="]" line="232" column="27" />
+        <mark key="." line="232" column="27" />
+        <mark key="^" line="232" column="27" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/WechatAppConfigMapper.xml" timestamp="1562768141340" />
       <file name="/fragment.java" timestamp="1562747254367">
