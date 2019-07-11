@@ -93,6 +93,12 @@
       <file name="/fragment.java" timestamp="1562747254367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1562826719251">
+        <mark key="[" line="468" column="77" />
+        <mark key="]" line="468" column="76" />
+        <mark key="." line="468" column="76" />
+        <mark key="^" line="468" column="76" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/config/MapperConfig.xml" />
