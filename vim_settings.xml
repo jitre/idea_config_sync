@@ -41,7 +41,7 @@
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1563160124740">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1563161754509">
         <mark key="[" line="133" column="43" />
         <mark key="]" line="133" column="43" />
         <mark key="." line="133" column="43" />
@@ -52,7 +52,7 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1562817021165">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1563162308833">
         <mark key="'" line="17" column="51" />
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="26" />
@@ -68,7 +68,7 @@
         <mark key="^" line="270" column="51" />
         <mark key="." line="270" column="51" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1562815770855">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1563162340797">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
