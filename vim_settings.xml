@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563170572241">
+      <file name="/Dummy.txt" timestamp="1563270423778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/TempWechatFans.java" timestamp="1562814361718">
@@ -22,11 +22,8 @@
         <mark key="^" line="167" column="10" />
         <mark key="." line="167" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1563265700734">
-        <mark key="[" line="68" column="116" />
-        <mark key="]" line="68" column="138" />
-        <mark key="^" line="68" column="138" />
-        <mark key="." line="68" column="138" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1563270408870">
+        <mark key="[" line="68" column="139" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1563170405864">
         <mark key="[" line="458" column="27" />
@@ -40,7 +37,7 @@
         <mark key="^" line="346" column="55" />
         <mark key="." line="347" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1563268912244" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1563270509683" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1562746527136">
         <mark key="[" line="28" column="58" />
         <mark key="]" line="28" column="57" />
@@ -69,12 +66,6 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/TemplateFans.java" timestamp="1562746442839">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1562764650466">
-        <mark key="[" line="270" column="54" />
-        <mark key="]" line="270" column="51" />
-        <mark key="^" line="270" column="51" />
-        <mark key="." line="270" column="51" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1563169273648">
         <mark key="[" line="193" column="29" />
