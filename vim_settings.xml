@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563327403638">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/TempWechatFans.java" timestamp="1562814361718">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="37" column="3" />
@@ -72,11 +69,11 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/entity/TemplateFans.java" timestamp="1562746442839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1563327309192">
-        <mark key="[" line="194" column="26" />
-        <mark key="]" line="193" column="28" />
-        <mark key="^" line="193" column="28" />
-        <mark key="." line="193" column="28" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1563331475092">
+        <mark key="[" line="211" column="77" />
+        <mark key="]" line="211" column="75" />
+        <mark key="^" line="211" column="75" />
+        <mark key="." line="211" column="75" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1562828146540">
         <mark key="'" line="913" column="0" />
@@ -203,8 +200,8 @@
       <register name="a" type="4">
         <text>deleteByExecuteId</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2&quot;+&quot;名用户购买&quot;</text>
       </register>
       <register name="b" type="4">
         <text>end_time</text>
@@ -216,7 +213,7 @@
         <text>finish_count</text>
       </register>
       <register name="-" type="4">
-        <text>thirdPartyService.getProductImg(modelName)</text>
+        <text>2&quot;+&quot;名用户购买&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJzaW9uUHJpY2VcPg==</text>
