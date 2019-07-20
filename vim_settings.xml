@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1563614687068" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/twitter/impl/UserTwitterServiceImpl.java" timestamp="1563620377443" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/util/UserUtil.java" timestamp="1563621227843" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1563620823091" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/authentication/LoginStrategyService.java" timestamp="1563620273464" />
     </filemarks>
     <jumps />
     <registers />
