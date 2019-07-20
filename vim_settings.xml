@@ -3,9 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java" timestamp="1563621879185" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/twitter/impl/UserTwitterServiceImpl.java" timestamp="1563620377443" />
-      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/util/UserUtil.java" timestamp="1563621227843" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java" timestamp="1563622219559" />
+      <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/util/UserUtil.java" timestamp="1563621855344" />
+      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/PreparedStatement.class" timestamp="1563622106689" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1563620823091" />
+      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/ConnectionImpl.class" timestamp="1563622511629" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.java" timestamp="1563622197889" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/authentication/LoginStrategyService.java" timestamp="1563620273464" />
     </filemarks>
     <jumps />
