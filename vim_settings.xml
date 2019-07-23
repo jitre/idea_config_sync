@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/FragmentAndDescController.java" timestamp="1563788968735" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ImageMapper.xml" timestamp="1563789203870" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/logback.xml" timestamp="1563867835262" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/logback.xml" timestamp="1563868650856" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/FragmentMapper.xml" timestamp="1563788393535" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/file/impl/ImageServiceImpl.java" timestamp="1563789197455" />
     </filemarks>
