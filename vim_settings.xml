@@ -11,12 +11,7 @@
       <file name="/Dummy.txt" timestamp="1563885951935">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/FragmentAndDescController.java" timestamp="1563788968735" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ImageMapper.xml" timestamp="1563789203870" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/logback.xml" timestamp="1563868650856" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/FragmentMapper.xml" timestamp="1563788393535" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1563890226089" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/file/impl/ImageServiceImpl.java" timestamp="1563789197455" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/order/OrderJob.java" timestamp="1563936966672" />
     </filemarks>
     <jumps />
     <registers>
