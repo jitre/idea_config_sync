@@ -8,20 +8,48 @@
         <mark key="]" line="566" column="9" />
         <mark key="." line="566" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563885951935">
+      <file name="/Dummy.txt" timestamp="1564047168404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1564044158331" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/service/impl/QyhUserServiceImpl.java" timestamp="1564046634038" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/vo/QyhApiUser.java" timestamp="1564046753791">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1564044344402" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1564044078171" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1564047165651">
+        <mark key="[" line="148" column="12" />
+        <mark key="]" line="148" column="15" />
+        <mark key="." line="148" column="15" />
+        <mark key="^" line="148" column="15" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>synchronized</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAobnVsbCAhPSB1c2FibGUgJiYgdXNhYmxlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAvL+WIoOmZpOS8geS4muWPt+WRmOW3pQogICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVVzZXIoZW5naW5lZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKDAgPT0gZXJyb3JDb2RlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgwID09IGVycm9yQ29kZSkgewogICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXloQXBpVXNlci5zZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewoJCXJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwoJfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>synchronized</text>
+        <text>engineerId</text>
       </register>
     </registers>
     <search>
