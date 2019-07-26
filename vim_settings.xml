@@ -3,13 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1563875253764">
-        <mark key="[" line="566" column="9" />
-        <mark key="]" line="566" column="9" />
-        <mark key="." line="566" column="9" />
-      </file>
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/restapi/src/main/java/com/xquark/config/SecurityConfig.java" timestamp="1564109850905" />
-      <file name="/Dummy.txt" timestamp="1564047168404">
+      <file name="/Dummy.txt" timestamp="1564126676558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/qiYeHao/workOrderOperation/jsp/unfinishedwoDetail.jsp" timestamp="1564107769724" />
@@ -31,21 +26,27 @@
         <mark key="." line="148" column="15" />
         <mark key="^" line="148" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1564120024705" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1564126667967">
+        <mark key="[" line="549" column="79" />
+        <mark key="]" line="549" column="80" />
+        <mark key="^" line="549" column="80" />
+        <mark key="." line="549" column="80" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1564126925299" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1564108633968" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/dal/src/main/java/com/xquark/config/DalConfig.java" timestamp="1564110455788" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/qiYeHao/workOrderOperation/jsp/unfinishedOrderDetail_maintain.jsp" timestamp="1564110750759" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAobnVsbCAhPSB1c2FibGUgJiYgdXNhYmxlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAvL+WIoOmZpOS8geS4muWPt+WRmOW3pQogICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVVzZXIoZW5naW5lZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKDAgPT0gZXJyb3JDb2RlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;除菌去味一喷到位&quot;.contains(content)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+      <register name="&quot;" type="4">
+        <text>除菌去味一喷到位</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgwID09IGVycm9yQ29kZSkgewogICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgIH0K</text>
@@ -57,7 +58,7 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewoJCXJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwoJfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>engineerId</text>
+        <text>除菌去味一喷到位</text>
       </register>
     </registers>
     <search>
