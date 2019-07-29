@@ -25,8 +25,10 @@
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1564401388086">
         <mark key="[" line="214" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564402490021">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniMgmEngineerMapper.xml" timestamp="1564408822712">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1564126667967">
         <mark key="[" line="549" column="79" />
@@ -50,8 +52,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBwcml2YXRlIE9yZGVyU2VydmljZSBvcmRlclNlcnZpY2U7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9yZGVyU2VydmljZSBvcmRlclNlcnZpY2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t_user.created_at,t_user.updated_at,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuc2VydmljZS5vcmRlci5PcmRlclNlcnZpY2U7Cg==</text>
@@ -75,7 +77,7 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewoJCXJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwoJfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>除菌去味一喷到位</text>
+        <text>t_user.created_at,t_user.updated_at,</text>
       </register>
     </registers>
     <search>
