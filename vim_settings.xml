@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/EngineerInviteMapper.xml" timestamp="1564410738391" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/EngineerInviteMapper.xml" timestamp="1564411516564">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+        <mark key="^" line="61" column="12" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/vo/QyhApiUser.java" timestamp="1564046753791">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="55" />
@@ -35,6 +40,9 @@
         <mark key="[" line="113" column="0" />
         <mark key="]" line="116" column="25" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564411521704">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/EngineerInviteVO.java" timestamp="1564410665005" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniMgmEngineerMapper.xml" timestamp="1564408822712">
         <mark key="[" line="13" column="18" />
@@ -63,8 +71,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -91,7 +99,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgwID09IGVycm9yQ29kZSkgewogICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>t_user.created_at,t_user.updated_at,</text>
+        <text>left</text>
       </register>
     </registers>
     <search>
