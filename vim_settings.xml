@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/EngineerInviteMapper.xml" timestamp="1564404708215" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/vo/QyhApiUser.java" timestamp="1564046753791">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="55" />
