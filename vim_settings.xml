@@ -15,20 +15,11 @@
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="55" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/mgm/InviteRequestControllerApi.java" timestamp="1564402423826">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1564388475582" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1564047165651">
         <mark key="[" line="148" column="12" />
         <mark key="]" line="148" column="15" />
         <mark key="." line="148" column="15" />
         <mark key="^" line="148" column="15" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1564401388086">
-        <mark key="[" line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/menu/menu_1.json" timestamp="1564409421932">
         <mark key="[" line="120" column="26" />
@@ -41,7 +32,7 @@
         <mark key="]" line="116" column="25" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/task/InjectPointTaskService.java" timestamp="1564471320788" />
-      <file name="/Dummy.txt" timestamp="1564411521704">
+      <file name="/Dummy.txt" timestamp="1564475605598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/EngineerInviteVO.java" timestamp="1564410665005" />
@@ -50,14 +41,7 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1564126667967">
-        <mark key="[" line="549" column="79" />
-        <mark key="]" line="549" column="80" />
-        <mark key="^" line="549" column="80" />
-        <mark key="." line="549" column="80" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/inject/InjectPointController.java" timestamp="1564471406704" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1564399940119" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/webapp/resource/js/innerClientMng/innerClientMng.js" timestamp="1564400622318">
         <mark key="[" line="4724" column="0" />
         <mark key="]" line="4724" column="0" />
