@@ -21,6 +21,13 @@
         <mark key="." line="148" column="15" />
         <mark key="^" line="148" column="15" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1564487432959">
+        <mark key="'" line="185" column="58" />
+        <mark key="[" line="243" column="20" />
+        <mark key="]" line="243" column="34" />
+        <mark key="." line="243" column="20" />
+        <mark key="^" line="243" column="19" />
+      </file>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/menu/menu_1.json" timestamp="1564409421932">
         <mark key="[" line="120" column="26" />
         <mark key="]" line="120" column="24" />
@@ -32,15 +39,11 @@
         <mark key="]" line="116" column="25" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/task/InjectPointTaskService.java" timestamp="1564471320788" />
-      <file name="/Dummy.txt" timestamp="1564475605598">
+      <file name="/Dummy.txt" timestamp="1564487158760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/EngineerInviteVO.java" timestamp="1564410665005" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniMgmEngineerMapper.xml" timestamp="1564408822712">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/aop/FuseAop.java" timestamp="1564487479596" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/inject/InjectPointController.java" timestamp="1564471406704" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/webapp/resource/js/innerClientMng/innerClientMng.js" timestamp="1564400622318">
         <mark key="[" line="4724" column="0" />
@@ -48,17 +51,21 @@
         <mark key="." line="4724" column="0" />
         <mark key="^" line="4724" column="7" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/updatesql/create2019-6-12.sql" timestamp="1564487408952" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="221" column="0" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
+      <jump line="185" column="58" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5pyN5Yqh5ZWG6YKA6K+35pWw5o2uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZGVwdExpc3QiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dj0xLjMuNQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>left</text>
+        <text>121.43.166.123</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -67,25 +74,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9yZGVyU2VydmljZSBvcmRlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAi5biI5YKF6YKA6K+35piO57uGIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cmwiOiAiZW5naW5lZXJMaXN0IgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuc2VydmljZS5vcmRlci5PcmRlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIE9yZGVyU2VydmljZSBvcmRlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS54cXVhcmsuc2VydmljZS5vcmRlci5PcmRlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHBvcnREZXRhaWw6IHF5c2NVcmwgKyAiL3YyL29wZW5hcGkvaW52aXRlQWNjZXB0L2V4cG9ydERldGFpbCIsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
+        <text encoding="base64">ICBleHBvcnREZXRhaWw6IHF5c2NVcmwgKyAiL3YyL29wZW5hcGkvaW52aXRlQWNjZXB0L2V4cG9ydERldGFpbCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgwID09IGVycm9yQ29kZSkgewogICAgICAgICAgICAgICAgICAgIHF5aFVzZXJTZXJ2aWNlLmRlbGV0ZVF5aFVzZXIoZW5naW5lZXJJZCwgY29ycElkKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>121.43.166.123</text>
       </register>
     </registers>
     <search>
