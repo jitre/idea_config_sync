@@ -4,8 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/biz/src/main/java/com/xquark/biz/verify/impl/VerificationFacadeImpl.java" timestamp="1564581618721" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMsgToEngineerTask1.java" timestamp="1564582057003" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/SmsSendRecordServiceImpl.java" timestamp="1564582019813" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/scrm/SCrmControllerApi.java" timestamp="1564581277911" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/service/src/main/java/com/xquark/service/push/impl/PushServiceImpl.java" timestamp="1564581208805" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/MobileServiceImpl.java" timestamp="1564582485154" />
+      <file name="$USER_HOME$/Documents/project/serviceAccount-scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/TemplateMsgScheduledTask.java" timestamp="1564581895103" />
       <file name="$USER_HOME$/Documents/project/mall-platform-qysc/frontend/restapi/src/main/webapp/WEB-INF/i18n/messages_zh.properties" timestamp="1564581290819" />
     </filemarks>
     <jumps />
