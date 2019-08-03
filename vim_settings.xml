@@ -28,7 +28,7 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="84" column="115" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/aop/FuseAop.java" timestamp="1564656837528">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/aop/FuseAop.java" timestamp="1564823135396">
         <mark key="[" line="69" column="4" />
         <mark key="]" line="69" column="5" />
         <mark key="^" line="69" column="5" />
@@ -74,6 +74,7 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="88" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.4.1/httpclient-4.4.1.jar!/org/apache/http/impl/client/CloseableHttpClient.class" timestamp="1564822942619" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
