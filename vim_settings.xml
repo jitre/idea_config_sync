@@ -34,7 +34,6 @@
         <mark key="^" line="69" column="5" />
         <mark key="." line="69" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-tools/src/main/java/com/ziwow/scrmapp/tools/utils/HttpClientUtils.java" timestamp="1564822645211" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/exception/ThirdException.java" timestamp="1564818548772">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="25" />
@@ -45,6 +44,12 @@
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1564991147329">
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="53" column="6" />
+        <mark key="." line="53" column="6" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/advice/ApiControllerExceptionHandler.java" timestamp="1564820790629">
         <mark key="[" line="34" column="31" />
@@ -74,7 +79,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="88" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.4.1/httpclient-4.4.1.jar!/org/apache/http/impl/client/CloseableHttpClient.class" timestamp="1564822942619" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
