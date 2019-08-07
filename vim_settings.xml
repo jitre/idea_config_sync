@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1565174289162">
+        <mark key="[" line="883" column="0" />
+        <mark key="]" line="883" column="0" />
+        <mark key="." line="883" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1564821210804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,6 +41,12 @@
         <mark key="." line="69" column="5" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1565172855901" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1565174551477">
+        <mark key="[" line="570" column="35" />
+        <mark key="]" line="570" column="53" />
+        <mark key="." line="570" column="53" />
+        <mark key="^" line="570" column="53" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/exception/ThirdException.java" timestamp="1564818548772">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="25" />
@@ -47,6 +58,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/NotifyPointRecordTask.java" timestamp="1565174434916" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhCorpController.java" timestamp="1565165366304" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1564991147329">
         <mark key="[" line="50" column="108" />
@@ -91,41 +103,41 @@
       <jump line="165" column="53" filename="$MAVEN_REPOSITORY$/com/csm/csmservice/0.0.4/csmservice-0.0.4.jar!/com/sinocc/service/CssWxServiceImpl.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLlkIzmraXkvJrlkZjms6jlhozkv6Hmga/lpLHotKU6IiwgZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u.union_id,u.name,u.phone</text>
       </register>
       <register name="-" type="4">
-        <text>获取第三方商城判断用户注册接口失败</text>
+        <text>u.union_id,u.name,u.phone</text>
       </register>
-      <register name="0" type="4">
-        <text>同步会员注册信息失败</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQk8aW5jbHVkZSByZWZpZD0iSm9pbl9Db2x1bW5fTGlzdCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLlkIzmraXkvJrlkZjms6jlhozkv6Hmga/lpLHotKU6IiwgZSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLojrflj5bnrKzkuInmlrnllYbln47liKTmlq3nlKjmiLfms6jlhozmjqXlj6PlpLHotKU6IiwgZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhpcmRFeGNlcHRpb24gdGU9bmV3IFRoaXJkRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHRlLmluaXRDYXVzZShlKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLlkIzmraXkvJrlkZjms6jlhozkv6Hmga/lpLHotKU6IiwgZSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLojrflj5bnrKzkuInmlrnllYbln47liKTmlq3nlKjmiLfms6jlhozmjqXlj6PlpLHotKU6IiwgZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhpcmRFeGNlcHRpb24gdGU9bmV3IFRoaXJkRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHRlLmluaXRDYXVzZShlKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdC5zZXRCdXlUaW1lKHRoaXJkUGFydHlTZXJ2aWNlLmdldFB1cmNoRGF0ZShwcm9kdWN0QmFyQ29kZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOafpeivoui0reS5sOaXtumXtAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdC5zZXRCdXlUaW1lKHRoaXJkUGFydHlTZXJ2aWNlLmdldFB1cmNoRGF0ZShwcm9kdWN0QmFyQ29kZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIjQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOafpeivoui0reS5sOaXtumXtAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGltZXM6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBtYXg6IG5ldyBEYXRlKG5ldyBEYXRlKCkuZ2V0VGltZSgpIC0gKDEwMDAgKiA2MCAqIDYwICogMjQpKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIjQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>158</text>
