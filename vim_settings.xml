@@ -82,13 +82,7 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/CreateWXCodeTask.java" timestamp="1565342373899" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/pom.xml" timestamp="1565343083228">
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
-      </file>
+      <file name="/pom.xml" timestamp="1565848918580" />
       <file name="/fragment.java" timestamp="1565165126118">
         <mark key="[" line="0" column="0" />
       </file>
