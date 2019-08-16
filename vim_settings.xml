@@ -3,6 +3,83 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/bindPdt.js" timestamp="1564666008136">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="138" column="8" />
+        <mark key="." line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/vo/QyhApiUser.java" timestamp="1564710844949">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/resources/com/point/xquark/dal/mapper/PointTotalMapper.xml" timestamp="1565344263851">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1565343973175">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1565941735764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1565342472493">
+        <mark key="[" line="591" column="0" />
+        <mark key="]" line="591" column="8" />
+        <mark key="." line="591" column="8" />
+        <mark key="^" line="570" column="53" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1564991147329">
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="53" column="6" />
+        <mark key="." line="53" column="6" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1565940760791">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1565941109801">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMarketingMsgTask.java" timestamp="1565941436046" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AwardNotificationTask.java" timestamp="1565942113572">
+        <mark key="[" line="55" column="61" />
+        <mark key="]" line="55" column="61" />
+        <mark key="." line="55" column="61" />
+        <mark key="^" line="55" column="61" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/MGMNotificationTask.java" timestamp="1565941645900">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1565941102797">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1565941135346">
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
+        <mark key="." line="319" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1565936122767">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="17" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1565174289162">
         <mark key="[" line="883" column="0" />
         <mark key="]" line="883" column="0" />
@@ -17,34 +94,11 @@
         <mark key="^" line="205" column="59" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/bindPdt.js" timestamp="1564666008136">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="138" column="8" />
-        <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/vo/QyhApiUser.java" timestamp="1564710844949">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-      </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/resources/com/point/xquark/dal/mapper/PointRecordMapper.xml" timestamp="1565342768996">
         <mark key="[" line="197" column="24" />
         <mark key="]" line="197" column="25" />
         <mark key="." line="197" column="25" />
         <mark key="^" line="197" column="25" />
-      </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/src/main/resources/com/point/xquark/dal/mapper/PointTotalMapper.xml" timestamp="1565344263851">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
-      </file>
-      <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1565343973175">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/aop/FuseAop.java" timestamp="1564823135396">
         <mark key="[" line="69" column="4" />
@@ -52,23 +106,16 @@
         <mark key="^" line="69" column="5" />
         <mark key="." line="69" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1565342472493">
-        <mark key="[" line="591" column="0" />
-        <mark key="]" line="591" column="8" />
-        <mark key="." line="591" column="8" />
-        <mark key="^" line="570" column="53" />
-      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/exception/ThirdException.java" timestamp="1564818548772">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="25" />
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1564991147329">
-        <mark key="[" line="50" column="108" />
-        <mark key="]" line="53" column="6" />
-        <mark key="^" line="53" column="6" />
-        <mark key="." line="53" column="6" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1565941121952">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/advice/ApiControllerExceptionHandler.java" timestamp="1564820790629">
         <mark key="[" line="34" column="31" />
@@ -76,20 +123,15 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
+      <file name="/TemplateMsgScheduledTask.java" timestamp="1565941545508" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindPdt.jsp" timestamp="1564661940499">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1565165126118">
+      <file name="/fragment.java" timestamp="1565941769343">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1565936122767">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="17" />
-        <mark key="." line="144" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -98,41 +140,41 @@
       <jump line="75" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+      <register name="&quot;" type="4">
+        <text>2019.07.11-2020.07.11</text>
       </register>
       <register name="-" type="4">
-        <text>created_at</text>
+        <text>2019.07.11-2020.07.11</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV2VjaGF0VXNlclNlcnZpY2Ugd2VjaGF0VXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMi4xLjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLlkIzmraXkvJrlkZjms6jlhozkv6Hmga/lpLHotKU6IiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV2VjaGF0VXNlclNlcnZpY2Ugd2VjaGF0VXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNR01Ob3RpZmljYXRpb25UYXNrKEV3Q2FyZFNlcnZpY2UgZXdDYXJkU2VydmljZSwgV2VjaGF0T3JkZXJzU2VydmljZSB3ZWNoYXRPcmRlcnNTZXJ2aWNlLCBXZWNoYXRVc2VyQWRkcmVzc1NlcnZpY2Ugd2VjaGF0VXNlckFkZHJlc3NTZXJ2aWNlLCBUaGlyZFBhcnR5U2VydmljZSB0aGlyZFBhcnR5U2VydmljZSwgUHJvZHVjdFNlcnZpY2UgcHJvZHVjdFNlcnZpY2UsIFdlY2hhdFVzZXJTZXJ2aWNlIHdlY2hhdFVzZXJTZXJ2aWNlLCBXZWNoYXRGYW5zU2VydmljZSB3ZWNoYXRGYW5zU2VydmljZSkgewogICAgICAgIHN1cGVyKGV3Q2FyZFNlcnZpY2UsIHdlY2hhdE9yZGVyc1NlcnZpY2UsIHdlY2hhdFVzZXJBZGRyZXNzU2VydmljZSwgdGhpcmRQYXJ0eVNlcnZpY2UsIHByb2R1Y3RTZXJ2aWNlLCB3ZWNoYXRVc2VyU2VydmljZSwgd2VjaGF0RmFuc1NlcnZpY2UpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCLojrflj5bnrKzkuInmlrnllYbln47liKTmlq3nlKjmiLfms6jlhozmjqXlj6PlpLHotKU6IiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBYeGxKb2JMb2dnZXIubG9nKCLvvIjpnZ7lrpjmlrnvvInlvIDlp4vmiafooYzlrqHmoLjlu7bkv53ljaHmtYHnqIvku7vliqEiKTsKICAgICAgICBsb2dnZXIuaW5mbygi5byA5aeL5omn6KGM5qCh6aqM6YC76L6RKOmdnuWumOaWuSkiKTsKICAgICAgICAvL+afpeivouW+heWuoeaguOeahOW7tuS/neWNoeiusOW9lQogICAgICAgIExpc3Q8RXdDYXJkPiBld0NhcmRzID0gZXdDYXJkU2VydmljZS5zZWxlY3RFd0NhcmRzQnlTdGF0dXNBbmRJbnN0YWxsKEV3Q2FyZFN0YXR1cy5UT19CRV9BVURJVEVELGZhbHNlKTsKICAgICAgICBmb3IgKEV3Q2FyZCBld0NhcmQgOiBld0NhcmRzKSB7CiAgICAgICAgICAgIGlmIChFd0NhcmRVdGlsLmd0U2V2ZW5EYXkoZXdDYXJkLmdldFB1cmNoRGF0ZSgpKSl7CiAgICAgICAgICAgICAgICByZWdpc3RlckV3Q2FyZChld0NhcmQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhpcmRFeGNlcHRpb24gdGU9bmV3IFRoaXJkRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHRlLmluaXRDYXVzZShlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdC5zZXRCdXlUaW1lKHRoaXJkUGFydHlTZXJ2aWNlLmdldFB1cmNoRGF0ZShwcm9kdWN0QmFyQ29kZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOafpeivoui0reS5sOaXtumXtAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>158</text>
