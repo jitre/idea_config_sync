@@ -58,9 +58,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMarketingMsgTask.java" timestamp="1565941436046" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AwardNotificationTask.java" timestamp="1565944951819">
-        <mark key="[" line="60" column="74" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AwardNotificationTask.java" timestamp="1565945989303">
+        <mark key="[" line="59" column="58" />
         <mark key="]" line="60" column="86" />
         <mark key="." line="60" column="86" />
         <mark key="^" line="60" column="86" />
@@ -92,7 +91,7 @@
         <mark key="]" line="883" column="0" />
         <mark key="." line="883" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565943570935">
+      <file name="/Dummy.txt" timestamp="1565946001464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1564822206763">
@@ -130,7 +129,6 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="/TemplateMsgScheduledTask.java" timestamp="1565941545508" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindPdt.jsp" timestamp="1564661940499">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="24" column="11" />
