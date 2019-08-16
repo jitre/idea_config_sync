@@ -8,7 +8,7 @@
         <mark key="]" line="883" column="0" />
         <mark key="." line="883" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565343098315">
+      <file name="/Dummy.txt" timestamp="1565936151029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1564822206763">
@@ -82,28 +82,30 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/config/DataSourceConfig.java" timestamp="1565859237817" />
-      <file name="/applicationContext-service.xml" timestamp="1565859493234" />
-      <file name="/PointDiscountPricingChain.java" timestamp="1565859540716" />
-      <file name="/pom.xml" timestamp="1565858905976" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1565859930662" />
       <file name="/fragment.java" timestamp="1565165126118">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" timestamp="1565936122767">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="17" />
+        <mark key="." line="144" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
       <jump line="165" column="53" filename="$MAVEN_REPOSITORY$/com/csm/csmservice/0.0.4/csmservice-0.0.4.jar!/com/sinocc/service/CssWxServiceImpl.class" />
+      <jump line="75" column="0" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/web/src/main/java/com/xquark/web/wechat/WebEntryController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMi4xLjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="-" type="4">
         <text>created_at</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8aW5jbHVkZSByZWZpZD0iSm9pbl9Db2x1bW5fTGlzdCIgLz4K</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMi4xLjA8L3ZlcnNpb24+Cg==</text>
