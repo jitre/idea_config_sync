@@ -29,6 +29,12 @@
       <file name="/a.dummy" timestamp="1565941735764">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1565943425903">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="146" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1565342472493">
         <mark key="[" line="591" column="0" />
         <mark key="]" line="591" column="8" />
@@ -41,10 +47,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1565940760791">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1565943418104">
         <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+        <mark key="]" line="143" column="17" />
+        <mark key="." line="143" column="344" />
+        <mark key="^" line="143" column="344" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1565941109801">
         <mark key="[" line="33" column="0" />
@@ -52,11 +59,11 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendMarketingMsgTask.java" timestamp="1565941436046" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AwardNotificationTask.java" timestamp="1565942113572">
-        <mark key="[" line="55" column="61" />
-        <mark key="]" line="55" column="61" />
-        <mark key="." line="55" column="61" />
-        <mark key="^" line="55" column="61" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AwardNotificationTask.java" timestamp="1565943624075">
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="60" column="86" />
+        <mark key="." line="60" column="86" />
+        <mark key="^" line="60" column="86" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/MGMNotificationTask.java" timestamp="1565941645900">
         <mark key="[" line="30" column="16" />
@@ -85,7 +92,7 @@
         <mark key="]" line="883" column="0" />
         <mark key="." line="883" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565936151029">
+      <file name="/Dummy.txt" timestamp="1565943570935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1564822206763">
@@ -130,6 +137,10 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1565943049022">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="53" />
+      </file>
       <file name="/fragment.java" timestamp="1565941769343">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,31 +152,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2019.07.11-2020.07.11</text>
+        <text>MGMNotificationUrl</text>
       </register>
       <register name="-" type="4">
-        <text>2019.07.11-2020.07.11</text>
+        <text>reservationServiceRemindTemplateId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV2VjaGF0VXNlclNlcnZpY2Ugd2VjaGF0VXNlclNlcnZpY2U7Cg==</text>
+      <register name="0" type="4">
+        <text>MGMNotificationUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I+S4reWllumAmuefpQpNR01Ob3RpZmljYXRpb24yVGVtcGxhdGUuaWQ9T1BFTlRNNDEyOTk0MzAyCiPkuK3lpZbpgJrnn6UKTUdNTm90aWZpY2F0aW9uM1RlbXBsYXRlLmlkPU9QRU5UTTIwNzk0MDk4MAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV2VjaGF0VXNlclNlcnZpY2Ugd2VjaGF0VXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNR01Ob3RpZmljYXRpb25UYXNrKEV3Q2FyZFNlcnZpY2UgZXdDYXJkU2VydmljZSwgV2VjaGF0T3JkZXJzU2VydmljZSB3ZWNoYXRPcmRlcnNTZXJ2aWNlLCBXZWNoYXRVc2VyQWRkcmVzc1NlcnZpY2Ugd2VjaGF0VXNlckFkZHJlc3NTZXJ2aWNlLCBUaGlyZFBhcnR5U2VydmljZSB0aGlyZFBhcnR5U2VydmljZSwgUHJvZHVjdFNlcnZpY2UgcHJvZHVjdFNlcnZpY2UsIFdlY2hhdFVzZXJTZXJ2aWNlIHdlY2hhdFVzZXJTZXJ2aWNlLCBXZWNoYXRGYW5zU2VydmljZSB3ZWNoYXRGYW5zU2VydmljZSkgewogICAgICAgIHN1cGVyKGV3Q2FyZFNlcnZpY2UsIHdlY2hhdE9yZGVyc1NlcnZpY2UsIHdlY2hhdFVzZXJBZGRyZXNzU2VydmljZSwgdGhpcmRQYXJ0eVNlcnZpY2UsIHByb2R1Y3RTZXJ2aWNlLCB3ZWNoYXRVc2VyU2VydmljZSwgd2VjaGF0RmFuc1NlcnZpY2UpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgV2VjaGF0VXNlclNlcnZpY2Ugd2VjaGF0VXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBYeGxKb2JMb2dnZXIubG9nKCLvvIjpnZ7lrpjmlrnvvInlvIDlp4vmiafooYzlrqHmoLjlu7bkv53ljaHmtYHnqIvku7vliqEiKTsKICAgICAgICBsb2dnZXIuaW5mbygi5byA5aeL5omn6KGM5qCh6aqM6YC76L6RKOmdnuWumOaWuSkiKTsKICAgICAgICAvL+afpeivouW+heWuoeaguOeahOW7tuS/neWNoeiusOW9lQogICAgICAgIExpc3Q8RXdDYXJkPiBld0NhcmRzID0gZXdDYXJkU2VydmljZS5zZWxlY3RFd0NhcmRzQnlTdGF0dXNBbmRJbnN0YWxsKEV3Q2FyZFN0YXR1cy5UT19CRV9BVURJVEVELGZhbHNlKTsKICAgICAgICBmb3IgKEV3Q2FyZCBld0NhcmQgOiBld0NhcmRzKSB7CiAgICAgICAgICAgIGlmIChFd0NhcmRVdGlsLmd0U2V2ZW5EYXkoZXdDYXJkLmdldFB1cmNoRGF0ZSgpKSl7CiAgICAgICAgICAgICAgICByZWdpc3RlckV3Q2FyZChld0NhcmQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNR01Ob3RpZmljYXRpb25UYXNrKEV3Q2FyZFNlcnZpY2UgZXdDYXJkU2VydmljZSwgV2VjaGF0T3JkZXJzU2VydmljZSB3ZWNoYXRPcmRlcnNTZXJ2aWNlLCBXZWNoYXRVc2VyQWRkcmVzc1NlcnZpY2Ugd2VjaGF0VXNlckFkZHJlc3NTZXJ2aWNlLCBUaGlyZFBhcnR5U2VydmljZSB0aGlyZFBhcnR5U2VydmljZSwgUHJvZHVjdFNlcnZpY2UgcHJvZHVjdFNlcnZpY2UsIFdlY2hhdFVzZXJTZXJ2aWNlIHdlY2hhdFVzZXJTZXJ2aWNlLCBXZWNoYXRGYW5zU2VydmljZSB3ZWNoYXRGYW5zU2VydmljZSkgewogICAgICAgIHN1cGVyKGV3Q2FyZFNlcnZpY2UsIHdlY2hhdE9yZGVyc1NlcnZpY2UsIHdlY2hhdFVzZXJBZGRyZXNzU2VydmljZSwgdGhpcmRQYXJ0eVNlcnZpY2UsIHByb2R1Y3RTZXJ2aWNlLCB3ZWNoYXRVc2VyU2VydmljZSwgd2VjaGF0RmFuc1NlcnZpY2UpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBYeGxKb2JMb2dnZXIubG9nKCLvvIjpnZ7lrpjmlrnvvInlvIDlp4vmiafooYzlrqHmoLjlu7bkv53ljaHmtYHnqIvku7vliqEiKTsKICAgICAgICBsb2dnZXIuaW5mbygi5byA5aeL5omn6KGM5qCh6aqM6YC76L6RKOmdnuWumOaWuSkiKTsKICAgICAgICAvL+afpeivouW+heWuoeaguOeahOW7tuS/neWNoeiusOW9lQogICAgICAgIExpc3Q8RXdDYXJkPiBld0NhcmRzID0gZXdDYXJkU2VydmljZS5zZWxlY3RFd0NhcmRzQnlTdGF0dXNBbmRJbnN0YWxsKEV3Q2FyZFN0YXR1cy5UT19CRV9BVURJVEVELGZhbHNlKTsKICAgICAgICBmb3IgKEV3Q2FyZCBld0NhcmQgOiBld0NhcmRzKSB7CiAgICAgICAgICAgIGlmIChFd0NhcmRVdGlsLmd0U2V2ZW5EYXkoZXdDYXJkLmdldFB1cmNoRGF0ZSgpKSl7CiAgICAgICAgICAgICAgICByZWdpc3RlckV3Q2FyZChld0NhcmQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
