@@ -47,11 +47,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1565943418104">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="17" />
-        <mark key="." line="143" column="344" />
-        <mark key="^" line="143" column="344" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1566181378098">
+        <mark key="[" line="259" column="5" />
+        <mark key="]" line="248" column="25" />
+        <mark key="." line="248" column="25" />
+        <mark key="^" line="248" column="25" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.java" timestamp="1565941109801">
         <mark key="[" line="33" column="0" />
@@ -91,7 +91,7 @@
         <mark key="]" line="883" column="0" />
         <mark key="." line="883" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565946001464">
+      <file name="/Dummy.txt" timestamp="1566181382801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1564822206763">
