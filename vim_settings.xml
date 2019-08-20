@@ -35,13 +35,13 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1565342472493">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1566280930315">
         <mark key="[" line="591" column="0" />
         <mark key="]" line="591" column="8" />
         <mark key="." line="591" column="8" />
         <mark key="^" line="570" column="53" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/NotifyPointRecordTask.java" timestamp="1566272440502">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/NotifyPointRecordTask.java" timestamp="1566281255315">
         <mark key="[" line="61" column="68" />
         <mark key="]" line="61" column="68" />
         <mark key="^" line="61" column="68" />
@@ -110,7 +110,7 @@
         <mark key="." line="197" column="25" />
         <mark key="^" line="197" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/NotifyPointRecordTestTask.java" timestamp="1566273614048">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/xxljob/NotifyPointRecordTestTask.java" timestamp="1566280421003">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="52" column="51" />
