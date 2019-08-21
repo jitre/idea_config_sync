@@ -29,12 +29,14 @@
       <file name="/a.dummy" timestamp="1565941735764">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/coupon/impl/PromotionCouponServiceImpl.java" timestamp="1566380250689" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1565943425903">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/bos/src/main/java/com/xquark/bos/couponManager/PromotionCouponController.java" timestamp="1566380291521" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1566284914741">
         <mark key="[" line="578" column="48" />
         <mark key="]" line="578" column="47" />
@@ -85,12 +87,13 @@
         <mark key="]" line="319" column="0" />
         <mark key="." line="319" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/PromotionCouponMapper.java" timestamp="1566380245082" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1566284214370">
         <mark key="[" line="883" column="0" />
         <mark key="]" line="883" column="0" />
         <mark key="." line="883" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566285061861">
+      <file name="/Dummy.txt" timestamp="1566380358281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1566215826746">
@@ -123,6 +126,12 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionCouponMapper.xml" timestamp="1566380242777">
+        <mark key="[" line="406" column="55" />
+        <mark key="]" line="406" column="53" />
+        <mark key="^" line="406" column="53" />
+        <mark key="." line="406" column="53" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatFansService.java" timestamp="1565941121952">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -139,10 +148,6 @@
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1565943049022">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="53" />
       </file>
       <file name="/fragment.java" timestamp="1566272134213">
         <mark key="[" line="0" column="0" />
