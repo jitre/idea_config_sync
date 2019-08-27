@@ -35,7 +35,6 @@
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/enums/BuyChannel.java" timestamp="1566808025144" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/UserMapper.xml" timestamp="1566284914741">
         <mark key="[" line="578" column="48" />
         <mark key="]" line="578" column="47" />
@@ -47,13 +46,13 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1566875685292" />
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1564991147329">
         <mark key="[" line="50" column="108" />
         <mark key="]" line="53" column="6" />
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1566813692133" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1566222774829">
         <mark key="[" line="248" column="26" />
         <mark key="]" line="248" column="25" />
@@ -87,6 +86,7 @@
         <mark key="]" line="319" column="0" />
         <mark key="." line="319" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/CemOrderServiceImpl.java" timestamp="1566875541915" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1566284214370">
         <mark key="[" line="883" column="0" />
         <mark key="]" line="883" column="0" />
@@ -119,7 +119,7 @@
         <mark key="^" line="69" column="5" />
         <mark key="." line="69" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/bean/vo/ProductVo.java" timestamp="1566807999517" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/impl/OrderPreHandlerServiceImpl.java" timestamp="1566875470331" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/exception/ThirdException.java" timestamp="1564818548772">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="25" />
@@ -155,7 +155,7 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1566272134213">
+      <file name="/fragment.java" timestamp="1566875580205">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
