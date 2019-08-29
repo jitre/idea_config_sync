@@ -44,7 +44,7 @@
         <mark key="." line="3263" column="69" />
         <mark key="^" line="3263" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1567092317139">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1567095278891">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
         <mark key="^" line="205" column="59" />
@@ -134,7 +134,7 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1567092371587">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1567095294740">
         <mark key="[" line="92" column="17" />
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="17" />
@@ -180,7 +180,7 @@
         <mark key="." line="316" column="0" />
         <mark key="^" line="11" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567092390552">
+      <file name="/Dummy.txt" timestamp="1567095305521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderController.java" timestamp="1567068665351" />
