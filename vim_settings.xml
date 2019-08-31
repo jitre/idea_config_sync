@@ -9,6 +9,9 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/ServiceAreaMapper.java" timestamp="1567239167494" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/UserMapper.java" timestamp="1567240209151" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
+        <mark key="[" line="248" column="26" />
+      </file>
       <file name="/ServiceAreaServiceImpl.java" timestamp="1567247413729" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1567243488741" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/category/impl/CategoryServiceImpl.java" timestamp="1567243479396" />
@@ -16,7 +19,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/DepartmentRegistrationRateMapper.java" timestamp="1567258089872" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1567248969783" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1567240189861" />
-      <file name="/Dummy.txt" timestamp="1567262110777">
+      <file name="/Dummy.txt" timestamp="1567268836022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567251452128">
@@ -35,7 +38,7 @@
         <mark key="^" line="132" column="34" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190826.sql" timestamp="1567263673785" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567265499141">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567268869684">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
