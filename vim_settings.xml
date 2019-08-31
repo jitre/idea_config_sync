@@ -30,13 +30,6 @@
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1567068225776">
-        <mark key="'" line="3263" column="8" />
-        <mark key="[" line="3263" column="68" />
-        <mark key="]" line="3263" column="69" />
-        <mark key="." line="3263" column="69" />
-        <mark key="^" line="3263" column="69" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class" timestamp="1567153455490" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1567095278891">
         <mark key="[" line="222" column="0" />
@@ -68,25 +61,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/Order.java" timestamp="1567068531535">
-        <mark key="'" line="51" column="36" />
-        <mark key="[" line="730" column="5" />
-        <mark key="]" line="51" column="36" />
-        <mark key="^" line="51" column="36" />
-        <mark key="." line="51" column="36" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionCouponMapper.xml" timestamp="1566453193842">
         <mark key="[" line="406" column="55" />
         <mark key="]" line="406" column="53" />
         <mark key="^" line="406" column="53" />
         <mark key="." line="406" column="53" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/ProductService.java" timestamp="1567086117852">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="118" column="13" />
-        <mark key="]" line="118" column="12" />
-        <mark key="^" line="118" column="12" />
-        <mark key="." line="118" column="12" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/advice/ApiControllerExceptionHandler.java" timestamp="1567153605473">
         <mark key="[" line="34" column="31" />
@@ -94,7 +73,7 @@
         <mark key="^" line="34" column="31" />
         <mark key="." line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1567098911605">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1567232725899">
         <mark key="'" line="757" column="21" />
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -149,13 +128,6 @@
         <mark key="]" line="60" column="86" />
         <mark key="." line="60" column="86" />
         <mark key="^" line="60" column="86" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1567068744008">
-        <mark key="'" line="579" column="0" />
-        <mark key="[" line="70" column="45" />
-        <mark key="]" line="70" column="56" />
-        <mark key="." line="70" column="56" />
-        <mark key="^" line="70" column="56" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/type/DeliveryType.java" timestamp="1567068267661">
         <mark key="[" line="7" column="0" />
