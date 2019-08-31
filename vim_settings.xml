@@ -88,7 +88,7 @@
         <mark key="^" line="11" column="87" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1567240189861" />
-      <file name="/Dummy.txt" timestamp="1567252447587">
+      <file name="/Dummy.txt" timestamp="1567254715422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1567095278891">
@@ -184,11 +184,11 @@
         <mark key="^" line="638" column="15" />
         <mark key="." line="638" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567252440326">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="61" />
-        <mark key="^" line="316" column="7" />
-        <mark key="." line="322" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567254625117">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="254" column="62" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1567251140574">
         <mark key="[" line="0" column="0" />
@@ -219,40 +219,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlc2NyaXB0aW9uKGRlc2NyaXB0aW9uLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlcGFydG1lbnROYW1lOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>orderVO.getOrderType().equals(OrderSortType.INSIDE_BUY)</text>
       </register>
       <register name="0" type="4">
         <text>order.orderTime</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlc2NyaXB0aW9uKGRlc2NyaXB0aW9uLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlcGFydG1lbnROYW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbi5hcHBlbmQoIuOAkOazqOOAkTrpnIDkuI7nlKjmiLfnoa7orqTmmK/lkKbpnIDopoHkuIrpl6jjgIIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlc2NyaXB0aW9uKGRlc2NyaXB0aW9uLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbi5hcHBlbmQoIuOAkOazqOOAkTrpnIDkuI7nlKjmiLfnoa7orqTmmK/lkKbpnIDopoHkuIrpl6jjgIIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbi5hcHBlbmQoIuOAkOazqOOAkTrpnIDkuI7nlKjmiLfnoa7orqTmmK/lkKbpnIDopoHkuIrpl6jjgIIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9maXhtZSDlvoDlpJbot5EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub0Fpckxpc3QuaXNFbXB0eSgpP3JldHVybjs6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9maXhtZSDlvoDlpJbot5EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJJdGVtIG9yZGVySXRlbSA9IG9yZGVySXRlbXMuZ2V0KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBub0Fpckxpc3QuaXNFbXB0eSgpP3JldHVybjs6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPcmRlckl0ZW0+IG9yZGVySXRlbXMgPSBtYXAuZ2V0KGtleSk7CiAgICAgICAgICAgIE9yZGVySXRlbSBvcmRlckl0ZW0gPSBvcmRlckl0ZW1zLmdldCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJJdGVtIG9yZGVySXRlbSA9IG9yZGVySXRlbXMuZ2V0KDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxPcmRlckl0ZW0+IG9yZGVySXRlbXMgPSBtYXAuZ2V0KGtleSk7CiAgICAgICAgICAgIE9yZGVySXRlbSBvcmRlckl0ZW0gPSBvcmRlckl0ZW1zLmdldCgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
