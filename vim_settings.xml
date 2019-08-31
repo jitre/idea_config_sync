@@ -88,7 +88,7 @@
         <mark key="^" line="11" column="87" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1567240189861" />
-      <file name="/Dummy.txt" timestamp="1567256848400">
+      <file name="/Dummy.txt" timestamp="1567262110777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1567095278891">
@@ -184,11 +184,11 @@
         <mark key="^" line="638" column="15" />
         <mark key="." line="638" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567257450344">
-        <mark key="[" line="250" column="47" />
-        <mark key="]" line="251" column="19" />
-        <mark key="^" line="251" column="19" />
-        <mark key="." line="251" column="19" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567262094982">
+        <mark key="[" line="234" column="29" />
+        <mark key="]" line="234" column="32" />
+        <mark key="^" line="234" column="32" />
+        <mark key="." line="234" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1567251140574">
         <mark key="[" line="0" column="0" />
@@ -218,41 +218,41 @@
       <jump line="757" column="21" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudE5hbWUgPSBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.equals()</text>
       </register>
       <register name="-" type="4">
-        <text>,phone:[{}]</text>
+        <text>.equals()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudE5hbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzYXZlT3JkZXJVcmwgPT09PSAiICsgc2F2ZU9yZGVyVXJsKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlcGFydG1lbnROYW1lKGRlcGFydG1lbnROYW1lKTsKICAgICAgICBhc3NlbWJsZUNzbU9yZGVyRm9ybShzY3JtT3JkZXJGb3JtLCBvcmRlclZPLG9yZGVySXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudE5hbWUgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL+W3peWOguWPkei0pwo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlcGFydG1lbnROYW1lKGRlcGFydG1lbnROYW1lKTsKICAgICAgICBhc3NlbWJsZUNzbU9yZGVyRm9ybShzY3JtT3JkZXJGb3JtLCBvcmRlclZPLG9yZGVySXRlbXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+W3peWOguWPkei0pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVwYXJ0bWVudE5hbWUgIT0gbnVsbCl7CiAgICAgICAgfWVsc2UgewogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGVwYXJ0bWVudE5hbWUgIT0gbnVsbCl7CiAgICAgICAgfWVsc2UgewogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW4pui0p+S4iumXqCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW4pui0p+S4iumXqCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlcGFydG1lbnROYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
