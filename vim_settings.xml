@@ -9,6 +9,7 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="65" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/departmentservice/impl/DepartmentRegistrationRateServiceImpl.java" timestamp="1567244537920" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/bindPdt.js" timestamp="1564666008136">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
@@ -77,7 +78,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1567243488741" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/category/impl/CategoryServiceImpl.java" timestamp="1567243479396" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/serviceprovider/RegistrationRateTask.java" timestamp="1567240028596" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/DepartmentRegistrationRateMapper.java" timestamp="1567240455338" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/DepartmentRegistrationRateMapper.java" timestamp="1567244552415" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1567242334055" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" timestamp="1566984705555">
         <mark key="[" line="316" column="0" />
