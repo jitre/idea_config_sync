@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1565941735764">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190524.sql" timestamp="1567409893650" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
-        <mark key="[" line="248" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityAccessDetailMapper.xml" timestamp="1567410058423" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/departmentservice/impl/DepartmentServiceRecordImpl.java" timestamp="1567413098875" />
       <file name="/Dummy.txt" timestamp="1567410066833">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,15 +12,21 @@
         <mark key="." line="94" column="88" />
         <mark key="^" line="94" column="88" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/dempartmentService/DempartmentServiceController.java" timestamp="1567407356471" />
+      <file name="/a.dummy" timestamp="1565941735764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
+        <mark key="[" line="248" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567268869684">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
         <mark key="." line="234" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MiniActivityAccessDetailServiceImpl.java" timestamp="1567409923503" />
-      <file name="/fragment.java" timestamp="1567251140574">
+      <file name="/CrmCourseWareMapper.xml" timestamp="1567443654001" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567443628373" />
+      <file name="/fragment.java" timestamp="1567442540290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
