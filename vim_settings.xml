@@ -25,7 +25,8 @@
         <mark key="." line="234" column="32" />
       </file>
       <file name="/CrmCourseWareMapper.xml" timestamp="1567444213355" />
-      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567444820523">
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCourseController.java" timestamp="1567445404433" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567445574133">
         <mark key="[" line="55" column="40" />
         <mark key="]" line="55" column="40" />
         <mark key="." line="55" column="40" />
