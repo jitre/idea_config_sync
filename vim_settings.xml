@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1565941735764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_190524.sql" timestamp="1567409893650" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
+        <mark key="[" line="248" column="26" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MiniActivityAccessDetailMapper.xml" timestamp="1567410058423" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/departmentservice/impl/DepartmentServiceRecordImpl.java" timestamp="1567403449703" />
       <file name="/Dummy.txt" timestamp="1567268836022">
         <mark key="[" line="0" column="0" />
@@ -13,19 +21,20 @@
         <mark key="." line="94" column="88" />
         <mark key="^" line="94" column="88" />
       </file>
-      <file name="/a.dummy" timestamp="1565941735764">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/mgm/MiniActivityAccessDetail.java" timestamp="1567410025253">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/dempartmentService/DempartmentServiceController.java" timestamp="1567407356471" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
-        <mark key="[" line="248" column="26" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567268869684">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
         <mark key="." line="234" column="32" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MiniActivityAccessDetailServiceImpl.java" timestamp="1567409923503" />
       <file name="/fragment.java" timestamp="1567251140574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -54,41 +63,41 @@
       <jump line="757" column="21" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.equals()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgU3JjVHlwZSBnZXRTcmNUeXBlKCkgewogICAgcmV0dXJuIHNyY1R5cGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRTcmNUeXBlKFNyY1R5cGUgc3JjVHlwZSkgewogICAgdGhpcy5zcmNUeXBlID0gc3JjVHlwZTsKICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.equals()</text>
+        <text>SrcType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzYXZlT3JkZXJVcmwgPT09PSAiICsgc2F2ZU9yZGVyVXJsKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3JjVHlwZSBnZXRTcmNUeXBlKCkgewogICAgcmV0dXJuIHNyY1R5cGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRTcmNUeXBlKFNyY1R5cGUgc3JjVHlwZSkgewogICAgdGhpcy5zcmNUeXBlID0gc3JjVHlwZTsKICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudE5hbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzYXZlT3JkZXJVcmwgPT09PSAiICsgc2F2ZU9yZGVyVXJsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlcGFydG1lbnROYW1lKGRlcGFydG1lbnROYW1lKTsKICAgICAgICBhc3NlbWJsZUNzbU9yZGVyRm9ybShzY3JtT3JkZXJGb3JtLCBvcmRlclZPLG9yZGVySXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudE5hbWUgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL+W3peWOguWPkei0pwo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JtT3JkZXJGb3JtLnNldERlcGFydG1lbnROYW1lKGRlcGFydG1lbnROYW1lKTsKICAgICAgICBhc3NlbWJsZUNzbU9yZGVyRm9ybShzY3JtT3JkZXJGb3JtLCBvcmRlclZPLG9yZGVySXRlbXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+W3peWOguWPkei0pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVwYXJ0bWVudE5hbWUgIT0gbnVsbCl7CiAgICAgICAgfWVsc2UgewogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGVwYXJ0bWVudE5hbWUgIT0gbnVsbCl7CiAgICAgICAgfWVsc2UgewogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW4pui0p+S4iumXqCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW3peWOguWPkei0pyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NybU9yZGVyRm9ybS5zZXRLaW5kTmFtZTIoIuW4pui0p+S4iumXqCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
