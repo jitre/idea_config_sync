@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1567505812978">
+      <file name="/Dummy.txt" timestamp="1567514428046">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/OrderExportSpec.java" timestamp="1567514315020" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567251452128">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
@@ -16,11 +17,23 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1567498793937" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportVO.java" timestamp="1567514420825">
+        <mark key="[" line="133" column="5" />
+        <mark key="]" line="139" column="4" />
+        <mark key="^" line="139" column="4" />
+        <mark key="." line="139" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallOrder.html" timestamp="1567505081285">
         <mark key="[" line="201" column="44" />
         <mark key="]" line="201" column="104" />
         <mark key="." line="201" column="104" />
         <mark key="^" line="201" column="104" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="68" column="69" />
+        <mark key="^" line="68" column="69" />
+        <mark key="." line="68" column="69" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1567503172877" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567499269310">
@@ -50,6 +63,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="/OrderExportVO.java" timestamp="1567514407419" />
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567446923525">
         <mark key="[" line="55" column="14" />
         <mark key="]" line="55" column="14" />
