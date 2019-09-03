@@ -16,6 +16,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1567498793937" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1567503172877" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567499269310">
         <mark key="[" line="248" column="26" />
         <mark key="]" line="248" column="25" />
@@ -23,6 +24,12 @@
         <mark key="." line="248" column="25" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatUserServiceImpl.java" timestamp="1567499226869" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1567503257092">
+        <mark key="[" line="1329" column="73" />
+        <mark key="]" line="1329" column="73" />
+        <mark key="^" line="1329" column="73" />
+        <mark key="." line="1329" column="73" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567487784510">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
