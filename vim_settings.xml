@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1567446265318">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
+        <mark key="[" line="248" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567251452128">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
@@ -15,25 +18,18 @@
       <file name="/a.dummy" timestamp="1565941735764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567268809437">
-        <mark key="[" line="248" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/java/com/xquark/dal/mapper/CrmCourseWareMapper.java" timestamp="1567445840173" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567268869684">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567487784510">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
         <mark key="." line="234" column="32" />
       </file>
-      <file name="/CrmCourseWareMapper.xml" timestamp="1567446792417" />
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmCourseController.java" timestamp="1567446104368" />
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567446923525">
         <mark key="[" line="55" column="14" />
         <mark key="]" line="55" column="14" />
         <mark key="." line="55" column="14" />
         <mark key="^" line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareFileMapper.xml" timestamp="1567446247329" />
       <file name="/fragment.java" timestamp="1567442540290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
