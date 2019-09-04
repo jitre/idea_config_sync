@@ -43,6 +43,12 @@
         <mark key="^" line="547" column="62" />
         <mark key="." line="547" column="62" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1567605790976">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
+        <mark key="^" line="37" column="54" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567578916965">
         <mark key="[" line="248" column="26" />
         <mark key="]" line="248" column="25" />
@@ -109,41 +115,41 @@
       <jump line="757" column="21" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eHhsLmpvYi5leGVjdXRvci5wb3J0PTk5OTEK</text>
+      <register name="&quot;" type="4">
+        <text>1vfi6</text>
       </register>
       <register name="-" type="4">
-        <text>PAID</text>
+        <text>1vfi6</text>
       </register>
-      <register name="0" type="4">
-        <text>发放延保卡子任务停止</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjE3NjkxODU3OiAiICsgZW5jb2RlKDE3NjkxODU3KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eHhsLmpvYi5leGVjdXRvci5wb3J0PTk5OTEK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjE3NjkxODU3OiAiICsgZW5jb2RlKDE3NjkxODU3KSk7CgkJU3lzdGVtLm91dC5wcmludGxuKCIxNzY5MTg1NzogIiArIGVuY29kZSgxNzY5MTg1NykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dj0xLjcK</text>
+        <text encoding="base64">eHhsLmpvYi5leGVjdXRvci5wb3J0PTk5OTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dj0xLjcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPSAn5b6F5Y+R6LSnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocm93Lm9yZGVyVHlwZSA9PSAnUFVSQ0hBU0UnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cyA9ICflvoXlrqHmoLgnOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cyA9ICflvoXku5jmrL4nOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPSAn5b6F5Y+R6LSnJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocm93Lm9yZGVyVHlwZSA9PSAnUFVSQ0hBU0UnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cyA9ICflvoXlrqHmoLgnOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cyA9ICflvoXku5jmrL4nOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gcm93LmJ1eWVyTmFtZSArICc8YnIvPicgKyAocm93LmJ1eWVyUGhvbmUgIT0gbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPyByb3cuYnV5ZXJQaG9uZSA6ICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXJJbmZvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
