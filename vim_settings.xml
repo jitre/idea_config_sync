@@ -12,6 +12,7 @@
         <mark key="^" line="68" column="69" />
         <mark key="." line="68" column="69" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/UserMapper.java" timestamp="1567585061939" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1567578916965">
         <mark key="[" line="248" column="26" />
         <mark key="]" line="248" column="25" />
@@ -28,7 +29,8 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/mallOrder.js" timestamp="1567504882540">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567251452128">
+      <file name="/ServiceAreaServiceImpl.java" timestamp="1567585343025" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567585098704">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
         <mark key="." line="94" column="88" />
@@ -59,7 +61,7 @@
         <mark key="^" line="547" column="62" />
         <mark key="." line="547" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567487784510">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567585344717">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
