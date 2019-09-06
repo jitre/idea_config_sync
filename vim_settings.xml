@@ -15,7 +15,7 @@
         <mark key="^" line="68" column="69" />
         <mark key="." line="68" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567766177131">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567767028937">
         <mark key="'" line="642" column="71" />
         <mark key="[" line="468" column="45" />
         <mark key="]" line="468" column="57" />
@@ -47,6 +47,12 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/BaseController.java" timestamp="1567752371127">
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/category/impl/CategoryServiceImpl.java" timestamp="1567767129940">
+        <mark key="[" line="125" column="55" />
+        <mark key="]" line="125" column="67" />
+        <mark key="^" line="125" column="67" />
+        <mark key="." line="125" column="67" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1567740207261" />
       <file name="/CategoryController.java" timestamp="1567749055174" />
