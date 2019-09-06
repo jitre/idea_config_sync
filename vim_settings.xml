@@ -54,6 +54,7 @@
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/home/HomeControllerApi.java" timestamp="1567769283806" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/category/impl/CategoryServiceImpl.java" timestamp="1567767129940">
         <mark key="[" line="125" column="55" />
         <mark key="]" line="125" column="67" />
@@ -62,7 +63,7 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1567740207261" />
       <file name="/CategoryController.java" timestamp="1567749055174" />
-      <file name="/Dummy.txt" timestamp="1567767943644">
+      <file name="/Dummy.txt" timestamp="1567769313386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
@@ -121,11 +122,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567766086257">
-        <mark key="[" line="83" column="50" />
-        <mark key="]" line="83" column="51" />
-        <mark key="^" line="83" column="51" />
-        <mark key="." line="83" column="51" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567769302359">
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="64" />
+        <mark key="^" line="84" column="64" />
+        <mark key="." line="84" column="64" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567446923525">
         <mark key="[" line="55" column="14" />
@@ -169,14 +170,14 @@
       <jump line="642" column="71" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgbW9kZWxOYW1lID0gZXNjYXBlKGRhdGEuZGF0YS5tb2RlbE5hbWUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcm9vdFVybCArICIvc2NybWFwcC9jb25zdW1lci9wcm9kdWN0L3F1ZXJ5L3BhZ2U/bW9kZWxOYW1lPSIgKyBtb2RlbE5hbWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/product/**</text>
       </register>
       <register name="-" type="4">
-        <text>productComments</text>
+        <text>/product/**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlYkFwcGxpY2F0aW9uQ29udGV4dCB3ZWJBcHBsaWNhdGlvbkNvbnRleHQgPSBDb250ZXh0TG9hZGVyLmdldEN1cnJlbnRXZWJBcHBsaWNhdGlvbkNvbnRleHQoKTsK</text>
+        <text encoding="base64">CQk8c2VjdXJpdHk6aW50ZXJjZXB0LXVybCBwYXR0ZXJuPSIvcHJvZHVjdC8qKiIgYWNjZXNzPSJwZXJtaXRBbGwiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgbW9kZWxOYW1lID0gZXNjYXBlKGRhdGEuZGF0YS5tb2RlbE5hbWUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcm9vdFVybCArICIvc2NybWFwcC9jb25zdW1lci9wcm9kdWN0L3F1ZXJ5L3BhZ2U/bW9kZWxOYW1lPSIgKyBtb2RlbE5hbWU7Cg==</text>
