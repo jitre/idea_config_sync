@@ -72,7 +72,7 @@
         <mark key="^" line="139" column="4" />
         <mark key="." line="139" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallOrder.html" timestamp="1567505081285">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallOrder.html" timestamp="1567763767141">
         <mark key="[" line="201" column="44" />
         <mark key="]" line="201" column="104" />
         <mark key="." line="201" column="104" />
@@ -102,6 +102,7 @@
         <mark key="^" line="547" column="62" />
         <mark key="." line="547" column="62" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/form/ScrmOrderForms.java" timestamp="1567763856056" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1567757734244" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1567675605531">
         <mark key="[" line="234" column="29" />
