@@ -6,18 +6,19 @@
       <file name="/a.dummy" timestamp="1565941735764">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/coupon/impl/PromotionCouponServiceImpl.java" timestamp="1567751656493" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="68" column="69" />
         <mark key="^" line="68" column="69" />
         <mark key="." line="68" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567749181438">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567750603330">
         <mark key="'" line="642" column="71" />
-        <mark key="[" line="730" column="0" />
-        <mark key="]" line="730" column="0" />
-        <mark key="^" line="611" column="30" />
-        <mark key="." line="730" column="0" />
+        <mark key="[" line="606" column="8" />
+        <mark key="]" line="605" column="14" />
+        <mark key="^" line="605" column="14" />
+        <mark key="." line="605" column="14" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1567743230221">
         <mark key="[" line="38" column="0" />
@@ -42,8 +43,17 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1567739701827" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/BaseController.java" timestamp="1567750576707">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="91" column="44" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1567740207261" />
       <file name="/CategoryController.java" timestamp="1567749055174" />
+      <file name="/Dummy.txt" timestamp="1567750762768">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
@@ -62,6 +72,8 @@
         <mark key="." line="201" column="104" />
         <mark key="^" line="201" column="104" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/Comment/CommentController.java" timestamp="1567750881007" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1567751137679" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/GrantEwCardTask.java" timestamp="1567669999341">
         <mark key="[" line="44" column="50" />
         <mark key="]" line="44" column="50" />
@@ -80,11 +92,11 @@
         <mark key="^" line="234" column="32" />
         <mark key="." line="234" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567742300591">
-        <mark key="[" line="81" column="64" />
-        <mark key="]" line="81" column="60" />
-        <mark key="^" line="81" column="60" />
-        <mark key="." line="81" column="60" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567751123710">
+        <mark key="[" line="83" column="50" />
+        <mark key="]" line="83" column="51" />
+        <mark key="^" line="83" column="51" />
+        <mark key="." line="83" column="51" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmCourseWareMapper.xml" timestamp="1567446923525">
         <mark key="[" line="55" column="14" />
@@ -123,41 +135,41 @@
       <jump line="642" column="71" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>productComments</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>productComments</text>
       </register>
-      <register name="0" type="4">
-        <text>String userId</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQk8c2VjdXJpdHk6aW50ZXJjZXB0LXVybCBwYXR0ZXJuPSIvY29tbWVudC9wcm9kdWN0Q29tbWVudHMiIGFjY2Vzcz0icGVybWl0QWxsIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnl7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIOiuvue9rui/m+i0p+exu+Wei+eahOWVhuWTgeivpuaDhemhtQogICAgICAgICAgICAvL2V4LnNldEIyYlByb2R1Y3RVcmwoZ2V0QjJiUHJvZHVjdFNoYXJlVXJsKHJlcSxwcm9kdWN0LmdldENvZGUoKSkpOwoKICAgICAgICAgICAgLy9maXhtZQogICAgICAgICAgICBpZihwcm9kdWN0LmdldENvbW1pc3Npb25SYXRlKCkhPW51bGwpIHsKICAgICAgICAgICAgICAgIGV4LnNldENvbW1pc3Npb24ocHJvZHVjdC5nZXRDb21taXNzaW9uUmF0ZSgpLm11bHRpcGx5KHByb2R1Y3QuZ2V0UHJpY2UoKSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5ZWG5ZOB5Y2W5a6256uv5piv5ZCm5LiK5p62CiAgICAgICAgICAgIFByb2R1Y3REaXN0cmlidXRvciBwcm9kdWN0RGlzdHJpYnV0b3IgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuc2VsZWN0QnlQcm9kdWN0SWRBbmRTaG9wSWQocHJvZHVjdC5nZXRJZCgpLCBzaG9wSWQpOwoKICAgICAgICAgICAgLy/mnInorrDlvZXlubbkuJTnirbmgIHkuLrkuIrmnrYKICAgICAgICAgICAgaWYocHJvZHVjdERpc3RyaWJ1dG9yIT1udWxsICYmIFByb2R1Y3RTdGF0dXMuT05TQUxFLmVxdWFscyhwcm9kdWN0RGlzdHJpYnV0b3IuZ2V0U3RhdHVzKCkpKXsKICAgICAgICAgICAgICAgIGV4LnNldE9uU2FsZUZvclNlbGxlcih0cnVlKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBleC5zZXRPblNhbGVGb3JTZWxsZXIoZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5aSa5bCR5Y2W5a625Zyo5Y2WCiAgICAgICAgICAgIGxvbmcgY291bnQgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuY291bnRQcm9kdWN0c1NlbGxlckJ5UHJvZHVjdElkKHByb2R1Y3QuZ2V0SWQoKSk7CiAgICAgICAgICAgIGV4LnNldENvdW50U2VsbGVyKGNvdW50KTsKCiAgICAgICAgICAgIC8vIOWIpOaWreWVhuWTgeaYr+WQpuWcqGIyYue7j+mUgOWVhuWumuS7t+S4re+8jOWmguaenOaYr+WVhuWTgeS7t+agvOS4uue7j+mUgOWVhuinkuiJsuWumuS7twogICAgICAgICAgICAvLyDliKnmtqbkuLrllYblk4Hljp/ku7flkoznu4/plIDllYbku7fmoLzkuYvlt64KICAgICAgICAgICAgU3RyaW5nIHByb2R1Y3RJZCA9IHByb2R1Y3QuZ2V0SWQoKTsKICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IHRoaXMuZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsKICAgICAgICAgICAgLy/liKTmlq3lvZPliY3nlKjmiLfmmK/lkKblnKjku6PnkIbop5LoibLkuK0KICAgICAgICAgICAgVXNlckFnZW50Vk8gdXNlckFnZW50Vk8gPSB1c2VyQWdlbnRTZXJ2aWNlLnNlbGVjdEJ5VXNlcklkKHVzZXJJZCk7CiAgICAgICAgICAgIGlmKHVzZXJBZ2VudFZPICE9IG51bGwpewogICAgICAgICAgICAgICAgU3RyaW5nIHJvbGUgPSB1c2VyQWdlbnRWTy5nZXRSb2xlKCk7CiAgICAgICAgICAgICAgICBSb2xlUHJpY2VWTyByb2xlUHJpY2VWTyA9IHJvbGVQcmljZVNlcnZpY2Uuc2VsZWN0QnlQcm9kdWN0QW5kUm9sZShwcm9kdWN0SWQsIHJvbGUpOwogICAgICAgICAgICAgICAgaWYocm9sZVByaWNlVk8gIT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCBvcmlQcmljZSA9IGV4LmdldFByaWNlKCk7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCByb2xlUHJpY2UgPSByb2xlUHJpY2VWTy5nZXRQcmljZSgpOwogICAgICAgICAgICAgICAgICAgIGV4LnNldFByaWNlKHJvbGVQcmljZSk7CiAgICAgICAgICAgICAgICAgICAgZXguc2V0Q29tbWlzc2lvbihvcmlQcmljZS5zdWJ0cmFjdChyb2xlUHJpY2UpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9leC5zZXRQcm9kdWN0VXJsKHNpdGVIb3N0ICsgIi9wLyIgKyBleC5nZXRJZCgpICsgIj91bmlvbl9pZD0iICsgZ2V0Q3VycmVudFVzZXIoKS5nZXRJZCgpKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKEJpekV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgdXNlcklkPWFub255bW91c0lkOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IGdldEN1cnJlbnRJVXNlcigpLmdldElkKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjEyMTI3OTogIiArIGVuY29kZSgxMjEyNzkpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthbm9ueW1vdXMuaWR9IikKICAgIHByaXZhdGUgU3RyaW5nIGFub255bW91c0lkOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVzZXIgdXNlciA9IGdldEN1cnJlbnRVc2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIOiuvue9rui/m+i0p+exu+Wei+eahOWVhuWTgeivpuaDhemhtQogICAgICAgICAgICAvL2V4LnNldEIyYlByb2R1Y3RVcmwoZ2V0QjJiUHJvZHVjdFNoYXJlVXJsKHJlcSxwcm9kdWN0LmdldENvZGUoKSkpOwoKICAgICAgICAgICAgLy9maXhtZQogICAgICAgICAgICBpZihwcm9kdWN0LmdldENvbW1pc3Npb25SYXRlKCkhPW51bGwpIHsKICAgICAgICAgICAgICAgIGV4LnNldENvbW1pc3Npb24ocHJvZHVjdC5nZXRDb21taXNzaW9uUmF0ZSgpLm11bHRpcGx5KHByb2R1Y3QuZ2V0UHJpY2UoKSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5ZWG5ZOB5Y2W5a6256uv5piv5ZCm5LiK5p62CiAgICAgICAgICAgIFByb2R1Y3REaXN0cmlidXRvciBwcm9kdWN0RGlzdHJpYnV0b3IgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuc2VsZWN0QnlQcm9kdWN0SWRBbmRTaG9wSWQocHJvZHVjdC5nZXRJZCgpLCBzaG9wSWQpOwoKICAgICAgICAgICAgLy/mnInorrDlvZXlubbkuJTnirbmgIHkuLrkuIrmnrYKICAgICAgICAgICAgaWYocHJvZHVjdERpc3RyaWJ1dG9yIT1udWxsICYmIFByb2R1Y3RTdGF0dXMuT05TQUxFLmVxdWFscyhwcm9kdWN0RGlzdHJpYnV0b3IuZ2V0U3RhdHVzKCkpKXsKICAgICAgICAgICAgICAgIGV4LnNldE9uU2FsZUZvclNlbGxlcih0cnVlKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBleC5zZXRPblNhbGVGb3JTZWxsZXIoZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5aSa5bCR5Y2W5a625Zyo5Y2WCiAgICAgICAgICAgIGxvbmcgY291bnQgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuY291bnRQcm9kdWN0c1NlbGxlckJ5UHJvZHVjdElkKHByb2R1Y3QuZ2V0SWQoKSk7CiAgICAgICAgICAgIGV4LnNldENvdW50U2VsbGVyKGNvdW50KTsKCiAgICAgICAgICAgIC8vIOWIpOaWreWVhuWTgeaYr+WQpuWcqGIyYue7j+mUgOWVhuWumuS7t+S4re+8jOWmguaenOaYr+WVhuWTgeS7t+agvOS4uue7j+mUgOWVhuinkuiJsuWumuS7twogICAgICAgICAgICAvLyDliKnmtqbkuLrllYblk4Hljp/ku7flkoznu4/plIDllYbku7fmoLzkuYvlt64KICAgICAgICAgICAgU3RyaW5nIHByb2R1Y3RJZCA9IHByb2R1Y3QuZ2V0SWQoKTsKICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IHRoaXMuZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsKICAgICAgICAgICAgLy/liKTmlq3lvZPliY3nlKjmiLfmmK/lkKblnKjku6PnkIbop5LoibLkuK0KICAgICAgICAgICAgVXNlckFnZW50Vk8gdXNlckFnZW50Vk8gPSB1c2VyQWdlbnRTZXJ2aWNlLnNlbGVjdEJ5VXNlcklkKHVzZXJJZCk7CiAgICAgICAgICAgIGlmKHVzZXJBZ2VudFZPICE9IG51bGwpewogICAgICAgICAgICAgICAgU3RyaW5nIHJvbGUgPSB1c2VyQWdlbnRWTy5nZXRSb2xlKCk7CiAgICAgICAgICAgICAgICBSb2xlUHJpY2VWTyByb2xlUHJpY2VWTyA9IHJvbGVQcmljZVNlcnZpY2Uuc2VsZWN0QnlQcm9kdWN0QW5kUm9sZShwcm9kdWN0SWQsIHJvbGUpOwogICAgICAgICAgICAgICAgaWYocm9sZVByaWNlVk8gIT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCBvcmlQcmljZSA9IGV4LmdldFByaWNlKCk7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCByb2xlUHJpY2UgPSByb2xlUHJpY2VWTy5nZXRQcmljZSgpOwogICAgICAgICAgICAgICAgICAgIGV4LnNldFByaWNlKHJvbGVQcmljZSk7CiAgICAgICAgICAgICAgICAgICAgZXguc2V0Q29tbWlzc2lvbihvcmlQcmljZS5zdWJ0cmFjdChyb2xlUHJpY2UpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9leC5zZXRQcm9kdWN0VXJsKHNpdGVIb3N0ICsgIi9wLyIgKyBleC5nZXRJZCgpICsgIj91bmlvbl9pZD0iICsgZ2V0Q3VycmVudFVzZXIoKS5nZXRJZCgpKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb290U2hvcElkID0gc2hvcFRyZWVTZXJ2aWNlLnNlbGVjdFJvb3RTaG9wQnlTaG9wSWQoc2hvcElkKS5nZXRSb290U2hvcElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IGdldEN1cnJlbnRJVXNlcigpLmdldElkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
