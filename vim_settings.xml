@@ -51,20 +51,12 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1567739701827" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/BaseController.java" timestamp="1567752371127">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="92" column="5" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="91" column="44" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1567740207261" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/common/BaseServiceImpl.java" timestamp="1567752514561">
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="57" column="26" />
-        <mark key="." line="57" column="26" />
-        <mark key="^" line="57" column="26" />
-      </file>
       <file name="/CategoryController.java" timestamp="1567749055174" />
-      <file name="/Dummy.txt" timestamp="1567757323593">
+      <file name="/Dummy.txt" timestamp="1567762317102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
