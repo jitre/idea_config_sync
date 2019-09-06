@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1565941735764">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/coupon/impl/PromotionCouponServiceImpl.java" timestamp="1567752520267">
         <mark key="[" line="267" column="35" />
         <mark key="]" line="267" column="33" />
@@ -18,12 +15,12 @@
         <mark key="^" line="68" column="69" />
         <mark key="." line="68" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567750603330">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1567766177131">
         <mark key="'" line="642" column="71" />
-        <mark key="[" line="606" column="8" />
-        <mark key="]" line="605" column="14" />
-        <mark key="^" line="605" column="14" />
-        <mark key="." line="605" column="14" />
+        <mark key="[" line="468" column="45" />
+        <mark key="]" line="468" column="57" />
+        <mark key="^" line="468" column="57" />
+        <mark key="." line="468" column="57" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1567743230221">
         <mark key="[" line="38" column="0" />
@@ -46,9 +43,6 @@
         <mark key="." line="1329" column="73" />
       </file>
       <file name="/noQrCodeBindPdt.js" timestamp="1567757274805" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/mallOrder.js" timestamp="1567504882540">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1567739701827" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/BaseController.java" timestamp="1567752371127">
         <mark key="]" line="10" column="5" />
@@ -56,9 +50,6 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ShopTreeMapper.xml" timestamp="1567740207261" />
       <file name="/CategoryController.java" timestamp="1567749055174" />
-      <file name="/Dummy.txt" timestamp="1567762317102">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
@@ -115,7 +106,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567751123710">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567766086257">
         <mark key="[" line="83" column="50" />
         <mark key="]" line="83" column="51" />
         <mark key="^" line="83" column="51" />
