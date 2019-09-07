@@ -147,7 +147,7 @@
         <mark key="." line="662" column="29" />
         <mark key="^" line="662" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1567840500898">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1567858475589">
         <mark key="[" line="323" column="6" />
         <mark key="]" line="323" column="8" />
         <mark key="^" line="323" column="8" />
@@ -209,7 +209,7 @@
         <text encoding="base64">CiAgICAgICAgICAgIC8vIOiuvue9rui/m+i0p+exu+Wei+eahOWVhuWTgeivpuaDhemhtQogICAgICAgICAgICAvL2V4LnNldEIyYlByb2R1Y3RVcmwoZ2V0QjJiUHJvZHVjdFNoYXJlVXJsKHJlcSxwcm9kdWN0LmdldENvZGUoKSkpOwoKICAgICAgICAgICAgLy9maXhtZQogICAgICAgICAgICBpZihwcm9kdWN0LmdldENvbW1pc3Npb25SYXRlKCkhPW51bGwpIHsKICAgICAgICAgICAgICAgIGV4LnNldENvbW1pc3Npb24ocHJvZHVjdC5nZXRDb21taXNzaW9uUmF0ZSgpLm11bHRpcGx5KHByb2R1Y3QuZ2V0UHJpY2UoKSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5ZWG5ZOB5Y2W5a6256uv5piv5ZCm5LiK5p62CiAgICAgICAgICAgIFByb2R1Y3REaXN0cmlidXRvciBwcm9kdWN0RGlzdHJpYnV0b3IgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuc2VsZWN0QnlQcm9kdWN0SWRBbmRTaG9wSWQocHJvZHVjdC5nZXRJZCgpLCBzaG9wSWQpOwoKICAgICAgICAgICAgLy/mnInorrDlvZXlubbkuJTnirbmgIHkuLrkuIrmnrYKICAgICAgICAgICAgaWYocHJvZHVjdERpc3RyaWJ1dG9yIT1udWxsICYmIFByb2R1Y3RTdGF0dXMuT05TQUxFLmVxdWFscyhwcm9kdWN0RGlzdHJpYnV0b3IuZ2V0U3RhdHVzKCkpKXsKICAgICAgICAgICAgICAgIGV4LnNldE9uU2FsZUZvclNlbGxlcih0cnVlKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBleC5zZXRPblNhbGVGb3JTZWxsZXIoZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v5aSa5bCR5Y2W5a625Zyo5Y2WCiAgICAgICAgICAgIGxvbmcgY291bnQgPSBwcm9kdWN0RGlzdHJpYnV0b3JNYXBwZXIuY291bnRQcm9kdWN0c1NlbGxlckJ5UHJvZHVjdElkKHByb2R1Y3QuZ2V0SWQoKSk7CiAgICAgICAgICAgIGV4LnNldENvdW50U2VsbGVyKGNvdW50KTsKCiAgICAgICAgICAgIC8vIOWIpOaWreWVhuWTgeaYr+WQpuWcqGIyYue7j+mUgOWVhuWumuS7t+S4re+8jOWmguaenOaYr+WVhuWTgeS7t+agvOS4uue7j+mUgOWVhuinkuiJsuWumuS7twogICAgICAgICAgICAvLyDliKnmtqbkuLrllYblk4Hljp/ku7flkoznu4/plIDllYbku7fmoLzkuYvlt64KICAgICAgICAgICAgU3RyaW5nIHByb2R1Y3RJZCA9IHByb2R1Y3QuZ2V0SWQoKTsKICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IHRoaXMuZ2V0Q3VycmVudElVc2VyKCkuZ2V0SWQoKTsKICAgICAgICAgICAgLy/liKTmlq3lvZPliY3nlKjmiLfmmK/lkKblnKjku6PnkIbop5LoibLkuK0KICAgICAgICAgICAgVXNlckFnZW50Vk8gdXNlckFnZW50Vk8gPSB1c2VyQWdlbnRTZXJ2aWNlLnNlbGVjdEJ5VXNlcklkKHVzZXJJZCk7CiAgICAgICAgICAgIGlmKHVzZXJBZ2VudFZPICE9IG51bGwpewogICAgICAgICAgICAgICAgU3RyaW5nIHJvbGUgPSB1c2VyQWdlbnRWTy5nZXRSb2xlKCk7CiAgICAgICAgICAgICAgICBSb2xlUHJpY2VWTyByb2xlUHJpY2VWTyA9IHJvbGVQcmljZVNlcnZpY2Uuc2VsZWN0QnlQcm9kdWN0QW5kUm9sZShwcm9kdWN0SWQsIHJvbGUpOwogICAgICAgICAgICAgICAgaWYocm9sZVByaWNlVk8gIT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCBvcmlQcmljZSA9IGV4LmdldFByaWNlKCk7CiAgICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbCByb2xlUHJpY2UgPSByb2xlUHJpY2VWTy5nZXRQcmljZSgpOwogICAgICAgICAgICAgICAgICAgIGV4LnNldFByaWNlKHJvbGVQcmljZSk7CiAgICAgICAgICAgICAgICAgICAgZXguc2V0Q29tbWlzc2lvbihvcmlQcmljZS5zdWJ0cmFjdChyb2xlUHJpY2UpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9leC5zZXRQcm9kdWN0VXJsKHNpdGVIb3N0ICsgIi9wLyIgKyBleC5nZXRJZCgpICsgIj91bmlvbl9pZD0iICsgZ2V0Q3VycmVudFVzZXIoKS5nZXRJZCgpKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>402</text>
       </register>
     </registers>
     <search>
@@ -221,6 +221,7 @@
       <history-cmd>
         <entry>158</entry>
         <entry>wq</entry>
+        <entry>402</entry>
       </history-cmd>
       <history-expr />
       <history-input />
