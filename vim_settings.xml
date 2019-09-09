@@ -31,6 +31,7 @@
         <mark key="^" line="468" column="57" />
         <mark key="." line="468" column="57" />
       </file>
+      <file name="/update.sql" timestamp="1568031923924" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1567743230221">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -65,6 +66,7 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1568032195614" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/servlet/OpenWeChatServlet.java" timestamp="1568009662103">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
