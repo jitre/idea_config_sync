@@ -40,6 +40,13 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568083863949">
+        <mark key="'" line="248" column="25" />
+        <mark key="[" line="259" column="7" />
+        <mark key="]" line="259" column="4" />
+        <mark key="^" line="259" column="4" />
+        <mark key="." line="259" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1567503257092">
         <mark key="[" line="1329" column="73" />
         <mark key="]" line="1329" column="73" />
@@ -73,7 +80,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568081245837">
+      <file name="/Dummy.txt" timestamp="1568084349325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
@@ -115,11 +122,11 @@
         <mark key="^" line="44" column="50" />
         <mark key="." line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1567577606609">
-        <mark key="[" line="547" column="40" />
-        <mark key="]" line="547" column="62" />
-        <mark key="^" line="547" column="62" />
-        <mark key="." line="547" column="62" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568084336413">
+        <mark key="[" line="367" column="39" />
+        <mark key="]" line="367" column="36" />
+        <mark key="^" line="367" column="36" />
+        <mark key="." line="367" column="36" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1567935639144">
         <mark key="[" line="97" column="0" />
