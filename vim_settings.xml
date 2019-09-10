@@ -33,6 +33,7 @@
         <mark key="." line="468" column="57" />
       </file>
       <file name="/update.sql" timestamp="1568031923924" />
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1568081156043" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1568079817368">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -60,6 +61,7 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/redis.properties" timestamp="1568081179453" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1568034276434">
         <mark key="[" line="2960" column="0" />
         <mark key="]" line="2960" column="0" />
@@ -71,7 +73,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568034976031">
+      <file name="/Dummy.txt" timestamp="1568081245837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
@@ -98,6 +100,9 @@
         <mark key="]" line="288" column="48" />
         <mark key="^" line="288" column="48" />
         <mark key="." line="288" column="48" />
+      </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/jdbc.properties" timestamp="1568081191533">
+        <mark key="[" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/bindProduct/noQrCodeBindPdt.js" timestamp="1567757318727">
         <mark key="[" line="306" column="0" />
