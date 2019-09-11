@@ -26,13 +26,6 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1568032591525">
-        <mark key="'" line="642" column="71" />
-        <mark key="[" line="468" column="45" />
-        <mark key="]" line="468" column="57" />
-        <mark key="^" line="468" column="57" />
-        <mark key="." line="468" column="57" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="68" column="69" />
@@ -51,7 +44,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568083863949">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568195080624">
         <mark key="'" line="248" column="25" />
         <mark key="[" line="259" column="7" />
         <mark key="]" line="259" column="4" />
