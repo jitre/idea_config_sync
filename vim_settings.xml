@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/vo/WechatFansVo.java" timestamp="1568271531426" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/tenactivity/impl/UserLotteryServiceImpl.java" timestamp="1568104032781">
         <mark key="[" line="22" column="6" />
         <mark key="]" line="22" column="3" />
@@ -75,12 +76,7 @@
         <mark key="]" line="274" column="0" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1568268776356" />
-      <file name="/Dummy.txt" timestamp="1568180908917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1568273700986" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1567670710275">
         <mark key="[" line="94" column="88" />
         <mark key="]" line="94" column="88" />
@@ -112,7 +108,12 @@
         <mark key="." line="44" column="50" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568255664605" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1568268685402" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1568272709024">
+        <mark key="[" line="114" column="52" />
+        <mark key="]" line="114" column="52" />
+        <mark key="^" line="114" column="52" />
+        <mark key="." line="114" column="52" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568019786341">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="2" column="16" />
@@ -142,6 +143,9 @@
         <mark key="]" line="68" column="7" />
         <mark key="." line="68" column="7" />
         <mark key="^" line="68" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1568270725748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/_resources/js/page/mall/order.js" timestamp="1567505692936">
         <mark key="[" line="662" column="30" />
@@ -174,11 +178,11 @@
       <jump line="642" column="71" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IShTdHJpbmdVdGlscy5pc05vdEJsYW5rKHJlZ2lzdGVyU3JjKSAmJiByZWdpc3RlclNyYy5lcXVhbHMoIjMiKSk=</text>
       </register>
       <register name="-" type="4">
-        <text>userLotteryMapper.insert(userLottery)</text>
+        <text encoding="base64">IShTdHJpbmdVdGlscy5pc05vdEJsYW5rKHJlZ2lzdGVyU3JjKSAmJiByZWdpc3RlclNyYy5lcXVhbHMoIjMiKSk=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgUmVzcG9uc2VPYmplY3Q8PihyZXN1bHQgPiAwKTsK</text>
