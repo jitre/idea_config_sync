@@ -45,9 +45,9 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568598531569">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568608009137">
         <mark key="'" line="47" column="19" />
-        <mark key="[" line="248" column="26" />
+        <mark key="[" line="263" column="7" />
         <mark key="]" line="248" column="25" />
         <mark key="^" line="248" column="25" />
         <mark key="." line="248" column="25" />
@@ -88,7 +88,7 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="185" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568598543831">
+      <file name="/Dummy.txt" timestamp="1568607916780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/WeChatConstants.java" timestamp="1568282553447">
@@ -132,6 +132,12 @@
         <mark key="]" line="68" column="44" />
         <mark key="^" line="68" column="44" />
         <mark key="." line="68" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568607907843">
+        <mark key="[" line="566" column="40" />
+        <mark key="]" line="566" column="39" />
+        <mark key="^" line="566" column="39" />
+        <mark key="." line="566" column="39" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1568281439916">
         <mark key="[" line="126" column="50" />
