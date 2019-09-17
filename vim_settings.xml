@@ -28,6 +28,12 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1568689660668">
+        <mark key="[" line="264" column="9" />
+        <mark key="]" line="264" column="9" />
+        <mark key="^" line="264" column="9" />
+        <mark key="." line="264" column="9" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="68" column="69" />
@@ -46,11 +52,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568649321368">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568689647883">
         <mark key="'" line="47" column="19" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="8" />
+        <mark key="." line="264" column="3" />
+        <mark key="^" line="264" column="3" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1567503257092">
         <mark key="[" line="1329" column="73" />
@@ -88,7 +95,7 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="185" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568607916780">
+      <file name="/Dummy.txt" timestamp="1568690189454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/WeChatConstants.java" timestamp="1568282553447">
@@ -128,7 +135,13 @@
         <mark key="^" line="288" column="48" />
         <mark key="." line="288" column="48" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568649900914" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568690167896">
+        <mark key="'" line="93" column="30" />
+        <mark key="[" line="558" column="18" />
+        <mark key="]" line="558" column="23" />
+        <mark key="." line="558" column="23" />
+        <mark key="^" line="558" column="23" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1568281439916">
         <mark key="[" line="126" column="50" />
         <mark key="]" line="127" column="21" />
@@ -165,6 +178,7 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="53" column="23" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/docker/Dockerfile" timestamp="1568689568818" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MgmActivityMapper.java" timestamp="1567251457593">
         <mark key="[" line="68" column="4" />
         <mark key="]" line="68" column="7" />
@@ -206,28 +220,29 @@
       <jump line="642" column="71" filename="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" />
       <jump line="47" column="19" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
       <jump line="294" column="59" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" />
+      <jump line="93" column="30" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dj0yLjAK</text>
+      <register name="&quot;" type="4">
+        <text>append</text>
       </register>
       <register name="-" type="4">
-        <text>access_token</text>
+        <text>append</text>
       </register>
-      <register name="0" type="4">
-        <text>UserInfo userInfo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZ3NiLmFwcGVuZCgi5oKo5aW977yM6Z2e5bi45oqx5q2J57uZ5oKo5bim5p2l5LiN5L6/77yM55uu5YmN5bm26Z2e5a6i5pyN55qE5bel5L2c5pe26Ze077yM5bel5L2c5pe26Ze05Li677yaODowMEFNLTIwOjAwUE0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dj0yLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCWZhbnMuc2V0Q2hhbm5lbElkKCI3NzciKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dj0yLjAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlVc2VySW5mbyB1c2VySW5mbyA9IHdlaVhpblNlcnZpY2UuZ2V0VXNlckluZm8oYWNjZXNzX3Rva2VuLCBvcGVuSWQpOwo=</text>
+        <text encoding="base64">CQkJCQkJCWZhbnMuc2V0Q2hhbm5lbElkKCI3NzciKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -239,10 +254,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVVzZXJJbmZvIHVzZXJJbmZvID0gd2VpWGluU2VydmljZS5nZXRVc2VySW5mbyhhY2Nlc3NfdG9rZW4sIG9wZW5JZCk7Cg==</text>
+        <text encoding="base64">CQkJCQlVc2VySW5mbyB1c2VySW5mbyA9IHdlaVhpblNlcnZpY2UuZ2V0VXNlckluZm8oYWNjZXNzX3Rva2VuLCBvcGVuSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
