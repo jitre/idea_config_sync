@@ -52,12 +52,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568689647883">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568695597896">
         <mark key="'" line="47" column="19" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="8" />
-        <mark key="." line="264" column="3" />
-        <mark key="^" line="264" column="3" />
+        <mark key="[" line="264" column="9" />
+        <mark key="]" line="248" column="25" />
+        <mark key="." line="248" column="25" />
+        <mark key="^" line="248" column="25" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1567503257092">
         <mark key="[" line="1329" column="73" />
@@ -77,6 +77,12 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1568694845816">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1568034276434">
         <mark key="[" line="2960" column="0" />
         <mark key="]" line="2960" column="0" />
@@ -95,7 +101,7 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="185" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568690189454">
+      <file name="/Dummy.txt" timestamp="1568695571273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/WeChatConstants.java" timestamp="1568282553447">
@@ -223,41 +229,41 @@
       <jump line="93" column="30" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>append</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNkIC4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>append</text>
+        <text>2.1-production</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZ3NiLmFwcGVuZCgi5oKo5aW977yM6Z2e5bi45oqx5q2J57uZ5oKo5bim5p2l5LiN5L6/77yM55uu5YmN5bm26Z2e5a6i5pyN55qE5bel5L2c5pe26Ze077yM5bel5L2c5pe26Ze05Li677yaODowMEFNLTIwOjAwUE0iKTsK</text>
+        <text encoding="base64">ICAgIGNkIC4uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGNkIC4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY2tlciBidWlsZCAtdD0iNDcuOTYuMTEwLjIzOjgwODEvc2NybS9hcHA6JFRBRy0kRU5WIiAuCiAgICBlY2hvICI9PT09PT09PT09PT09PT09PT09PuaOqOmAgemVnOWDjyIKICAgIGRvY2tlciBwdXNoICI0Ny45Ni4xMTAuMjM6ODA4MS9zY3JtL2FwcDokVEFHLSRFTlYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dj0yLjAK</text>
+        <text encoding="base64">ICAgIGFwcGVuZAogICAgZG9ja2VyIGxvZ2luIDQ3Ljk2LjExMC4yMzo4MDgxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCWZhbnMuc2V0Q2hhbm5lbElkKCI3NzciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlVc2VySW5mbyB1c2VySW5mbyA9IHdlaVhpblNlcnZpY2UuZ2V0VXNlckluZm8oYWNjZXNzX3Rva2VuLCBvcGVuSWQpOwo=</text>
+        <text encoding="base64">dj0yLjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCWZhbnMuc2V0Q2hhbm5lbElkKCI3NzciKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlVc2VySW5mbyB1c2VySW5mbyA9IHdlaVhpblNlcnZpY2UuZ2V0VXNlckluZm8oYWNjZXNzX3Rva2VuLCBvcGVuSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlVc2VySW5mbyB1c2VySW5mbyA9IHdlaVhpblNlcnZpY2UuZ2V0VXNlckluZm8oYWNjZXNzX3Rva2VuLCBvcGVuSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
