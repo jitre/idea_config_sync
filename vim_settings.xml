@@ -33,6 +33,7 @@
         <mark key="^" line="264" column="9" />
         <mark key="." line="264" column="9" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/WechatOrdersMapper.xml" timestamp="1568896505694" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="68" column="69" />
@@ -51,6 +52,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1568896236352" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568700721431">
         <mark key="'" line="47" column="19" />
         <mark key="[" line="248" column="11" />
@@ -64,6 +66,7 @@
         <mark key="^" line="1329" column="73" />
         <mark key="." line="1329" column="73" />
       </file>
+      <file name="/ServiceAreaServiceImpl.java" timestamp="1568895497910" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/BaseController.java" timestamp="1568018203164">
         <mark key="[" line="86" column="39" />
         <mark key="]" line="86" column="37" />
@@ -146,6 +149,7 @@
         <mark key="^" line="127" column="21" />
         <mark key="." line="127" column="21" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1568896295106" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568278849830">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="2" column="16" />
@@ -158,7 +162,7 @@
         <mark key="." line="108" column="69" />
         <mark key="^" line="108" column="69" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1568890005693">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1568895553185">
         <mark key="[" line="234" column="29" />
         <mark key="]" line="234" column="32" />
         <mark key="^" line="234" column="32" />
@@ -256,7 +260,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>245</text>
+        <text>468</text>
       </register>
     </registers>
     <search>
@@ -271,6 +275,7 @@
         <entry>402</entry>
         <entry>471</entry>
         <entry>245</entry>
+        <entry>468</entry>
       </history-cmd>
       <history-expr />
       <history-input />
