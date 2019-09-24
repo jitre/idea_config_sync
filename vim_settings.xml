@@ -212,7 +212,12 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/docker/Dockerfile" timestamp="1569306153832" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/docker/Dockerfile" timestamp="1569307313398">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MgmActivityMapper.java" timestamp="1567251457593">
         <mark key="[" line="68" column="4" />
         <mark key="]" line="68" column="7" />
