@@ -63,12 +63,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1568700721431">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="248" column="11" />
-        <mark key="]" line="248" column="25" />
-        <mark key="." line="248" column="25" />
-        <mark key="^" line="248" column="25" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1569304820817">
+        <mark key="'" line="179" column="4" />
+        <mark key="[" line="264" column="11" />
+        <mark key="]" line="264" column="10" />
+        <mark key="." line="264" column="10" />
+        <mark key="^" line="264" column="10" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1568805165004">
         <mark key="[" line="1329" column="73" />
@@ -176,11 +176,11 @@
       <file name="/Class.txt.ft" timestamp="1569055519184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1568281439916">
-        <mark key="[" line="126" column="50" />
-        <mark key="]" line="127" column="21" />
-        <mark key="^" line="127" column="21" />
-        <mark key="." line="127" column="21" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1569305124665">
+        <mark key="[" line="106" column="112" />
+        <mark key="]" line="106" column="111" />
+        <mark key="^" line="106" column="111" />
+        <mark key="." line="106" column="111" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568278849830">
         <mark key="[" line="3" column="22" />
@@ -253,16 +253,17 @@
       <jump line="47" column="19" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
       <jump line="294" column="59" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatUserController.java" />
       <jump line="93" column="30" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" />
+      <jump line="179" column="4" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Nutstore Files/开发规范</text>
+        <text>registerSrc.equals(&quot;3&quot;)</text>
       </register>
       <register name="-" type="4">
         <text>$USER_HOME$/Nutstore Files/开发规范</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui3s+i/h+aWh+acrOaWh+S7tjoiK2l0ZW0udG9TdHJpbmcoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>registerSrc.equals(&quot;3&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGVVdGlscy5tb3YK</text>
