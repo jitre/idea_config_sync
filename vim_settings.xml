@@ -179,12 +179,13 @@
       <file name="/Class.txt.ft" timestamp="1569055519184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1569305124665">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/interceptor/CheckUserInterceptor.java" timestamp="1569491121434">
         <mark key="[" line="106" column="112" />
         <mark key="]" line="106" column="111" />
         <mark key="^" line="106" column="111" />
         <mark key="." line="106" column="111" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1569490690458" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568278849830">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="2" column="16" />
