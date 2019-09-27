@@ -33,7 +33,6 @@
         <mark key="^" line="264" column="9" />
         <mark key="." line="264" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/WechatOrdersMapper.xml" timestamp="1569483784236" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/shop/OrderExportSpec.java" timestamp="1567514387565">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="68" column="69" />
@@ -58,13 +57,13 @@
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1569567472724" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1568079817368">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatOrdersServiceImpl.java" timestamp="1569484034231" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1569304820817">
         <mark key="'" line="179" column="4" />
         <mark key="[" line="264" column="11" />
@@ -78,7 +77,6 @@
         <mark key="^" line="1329" column="73" />
         <mark key="." line="1329" column="73" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1569484094381" />
       <file name="$USER_HOME$/Project/markdown/src/main/java/RenameMD.java" timestamp="1569135856651">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="75" />
@@ -97,7 +95,7 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1568694845816">
+      <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1569567638082">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="23" />
@@ -163,6 +161,7 @@
         <mark key="^" line="288" column="48" />
         <mark key="." line="288" column="48" />
       </file>
+      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" timestamp="1569567478717" />
       <file name="$USER_HOME$/Project/markdown/build.gradle" timestamp="1569059981294">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="12" column="17" />
@@ -185,7 +184,6 @@
         <mark key="^" line="106" column="111" />
         <mark key="." line="106" column="111" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1569490690458" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568278849830">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="2" column="16" />
