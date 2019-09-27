@@ -64,12 +64,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1569304820817">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1569568699528">
         <mark key="'" line="179" column="4" />
-        <mark key="[" line="264" column="11" />
-        <mark key="]" line="264" column="10" />
-        <mark key="." line="264" column="10" />
-        <mark key="^" line="264" column="10" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1568805165004">
         <mark key="[" line="1329" column="73" />
@@ -95,7 +91,7 @@
         <mark key="^" line="125" column="67" />
         <mark key="." line="125" column="67" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1569567638082">
+      <file name="$USER_HOME$/Project/scrmapp/buildImageProductionEnv.sh" timestamp="1569568364486">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="23" />
@@ -116,7 +112,7 @@
       <file name="/HTML File.txt.ft" timestamp="1569055516993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569306208574">
+      <file name="/Dummy.txt" timestamp="1569569215932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/WeChatConstants.java" timestamp="1568282553447">
@@ -167,13 +163,6 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1568861875399">
-        <mark key="'" line="93" column="30" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="." line="361" column="0" />
-        <mark key="^" line="553" column="23" />
       </file>
       <file name="/Class.txt.ft" timestamp="1569055519184">
         <mark key="[" line="0" column="0" />
