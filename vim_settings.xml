@@ -57,7 +57,6 @@
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/production/application.properties" timestamp="1569567472724" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mybatis/IdTypeHandler.java" timestamp="1568079817368">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -157,7 +156,6 @@
         <mark key="^" line="288" column="48" />
         <mark key="." line="288" column="48" />
       </file>
-      <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-web/src/main/resources/development/application.properties" timestamp="1569567478717" />
       <file name="$USER_HOME$/Project/markdown/build.gradle" timestamp="1569059981294">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="12" column="17" />
@@ -184,12 +182,6 @@
         <mark key="]" line="108" column="69" />
         <mark key="." line="108" column="69" />
         <mark key="^" line="108" column="69" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1569295121159">
-        <mark key="[" line="234" column="29" />
-        <mark key="]" line="234" column="32" />
-        <mark key="^" line="234" column="32" />
-        <mark key="." line="234" column="32" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/META-INF/spring-security-context.xml" timestamp="1567851065646">
         <mark key="[" line="91" column="41" />
