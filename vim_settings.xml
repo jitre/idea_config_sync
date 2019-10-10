@@ -118,7 +118,7 @@
         <mark key="^" line="288" column="48" />
         <mark key="." line="288" column="48" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1570679563444">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1570681397589">
         <mark key="[" line="582" column="35" />
         <mark key="]" line="582" column="35" />
         <mark key="." line="582" column="35" />
@@ -296,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http%3A%2F%2Fwx.qinyuan.cn%2Fwx%2FcheckUserRegister%3FH5Url%3Dhttps%3A%2F%2Fs.wcd.im%2Fv%2F58j7kZsr%2F%3Fslv%3D1%26sid%3D8lbf%26v%3DoosnVwmV0N2GxRcqi-ToAqSzWQrg%26from%3Dgroupmessage</text>
+        <text encoding="base64">aHR0cHM6Ly9vcGVuLndlaXhpbi5xcS5jb20vY29ubmVjdC9vYXV0aDIvYXV0aG9yaXplP2FwcGlkPXd4NjZjOTdkMTc3OGVhOWJkMyZyZWRpcmVjdF91cmk9aHR0cCUzQSUyRiUyRnd4LnFpbnl1YW4uY24lMkZ3eCUyRmNoZWNrVXNlclJlZ2lzdGVyJTNGSDVVcmwlM0RodHRwcyUzQSUyRiUyRnMud2NkLmltJTJGdiUyRjU4ajdrWnNyJTJGJTNGc2x2JTNEMSUyNnNpZCUzRDhsYmYlMjZ2JTNEb29zblZ3bVYwTjJHeFJjcWktVG9BcVN6V1FyZyUyNmZyb20lM0Rncm91cG1lc3NhZ2UmcmVzcG9uc2VfdHlwZT1jb2RlJnNjb3BlPXNuc2FwaV91c2VyaW5mbyZzdGF0ZT1TVEFURSN3ZWNoYXRfcmVkaXJlY3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>http%3A%2F%2Fwx.qinyuan.cn%2Fwx%2FcheckUserRegister%3FH5Url%3Dhttps%3A%2F%2Fs.wcd.im%2Fv%2F58j7kZsr%2F%3Fslv%3D1%26sid%3D8lbf%26v%3DoosnVwmV0N2GxRcqi-ToAqSzWQrg%26from%3Dgroupmessage</text>
+        <text encoding="base64">aHR0cHM6Ly9vcGVuLndlaXhpbi5xcS5jb20vY29ubmVjdC9vYXV0aDIvYXV0aG9yaXplP2FwcGlkPXd4NjZjOTdkMTc3OGVhOWJkMyZyZWRpcmVjdF91cmk9aHR0cCUzQSUyRiUyRnd4LnFpbnl1YW4uY24lMkZ3eCUyRmNoZWNrVXNlclJlZ2lzdGVyJTNGSDVVcmwlM0RodHRwcyUzQSUyRiUyRnMud2NkLmltJTJGdiUyRjU4ajdrWnNyJTJGJTNGc2x2JTNEMSUyNnNpZCUzRDhsYmYlMjZ2JTNEb29zblZ3bVYwTjJHeFJjcWktVG9BcVN6V1FyZyUyNmZyb20lM0Rncm91cG1lc3NhZ2UmcmVzcG9uc2VfdHlwZT1jb2RlJnNjb3BlPXNuc2FwaV91c2VyaW5mbyZzdGF0ZT1TVEFURSN3ZWNoYXRfcmVkaXJlY3Q=</text>
       </register>
       <register name="0" type="4">
         <text>wechatAESService</text>
