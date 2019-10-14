@@ -27,12 +27,6 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1569758758325">
-        <mark key="[" line="1630" column="68" />
-        <mark key="]" line="1630" column="71" />
-        <mark key="." line="1630" column="71" />
-        <mark key="^" line="1630" column="71" />
-      </file>
       <file name="$USER_HOME$/Project/markdown/src/main/java/MoveMD.java" timestamp="1569136023504">
         <mark key="[" line="22" column="78" />
         <mark key="]" line="22" column="83" />
@@ -136,6 +130,7 @@
         <mark key="^" line="106" column="111" />
         <mark key="." line="106" column="111" />
       </file>
+      <file name="/OrderController.java" timestamp="1571046122897" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/jdbc.properties" timestamp="1568278849830">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="2" column="16" />
@@ -197,6 +192,7 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1571046938091" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/OrderMapper.xml" timestamp="1569744607346">
         <mark key="[" line="2872" column="50" />
         <mark key="]" line="2872" column="67" />
@@ -229,6 +225,9 @@
         <mark key="]" line="25" column="7" />
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1571046836181">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1568889731357">
         <mark key="[" line="94" column="88" />
