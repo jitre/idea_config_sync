@@ -22,6 +22,7 @@
         <mark key="^" line="267" column="33" />
         <mark key="." line="267" column="33" />
       </file>
+      <file name="/ProductMapper.xml" timestamp="1571048991484" />
       <file name="$USER_HOME$/Project/markdown/src/RenameMD.java" timestamp="1569055897517">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="4" column="15" />
@@ -40,9 +41,9 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1571047411541">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1571049102068">
         <mark key="'" line="223" column="21" />
-        <mark key="[" line="267" column="11" />
+        <mark key="[" line="275" column="9" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="264" column="8" />
@@ -231,7 +232,7 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571046836181">
+      <file name="/Dummy.txt" timestamp="1571049106788">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1568889731357">
@@ -262,7 +263,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SecondMessageTask.java" timestamp="1571047797299" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SecondMessageTask.java" timestamp="1571049063987" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1569758660293">
         <mark key="[" line="226" column="105" />
         <mark key="]" line="226" column="114" />
