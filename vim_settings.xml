@@ -4,18 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/serviceAccount-scrmapp-pc/scrmapppc-service/src/main/java/com/ziwow/scrmapppc/controller/custmanage/customerservice/WechatCustomerMsgController.java" timestamp="1571284342520" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/GrantEwCardRecordMapper.java" timestamp="1571047856597">
-        <mark key="[" line="101" column="90" />
-        <mark key="]" line="101" column="97" />
-        <mark key="^" line="101" column="97" />
-        <mark key="." line="101" column="97" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1571047406345">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="205" column="99" />
-        <mark key="^" line="264" column="9" />
-        <mark key="." line="204" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmProductController.java" timestamp="1571301057265" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/service-common/src/main/java/com/xquark/service/error/GlobalErrorCode.java" timestamp="1571299748796" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1571049102068">
         <mark key="'" line="223" column="21" />
         <mark key="[" line="275" column="9" />
@@ -23,15 +13,20 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="264" column="8" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1571299117613" />
       <file name="/HTML File.txt.ft" timestamp="1569055516993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1571049106788">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/bos/src/main/java/com/xquark/bos/BaseController.java" timestamp="1571299775515" />
       <file name="$USER_HOME$/Project/gitlib/mall-platform-hds/frontend/pc/src/main/java/com/xquark/web/templeateController/TemplateController.java" timestamp="1571281033762" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/WechatSupport.java" timestamp="1571295686343" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/error/CustomErrorController.java" timestamp="1571300779589" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/vo/callCenter/CallCenterMessage.java" timestamp="1571296207178" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/crm/CrmUserProductController.java" timestamp="1571301028717" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/filter/SignFilter.java" timestamp="1571300313213" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1571284418542">
         <mark key="[" line="582" column="35" />
         <mark key="]" line="582" column="35" />
@@ -42,6 +37,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1571295961565" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/java/com/xquark/web/BaseController.java" timestamp="1571299182978" />
       <file name="/fragment.java" timestamp="1570701129401">
         <mark key="[" line="0" column="0" />
       </file>
