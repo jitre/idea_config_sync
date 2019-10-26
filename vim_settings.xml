@@ -4,10 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/bindProduct/jsp/bindSuccess.jsp" timestamp="1572075077325" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1572080005705" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1572080656392" />
       <file name="/Dummy.txt" timestamp="1571908914657">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/SCrmConfig.java" timestamp="1572080762519" />
       <file name="/a.dummy" timestamp="1571728900757">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +40,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/task/InjectPointTaskService.java" timestamp="1572075074746" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/scrm/SCrmControllerApi.java" timestamp="1572080834309" />
       <file name="/fragment.java" timestamp="1570701129401">
         <mark key="[" line="0" column="0" />
       </file>
