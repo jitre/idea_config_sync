@@ -10,7 +10,9 @@
       <file name="/a.dummy" timestamp="1571728900757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1572075119996" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatTemplateController.java" timestamp="1572078745349" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1572078698548" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PromotionDiscountPricingChain.java" timestamp="1572078095396" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1571284418542">
         <mark key="[" line="582" column="35" />
         <mark key="]" line="582" column="35" />
@@ -27,6 +29,7 @@
       <file name="/Class.txt.ft" timestamp="1569055519184">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mini/MiniMgmEngineerController.java" timestamp="1572078677276" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FullCutDiscountPricingChain.java" timestamp="1572075110521" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/inject/InjectPointController.java" timestamp="1572072393472" />
       <file name="/HTML File.txt.ft" timestamp="1569055516993">
