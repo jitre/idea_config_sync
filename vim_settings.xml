@@ -9,14 +9,18 @@
         <mark key="." line="582" column="35" />
         <mark key="^" line="582" column="375" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/point/impl/MallPointServiceImpl.java" timestamp="1572245382844" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1572417515827">
+        <mark key="[" line="282" column="11" />
+        <mark key="]" line="282" column="10" />
+        <mark key="^" line="282" column="10" />
+        <mark key="." line="282" column="10" />
+      </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/point/xquark/xquark-point-core/2.3.3/xquark-point-core-2.3.3.jar!/com/point/xquark/dal/type/PointOperationScene.class" timestamp="1572244752263" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
