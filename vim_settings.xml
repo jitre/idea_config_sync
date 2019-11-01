@@ -21,7 +21,7 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1572597612082" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1572598130306" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
