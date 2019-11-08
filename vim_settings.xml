@@ -26,7 +26,7 @@
         <mark key="^" line="282" column="10" />
         <mark key="." line="282" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1573197689545" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1573200267773" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1573197363602" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/EventType.java" timestamp="1573197200468" />
     </filemarks>
