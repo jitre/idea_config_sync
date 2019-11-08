@@ -14,6 +14,7 @@
         <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/WechatSupport.java" timestamp="1573197393589" />
+      <file name="/ProductMapper.xml" timestamp="1573200483342" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
         <mark key="[" line="582" column="35" />
         <mark key="]" line="582" column="35" />
@@ -26,7 +27,7 @@
         <mark key="^" line="282" column="10" />
         <mark key="." line="282" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1573200267773" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1573200862899" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/wechat/impl/XquarkWechatSupport.java" timestamp="1573197363602" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/wechat/src/main/java/com/xquark/wechat/event/EventType.java" timestamp="1573197200468" />
     </filemarks>
