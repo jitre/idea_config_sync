@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1573207687191">
+      <file name="/Dummy.txt" timestamp="1573210183980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
@@ -12,7 +12,7 @@
         <mark key="." line="582" column="35" />
         <mark key="^" line="582" column="375" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1573207641186">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1573210173014">
         <mark key="[" line="284" column="11" />
         <mark key="]" line="282" column="10" />
         <mark key="^" line="282" column="10" />
@@ -24,10 +24,11 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1573207674335">
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="558" column="0" />
-        <mark key="." line="558" column="0" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1573210139236">
+        <mark key="[" line="554" column="32" />
+        <mark key="]" line="554" column="37" />
+        <mark key="." line="554" column="37" />
+        <mark key="^" line="554" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -54,14 +55,14 @@
       <jump line="223" column="21" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnPG9wdGlvbiB2YWx1ZT0i5YW25LuWIj7lhbbku5Y8L29wdGlvbj4nKwo=</text>
+      <register name="&quot;" type="4">
+        <text>退换货，不保养</text>
       </register>
       <register name="-" type="4">
-        <text>SMS</text>
+        <text>退换货，不保养</text>
       </register>
-      <register name="0" type="4">
-        <text>wechatAESService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnPG9wdGlvbiB2YWx1ZT0i6YCA5o2i6LSn77yM5LiN5L+d5YW7Ij7pgIDmjaLotKfvvIzkuI3kv53lhbs8L29wdGlvbj4nKwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnPG9wdGlvbiB2YWx1ZT0i5YW25LuWIj7lhbbku5Y8L29wdGlvbj4nKwo=</text>
