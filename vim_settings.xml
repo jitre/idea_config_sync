@@ -33,6 +33,8 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_191107.sql" timestamp="1573442511727" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/fulu/FuluClient.java" timestamp="1573442622196" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1573444844913" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/task/InjectPointTaskService.java" timestamp="1573444913788" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1573441147559" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/fulu/MethodConst.java" timestamp="1573441428496" />
     </filemarks>
