@@ -24,12 +24,15 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1573442327130" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1573210139236">
         <mark key="[" line="554" column="32" />
         <mark key="]" line="554" column="37" />
         <mark key="." line="554" column="37" />
         <mark key="^" line="554" column="37" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/docs/update_191107.sql" timestamp="1573442511727" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/fulu/FuluClient.java" timestamp="1573442622196" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1573441147559" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/fulu/MethodConst.java" timestamp="1573441428496" />
     </filemarks>
