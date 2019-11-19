@@ -35,7 +35,7 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1574132945533" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/CategoryMapper.xml" timestamp="1574132531435" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1574133345423">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1574144764228">
         <mark key="[" line="995" column="0" />
         <mark key="]" line="995" column="0" />
         <mark key="^" line="2308" column="42" />
@@ -43,7 +43,7 @@
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/workOrderOperation/unfinishedWorkDetail.js" timestamp="1574129966394" />
       <file name="/OrderServiceImpl.java" timestamp="1574135740016" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1574133573185" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/OrderServiceImpl.java" timestamp="1574144801347" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/myOrder/jsp/orderDetail.jsp" timestamp="1574129780899" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1574133684177" />
     </filemarks>
