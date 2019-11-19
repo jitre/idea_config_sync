@@ -3,8 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1574083428863">
+      <file name="/Dummy.txt" timestamp="1574155359311">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
+        <mark key="[" line="582" column="35" />
+        <mark key="]" line="582" column="35" />
+        <mark key="." line="582" column="35" />
+        <mark key="^" line="582" column="375" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1574155347755">
+        <mark key="[" line="284" column="11" />
+        <mark key="]" line="282" column="10" />
+        <mark key="^" line="282" column="10" />
+        <mark key="." line="282" column="10" />
       </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
@@ -12,32 +24,19 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1574130160774">
-        <mark key="[" line="554" column="32" />
-        <mark key="]" line="554" column="37" />
-        <mark key="." line="554" column="37" />
-        <mark key="^" line="554" column="37" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AbstractGrantEwCard.java" timestamp="1574147696495" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/GrantEwCardTask.java" timestamp="1574147102474" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
-        <mark key="[" line="582" column="35" />
-        <mark key="]" line="582" column="35" />
-        <mark key="." line="582" column="35" />
-        <mark key="^" line="582" column="375" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1574083011060">
-        <mark key="[" line="284" column="11" />
-        <mark key="]" line="282" column="10" />
-        <mark key="^" line="282" column="10" />
-        <mark key="." line="282" column="10" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1574144764228">
         <mark key="[" line="995" column="0" />
         <mark key="]" line="995" column="0" />
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1574130160774">
+        <mark key="[" line="554" column="32" />
+        <mark key="]" line="554" column="37" />
+        <mark key="." line="554" column="37" />
+        <mark key="^" line="554" column="37" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/AbstractGrantEwCard.java" timestamp="1574155322853" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
