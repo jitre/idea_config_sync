@@ -12,7 +12,6 @@
         <mark key="." line="582" column="35" />
         <mark key="^" line="582" column="375" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/GrantEwCardRecordMapper.java" timestamp="1574390849325" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1574155347755">
         <mark key="[" line="284" column="11" />
         <mark key="]" line="282" column="10" />
@@ -37,6 +36,8 @@
         <mark key="." line="554" column="37" />
         <mark key="^" line="554" column="37" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1574583270503" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WeChatCheckUserRegisterController.java" timestamp="1574583413688" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
