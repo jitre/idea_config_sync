@@ -36,8 +36,7 @@
         <mark key="." line="554" column="37" />
         <mark key="^" line="554" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/aop/AwardPointRatioAop.java" timestamp="1574758732405" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1574758696414" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1574772799316" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
@@ -100,7 +99,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>468</text>
+        <text>2762</text>
       </register>
     </registers>
     <search>
@@ -116,6 +115,7 @@
         <entry>471</entry>
         <entry>245</entry>
         <entry>468</entry>
+        <entry>2762</entry>
       </history-cmd>
       <history-expr />
       <history-input />
