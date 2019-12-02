@@ -4,9 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/FilterMapper.xml" timestamp="1575277906923" />
-      <file name="/Dummy.txt" timestamp="1574848883140">
+      <file name="/Dummy.txt" timestamp="1575278872129">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendNoticeRosterTask.java" timestamp="1575278791537" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
@@ -25,6 +26,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="/WechatOrdersController.java" timestamp="1575278462329" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1575277922029" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
         <mark key="[" line="582" column="35" />
@@ -37,7 +39,7 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1574842842773">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1575278833381">
         <mark key="[" line="284" column="11" />
         <mark key="]" line="282" column="10" />
         <mark key="^" line="282" column="10" />
@@ -49,6 +51,7 @@
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/utils/impl/SendNoticeImpl.java" timestamp="1575278724280" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1574844836914">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="286" column="0" />
