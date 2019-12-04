@@ -3,18 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/persistence/mapper/FilterMapper.xml" timestamp="1575277906923" />
-      <file name="/Dummy.txt" timestamp="1575278872129">
+      <file name="/Dummy.txt" timestamp="1575429980647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/SendNoticeRosterTask.java" timestamp="1575278791537" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/servicecenter/ServiceCenterDataController.java" timestamp="1575278100878" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/servicecenter/ServiceCenterDataController.java" timestamp="1575429588733" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1574130160774">
         <mark key="[" line="554" column="32" />
         <mark key="]" line="554" column="37" />
@@ -26,8 +24,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="/WechatOrdersController.java" timestamp="1575278462329" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/mobile/register/scan_QR_code.jsp" timestamp="1575277922029" />
+      <file name="/WechatOrdersController.java" timestamp="1575429842967" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
         <mark key="[" line="582" column="35" />
         <mark key="]" line="582" column="35" />
@@ -39,11 +36,17 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1575278833381">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1575429972756">
         <mark key="[" line="284" column="11" />
         <mark key="]" line="282" column="10" />
         <mark key="^" line="282" column="10" />
         <mark key="." line="282" column="10" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1575429927571">
+        <mark key="[" line="224" column="39" />
+        <mark key="]" line="224" column="41" />
+        <mark key="^" line="224" column="41" />
+        <mark key="." line="224" column="41" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1574144764228">
         <mark key="[" line="995" column="0" />
@@ -51,7 +54,6 @@
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/utils/impl/SendNoticeImpl.java" timestamp="1575278724280" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1574844836914">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="286" column="0" />
@@ -89,13 +91,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvueWPkeaUvuaNouiKr+mAmuefpeeahOeUqOaIt+i/m+ihjOagh+ivhiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>remark</text>
+        <text>properType</text>
       </register>
-      <register name="0" type="4">
-        <text>StringUtils.isNotBlank(title)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvueWPkeaUvuaNouiKr+mAmuefpeeahOeUqOaIt+i/m+ihjOagh+ivhiIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
