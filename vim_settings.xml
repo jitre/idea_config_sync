@@ -24,6 +24,7 @@
         <mark key="." line="152" column="0" />
       </file>
       <file name="/ProductServiceImpl.java" timestamp="1575568348008" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/cart/impl/CartServiceImpl.java" timestamp="1575572290276" />
       <file name="/ProductMapper.xml" timestamp="1575568354014" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1575559969904" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
@@ -63,7 +64,7 @@
         <mark key="^" line="274" column="29" />
         <mark key="." line="286" column="0" />
       </file>
-      <file name="/spring-security-context.xml" timestamp="1575569599405" />
+      <file name="/spring-security-context.xml" timestamp="1575572911713" />
       <file name="/fragment.java" timestamp="1574844726271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,7 +131,7 @@
         <text encoding="base64">CQlsaW1pdCAwLDEK</text>
       </register>
       <register name=":" type="4">
-        <text>2951</text>
+        <text>558</text>
       </register>
     </registers>
     <search>
@@ -148,6 +149,7 @@
         <entry>468</entry>
         <entry>2762</entry>
         <entry>2951</entry>
+        <entry>558</entry>
       </history-cmd>
       <history-expr />
       <history-input />
