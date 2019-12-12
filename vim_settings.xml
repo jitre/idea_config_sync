@@ -4,10 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MerchantMapper.xml" timestamp="1576130103545" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576129805900">
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
+        <mark key="[" line="392" column="118" />
+        <mark key="]" line="392" column="118" />
+        <mark key="." line="392" column="118" />
+        <mark key="^" line="392" column="118" />
       </file>
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
@@ -26,7 +27,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576128317285">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576132655936">
         <mark key="[" line="672" column="0" />
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
@@ -43,9 +44,8 @@
         <mark key="^" line="282" column="10" />
         <mark key="." line="282" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132176284" />
-      <file name="/Dummy.txt" timestamp="1576130883972">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
+        <mark key="[" line="395" column="39" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
@@ -94,9 +94,6 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/MainOrderServiceImpl.java" timestamp="1576130490844">
         <mark key="[" line="700" column="56" />
-      </file>
-      <file name="/fragment.java" timestamp="1574844726271">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
