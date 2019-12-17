@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/weixin/WechatMsgAction.java" timestamp="1576573506746" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
@@ -43,11 +42,11 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1572161573873">
-        <mark key="[" line="582" column="35" />
-        <mark key="]" line="582" column="35" />
-        <mark key="." line="582" column="35" />
-        <mark key="^" line="582" column="375" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1576587231548">
+        <mark key="[" line="400" column="71" />
+        <mark key="]" line="400" column="71" />
+        <mark key="^" line="400" column="67" />
+        <mark key="." line="400" column="71" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1575551448011">
         <mark key="[" line="203" column="11" />
@@ -66,8 +65,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
         <mark key="[" line="395" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WeiXinWerviceImpl.java" timestamp="1576573758641" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/constants/RedisKeyConstants.java" timestamp="1576573652983" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1576573523330">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="286" column="0" />
@@ -116,13 +113,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ydyh_status</text>
+        <text>会员注册</text>
       </register>
       <register name="-" type="4">
-        <text>ydyh_status</text>
+        <text>会员注册</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvueWPkeaUvuaNouiKr+mAmuefpeeahOeUqOaIt+i/m+ihjOagh+ivhiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoIueCueWHuzxhIGhyZWY9J2h0dHA6Ly93d3cucWlueXVhbi5jbicgZGF0YS1taW5pcHJvZ3JhbS1hcHBpZD0nIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobWluaWFwcEFwcGlkKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiJyBkYXRhLW1pbmlwcm9ncmFtLXBhdGg9J3BhZ2VzL3ByZV9yZWdpc3Rlcj9mcm9tV2VjaGF0U2VydmljZT0xJz7jgJDkvJrlkZjms6jlhozjgJE8L2E+IikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIueVheS6q+WcqOe6v+S8muWRmOadg+ebiiDlsIrkuqvkuJPlsZ7np6/liIbnpo/liKlcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJcbiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkocHJvbW90aW9ucykpIHsKICAgICAgICAgICAgcHJvbW90aW9ucyA9IGZ1bGxDdXRNYXBwZXIuc2VsZWN0Q2FuVXNlUHJvbW90aW9uKHByb2R1Y3RJZCwgdXNlclNjb3BlLCBudWxsKTsKICAgICAgICB9Cg==</text>
