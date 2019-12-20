@@ -3,27 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1576730528164">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
         <mark key="." line="392" column="118" />
         <mark key="^" line="392" column="118" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/java/com/xquark/web/crm/CrmController.java" timestamp="1576836165829" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="26" column="34" />
-        <mark key="^" line="26" column="34" />
-        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/webapp/resources/src/js/common.js" timestamp="1574130160774">
         <mark key="[" line="554" column="32" />
@@ -36,7 +26,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmNotificationServiceImpl.java" timestamp="1576836296797" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/point/NotifyGrantPointTask.java" timestamp="1576847526861" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576132655936">
         <mark key="[" line="672" column="0" />
         <mark key="]" line="672" column="0" />
@@ -47,13 +37,29 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/mgm/MgmPromotionJob.java" timestamp="1576847405162" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1576730514879">
+        <mark key="[" line="298" column="11" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
+        <mark key="[" line="395" column="39" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/resources/logback.xml" timestamp="1576847303757" />
+      <file name="/Dummy.txt" timestamp="1576730528164">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/target/classes/com/xquark/task/point/NotifyGrantPointTask.class" timestamp="1576847600837" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/resources/logback.xml" timestamp="1576847289444" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1576730464548">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
         <mark key="." line="398" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1576730514879">
-        <mark key="[" line="298" column="11" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1575550961654">
         <mark key="[" line="64" column="0" />
@@ -65,9 +71,6 @@
         <mark key="]" line="995" column="0" />
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
-        <mark key="[" line="395" column="39" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1576573523330">
         <mark key="'" line="34" column="13" />
