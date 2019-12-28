@@ -35,13 +35,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/ProductController.java" timestamp="1577431442112" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/restapi/src/main/java/com/xquark/restapi/crm/CrmExamScoreController.java" timestamp="1577516657558" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576132655936">
         <mark key="[" line="672" column="0" />
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1577431448639" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1574844822074">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -52,6 +51,7 @@
         <mark key="]" line="398" column="0" />
         <mark key="." line="398" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/service/src/main/java/com/xquark/service/crm/impl/CrmExamScoreServiceImpl.java" timestamp="1577516432564" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1577345644360">
         <mark key="[" line="298" column="11" />
       </file>
@@ -66,6 +66,7 @@
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmExamScoreMapper.xml" timestamp="1577516713302" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
         <mark key="[" line="395" column="39" />
       </file>
