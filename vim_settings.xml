@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1577084413909">
+      <file name="/Dummy.txt" timestamp="1577703771885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
@@ -41,7 +41,13 @@
         <mark key="." line="672" column="0" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/java/com/xquark/web/error/CustomErrorController.java" timestamp="1577701796830" />
-      <file name="$USER_HOME$/Project/mall-platform4sale/wechat/src/main/java/jsp/weixin/oauth2/util/GOauth2Core.java" timestamp="1577701933161" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/wechat/src/main/java/jsp/weixin/oauth2/util/GOauth2Core.java" timestamp="1577702362840" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1577703743247">
+        <mark key="[" line="136" column="98" />
+        <mark key="]" line="136" column="134" />
+        <mark key="^" line="136" column="97" />
+        <mark key="." line="136" column="98" />
+      </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1574844822074">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -90,6 +96,9 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/MainOrderServiceImpl.java" timestamp="1576130490844">
         <mark key="[" line="700" column="56" />
       </file>
+      <file name="/fragment.java" timestamp="1577703157622">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
@@ -116,14 +125,14 @@
       <jump line="34" column="13" filename="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoIueCueWHuzxhIGhyZWY9J2h0dHA6Ly93d3cucWlueXVhbi5jbicgZGF0YS1taW5pcHJvZ3JhbS1hcHBpZD0nIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobWluaWFwcEFwcGlkKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiJyBkYXRhLW1pbmlwcm9ncmFtLXBhdGg9J3BhZ2VzL3dlYl9teWludml0ZSc+44CQ6YKA6K+36LSt5Lmw6L+U546w6YeR44CRPC9hPiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCLnq4vljbPlj4LkuI7pmZDml7bmtLvliqjvvIzmjqjojZDkurLlj4votK3kubDmiJDlip/vvIzljbPlj6/ojrflvpfnjrDph5HnuqLljIVcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJcbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>url.indexOf(&quot;/crm/qiye/exam/&quot;) != -1</text>
       </register>
       <register name="-" type="4">
         <text>会员注册</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoIueCueWHuzxhIGhyZWY9J2h0dHA6Ly93d3cucWlueXVhbi5jbicgZGF0YS1taW5pcHJvZ3JhbS1hcHBpZD0nIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobWluaWFwcEFwcGlkKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiJyBkYXRhLW1pbmlwcm9ncmFtLXBhdGg9J3BhZ2VzL3ByZV9yZWdpc3Rlcj9mcm9tV2VjaGF0U2VydmljZT0xJz7jgJDkvJrlkZjms6jlhozjgJE8L2E+IikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIueVheS6q+WcqOe6v+S8muWRmOadg+ebiiDlsIrkuqvkuJPlsZ7np6/liIbnpo/liKlcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJcbiIpCg==</text>
+      <register name="0" type="4">
+        <text>url.indexOf(&quot;/crm/qiye/exam/&quot;) != -1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoIueCueWHuzxhIGhyZWY9J2h0dHA6Ly93d3cucWlueXVhbi5jbicgZGF0YS1taW5pcHJvZ3JhbS1hcHBpZD0nIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobWluaWFwcEFwcGlkKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiJyBkYXRhLW1pbmlwcm9ncmFtLXBhdGg9J3BhZ2VzL3dlYl9teWludml0ZSc+44CQ6YKA6K+36LSt5Lmw6L+U546w6YeR44CRPC9hPiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCLnq4vljbPlj4LkuI7pmZDml7bmtLvliqjvvIzmjqjojZDkurLlj4votK3kubDmiJDlip/vvIzljbPlj6/ojrflvpfnjrDph5HnuqLljIVcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJcbiIpCg==</text>
