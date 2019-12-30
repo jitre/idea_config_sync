@@ -35,12 +35,13 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/mgm/MgmActivityController.java" timestamp="1577676602635" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576132655936">
         <mark key="[" line="672" column="0" />
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform4sale/wechat/src/main/java/jsp/weixin/oauth2/util/GOauth2Core.java" timestamp="1577697494226" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1577697570437" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1574844822074">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
