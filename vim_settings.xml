@@ -31,7 +31,6 @@
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/OrderController.java" timestamp="1578127483432" />
       <file name="$USER_HOME$/Project/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1577796596101">
         <mark key="[" line="136" column="98" />
         <mark key="]" line="136" column="134" />
@@ -61,10 +60,10 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
         <mark key="[" line="395" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/product/impl/ProductServiceImpl.java" timestamp="1578122806319" />
       <file name="/Dummy.txt" timestamp="1577807367512">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1578536853078" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="26" column="34" />
@@ -108,7 +107,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/MainOrderServiceImpl.java" timestamp="1576130490844">
         <mark key="[" line="700" column="56" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1578121375874" />
       <file name="/fragment.java" timestamp="1577795398670">
         <mark key="[" line="0" column="0" />
       </file>
