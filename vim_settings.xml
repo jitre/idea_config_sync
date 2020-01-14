@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/task/src/main/java/com/xquark/task/point/NotifyPointRecordTask.java" timestamp="1578897716823" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
@@ -32,7 +31,6 @@
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service-common/src/main/java/com/xquark/service/http/SCrmHttpUtils.java" timestamp="1578898123558" />
       <file name="$USER_HOME$/Project/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1577796596101">
         <mark key="[" line="136" column="98" />
         <mark key="]" line="136" column="134" />
@@ -65,6 +63,7 @@
       <file name="/Dummy.txt" timestamp="1577807367512">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/mgm/impl/MgmActivityServiceImpl.java" timestamp="1578988495512" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="26" column="34" />
@@ -111,6 +110,7 @@
       <file name="/fragment.java" timestamp="1577795398670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/wechat/WechatController.java" timestamp="1578988445710" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
@@ -174,7 +174,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIG5vdEJsYW5rID0gU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhjaGFubmVsKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>558</text>
+        <text>436</text>
       </register>
     </registers>
     <search>
@@ -193,6 +193,8 @@
         <entry>2762</entry>
         <entry>2951</entry>
         <entry>558</entry>
+        <entry>486</entry>
+        <entry>436</entry>
       </history-cmd>
       <history-expr />
       <history-input />
