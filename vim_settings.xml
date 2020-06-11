@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/ThirdPartyService.java" timestamp="1591844130278" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
@@ -21,7 +22,7 @@
         <mark key="." line="554" column="37" />
         <mark key="^" line="554" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1574842824057">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1591844020259">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
@@ -51,7 +52,6 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1579416833045" />
       <file name="$USER_HOME$/Project/mall-platform4sale/dal/src/main/resources/com/xquark/dal/mapper/CrmExamScoreMapper.xml" timestamp="1577807355634">
         <mark key="[" line="192" column="13" />
         <mark key="]" line="193" column="9" />
@@ -61,9 +61,19 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/PromotionFullCutMapper.xml" timestamp="1576132988611">
         <mark key="[" line="395" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1577807367512">
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1591843589626">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="70" column="17" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="/WechatFansMapper.xml" timestamp="1591843585423">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="70" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591843618368">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1591844189269" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="26" column="34" />
@@ -86,7 +96,7 @@
         <mark key="^" line="2308" column="42" />
         <mark key="." line="995" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/FullCutDiscountPricingChain.java" timestamp="1579417877995" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/utils/IotHttpUtils.java" timestamp="1591844092780" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatTemplateServiceImpl.java" timestamp="1577345731454">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="286" column="0" />
@@ -108,7 +118,6 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/order/impl/MainOrderServiceImpl.java" timestamp="1576130490844">
         <mark key="[" line="700" column="56" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/pricing/impl/pricing/impl/PointDiscountPricingChain.java" timestamp="1579419203530" />
       <file name="/fragment.java" timestamp="1577795398670">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,13 +148,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPUkRFUiBCWSBzYy5zY29yZSBERVNDCiAgICAgICAgPGlmIHRlc3Q9InBhcmFtcy5wYWdlICE9IG51bGwiPgogICAgICAgICAgICBMSU1JVCAje3BhcmFtcy5wYWdlLm9mZnNldH0sICN7cGFyYW1zLnBhZ2Uuc2l6ZX0KICAgICAgICA8L2lmPgogICAgICAgICl0Cg==</text>
+        <text encoding="base64">CQkJPGlmIHRlc3Q9ImZvbGxvd0F0ICE9IG51bGwiPgoJCQkJZm9sbG93X2F0ID0gI3tmb2xsb3dBdH0sCgkJCTwvaWY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>会员注册</text>
       </register>
-      <register name="0" type="4">
-        <text>url.indexOf(&quot;/crm/qiye/exam/&quot;) != -1</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJPGlmIHRlc3Q9ImZvbGxvd0F0ICE9IG51bGwiPgoJCQkJZm9sbG93X2F0ID0gI3tmb2xsb3dBdH0sCgkJCTwvaWY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBPUkRFUiBCWSBzYy5zY29yZSBERVNDCiAgICAgICAgPGlmIHRlc3Q9InBhcmFtcy5wYWdlICE9IG51bGwiPgogICAgICAgICAgICBMSU1JVCAje3BhcmFtcy5wYWdlLm9mZnNldH0sICN7cGFyYW1zLnBhZ2Uuc2l6ZX0KICAgICAgICA8L2lmPgogICAgICAgICl0Cg==</text>
