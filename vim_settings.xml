@@ -3,15 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/iot/task/UserInfoAndProductTask.java" timestamp="1591845544850" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/iot/task/FilterInfoTask.java" timestamp="1591845624182" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
         <mark key="." line="392" column="118" />
         <mark key="^" line="392" column="118" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/IotFilterInfoService.java" timestamp="1591844981907" />
       <file name="$USER_HOME$/Project/qinyuan-point-core/pom.xml" timestamp="1572244815109">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
@@ -45,8 +42,8 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1577345644360">
-        <mark key="[" line="298" column="11" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" timestamp="1591868388547">
+        <mark key="[" line="317" column="9" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/web/src/main/webapp/WEB-INF/views/crm/exam/score.html" timestamp="1577803996061">
         <mark key="[" line="96" column="0" />
@@ -72,19 +69,12 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="70" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591843618368">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/iot/task/FilterOverdueReminderTask.java" timestamp="1591845717647" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/IotFilerInfoMapper.xml" timestamp="1591845888040" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="26" column="34" />
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/ProductServiceImpl.java" timestamp="1591845072051" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/iot/task/FilerSoonExpireReminderTask.java" timestamp="1591845787232" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1577084166114">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
