@@ -86,6 +86,7 @@
         <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/fulu/VirtualOrderController.java" timestamp="1591932068616" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/product/ProductController.java" timestamp="1591944050402" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1577084166114">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
@@ -96,7 +97,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1574144764228">
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductMapper.xml" timestamp="1591944698827">
         <mark key="[" line="995" column="0" />
         <mark key="]" line="995" column="0" />
         <mark key="^" line="2308" column="42" />
