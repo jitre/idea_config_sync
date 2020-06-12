@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/schedule/iot/task/UserInfoAndProductTask.java" timestamp="1591926680046" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/fullReduce/fullCut/impl/PromotionFullCutServiceImpl.java" timestamp="1576133242534">
         <mark key="[" line="392" column="118" />
         <mark key="]" line="392" column="118" />
@@ -32,6 +31,7 @@
         <mark key="]" line="672" column="0" />
         <mark key="." line="672" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/FuluOrderService.java" timestamp="1591931720390" />
       <file name="$USER_HOME$/Project/mall-platform4sale/biz/src/main/java/com/xquark/biz/filter/UserServletFilter.java" timestamp="1577796596101">
         <mark key="[" line="136" column="98" />
         <mark key="]" line="136" column="134" />
@@ -79,13 +79,13 @@
       <file name="/Dummy.txt" timestamp="1591872511998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1591926732992" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/mapper/MarketActiveMapper.java" timestamp="1576130322124">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="26" column="34" />
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/openapi/fulu/VirtualOrderController.java" timestamp="1591932068616" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1577084166114">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
@@ -119,6 +119,7 @@
       <file name="/fragment.java" timestamp="1577795398670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/impl/FuluOrderServiceImpl.java" timestamp="1591931875296" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
