@@ -3,60 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/chain/TimeDimensionPrizeCalculateChain.java" timestamp="1592127748700" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/entry/PrizeCalculateEntryPoint.java" timestamp="1592127994797" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/development/application.properties" timestamp="1591844020259">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/category/CategoryController.java" timestamp="1576132655936">
-        <mark key="[" line="672" column="0" />
-        <mark key="]" line="672" column="0" />
-        <mark key="." line="672" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/redis/RedisHelper.java" timestamp="1592126581146" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/chain/AbstractPrizeCalculateChain.java" timestamp="1592127826591" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WechatTemplateService.java" timestamp="1574844822074">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/prize/PrizeRecordMapper.xml" timestamp="1592126811113" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/impl/PrizeServiceImpl.java" timestamp="1592128053074" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/holder/TimeDimensionPrizeHolder.java" timestamp="1592127676698" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/persistence/mapper/WechatFansMapper.xml" timestamp="1591843589626">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="70" column="17" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/prize/PrizeShareLinkMapper.xml" timestamp="1592126449522" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/prize/PrizeController.java" timestamp="1592127291832" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/FuluOrderStatus.java" timestamp="1592128178066" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/WeChatMessageProcessingHandler.java" timestamp="1591949329328">
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/prize/UserPrizeController.java" timestamp="1592126846296" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/chain/ChanceDimensionPrizeCalculateChain.java" timestamp="1592127928776" />
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatOrdersController.java" timestamp="1575550961654">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1592125948588" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/impl/PrizeShareLinkServiceImpl.java" timestamp="1592126470561" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/dispatch/impl/ServiceAreaServiceImpl.java" timestamp="1579427176371">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/impl/FuluOrderServiceImpl.java" timestamp="1592128231368" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/prize/PrizeActivityConfigMapper.xml" timestamp="1592125731314" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/FuluClientImpl.java" timestamp="1592128104187" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/thirdservice/fulu/FuluClient.java" timestamp="1592127170093" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/prize/cal/chain/PrizeCalculateChain.java" timestamp="1592127818429" />
+      <file name="$USER_HOME$/OneDrive/TEMP/0603-积分抽奖/rest-api2.http" timestamp="1592145573759" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
