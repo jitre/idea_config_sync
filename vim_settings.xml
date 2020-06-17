@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallLogistics.html" timestamp="1592373070149" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1592377683699" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
