@@ -10,6 +10,7 @@
       <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/Merchant.java" timestamp="1592462204415" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/merchant/impl/MerchantServiceImpl.java" timestamp="1592462452693" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/layout/newMainPage.html" timestamp="1592462598197" />
+      <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/java/com/xquark/web/BaseControllerAdvice.java" timestamp="1592462987721" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
