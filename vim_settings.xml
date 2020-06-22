@@ -3,12 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/MerchantMapper.xml" timestamp="1592462229416" />
       <file name="/Dummy.txt" timestamp="1592464319076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/mallOrder.html" timestamp="1592461924268" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/service/merchant/impl/MerchantServiceImpl.java" timestamp="1592462452693" />
       <file name="$USER_HOME$/Project/mall-platform4sale/frontend/pc/src/main/java/com/xquark/web/BaseControllerAdvice.java" timestamp="1592463689956">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="33" />
@@ -18,14 +15,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/org/orgList.html" timestamp="1592466080288" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/mall/MallController.java" timestamp="1592462176086" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/service/src/main/java/com/xquark/cache/ModuleCache.java" timestamp="1592465885960" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/fragments/sideBar.html" timestamp="1592466047050" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/merchant/merchantRole.html" timestamp="1592466234291" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/model/Merchant.java" timestamp="1592462204415" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/layout/newMainPage.html" timestamp="1592462598197" />
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/module/moduleManage.html" timestamp="1592468036096" />
+      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/module/moduleManage.html" timestamp="1592791852016" />
     </filemarks>
     <jumps>
       <jump line="249" column="25" filename="$USER_HOME$/Project/scrmapp/scrmapp-webapp/src/main/resources/production/application.properties" />
