@@ -5,13 +5,13 @@
     <filemarks>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/memberPromotion.html" timestamp="1593395057769" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/center/commonTip.html" timestamp="1593395168934" />
-      <file name="/sideBar.html" timestamp="1593396166832" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/center/commonQuestion.html" timestamp="1593395115531" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/java/com/xquark/web/BaseController.java" timestamp="1592465859202">
         <mark key="[" line="84" column="5" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/constants/PointConstant.java" timestamp="1593398576675" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-pay/src/main/java/com/xquark/service/user/UserService.java" timestamp="1593314472859">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -19,6 +19,8 @@
       </file>
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/products/productTop.html" timestamp="1593394830343" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/pc/src/main/webapp/WEB-INF/views/mall/carouselList.html" timestamp="1593394756968" />
+      <file name="/sideBar.html" timestamp="1593396166832" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1593398862036" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-pay/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1593314462555">
         <mark key="[" line="311" column="0" />
         <mark key="]" line="311" column="0" />
