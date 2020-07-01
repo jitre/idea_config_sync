@@ -34,12 +34,13 @@
         <mark key="^" line="927" column="167" />
         <mark key="." line="927" column="167" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/GrantPointServiceImpl.java" timestamp="1593584286029" />
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1593592364623" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1593587037270">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="91" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/bean/pojo/DispatchDotParam.java" timestamp="1593592384755" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/service-pay/src/main/java/com/xquark/service/user/impl/UserServiceImpl.java" timestamp="1593314462555">
         <mark key="[" line="311" column="0" />
         <mark key="]" line="311" column="0" />
