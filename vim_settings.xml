@@ -3,10 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593587166872">
+      <file name="/Dummy.txt" timestamp="1593683319281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-common/src/main/java/com/ziwow/scrmapp/common/service/impl/ThirdPartyServiceImpl.java" timestamp="1593671306490" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/RetreatAcceptOrderController.java" timestamp="1593401464106">
         <mark key="[" line="132" column="26" />
         <mark key="]" line="132" column="27" />
@@ -34,6 +33,11 @@
         <mark key="]" line="927" column="167" />
         <mark key="^" line="927" column="167" />
         <mark key="." line="927" column="167" />
+      </file>
+      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/controller/WechatController.java" timestamp="1593683289905">
+        <mark key="[" line="636" column="54" />
+        <mark key="]" line="636" column="59" />
+        <mark key="." line="636" column="0" />
       </file>
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1593587037270">
         <mark key="[" line="59" column="0" />
@@ -87,13 +91,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgc2RmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoT3JkZXJQYXJhbS5zZXRGaW5pc2hOdW1iZXIoIumCruWvhOWujOW3pSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getProductName(form.getOrdersCode())</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgc2RmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoT3JkZXJQYXJhbS5zZXRGaW5pc2hOdW1iZXIoIumCruWvhOWujOW3pSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFNpbXBsZURhdGVGb3JtYXQK</text>
