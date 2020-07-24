@@ -6,6 +6,7 @@
       <file name="/Dummy.txt" timestamp="1593683319281">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/resources/com/xquark/dal/mapper/ProductUserMapper.xml" timestamp="1595557620844" />
       <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/order/RetreatAcceptOrderController.java" timestamp="1593401464106">
         <mark key="[" line="132" column="26" />
         <mark key="]" line="132" column="27" />
@@ -61,7 +62,6 @@
         <mark key="." line="74" column="97" />
         <mark key="^" line="74" column="97" />
       </file>
-      <file name="$USER_HOME$/Project/scrmapp/scrmapp-wechat/src/main/java/com/ziwow/scrmapp/wechat/service/impl/WechatFansServiceImpl.java" timestamp="1595325663608" />
       <file name="/fragment.java" timestamp="1593584178247">
         <mark key="[" line="0" column="0" />
       </file>
