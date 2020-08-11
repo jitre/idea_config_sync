@@ -61,7 +61,6 @@
         <mark key="]" line="636" column="59" />
         <mark key="." line="636" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/mall-platform-qysc/frontend/restapi/src/main/java/com/xquark/restapi/user/UserController.java" timestamp="1596699392853" />
       <file name="$USER_HOME$/Project/scrmapp/scrmapp-qyh/src/main/java/com/ziwow/scrmapp/qyh/controller/QyhUserController.java" timestamp="1593587037270">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="91" />
@@ -84,6 +83,7 @@
         <mark key="." line="74" column="97" />
         <mark key="^" line="74" column="97" />
       </file>
+      <file name="$USER_HOME$/Project/mall-platform-qysc/dal/src/main/java/com/xquark/dal/vo/OrderVO.java" timestamp="1597113638494" />
       <file name="/fragment.java" timestamp="1593584178247">
         <mark key="[" line="0" column="0" />
       </file>
